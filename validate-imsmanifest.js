@@ -1,7 +1,7 @@
 /* eslint-disable no-console */
 /**
  * # Setup
- * $ npm install
+ * $ npm install --save-dev lodash fs xml2js eyes
  *
  * # Run in Terminal
  * $ node validate-imsmanifest.js {path-to-package-dir}
