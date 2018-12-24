@@ -15,6 +15,9 @@ Add --fix to auto fix encoded-tag and force-close-tag
 
 # Example
 ```
+// MacOS
 $ node validate-imsmanifest.js ~/Downloads/MEDED_UKBasicScience_v24_1111222222222_MedEd
 $ node validate-imsmanifest.js ~/Downloads/MEDED_UKClinicalMedicine_v42_1111333333333_MedEd
+// Windows
+$ node validate-imsmanifest.js %USERPROFILE%\\Downloads\\MEDED_UKClinicalMedicine_v42_1111333333333_MedEd
 ```
