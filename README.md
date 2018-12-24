@@ -11,7 +11,7 @@ $ npm install --save-dev lodash fs xml2js eyes
 $ node validate-imsmanifest.js {path-to-package-dir}
 ```
 
-# Add --fix to auto fix encoded-tag and force-close-tag
+Add --fix to auto fix encoded-tag and force-close-tag
 
 # Example
 ```
