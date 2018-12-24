@@ -1,0 +1,36 @@
+{
+    "UK Basic Sciences - Systems": [
+        "Cardiovascular system",
+        "Endocrine system",
+        "Gastrointestinal system",
+        "Haematological system",
+        "Immune system",
+        "Musculoskeletal system",
+        "Nervous system",
+        "Psychological system",
+        "Renal/Urinary system",
+        "Reproductive system",
+        "Respiratory system",
+        "Skin/Cancer tissue"
+    ],
+    "UK Basic Sciences - Disciplines": [
+        "Anatomy",
+        "Biochemistry",
+        "Cell biology",
+        "Embryology",
+        "Energy metabolism",
+        "Epidemiology",
+        "Genetics",
+        "Histology",
+        "Immunology",
+        "Microbiology",
+        "Molecular biology",
+        "Neurology",
+        "Nutrition",
+        "Pathology",
+        "Pathophysiology",
+        "Pharmacology/Therapeutics",
+        "Physiology",
+        "Public health"
+    ]
+}

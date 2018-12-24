@@ -1,0 +1,49 @@
+{
+    "UK Clinical Medicine - Competencies": [
+        "Communication Skills",
+        "Ethics",
+        "Interpretation of Results",
+        "Investigation",
+        "Making a Diagnosis/decision",
+        "Management",
+        "Mechanisms of Disease",
+        "Peri-Operative Care",
+        "Prevention",
+        "Prognosis",
+        "Symptoms and Signs"
+    ],
+    "UK Clinical Medicine - Specialties": [
+        "Anaesthetics",
+        "Dermatology",
+        "Emergency Medicine",
+        "Endocrinology",
+        "ENT",
+        "Gastroenterology",
+        "General Medicine",
+        "Haematology",
+        "Infectious Diseases",
+        "Molecular Biology/Genetics",
+        "Obstetrics and Gynaecology",
+        "Ophthalmology",
+        "Orthopaedics",
+        "Paediatrics",
+        "Pathology/Immunology",
+        "Psychiatry",
+        "Rheumatology",
+        "Surgery"
+    ],
+    "UK Clinical Medicine - Systems": [
+        "Cardiovascular system",
+        "Endocrine system",
+        "Gastrointestinal system",
+        "Haematological system",
+        "Immune system",
+        "Musculoskeletal system",
+        "Nervous system",
+        "Psychological system",
+        "Renal/Urinary system",
+        "Reproductive system",
+        "Respiratory system",
+        "Skin/Cancer tissue"
+    ]
+}
