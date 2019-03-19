@@ -1,0 +1,30 @@
+{
+    "IND Basic Sciences - Systems": [
+        "Basic sciences application in clinical context",
+        "Cardiovascular system",
+        "Endocrine system",
+        "Energy metabolism",
+        "Gastrointestinal system",
+        "General",
+        "Haematological system",
+        "Immune system",
+        "Knowledge",
+        "Musculoskeletal system",
+        "Nervous system",
+        "Psychological system",
+        "Renal/Urinary system",
+        "Reproductive system",
+        "Respiratory system",
+        "Skin/Cancer Tissue"
+    ],
+    "IND Basic Sciences - Disciplines": [
+        "Anatomy",
+        "Biochemistry",
+        "Community Medicine",
+        "Forensic Medicine",
+        "Microbiology",
+        "Pathology",
+        "Pharmacology/Toxicology",
+        "Physiology"
+    ]
+}

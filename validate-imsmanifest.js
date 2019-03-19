@@ -9,9 +9,19 @@
  * # Add --fix to auto fix encoded-tag and force-close-tag
  *
  * # Example
- * $ node validate-imsmanifest.js ~/Downloads/MEDED_UKBasicScience_v38_1111222222222_MedEd
- * $ node validate-imsmanifest.js ~/Downloads/MEDED_UKClinicalMedicine_v52_1111333333333_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_UKBasicScience_v44_1111222222222_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_UKClinicalMedicine_v58_1111333333333_MedEd
  *
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_ANZBasicScience_v6_1111777777771_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_ANZClinicalMedicine_v5_1111777777772_MedEd
+ *
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_MedEdSample_v18_1111123456789_MedEd
+ *
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_INDBasicScience_v2_1111888888881_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_INDClinicalMedicine_v3_1111888888882_MedEd
+ *
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_USMLEStep1_v26_1111444444441_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_USMLEStep2_v23_1111444444442_MedEd
  * #
  */
 const _ = require('lodash');
@@ -39,10 +49,10 @@ const pathToPackageDir = args[0];
 config.autoFixIssue = args.indexOf('--fix') > -1;
 
 const packageName = pathToPackageDir.match(/MEDED_.+?_MedEd$/)[0];
-const isbn = packageName.match(/\d{13}/)[0];
+const ISBN = packageName.match(/\d{13}/)[0];
 console.log('--START Validating...')
 console.log('Package', packageName);
-console.log('ISBN', isbn);
+console.log('ISBN', ISBN);
 console.log('--')
 
 const listQuestionIds = [];
@@ -55,14 +65,47 @@ const formatArrayToTxt = (arr) => {
     return `${arr.map(item => `"${item}"`).join(',\n')}`;
 };
 
-const fileExistsWithCaseSync = (filePath) => {
-    var dir = path.dirname(filePath);
-    if (dir === '/' || dir === '.') return true;
-    var filenames = fs.readdirSync(dir);
-    if (filenames.indexOf(path.basename(filePath)) === -1) {
+const isFileExistsWithCaseSync = (filePath) => {
+    try {
+        var dir = path.dirname(filePath);
+        if (dir === '/' || dir === '.') return true;
+        var filenames = fs.readdirSync(dir);
+        if (filenames.indexOf(path.basename(filePath)) === -1) {
+            return false;
+        }
+    }
+    catch (ex) {
+        console.log(filePath, ex);
         return false;
     }
-    return fileExistsWithCaseSync(dir);
+    return isFileExistsWithCaseSync(dir);
+}
+
+const saveJSON = (arrData, desc) => {
+    const fileName = `${ISBN}_${desc.toLowerCase().replace(new RegExp(/(\s|-)/, 'gm'), '_')}.json`;
+    console.log('--');
+    console.log(`[${desc}]`, arrData.length, arrData.length > 10 ? fileName : arrData);
+    if (arrData.length > 10) {
+        fs.writeFile(fileName, formatArrayToJsonString(arrData), function (err) {
+            if (err) console.error(err);
+        })
+    }
+}
+
+const saveXML = (jsonData, fileName) => {
+    fileName = `${ISBN}_${fileName.toLowerCase().replace(new RegExp(/(\s|-)/, 'gm'), '_')}.xml`;
+    const builder = new xml2js.Builder({
+        renderOpts: {
+            'pretty': true,
+            'indent': ' ',
+            'newline': '\n',
+            allowEmpty: true
+        }
+    });
+    const xmlData = builder.buildObject(jsonData);
+    fs.writeFile(fileName, xmlData, function (err, dataXML) {
+        if (err) console.error(err);
+    })
 }
 
 fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsManifestXML) {
@@ -73,7 +116,7 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
         .replace(new RegExp('\>\>', 'gm'), '>')
         .replace(new RegExp('imsmd\:', 'gm'), '')
         .replace(new RegExp('imsqti\:', 'gm'), '');
-    fs.readFile(`${isbn}_taxonomies.json`, 'utf8', function (err, taxonomiesData) {
+    fs.readFile(`${ISBN}_taxonomies.json`, 'utf8', function (err, taxonomiesData) {
         if (err) throw err;
         // normalize taxonomies
         taxonomiesData = JSON.parse(taxonomiesData);
@@ -181,19 +224,19 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
             const invalidQuestions = invalid.map(item => { return item.$.identifier });
             console.log('invalidQuestions', invalidQuestions.length, invalidQuestions);
             console.log('--');
-            const duplicatedQuestions = _(listQuestionIds).groupBy().pickBy(x => x.length > 1).keys().value();
-            console.log('duplicatedQuestions', duplicatedQuestions.length, duplicatedQuestions.length > 10 ? `${isbn}_duplicated.json` : duplicatedQuestions);
+            const duplicatedQuestions = _(listQuestionIds.map(q => q.toLowerCase())).groupBy().pickBy(x => x.length > 1).keys().value();
+            console.log('duplicatedQuestions', duplicatedQuestions.length, duplicatedQuestions.length > 10 ? `${ISBN}_duplicated.json` : duplicatedQuestions);
             if (duplicatedQuestions.length > 10) {
-                fs.writeFile(`${isbn}_duplicated.json`, formatArrayToJsonString(duplicatedQuestions), function (err) {
+                fs.writeFile(`${ISBN}_duplicated.json`, formatArrayToJsonString(duplicatedQuestions), function (err) {
                     if (err) console.log(err);
                 })
             }
 
             console.log('--');
             const longQuestionIds = listQuestionIds.filter(item => item.length > 50);
-            console.log('longQuestionIds', longQuestionIds.length, longQuestionIds.length > 10 ? `${isbn}_long_ids.json` : longQuestionIds);
+            console.log('longQuestionIds', longQuestionIds.length, longQuestionIds.length > 10 ? `${ISBN}_long_ids.json` : longQuestionIds);
             if (longQuestionIds.length > 10) {
-                fs.writeFile(`${isbn}_long_ids.json`, formatArrayToJsonString(longQuestionIds), function (err) {
+                fs.writeFile(`${ISBN}_long_ids.json`, formatArrayToJsonString(longQuestionIds), function (err) {
                     if (err) console.log(err);
                 })
             }
@@ -286,7 +329,7 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
                                 let imgName = imgSources[1];
                                 let imgPath = `${pathToPackageDir}/${imgName.trim()}`;
                                 // let imgExists = fs.existsSync(imgPath);
-                                let imgExists = fileExistsWithCaseSync(imgPath);
+                                let imgExists = isFileExistsWithCaseSync(imgPath);
                                 if (!imgExists) {
                                     listMissingImages.push(`${fileName} ${imgSources[0]}`);
                                 }
@@ -298,7 +341,7 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
                                     console.log('[img-not-exists]', item);
                                 });
                                 if (listMissingImages.length > 10) {
-                                    fs.writeFile(`${isbn}_missing_images.txt`, listMissingImages.join(',\n'), function (err) {
+                                    fs.writeFile(`${ISBN}_missing_images.txt`, listMissingImages.join(',\n'), function (err) {
                                         if (err) console.log(err);
                                     })
                                 }
@@ -339,67 +382,35 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
 
 
             /** QUESTION TOPIC MAPPING */
-            fs.readFile(`${isbn}_with_key_topic_labels.xml`, 'utf8', function (err, topicMappingXML) {
+            fs.readFile(`${ISBN}_question_topic_mapping.xml`, 'utf8', function (err, qtmXML) {
                 if (err) {
-                    console.warn('[file-not-exists]', `${isbn}_with_key_topic_labels.xml`);
+                    console.warn('[file-not-exists]', `${ISBN}_question_topic_mapping.xml`);
                 }
                 else {
-                    parser.parseString(topicMappingXML, function (err, topicMappingJSON) {
-                        let mapQuestions = topicMappingJSON['rec-remediation-data']['question-banks'][0]['question-bank'][0]['questions'][0]['question'];
-                        //.questions[0].question;
-                        console.log('Mapped Questions', mapQuestions.length);
-                        let mappedQuestionIds = mapQuestions.map(q => {
+                    parser.parseString(qtmXML, function (err, qtmJSON) {
+                        let qtmList = qtmJSON['rec-remediation-data']['question-banks'][0]['question-bank'][0]['questions'][0]['question'];
+                        console.log('Mapped Questions', qtmList.length);
+                        let qtmQuestionIds = qtmList.map(q => {
                             return q.$.id.trim();
                         })
                         // console.log('mappedQuestionIds', mappedQuestionIds.length, mappedQuestionIds[0]);
 
-                        const notMappedQuestions = _.difference(yaiQuestionIds, mappedQuestionIds).map(item => item.replace('YAI_', 'question_').trim());
-                        console.log('--');
-                        console.log('Not Mapped Questions', notMappedQuestions.length, '\n', notMappedQuestions.length > 20 ? `${isbn}_not_mapped.json` : notMappedQuestions);
-                        if (notMappedQuestions.length > 10) {
-                            fs.writeFile(`${isbn}_not_mapped.json`, formatArrayToJsonString(notMappedQuestions), function (err) {
-                                if (err) console.log(err);
-                            })
-                        }
+                        const qtmMissing = _.difference(yaiQuestionIds, qtmQuestionIds).map(item => item.replace('YAI_', 'question_').trim());
+                        saveJSON(qtmMissing, 'question-topic-mapping-missing');
 
-                        const duplicatedMappedQuestions = _(mappedQuestionIds).groupBy().pickBy(x => x.length > 1).keys().value();
-                        console.log('--');
-                        console.log('Duplicated Mapped Questions', duplicatedMappedQuestions.length, duplicatedMappedQuestions.length > 10 ? `${isbn}_duplicated_mapped.json` : duplicatedMappedQuestions);
-                        // if (duplicatedMappedQuestions.length > 10) {
-                        //     fs.writeFile(`${isbn}_duplicated_mapped.json`, formatArrayToJsonString(duplicatedMappedQuestions), function (err) {
-                        //         if (err) console.log(err);
-                        //     })
-                        // }
+                        const qtmDuplicated = _(qtmQuestionIds).groupBy().pickBy(x => x.length > 1).keys().value();
+                        saveJSON(qtmDuplicated, 'question-topic-mapping-duplicated');
 
-                        const deprecatedMappedQuestions = _.difference(mappedQuestionIds, yaiQuestionIds);
-                        console.log('--');
-                        console.log('Deprecated Mapped Questions', deprecatedMappedQuestions.length, deprecatedMappedQuestions.length > 20 ? `${isbn}_duplicated_mapped.json` : deprecatedMappedQuestions);
-                        if (deprecatedMappedQuestions.length > 10) {
-                            fs.writeFile(`${isbn}_deprecated_mapped.json`, formatArrayToJsonString(deprecatedMappedQuestions), function (err) {
-                                if (err) console.log(err);
-                            })
-                        }
+                        const qtmDeleted = _.difference(qtmQuestionIds, yaiQuestionIds);
+                        saveJSON(qtmDeleted, 'question-topic-mapping-deleted');
 
-
-                        // // REMOVE all deprecated mapping
-                        // const filteredMapQuestions = mapQuestions.filter(q => {
-                        //     return deprecatedMappedQuestions.indexOf(q.$.id.trim()) == -1;
-                        // });
-                        // console.log('Mapped Questions Filtered', filteredMapQuestions.length);
-                        // const builder = new xml2js.Builder({
-                        //     renderOpts: {
-                        //         'pretty': true,
-                        //         'indent': ' ',
-                        //         'newline': '\n',
-                        //         allowEmpty: true
-                        //     }
-                        // });
-                        // topicMappingJSON['rec-remediation-data']['question-banks'][0]['question-bank'][0]['questions'][0]['question'] = filteredMapQuestions;
-                        // const xmlData = builder.buildObject(topicMappingJSON);
-                        // fs.writeFile(`${isbn}_with_key_topic_labels_filtered.xml`, xmlData, function (err, qtiXML) {
-                        //     if (err) console.log(err);
-                        // })
-
+                        // REMOVE all deleted question
+                        const qtmCleaned = qtmList.filter(q => {
+                            return qtmDeleted.indexOf(q.$.id.trim()) == -1;
+                        });
+                        console.log('[question-topic-mapping-cleaned]', qtmCleaned.length);
+                        const qtmCleanedJSON = qtmJSON['rec-remediation-data']['question-banks'][0]['question-bank'][0]['questions'][0]['question'] = qtmCleaned;
+                        saveXML(qtmCleanedJSON, 'question-topic-mapping-cleaned')
                     });
                 }
             });

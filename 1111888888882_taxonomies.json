@@ -1,0 +1,42 @@
+{
+    "IND Clinical Medicine - Competencies": [
+        "Communication Skills",
+        "Ethics",
+        "Interpretation of Results",
+        "Investigation",
+        "Making a Diagnosis/decision",
+        "Management",
+        "Mechanisms of Disease",
+        "Peri-Operative Care",
+        "Prevention",
+        "Prognosis",
+        "Symptoms and Signs"
+    ],
+    "IND Clinical Medicine - Specialties": [
+        "Anesthesia",
+        "Dermatology",
+        "ENT",
+        "Medicine",
+        "Obstetrics and Gynaecology",
+        "Ophthalmology",
+        "Orthopaedics",
+        "Paediatrics",
+        "Psychiatry",
+        "Radiology",
+        "Surgery"
+    ],
+    "IND Clinical Medicine - Systems": [
+        "Cardiovascular system",
+        "Endocrine system",
+        "Gastrointestinal system",
+        "Haematological system",
+        "Immune system",
+        "Musculoskeletal system",
+        "Nervous system",
+        "Psychological system",
+        "Renal/Urinary system",
+        "Reproductive system",
+        "Respiratory system",
+        "Skin/Cancer tissue"
+    ]
+}

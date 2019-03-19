@@ -1,0 +1,35 @@
+{
+    "Normal Conditions and Disease Categories": [
+        "Immune",
+        "Blood & Lymphoreticular System",
+        "Behavioral Health",
+        "Nervous System and Special Senses",
+        "Musculoskeletal System",
+        "Skin/Subcutaneous Tissue",
+        "Cardiovascular System",
+        "Respiratory System",
+        "Gastrointestinal System",
+        "Renal & Urinary Systems & Male Reproductive",
+        "Pregnancy, Childbirth & the Puerperium",
+        "Female Reproductive & Breast",
+        "Endocrine System",
+        "Multisystem Processes & Disorders",
+        "General Principles of Foundational Science",
+        "Biostatistics & Epidemiology/Population Health",
+        "Interpretation of the Medical Literature"
+    ],
+    "Core Clinical Science": [
+        "Medicine",
+        "Neuroscience",
+        "Obstetrics & Gynecology",
+        "Pediatrics",
+        "Psychiatry",
+        "Surgery"
+    ],
+    "Step2: Physician Task": [
+        "Applying Foundational Science Concepts",
+        "Diagnosis",
+        "Health Maint, Prevention & Surveillance",
+        "Pharmacotherapy, Intervention, & Management"
+    ]
+}
