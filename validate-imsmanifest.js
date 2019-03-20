@@ -20,7 +20,7 @@
  * $ node validate-imsmanifest.js ~/Downloads/MEDED_INDBasicScience_v2_1111888888881_MedEd
  * $ node validate-imsmanifest.js ~/Downloads/MEDED_INDClinicalMedicine_v3_1111888888882_MedEd
  *
- * $ node validate-imsmanifest.js ~/Downloads/MEDED_USMLEStep1_v26_1111444444441_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_USMLEStep1_v28_1111444444441_MedEd
  * $ node validate-imsmanifest.js ~/Downloads/MEDED_USMLEStep2_v23_1111444444442_MedEd
  * #
  */

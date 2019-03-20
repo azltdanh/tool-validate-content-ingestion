@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rec-remediation-data xmlns="http://www.elesevier.com/eols/recommendation/remediation/exchange/v1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.elesevier.com/eols/recommendation/remediation/exchange/v1.0 exchange-v-1-0.xsd">
+	<created-ts>2019-01-30T08:30:32Z</created-ts>
+	<question-banks>
+		<question-bank>
+			<name>MedEd_Sample_Bank</name>
+			<description>MedEd Sample Bank</description>
+			<questions>
+				<question id="YAI_10001000">
+					<topics>
+						<topic>
+							<group>Disease</group>
+							<name>Whooping Cough</name>
+							<weight>0.8</weight>
+						</topic>
+					</topics>
+				</question>
+				<question id="YAI_10001001">
+					<topics>
+						<topic>
+							<group>Disease</group>
+							<name>Meningitis</name>
+							<weight>0.8</weight>
+						</topic>
+					</topics>
+				</question>
+				<question id="YAI_10001002">
+					<topics>
+						<topic>
+							<group>Disease</group>
+							<name>Lyme Disease</name>
+							<weight>0.8</weight>
+						</topic>
+					</topics>
+				</question>
+				<question id="YAI_10001003">
+					<topics>
+						<topic>
+							<group>Disease</group>
+							<name>Influenza</name>
+							<weight>0.8</weight>
+						</topic>
+						<topic>
+							<group>Flu Vaccination</group>
+							<name>Flu Vaccination</name>
+							<weight>0.8</weight>
+						</topic>
+					</topics>
+				</question>
+				<question id="YAI_10001004">
+					<topics>
+						<topic>
+							<group>Disease</group>
+							<name>Asthma</name>
+							<weight>0.8</weight>
+						</topic>
+					</topics>
+				</question>
+				<question id="YAI_10001005">
+					<topics>
+						<topic>
+							<group>Disease</group>
+							<name>Ear Infection</name>
+							<weight>0.8</weight>
+						</topic>
+					</topics>
+				</question>
+			</questions>
+		</question-bank>
+	</question-banks>
+	<page-domains>
+		<page-domain>
+			<name>TOPIC</name>
+			<url-template>https://ck2-cert.clinicalkey.com/meded</url-template>
+			<description>TOPIC Example</description>
+			<pages>
+				<page>
+					<resource>/meded/api/topic/Pertussis</resource>
+					<description />
+					<topics>
+						<topic>
+							<group>Disease</group>
+							<name>Whooping Cough</name>
+						</topic>
+					</topics>
+				</page>
+				<page>
+					<resource>/meded/api/topic/Meningitis</resource>
+					<description />
+					<topics>
+						<topic>
+							<group>Disease</group>
+							<name>Meningitis</name>
+						</topic>
+					</topics>
+				</page>
+				<page>
+					<resource>/meded/api/topic/Lyme Disease</resource>
+					<description />
+					<topics>
+						<topic>
+							<group>Disease</group>
+							<name>Lyme Disease</name>
+						</topic>
+					</topics>
+				</page>
+				<page>
+					<resource>/meded/api/topic/Asthma</resource>
+					<description />
+					<topics>
+						<topic>
+							<group>Disease</group>
+							<name>Asthma</name>
+						</topic>
+					</topics>
+				</page>
+				<page>
+					<resource>/meded/api/topic/Influenza</resource>
+					<description />
+					<topics>
+						<topic>
+							<group>Disease</group>
+							<name>Influenza</name>
+						</topic>
+					</topics>
+				</page>
+			</pages>
+		</page-domain>
+		<page-domain>
+			<name>IMAGE</name>
+			<url-template>https://content-qa.els-ols.com/1085XTLVQR0/image/</url-template>
+			<description>IMAGE Example</description>
+			<pages>
+				<page>
+					<resource>earInfection.jpg</resource>
+					<description />
+					<topics>
+						<topic>
+							<group>Disease</group>
+							<name>Ear Infection</name>
+						</topic>
+					</topics>
+				</page>
+				<page>
+					<resource>fluVaccination.jpg</resource>
+					<description />
+					<topics>
+						<topic>
+							<group>Flu Vaccination</group>
+							<name>Flu Vaccination</name>
+						</topic>
+					</topics>
+				</page>
+			</pages>
+		</page-domain>
+	</page-domains>
+</rec-remediation-data>

@@ -1,0 +1,16 @@
+node_modules
+.next
+.idea
+*.log
+.DS_Store
+dist
+server/components
+server/logs
+*.pem
+version.json
+yarn-error.log
+/translations
+.vscode
+coverage
+.env
+/.scannerwork
