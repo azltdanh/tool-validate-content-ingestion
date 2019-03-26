@@ -437,32 +437,29 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
         if (config.generateQuestionKeyTopicsMapping && Object.keys(listQuestionKeyTopics).length) {
             fs.readFile(`exchange-v-1-0.xml`, 'utf8', function (err, qtmXML) {
                 if (err) {
-                    console.warn('[file-not-exists]', `template/question-topic-mapping.xml`);
+                    console.warn('[file-not-exists]', `exchange-v-1-0.xml`);
                 }
                 else {
                     parser.parseString(qtmXML, function (err, qtmJSON) {
                         let qtmList = []; // qtmJSON['rec-remediation-data']['question-banks'][0]['question-bank'][0]['questions'][0]['question'];
                         _.forEach(listQuestionKeyTopics, (topicNamespaces, qYAI) => {
-                            // const showDebug = debugIdentifier.indexOf(qYAI) > -1;
-                            // if (showDebug) {
-                                const mapping = {
-                                    "$": {
-                                        "id": qYAI
-                                    },
-                                    "topics": [
-                                        {
-                                            "topic": _.flatMap(topicNamespaces, value => value)
-                                                .map(topicName => {
-                                                    return {
-                                                        "group": "Other",
-                                                        "name": topicName
-                                                    }
-                                                })
-                                        }
-                                    ]
-                                };
-                                qtmList.push(mapping);
-                            // }
+                            const mapping = {
+                                "$": {
+                                    "id": qYAI
+                                },
+                                "topics": [
+                                    {
+                                        "topic": _.flatMap(topicNamespaces, value => value)
+                                            .map(topicName => {
+                                                return {
+                                                    "group": "Other",
+                                                    "name": topicName
+                                                }
+                                            })
+                                    }
+                                ]
+                            };
+                            qtmList.push(mapping);
                         });
                         qtmJSON['rec-remediation-data']['created-ts'] = (new Date()).toISOString();
                         qtmJSON['rec-remediation-data']['question-banks'][0]['question-bank'][0]['name'] = bankInfo.name;
