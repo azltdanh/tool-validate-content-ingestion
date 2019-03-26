@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rec-remediation-data xmlns="http://www.elesevier.com/eols/recommendation/remediation/exchange/v1.0"
+                      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                      xsi:schemaLocation="http://www.elesevier.com/eols/recommendation/remediation/exchange/v1.0 exchange-v-1-0.xsd">
+    <created-ts>2018-11-13T12:13:56Z</created-ts>
+    <question-banks>
+        <question-bank>
+            <name>UK_Clinical_Medicine</name>
+            <description>this has questions</description>
+            <questions>
+                <question id="YAI_199">
+                    <topics-verified-ts>2018-11-13T12:13:56Z</topics-verified-ts>
+                    <topics>
+                        <topic>
+                            <group>Anatomy</group>
+                            <name>Gastrointestinal tract</name>
+                            <hgraph-id>id-170428c1-45fb-3e32-bc66-779455faedba</hgraph-id>
+                        </topic>
+                    </topics>
+                </question>
+            </questions>
+        </question-bank>
+    </question-banks>
+    <page-domains>
+        <page-domain>
+            <name>images</name>
+            <url-template>www.cloudfronturl.com/</url-template>
+            <description>this is hosted in s3</description>
+            <pages>
+                <page>
+                    <resource>vaccines</resource>
+                    <description>this is about flu vaccines</description>
+                    <topics>
+                        <topic>
+                            <group>Disease</group>
+                            <name>influenza</name>
+                        </topic>
+                    </topics>
+                </page>
+            </pages>
+        </page-domain>
+    </page-domains>
+</rec-remediation-data>

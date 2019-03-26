@@ -1,6 +1,7 @@
 exports.banks = {
     1111123456789: {
-        name: "MedEdSample",
+        name: "MedEd_Sample_Bank",
+        description: "MedEd Sample Bank",
         taxonomies: {
             "MedEd Test Sample": [
                 "Sample",
@@ -9,7 +10,8 @@ exports.banks = {
         }
     },
     1111222222222: {
-        name: "UKBasicScience",
+        name: "UK_Basic_Science",
+        description: "UK Basic Science",
         taxonomies: {
             "UK Basic Sciences - Systems": [
                 "Cardiovascular system",
@@ -48,7 +50,8 @@ exports.banks = {
         }
     },
     1111333333333: {
-        name: "UKClinicalMedicine",
+        name: "UK_Clinical_Medicine",
+        description: "UK Clinical Medicine",
         taxonomies: {
             "UK Clinical Medicine - Competencies": [
                 "Communication Skills",
@@ -100,17 +103,18 @@ exports.banks = {
         }
     },
     1111444444441: {
-        name: "USMLEStep1",
+        name: "USMLE_Step1",
+        description: "USMLE Step1",
         taxonomies: {
             "Organ Systems": [
                 "Cardiovascular system",
                 "Endocrine and Metabolic disorders system",
-                "Gastrointestinal system",
+                "Gastrointestinal system",
                 "General system",
                 "Hematopoietic/Lymphoid system",
                 "Immune system",
-                "Musculoskeletal system",
-                "Pulmonary/Respiratory system",
+                "Musculoskeletal system",
+                "Pulmonary/Respiratory system",
                 "Nervous system",
                 "Psychopathology system",
                 "Renal/Urinary system",
@@ -146,7 +150,8 @@ exports.banks = {
         keyTopicCatalogs: ["Subcategory 1 tested", "Subcategory 2 tested"]
     },
     1111444444442: {
-        name: "USMLEStep2",
+        name: "USMLE_Step2",
+        description: "USMLE Step2",
         taxonomies: {
             "Normal Conditions and Disease Categories": [
                 "Immune",
@@ -185,7 +190,8 @@ exports.banks = {
         keyTopicCatalogs: ["Chief complaint", "Primary disease"]
     },
     1111777777771: {
-        name: "ANZBasicScience",
+        name: "ANZ_Basic_Science",
+        description: "ANZ Basic Science",
         taxonomies: {
             "UK Basic Sciences - Systems": [
                 "Cardiovascular system",
@@ -224,7 +230,8 @@ exports.banks = {
         }
     },
     1111777777772: {
-        name: "ANZClinicalMedicine",
+        name: "ANZ_Clinical_Medicine",
+        description: "ANZ Clinical Medicine",
         taxonomies: {
             "UK Clinical Medicine - Competencies": [
                 "Communication Skills",
@@ -276,7 +283,8 @@ exports.banks = {
         }
     },
     1111888888881: {
-        name: "INDBasicScience",
+        name: "IND_Basic_Science",
+        description: "IND Basic Science",
         taxonomies: {
             "IND Basic Sciences - Systems": [
                 "Basic sciences application in clinical context",
@@ -309,7 +317,8 @@ exports.banks = {
         }
     },
     1111888888882: {
-        name: "INDClinicalMedicine",
+        name: "IND_Clinical_Medicine",
+        description: "IND Clinical Medicine",
         taxonomies: {
             "IND Clinical Medicine - Competencies": [
                 "Communication Skills",
