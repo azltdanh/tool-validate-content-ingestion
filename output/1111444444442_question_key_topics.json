@@ -1,0 +1,1743 @@
+{
+  "YAI_MEDED_USMLE2_Med_0001": {
+    "Chief complaint": [
+      "elevated maternal serum afp"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0002": {
+    "Primary disease": [
+      "parkinson disease"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0004": {
+    "Primary disease": [
+      "primary syphilis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0007": {
+    "Chief complaint": [
+      "low back pain"
+    ],
+    "Primary disease": [
+      "ankylosing spondylitis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0008": {
+    "Primary disease": [
+      "lung cancer"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0009": {
+    "Primary disease": [
+      "wernicke-korsakoff syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0010": {
+    "Primary disease": [
+      "neuroleptic malignant syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0011": {
+    "Primary disease": [
+      "acute hepatitis b"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0012": {
+    "Primary disease": [
+      "thyroiditis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0013": {
+    "Primary disease": [
+      "alcohol withdrawal"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0014": {
+    "Chief complaint": [
+      "tricuspid valve prolapse"
+    ],
+    "Primary disease": [
+      "marfan syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0015": {
+    "Chief complaint": [
+      "chest pain or dyspnea"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0016": {
+    "Chief complaint": [
+      "polydipsia"
+    ],
+    "Primary disease": [
+      "hypokalemia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0017": {
+    "Chief complaint": [
+      "diarrhea"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0019": {
+    "Chief complaint": [
+      "recurrent urinary tract infection"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0020": {
+    "Primary disease": [
+      "hiv"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0021": {
+    "Primary disease": [
+      "ovarian mass"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0022": {
+    "Primary disease": [
+      "patient autonomy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0023": {
+    "Primary disease": [
+      "pulmonary embolism"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0024": {
+    "Primary disease": [
+      "giant cell arteritis (temporal arteritis)"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0025": {
+    "Chief complaint": [
+      "high blood pressure"
+    ],
+    "Primary disease": [
+      "essential hypertension"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0026": {
+    "Primary disease": [
+      "rhabdomyolysis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0028": {
+    "Chief complaint": [
+      "pallor"
+    ],
+    "Primary disease": [
+      "iron deficiency anemia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0029": {
+    "Primary disease": [
+      "acute interstitial nephritis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0030": {
+    "Primary disease": [
+      "temporal arteritis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0031": {
+    "Chief complaint": [
+      "obtundation"
+    ],
+    "Primary disease": [
+      "salicylate overdose"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0032": {
+    "Chief complaint": [
+      "oliguria"
+    ],
+    "Primary disease": [
+      "prerenal azotemia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0033": {
+    "Primary disease": [
+      "tuberculosis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0034": {
+    "Primary disease": [
+      "hyperlipidemia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0035": {
+    "Chief complaint": [
+      "chest tightness and wheezing"
+    ],
+    "Primary disease": [
+      "asthma"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0036": {
+    "Chief complaint": [
+      "follow up"
+    ],
+    "Primary disease": [
+      "diabetes mellitus and hypertension"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0037": {
+    "Chief complaint": [
+      "seizures and confusion"
+    ],
+    "Primary disease": [
+      "hyponatremia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0038": {
+    "Chief complaint": [
+      "confusion"
+    ],
+    "Primary disease": [
+      "hyponatremia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0039": {
+    "Primary disease": [
+      "hypernatremia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0040": {
+    "Chief complaint": [
+      "weankessweakness"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0041": {
+    "Primary disease": [
+      "hyperosmolar nonketotic syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0042": {
+    "Chief complaint": [
+      "headache"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0043": {
+    "Primary disease": [
+      "hypertension"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0044": {
+    "Primary disease": [
+      "lymphoma"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0045": {
+    "Primary disease": [
+      "cluster headache"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0046": {
+    "Primary disease": [
+      "mitral valve prolapse"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0047": {
+    "Primary disease": [
+      "aspiration pneumonia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0048": {
+    "Primary disease": [
+      "hemophilia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0049": {
+    "Primary disease": [
+      "dic"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0050": {
+    "Primary disease": [
+      "polymyalgia rheumatica"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0051": {
+    "Primary disease": [
+      "neurosyphilis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0053": {
+    "Primary disease": [
+      "osteoarthritis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0054": {
+    "Primary disease": [
+      "alcoholic hepatitis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0055": {
+    "Primary disease": [
+      "idiopathic pulmonary fibrosis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0056": {
+    "Primary disease": [
+      "hypocalcemia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0057": {
+    "Chief complaint": [
+      "chest pain"
+    ],
+    "Primary disease": [
+      "angina"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0058": {
+    "Chief complaint": [
+      "fatigue"
+    ],
+    "Primary disease": [
+      "toxoplasmosis gondii"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0059": {
+    "Primary disease": [
+      "hypertension"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0060": {
+    "Chief complaint": [
+      "sore throat"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0061": {
+    "Primary disease": [
+      "pseudomembranous enterocolitis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0062": {
+    "Chief complaint": [
+      "sports physical"
+    ],
+    "Primary disease": [
+      "idiopathic hypertrophic subaortic stenosis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0063": {
+    "Chief complaint": [
+      "joint pain"
+    ],
+    "Primary disease": [
+      "primary biliary cholangitis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0064": {
+    "Chief complaint": [
+      "eye pain"
+    ],
+    "Primary disease": [
+      "acute angle closure glaucoma"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0065": {
+    "Chief complaint": [
+      "shortness of breath"
+    ],
+    "Primary disease": [
+      "superior vena cava syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0066": {
+    "Chief complaint": [
+      "shortness of breath"
+    ],
+    "Primary disease": [
+      "atrial flutter"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0067": {
+    "Chief complaint": [
+      "fever"
+    ],
+    "Primary disease": [
+      "endocarditis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0068": {
+    "Chief complaint": [
+      "altered mental status"
+    ],
+    "Primary disease": [
+      "benzodiazepine overdose"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0070": {
+    "Primary disease": [
+      "parathyroid adenoma"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0071": {
+    "Primary disease": [
+      "hypocalcemia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0073": {
+    "Chief complaint": [
+      "hoarseness and neck pain"
+    ],
+    "Primary disease": [
+      "thyroid nodule"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0075": {
+    "Chief complaint": [
+      "facial paralysis"
+    ],
+    "Primary disease": [
+      "bell palsy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0076": {
+    "Chief complaint": [
+      "cough"
+    ],
+    "Primary disease": [
+      "mycoplasma pneumonia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0077": {
+    "Primary disease": [
+      "rheumatoid arthritis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0078": {
+    "Primary disease": [
+      "osteoarthritis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0080": {
+    "Chief complaint": [
+      "agitation"
+    ],
+    "Primary disease": [
+      "wilson disease"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0081": {
+    "Chief complaint": [
+      "shortness of breath"
+    ],
+    "Primary disease": [
+      "cardiac tamponade"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0082": {
+    "Chief complaint": [
+      "syncope"
+    ],
+    "Primary disease": [
+      "hyperkalemia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0083": {
+    "Chief complaint": [
+      "chest pain"
+    ],
+    "Primary disease": [
+      "panic disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0086": {
+    "Chief complaint": [
+      "asthma exacerbation"
+    ],
+    "Primary disease": [
+      "sinusitis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0087": {
+    "Chief complaint": [
+      "microscopic hematuria and proteinuria"
+    ],
+    "Primary disease": [
+      "asymptomatic bacteruria of pregnancy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0088": {
+    "Chief complaint": [
+      "tachypnea"
+    ],
+    "Primary disease": [
+      "renal tubular acidosis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0090": {
+    "Primary disease": [
+      "rhabdomyolysis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0096": {
+    "Chief complaint": [
+      "abdominal discomfort"
+    ],
+    "Primary disease": [
+      "diabetic gastroparesis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0097": {
+    "Chief complaint": [
+      "café au lait spots"
+    ],
+    "Primary disease": [
+      "neurofibromatosis type i"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0098": {
+    "Chief complaint": [
+      "headache"
+    ],
+    "Primary disease": [
+      "intracranial hemorrhage"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0099": {
+    "Chief complaint": [
+      "headache"
+    ],
+    "Primary disease": [
+      "neisseria meningitis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0100": {
+    "Chief complaint": [
+      "screening physical examination"
+    ],
+    "Primary disease": [
+      "av block"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0107": {
+    "Chief complaint": [
+      "swollen leg"
+    ],
+    "Primary disease": [
+      "deep venous thrombosis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0108": {
+    "Chief complaint": [
+      "rash"
+    ],
+    "Primary disease": [
+      "varicella zoster virus"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0111": {
+    "Chief complaint": [
+      "throat fullness"
+    ],
+    "Primary disease": [
+      "hereditary angioedema"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0112": {
+    "Chief complaint": [
+      "chest pain"
+    ],
+    "Primary disease": [
+      "dressler syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0118": {
+    "Chief complaint": [
+      "lightheadedness"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0119": {
+    "Primary disease": [
+      "malignant melanoma"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0121": {
+    "Chief complaint": [
+      "palpitations"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0122": {
+    "Primary disease": [
+      "aplastic anemia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0123": {
+    "Chief complaint": [
+      "back stiffness"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0124": {
+    "Primary disease": [
+      "cirrhosis of the liver"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0125": {
+    "Primary disease": [
+      "renal failure"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0126": {
+    "Chief complaint": [
+      "abdominal pain"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0127": {
+    "Chief complaint": [
+      "abdominal pain"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0128": {
+    "Primary disease": [
+      "diabetic nephropathy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0129": {
+    "Primary disease": [
+      "lupus nephritis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0130": {
+    "Primary disease": [
+      "neisseria"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0131": {
+    "Primary disease": [
+      "lymphoma"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0133": {
+    "Chief complaint": [
+      "pain"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0134": {
+    "Chief complaint": [
+      "shortness of breath"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0135": {
+    "Chief complaint": [
+      "chest pain"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0136": {
+    "Chief complaint": [
+      "abdominal pain"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0137": {
+    "Primary disease": [
+      "leukemia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0138": {
+    "Primary disease": [
+      "myocardial infarction"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0139": {
+    "Chief complaint": [
+      "shortness of breath"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0140": {
+    "Chief complaint": [
+      "muscular dystrophy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0141": {
+    "Primary disease": [
+      "metastatic lung cancer"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0142": {
+    "Chief complaint": [
+      "x"
+    ],
+    "Primary disease": [
+      "bilateral subdural hematomas"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0143": {
+    "Primary disease": [
+      "chronic lymphocytic leukemia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0144": {
+    "Primary disease": [
+      "chronic myelogenous leukemia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Med_0145": {
+    "Primary disease": [
+      "chronic myelogenous leukemia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0000": {
+    "Chief complaint": [
+      "abdominal pain"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0001": {
+    "Primary disease": [
+      "pyelonephritis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0002": {
+    "Primary disease": [
+      "pulmonary edema in pregnancy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0003": {
+    "Chief complaint": [
+      "vaccination in pregnancy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0004": {
+    "Primary disease": [
+      "group b streptococcus infection during pregnancy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0005": {
+    "Primary disease": [
+      "preterm premature rupture of membranes (pprom)"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0006": {
+    "Primary disease": [
+      "alloimmunization during pregnancy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0007": {
+    "Chief complaint": [
+      "postpartum hemorrhage"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0008": {
+    "Chief complaint": [
+      "third trimester bleeding"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0009": {
+    "Primary disease": [
+      "non-reassuring external fetal heart tracing"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0010": {
+    "Primary disease": [
+      "hemolytic disease of the newborn"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0017": {
+    "Primary disease": [
+      "pelvic inflammatory disease"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0018": {
+    "Chief complaint": [
+      "urinary incontinence"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0019": {
+    "Primary disease": [
+      "high grade squamous intraepithelial lesion"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0020": {
+    "Primary disease": [
+      "polycystic ovary syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0021": {
+    "Primary disease": [
+      "infertility"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0022": {
+    "Primary disease": [
+      "cystic teratoma"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0023": {
+    "Primary disease": [
+      "fibroadenoma"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0024": {
+    "Chief complaint": [
+      "vaginal discharge"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0025": {
+    "Primary disease": [
+      "pregnancy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0026": {
+    "Chief complaint": [
+      "abnormal uterine bleeding"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0036": {
+    "Primary disease": [
+      "domestic violence"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0037": {
+    "Chief complaint": [
+      "severe acne"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0038": {
+    "Primary disease": [
+      "post-partum depression"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0039": {
+    "Primary disease": [
+      "herpes simplex virus"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0040": {
+    "Primary disease": [
+      "cervical cancer"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0041": {
+    "Primary disease": [
+      "gestational diabetes mellitus"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0043": {
+    "Primary disease": [
+      "kallmann syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0044": {
+    "Primary disease": [
+      "ectopic pregnancy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0045": {
+    "Primary disease": [
+      "polycystic ovarian syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0056": {
+    "Primary disease": [
+      "premature rupture of membranes"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0057": {
+    "Primary disease": [
+      "bacterial vaginosis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0059": {
+    "Primary disease": [
+      "lichen simplex chronicus"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0060": {
+    "Chief complaint": [
+      "vulvar pruritis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_OBG_0206": {
+    "Chief complaint": [
+      "appropriate prenatal screening exams based on stages of pregnancy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0001": {
+    "Chief complaint": [
+      "rash"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0003": {
+    "Primary disease": [
+      "neonatal sepsis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0004": {
+    "Primary disease": [
+      "meningitis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0005": {
+    "Chief complaint": [
+      "limping child with fever"
+    ],
+    "Primary disease": [
+      "osteomyelitis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0006": {
+    "Chief complaint": [
+      "developmental concern"
+    ],
+    "Primary disease": [
+      "developmental milestones"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0007": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "neonatal respiratory distress syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0008": {
+    "Primary disease": [
+      "attention deficit hyperactivity disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0009": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "hypoplastic left heart syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0010": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "obstructive uropathy in males"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0011": {
+    "Primary disease": [
+      "kawasaki disease"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0012": {
+    "Primary disease": [
+      "tourette syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0013": {
+    "Primary disease": [
+      "spinal muscular atrophy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0014": {
+    "Primary disease": [
+      "epiglottitis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0019": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "non-accidental trauma in infant"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0020": {
+    "Chief complaint": [
+      "vaginal discharge in child/sexual abuse of child"
+    ],
+    "Primary disease": [
+      "n/a"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0021": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "alkali ingestion"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0022": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "testicular torsion"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0023": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "malaria"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0027": {
+    "Primary disease": [
+      "henoch-schönlein purpura"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0031": {
+    "Primary disease": [
+      "developmental delay"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0032": {
+    "Chief complaint": [
+      "congenital heart defect"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0033": {
+    "Primary disease": [
+      "cystic fibrosis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0034": {
+    "Primary disease": [
+      "scabies"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0038": {
+    "Primary disease": [
+      "constitutional delay in growth and puberty"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0039": {
+    "Chief complaint": [
+      "loss of developmental milestones"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0040": {
+    "Primary disease": [
+      "midgut volvulus with malrotation"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0041": {
+    "Primary disease": [
+      "hiv testing in infants"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0042": {
+    "Primary disease": [
+      "autism spectrum disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0046": {
+    "Primary disease": [
+      "croup"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0047": {
+    "Primary disease": [
+      "benzodiazepine overdose"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0049": {
+    "Primary disease": [
+      "vitamin a deficiency"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0050": {
+    "Primary disease": [
+      "henoch-schönlein purpura"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0051": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "infants of diabetic mothers"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0052": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "retropharyngeal abscess"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0053": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "infantile seborrheic dermatitis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0054": {
+    "Chief complaint": [
+      "respiratory distress"
+    ],
+    "Primary disease": [
+      "anaphylaxis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0055": {
+    "Chief complaint": [
+      "cough"
+    ],
+    "Primary disease": [
+      "croup"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0056": {
+    "Chief complaint": [
+      "rash in pregnancy"
+    ],
+    "Primary disease": [
+      "rubella"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0057": {
+    "Chief complaint": [
+      "dry skin"
+    ],
+    "Primary disease": [
+      "atopic dermatitis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0058": {
+    "Chief complaint": [
+      "delayed meconium passage"
+    ],
+    "Primary disease": [
+      "meconium ileus"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0059": {
+    "Chief complaint": [
+      "skin lesion"
+    ],
+    "Primary disease": [
+      "infantile hemangioma"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0060": {
+    "Chief complaint": [
+      "vaginal discharge"
+    ],
+    "Primary disease": [
+      "trichomoniasis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0061": {
+    "Chief complaint": [
+      "fever"
+    ],
+    "Primary disease": [
+      "roseola infantum"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0062": {
+    "Chief complaint": [
+      "pediatric hypertension"
+    ],
+    "Primary disease": [
+      "11-beta-hydroxylase deficiency"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0063": {
+    "Chief complaint": [
+      "fatigue"
+    ],
+    "Primary disease": [
+      "iron deficiency anemia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0065": {
+    "Primary disease": [
+      "juvenile idiopathic arthritis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0069": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "nocturnal enuresis management"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0070": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "pediatric osteomyelitis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0072": {
+    "Chief complaint": [
+      "fever"
+    ],
+    "Primary disease": [
+      "kawasaki disease"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0074": {
+    "Chief complaint": [
+      "vomiting"
+    ],
+    "Primary disease": [
+      "trisomy 21"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0075": {
+    "Chief complaint": [
+      "hip pain"
+    ],
+    "Primary disease": [
+      "slipped capital femoral epiphysis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0076": {
+    "Chief complaint": [
+      "intoeing"
+    ],
+    "Primary disease": [
+      "femoral anteversion"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0077": {
+    "Chief complaint": [
+      "wheezing"
+    ],
+    "Primary disease": [
+      "asthma"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0078": {
+    "Chief complaint": [
+      "scalp swelling"
+    ],
+    "Primary disease": [
+      "subgaleal hematoma"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0079": {
+    "Chief complaint": [
+      "respiratory distress"
+    ],
+    "Primary disease": [
+      "congenital diaphragmatic hernia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0080": {
+    "Chief complaint": [
+      "febrile rash"
+    ],
+    "Primary disease": [
+      "roseola infantum"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0082": {
+    "Chief complaint": [
+      "vomiting"
+    ],
+    "Primary disease": [
+      "rumination syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0083": {
+    "Chief complaint": [
+      "skin lesion"
+    ],
+    "Primary disease": [
+      "dermal melanocytosis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0084": {
+    "Chief complaint": [
+      "oral ulcers"
+    ],
+    "Primary disease": [
+      "hand-foot-and-mouth disease"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0085": {
+    "Chief complaint": [
+      "nocturnal anal itching"
+    ],
+    "Primary disease": [
+      "pinworm infection"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0086": {
+    "Chief complaint": [
+      "rash"
+    ],
+    "Primary disease": [
+      "erythema migrans"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0093": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "iga nephropathy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0094": {
+    "Chief complaint": [
+      "muscular dystrophy"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0095": {
+    "Primary disease": [
+      "sickle cell disease and bacteremia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0096": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "chlamydia management in neonate"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Ped_0098": {
+    "Primary disease": [
+      "ventricular septal defect (vsd)"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0001": {
+    "Primary disease": [
+      "panic attack"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0002": {
+    "Primary disease": [
+      "depersonalization disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0003": {
+    "Primary disease": [
+      "specific phobias"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0004": {
+    "Primary disease": [
+      "avoidant personality disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0006": {
+    "Primary disease": [
+      "obsessive compulsive disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0008": {
+    "Chief complaint": [
+      "abnormal speech patterns"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0009": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "bulimia nervosa"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0010": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "cyclothymic disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0011": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "pharmacological management of adhd"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0012": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "substance-induced mood disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0013": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "bipolar disorder type i"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0014": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "adverse effects of antipsychotic medications"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0015": {
+    "Primary disease": [
+      "somatization disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0016": {
+    "Primary disease": [
+      "management of alcohol withdrawal"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0017": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "conversion disorder (functional neurological symptom disorder)"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0018": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "pain management in chronic opioid abuse"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0019": {
+    "Primary disease": [
+      "delirium in elderly"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0020": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "body dysmorphic disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0021": {
+    "Primary disease": [
+      "major depressive disorder in adolescents"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0022": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "borderline personality disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0023": {
+    "Chief complaint": [
+      "fatigue"
+    ],
+    "Primary disease": [
+      "medication side effect"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0024": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "histrionic personality disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0025": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "autism spectrum disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0026": {
+    "Chief complaint": [
+      "unresponsiveness"
+    ],
+    "Primary disease": [
+      "catatonia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0027": {
+    "Primary disease": [
+      "depression"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0028": {
+    "Primary disease": [
+      "secondary causes of acute psychosis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0029": {
+    "Chief complaint": [
+      "respiratory distress"
+    ],
+    "Primary disease": [
+      "somatic delusion"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0030": {
+    "Chief complaint": [
+      "delusion"
+    ],
+    "Primary disease": [
+      "delusional disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0031": {
+    "Chief complaint": [
+      "obsessions and compulsions"
+    ],
+    "Primary disease": [
+      "obsessive compulsive disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0032": {
+    "Chief complaint": [
+      "agitation"
+    ],
+    "Primary disease": [
+      "delirium"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0033": {
+    "Primary disease": [
+      "conduct disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0035": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "schizoid personality disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0036": {
+    "Primary disease": [
+      "schizotypal personality disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0038": {
+    "Chief complaint": [
+      "n/a"
+    ],
+    "Primary disease": [
+      "clozapine side effects"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0044": {
+    "Chief complaint": [
+      "nonconsentual sexual contact"
+    ],
+    "Primary disease": [
+      "frotteurism"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0045": {
+    "Chief complaint": [
+      "obsessions and compulsions"
+    ],
+    "Primary disease": [
+      "obsessive-compulsive disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0046": {
+    "Chief complaint": [
+      "double vision"
+    ],
+    "Primary disease": [
+      "functional neurological disorder (conversion disorder)"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0047": {
+    "Chief complaint": [
+      "depression"
+    ],
+    "Primary disease": [
+      "uncomplicated bereavement"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0063": {
+    "Chief complaint": [
+      "strange behavior"
+    ],
+    "Primary disease": [
+      "schizophreniform disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0064": {
+    "Chief complaint": [
+      "hypomania"
+    ],
+    "Primary disease": [
+      "bipolar ii disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0065": {
+    "Chief complaint": [
+      "mania"
+    ],
+    "Primary disease": [
+      "bipolar disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0066": {
+    "Chief complaint": [
+      "galactorrhea"
+    ],
+    "Primary disease": [
+      "medication side effect"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Psy_0067": {
+    "Chief complaint": [
+      "involuntary movements"
+    ],
+    "Primary disease": [
+      "tardive dyskinesia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0001": {
+    "Primary disease": [
+      "acute bacterial parotitis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0002": {
+    "Chief complaint": [
+      "abdominal pain"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0003": {
+    "Primary disease": [
+      "branham’s sign"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0007": {
+    "Primary disease": [
+      "median nerve compression (carpal tunnel syndrome)"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0008": {
+    "Primary disease": [
+      "melanoma"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0009": {
+    "Primary disease": [
+      "branchial cleft cyst"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0010": {
+    "Primary disease": [
+      "esophageal cancer"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0011": {
+    "Chief complaint": [
+      "tibial plateau fracture"
+    ],
+    "Primary disease": [
+      "popliteal artery injury"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0012": {
+    "Primary disease": [
+      "postoperative fever"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0013": {
+    "Primary disease": [
+      "malignant polyp"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0014": {
+    "Primary disease": [
+      "porcelain gallbladder"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0015": {
+    "Primary disease": [
+      "gastric cancer"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0016": {
+    "Primary disease": [
+      "toxic shock syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0017": {
+    "Primary disease": [
+      "pyloric stenosis"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0018": {
+    "Primary disease": [
+      "pheochromocytoma"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0019": {
+    "Primary disease": [
+      "anal fissure"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0020": {
+    "Primary disease": [
+      "hidradenitis suppurativa"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0021": {
+    "Primary disease": [
+      "diverticulitis with intra-abdominal abscess"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0022": {
+    "Chief complaint": [
+      "traumatic hematuria"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0023": {
+    "Chief complaint": [
+      "pneumaturia"
+    ],
+    "Primary disease": [
+      "enterovesical fistula"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0024": {
+    "Primary disease": [
+      "reflex bradycardia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0025": {
+    "Chief complaint": [
+      "abdominal pain"
+    ],
+    "Primary disease": [
+      "chronic mesenteric ischemia"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0028": {
+    "Primary disease": [
+      "hemorrhoids"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0030": {
+    "Primary disease": [
+      "hemorrhoids"
+    ]
+  },
+  "YAI_MEDED_USMLE2_Surg_0042": {
+    "Chief complaint": [
+      "squamous cell carcinoma"
+    ]
+  }
+}

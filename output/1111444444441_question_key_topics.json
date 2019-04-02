@@ -1,0 +1,4597 @@
+{
+  "YAI_MEDED_USMLE1_Anat_0001": {
+    "Subcategory 1 tested": [
+      "cranial nerve innverations (vagus nerve)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0002": {
+    "Subcategory 1 tested": [
+      "cervical trunk innervation"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0003": {
+    "Subcategory 1 tested": [
+      "muscle innervation"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0004": {
+    "Subcategory 1 tested": [
+      "muscles of the temporomandibular joint"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0005": {
+    "Subcategory 1 tested": [
+      "male pelvic anatomy"
+    ],
+    "Subcategory 2 tested": [
+      "varicocele"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0006": {
+    "Subcategory 1 tested": [
+      "epidural hematoma"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0007": {
+    "Subcategory 1 tested": [
+      "pharyngeal anatomy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0008": {
+    "Subcategory 1 tested": [
+      "parotid sialolithiasis"
+    ],
+    "Subcategory 2 tested": [
+      "salivary gland anatomy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0009": {
+    "Subcategory 1 tested": [
+      "adult coarctation of the aorta"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0010": {
+    "Subcategory 1 tested": [
+      "abdominal innervation"
+    ],
+    "Subcategory 2 tested": [
+      "gross anatomy (musculoskeletal)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0011": {
+    "Subcategory 1 tested": [
+      "anatomy of the lower gastrointestinal tract"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0012": {
+    "Subcategory 1 tested": [
+      "anatomy of the colon"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0013": {
+    "Subcategory 1 tested": [
+      "adrenal glands"
+    ],
+    "Subcategory 2 tested": [
+      "adrenal blood supply"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0014": {
+    "Subcategory 1 tested": [
+      "pelvic anatomy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0015": {
+    "Subcategory 1 tested": [
+      "lower extremity anatomy"
+    ],
+    "Subcategory 2 tested": [
+      "anterior compartment syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0016": {
+    "Subcategory 1 tested": [
+      "venous system"
+    ],
+    "Subcategory 2 tested": [
+      "intravenous catheter placement"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0021": {
+    "Subcategory 1 tested": [
+      "hand anatomy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0022": {
+    "Subcategory 1 tested": [
+      "hand muscles"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0023": {
+    "Subcategory 1 tested": [
+      "lymph nodes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0024": {
+    "Subcategory 1 tested": [
+      "situs inversus totalis"
+    ],
+    "Subcategory 2 tested": [
+      "appendicitis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0025": {
+    "Subcategory 1 tested": [
+      "facial blood supply"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0026": {
+    "Subcategory 1 tested": [
+      "horner syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0027": {
+    "Subcategory 1 tested": [
+      "recurrent laryngeal nerve"
+    ],
+    "Subcategory 2 tested": [
+      "head and neck anatomy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0028": {
+    "Subcategory 1 tested": [
+      "stroke"
+    ],
+    "Subcategory 2 tested": [
+      "facial nerve (cn vii)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0029": {
+    "Subcategory 1 tested": [
+      "cavernous sinus drainage"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0030": {
+    "Subcategory 1 tested": [
+      "pharyngeal muscles"
+    ],
+    "Subcategory 2 tested": [
+      "palatine tonsil"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0031": {
+    "Subcategory 1 tested": [
+      "thoracic vascular anatomy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0032": {
+    "Subcategory 1 tested": [
+      "anatomy"
+    ],
+    "Subcategory 2 tested": [
+      "upper extremity"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0034": {
+    "Subcategory 1 tested": [
+      "lumbar puncture"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0035": {
+    "Subcategory 1 tested": [
+      "erector spinae muscle group"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0036": {
+    "Subcategory 1 tested": [
+      "brachial plexus"
+    ],
+    "Subcategory 2 tested": [
+      "erb palsy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0037": {
+    "Subcategory 1 tested": [
+      "scaphoid bone injury"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0038": {
+    "Subcategory 1 tested": [
+      "radial nerve"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0039": {
+    "Subcategory 1 tested": [
+      "anterior humeral dislocation"
+    ],
+    "Subcategory 2 tested": [
+      "subscapularis muscle"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0040": {
+    "Subcategory 1 tested": [
+      "cardiac anatomy"
+    ],
+    "Subcategory 2 tested": [
+      "mitral valve"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0041": {
+    "Subcategory 1 tested": [
+      "pulmonary anatomy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0042": {
+    "Subcategory 1 tested": [
+      "hernia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0043": {
+    "Subcategory 1 tested": [
+      "hernia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0044": {
+    "Subcategory 1 tested": [
+      "thoracic and abdominal anatomy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0045": {
+    "Subcategory 1 tested": [
+      "metastatic cancer"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0046": {
+    "Subcategory 1 tested": [
+      "thoracic anatomy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0062": {
+    "Subcategory 1 tested": [
+      "nerves within the prostate gland"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0064": {
+    "Subcategory 1 tested": [
+      "anatomy behind prostatic adenocarcinoma"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0065": {
+    "Subcategory 1 tested": [
+      "ligaments of the uterus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Anat_0066": {
+    "Subcategory 1 tested": [
+      "anatomical structures damaged during straddle injuries"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0001": {
+    "Subcategory 1 tested": [
+      "post-traumatic stress disorders and other stress illnesses"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0002": {
+    "Subcategory 1 tested": [
+      "erectile dysfunction"
+    ],
+    "Subcategory 2 tested": [
+      "diabetes mellitus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0004": {
+    "Subcategory 1 tested": [
+      "developmental milestones"
+    ],
+    "Subcategory 2 tested": [
+      "behavioral science"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0006": {
+    "Subcategory 1 tested": [
+      "somatic symptom and related disorders"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0009": {
+    "Subcategory 1 tested": [
+      "sexual response cycle"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0010": {
+    "Subcategory 1 tested": [
+      "physician skills and communication with the patient"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0012": {
+    "Subcategory 1 tested": [
+      "obsessive-compulsive disorder"
+    ],
+    "Subcategory 2 tested": [
+      "ssris"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0013": {
+    "Subcategory 1 tested": [
+      "obstructive sleep apnea"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0014": {
+    "Subcategory 1 tested": [
+      "premature (early) ejaculation"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0021": {
+    "Subcategory 1 tested": [
+      "oedipal complex"
+    ],
+    "Subcategory 2 tested": [
+      "psychosexual development"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0022": {
+    "Subcategory 1 tested": [
+      "personality disorders"
+    ],
+    "Subcategory 2 tested": [
+      "schizotypal personality disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0023": {
+    "Subcategory 1 tested": [
+      "polysomnography"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0024": {
+    "Subcategory 1 tested": [
+      "medical ethics"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0025": {
+    "Subcategory 1 tested": [
+      "wernicke-korsakoff syndrome"
+    ],
+    "Subcategory 2 tested": [
+      "confabulation"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0026": {
+    "Subcategory 1 tested": [
+      "psychiatric assessments"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0027": {
+    "Subcategory 1 tested": [
+      "dysthymia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0028": {
+    "Subcategory 1 tested": [
+      "developmental milestones"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0029": {
+    "Subcategory 1 tested": [
+      "conditioning"
+    ],
+    "Subcategory 2 tested": [
+      "ego defenses"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0030": {
+    "Subcategory 1 tested": [
+      "sleep physiology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0031": {
+    "Subcategory 1 tested": [
+      "reinforcement"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0032": {
+    "Subcategory 1 tested": [
+      "temporal lobe"
+    ],
+    "Subcategory 2 tested": [
+      "parietal lobe"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0033": {
+    "Subcategory 1 tested": [
+      "cocaine abuse"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0034": {
+    "Subcategory 1 tested": [
+      "confidentiality"
+    ],
+    "Subcategory 2 tested": [
+      "ethics"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0035": {
+    "Subcategory 1 tested": [
+      "adjustment disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0036": {
+    "Subcategory 1 tested": [
+      "compliance; adherence"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0037": {
+    "Subcategory 1 tested": [
+      "schizophrenia"
+    ],
+    "Subcategory 2 tested": [
+      "epidemiology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0038": {
+    "Subcategory 1 tested": [
+      "schizophrenia"
+    ],
+    "Subcategory 2 tested": [
+      "pharmacologic side effects"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0039": {
+    "Subcategory 1 tested": [
+      "delusions"
+    ],
+    "Subcategory 2 tested": [
+      "psychiatry"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0040": {
+    "Subcategory 1 tested": [
+      "abnormal behavior"
+    ],
+    "Subcategory 2 tested": [
+      "obsessive-compulsive personality disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0042": {
+    "Subcategory 1 tested": [
+      "conversion disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Beh_0044": {
+    "Subcategory 1 tested": [
+      "psychosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0001": {
+    "Subcategory 1 tested": [
+      "enzymes that regulate glycolysis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0002": {
+    "Subcategory 1 tested": [
+      "nutritional deficiencies"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0003": {
+    "Subcategory 1 tested": [
+      "nutritional deficiencies"
+    ],
+    "Subcategory 2 tested": [
+      "consequences of intestinal resection surgery"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0004": {
+    "Subcategory 1 tested": [
+      "carbohydrate metabolism"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0005": {
+    "Subcategory 1 tested": [
+      "pentose phosphate pathway"
+    ],
+    "Subcategory 2 tested": [
+      "integrated metabolism"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0006": {
+    "Subcategory 1 tested": [
+      "anemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0007": {
+    "Subcategory 1 tested": [
+      "enzyme kinetics"
+    ],
+    "Subcategory 2 tested": [
+      "treatment of gout"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0008": {
+    "Subcategory 1 tested": [
+      "parkinson disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0009": {
+    "Subcategory 1 tested": [
+      "signalling pathways"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0010": {
+    "Subcategory 1 tested": [
+      "the biochemistry of  hereditary fructose intolerance"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0011": {
+    "Subcategory 1 tested": [
+      "metabolic enzyme deficiency diseases"
+    ],
+    "Subcategory 2 tested": [
+      "branched-chain α-keto acid dehydrogenase complex (maple syrup urine disease)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0012": {
+    "Subcategory 1 tested": [
+      "amino acid transport"
+    ],
+    "Subcategory 2 tested": [
+      "hartnup disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0013": {
+    "Subcategory 1 tested": [
+      "graves disease"
+    ],
+    "Subcategory 2 tested": [
+      "hyaluronic acid"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0014": {
+    "Subcategory 1 tested": [
+      "enzyme deficiency diseases"
+    ],
+    "Subcategory 2 tested": [
+      "acute intermittent porphyria"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0015": {
+    "Subcategory 1 tested": [
+      "lysosomal storage disease"
+    ],
+    "Subcategory 2 tested": [
+      "gauchers disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0016": {
+    "Subcategory 1 tested": [
+      "genetic immunodeficiency diseases (scid) or enzyme deficiency diseases"
+    ],
+    "Subcategory 2 tested": [
+      "adenosine deaminase deficiency"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0017": {
+    "Subcategory 1 tested": [
+      "lysosomal storage diseases"
+    ],
+    "Subcategory 2 tested": [
+      "mucopolysaccharidosis (hurler syndrome)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0018": {
+    "Subcategory 1 tested": [
+      "neurological diseases"
+    ],
+    "Subcategory 2 tested": [
+      "myasthenia gravis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0019": {
+    "Subcategory 1 tested": [
+      "enzyme deficiency diseases"
+    ],
+    "Subcategory 2 tested": [
+      "phenylketonuria"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0020": {
+    "Subcategory 1 tested": [
+      "enzyme deficiency diseases"
+    ],
+    "Subcategory 2 tested": [
+      "lesch nyhan syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0021": {
+    "Subcategory 1 tested": [
+      "liver damage"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0022": {
+    "Subcategory 1 tested": [
+      "fed vs fasting state biochemistry"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0023": {
+    "Subcategory 1 tested": [
+      "heme synthesis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0024": {
+    "Subcategory 1 tested": [
+      "kidney disease"
+    ],
+    "Subcategory 2 tested": [
+      "nephrotic syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0001": {
+    "Subcategory 1 tested": [
+      "standard deviation/percentile"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0002": {
+    "Subcategory 1 tested": [
+      "measures of central tendency"
+    ],
+    "Subcategory 2 tested": [
+      "statistical measurements"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0003": {
+    "Subcategory 1 tested": [
+      "specificity"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0004": {
+    "Subcategory 1 tested": [
+      "scatterplots"
+    ],
+    "Subcategory 2 tested": [
+      "relationships between variables"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0005": {
+    "Subcategory 1 tested": [
+      "measurements of central tendency and statistics"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0006": {
+    "Subcategory 1 tested": [
+      "study analysis"
+    ],
+    "Subcategory 2 tested": [
+      "common statistical tests"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0007": {
+    "Subcategory 1 tested": [
+      "statistical analysis"
+    ],
+    "Subcategory 2 tested": [
+      "statistical hypothesis testing"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0008": {
+    "Subcategory 1 tested": [
+      "statistical test and hypothesis"
+    ],
+    "Subcategory 2 tested": [
+      "hypothesis testing"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0009": {
+    "Subcategory 1 tested": [
+      "biostatistics"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0010": {
+    "Subcategory 1 tested": [
+      "diagnostics"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0011": {
+    "Subcategory 1 tested": [
+      "relative risk"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0012": {
+    "Subcategory 1 tested": [
+      "interpretation of relative risk"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0013": {
+    "Subcategory 1 tested": [
+      "attributable risk ratio and its function"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0014": {
+    "Subcategory 1 tested": [
+      "cohort studies and its uses"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0015": {
+    "Subcategory 1 tested": [
+      "cross-sectional studies and its definition"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0016": {
+    "Subcategory 1 tested": [
+      "the design of ecological studies"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Biostat_0017": {
+    "Subcategory 1 tested": [
+      "the definition of recall bias"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0025": {
+    "Subcategory 1 tested": [
+      "nutritional deficiency"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0026": {
+    "Subcategory 1 tested": [
+      "hypopituitarism"
+    ],
+    "Subcategory 2 tested": [
+      "hypoglycemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0027": {
+    "Subcategory 1 tested": [
+      "x-linked recessive disorder"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0028": {
+    "Subcategory 1 tested": [
+      "electron transport chain"
+    ],
+    "Subcategory 2 tested": [
+      "carbon monoxide poisoning"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0029": {
+    "Subcategory 1 tested": [
+      "muscular dystrophy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0030": {
+    "Subcategory 1 tested": [
+      "gastroenteritis"
+    ],
+    "Subcategory 2 tested": [
+      "g protein coupled toxins"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0031": {
+    "Subcategory 1 tested": [
+      "vitamin e"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0032": {
+    "Subcategory 1 tested": [
+      "21α-hydroxylase deficiency"
+    ],
+    "Subcategory 2 tested": [
+      "congenital adrenal hyperplasia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0033": {
+    "Subcategory 1 tested": [
+      "hypoalbuminemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0034": {
+    "Subcategory 1 tested": [
+      "renin-angiotensin-aldosterone system"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0035": {
+    "Subcategory 1 tested": [
+      "alpha-1 antitrypsin deficiency"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0036": {
+    "Subcategory 1 tested": [
+      "urea cycle defects"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0037": {
+    "Subcategory 1 tested": [
+      "western blot"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0038": {
+    "Subcategory 1 tested": [
+      "pulmonary physiology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0039": {
+    "Subcategory 1 tested": [
+      "hematology"
+    ],
+    "Subcategory 2 tested": [
+      "sports medicine"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0040": {
+    "Subcategory 1 tested": [
+      "pediatric hepatology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0041": {
+    "Subcategory 1 tested": [
+      "anemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0042": {
+    "Subcategory 1 tested": [
+      "thyroid carcinoma"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0043": {
+    "Subcategory 1 tested": [
+      "connective tissue"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0044": {
+    "Subcategory 1 tested": [
+      "metabolism"
+    ],
+    "Subcategory 2 tested": [
+      "glycolysis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0047": {
+    "Subcategory 1 tested": [
+      "human papillomavirus and its effects"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0048": {
+    "Subcategory 1 tested": [
+      "nutrition"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0049": {
+    "Subcategory 1 tested": [
+      "laboratory techniques"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Bio_0050": {
+    "Subcategory 1 tested": [
+      "nutrition"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0001": {
+    "Subcategory 1 tested": [
+      "cyp 450 and its respective detoxifying abilities"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0002": {
+    "Subcategory 1 tested": [
+      "hepatic histopathology"
+    ],
+    "Subcategory 2 tested": [
+      "alcoholic hepatitis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0003": {
+    "Subcategory 1 tested": [
+      "electron microscopy"
+    ],
+    "Subcategory 2 tested": [
+      "plasma cell"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0004": {
+    "Subcategory 1 tested": [
+      "spermiation"
+    ],
+    "Subcategory 2 tested": [
+      "male reproductive system"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0005": {
+    "Subcategory 1 tested": [
+      "implantation"
+    ],
+    "Subcategory 2 tested": [
+      "fertilization and development"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0006": {
+    "Subcategory 1 tested": [
+      "sex determination"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0007": {
+    "Subcategory 1 tested": [
+      "leigh disease"
+    ],
+    "Subcategory 2 tested": [
+      "mitochondrial diseases"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0008": {
+    "Subcategory 1 tested": [
+      "transcription factor properties from graves disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0009": {
+    "Subcategory 1 tested": [
+      "aspirin toxicity as related to the electron transport chain"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0010": {
+    "Subcategory 1 tested": [
+      "signal cascade sequence of myelogenous leukemia."
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0011": {
+    "Subcategory 1 tested": [
+      "the mechanism of xeroderma pigmentosa"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0012": {
+    "Subcategory 1 tested": [
+      "laboratory tests related to diabetes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0013": {
+    "Subcategory 1 tested": [
+      "mechanism of i cell disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0014": {
+    "Subcategory 1 tested": [
+      "liver and its functions"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0015": {
+    "Subcategory 1 tested": [
+      "mitochondrial disorders"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Cell_0016": {
+    "Subcategory 1 tested": [
+      "urea cycle and its enzymes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0001": {
+    "Subcategory 1 tested": [
+      "embryologically pathology development of the penis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0002": {
+    "Subcategory 1 tested": [
+      "omphalocele"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0003": {
+    "Subcategory 1 tested": [
+      "spina bifida occulta"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0004": {
+    "Subcategory 1 tested": [
+      "hydrocephaly"
+    ],
+    "Subcategory 2 tested": [
+      "toxoplasmosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0005": {
+    "Subcategory 1 tested": [
+      "embryology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0006": {
+    "Subcategory 1 tested": [
+      "rubella"
+    ],
+    "Subcategory 2 tested": [
+      "birth defects"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0007": {
+    "Subcategory 1 tested": [
+      "vitelline fistula"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0008": {
+    "Subcategory 1 tested": [
+      "turner syndrome"
+    ],
+    "Subcategory 2 tested": [
+      "karyotype"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0009": {
+    "Subcategory 1 tested": [
+      "cleft lip"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0010": {
+    "Subcategory 1 tested": [
+      "glucose metabolism"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0011": {
+    "Subcategory 1 tested": [
+      "hirschsprung disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0013": {
+    "Subcategory 1 tested": [
+      "horseshoe kidney"
+    ],
+    "Subcategory 2 tested": [
+      "abdominal vasculature"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0014": {
+    "Subcategory 1 tested": [
+      "polyhydramnios"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0016": {
+    "Subcategory 1 tested": [
+      "vitelline duct"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0017": {
+    "Subcategory 1 tested": [
+      "duodenal atresia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0018": {
+    "Subcategory 1 tested": [
+      "ductus venosus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0019": {
+    "Subcategory 1 tested": [
+      "pulmonary hypoplasia"
+    ],
+    "Subcategory 2 tested": [
+      "diaphragmatic hernia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0020": {
+    "Subcategory 1 tested": [
+      "trisomy 21"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0021": {
+    "Subcategory 1 tested": [
+      "anencephaly"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0022": {
+    "Subcategory 1 tested": [
+      "teratogenicity"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0023": {
+    "Subcategory 1 tested": [
+      "bone development"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0024": {
+    "Subcategory 1 tested": [
+      "arnold chiari malformation"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0026": {
+    "Subcategory 1 tested": [
+      "atrial septal defect"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0027": {
+    "Subcategory 1 tested": [
+      "achondroplasia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0028": {
+    "Subcategory 1 tested": [
+      "hematopoiesis"
+    ],
+    "Subcategory 2 tested": [
+      "erythropoiesis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0029": {
+    "Subcategory 1 tested": [
+      "mechanism behind ectopic pregnancy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0030": {
+    "Subcategory 1 tested": [
+      "stages of zygotic splitting and their effect on the fetus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Emb_0032": {
+    "Subcategory 1 tested": [
+      "retinoblastoma"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0001": {
+    "Subcategory 1 tested": [
+      "genetic diseases"
+    ],
+    "Subcategory 2 tested": [
+      "determining a diagnosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0002": {
+    "Subcategory 1 tested": [
+      "disease inheritance"
+    ],
+    "Subcategory 2 tested": [
+      "pedigree interpretation"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0003": {
+    "Subcategory 1 tested": [
+      "inheritance patterns"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0004": {
+    "Subcategory 1 tested": [
+      "down syndrome"
+    ],
+    "Subcategory 2 tested": [
+      "karyotype interpretation"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0005": {
+    "Subcategory 1 tested": [
+      "depression"
+    ],
+    "Subcategory 2 tested": [
+      "genetic vs. environmental disease factors"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0006": {
+    "Subcategory 1 tested": [
+      "calculating genetic probability"
+    ],
+    "Subcategory 2 tested": [
+      "autosomal recessive genetic mutations"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0007": {
+    "Subcategory 1 tested": [
+      "inheritance patterns"
+    ],
+    "Subcategory 2 tested": [
+      "pedigree"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0008": {
+    "Subcategory 1 tested": [
+      "mendelian inheritance"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0009": {
+    "Subcategory 1 tested": [
+      "prader-willi syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0010": {
+    "Subcategory 1 tested": [
+      "duchenne muscular dystrophy"
+    ],
+    "Subcategory 2 tested": [
+      "introns and splicing"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0011": {
+    "Subcategory 1 tested": [
+      "alpha-fetoprotein levels"
+    ],
+    "Subcategory 2 tested": [
+      "gastroschisis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0012": {
+    "Subcategory 1 tested": [
+      "alpha-fetoprotein levels"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0013": {
+    "Subcategory 1 tested": [
+      "alpha-fetoprotein levels"
+    ],
+    "Subcategory 2 tested": [
+      "turner syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0014": {
+    "Subcategory 1 tested": [
+      "hbh disease"
+    ],
+    "Subcategory 2 tested": [
+      "heinz bodies"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0015": {
+    "Subcategory 1 tested": [
+      "phenylketonuria (pku)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0016": {
+    "Subcategory 1 tested": [
+      "genetic inheritance and probabilities"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0017": {
+    "Subcategory 1 tested": [
+      "maternal serum alpha-fetoprotein levels and its implications"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0018": {
+    "Subcategory 1 tested": [
+      "edwards syndrome (trisomy 18)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0019": {
+    "Subcategory 1 tested": [
+      "prenatal screening"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0021": {
+    "Subcategory 1 tested": [
+      "molecular biology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0022": {
+    "Subcategory 1 tested": [
+      "principles of genetic inheritances"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0023": {
+    "Subcategory 1 tested": [
+      "chromosomal abnormalities"
+    ],
+    "Subcategory 2 tested": [
+      "22q11"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0024": {
+    "Subcategory 1 tested": [
+      "genetic probability"
+    ],
+    "Subcategory 2 tested": [
+      "inheritance patterns"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0025": {
+    "Subcategory 1 tested": [
+      "sex chromosome aneuploidy"
+    ],
+    "Subcategory 2 tested": [
+      "klinefelter syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0027": {
+    "Subcategory 1 tested": [
+      "osteogenesis imperfecta"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0028": {
+    "Subcategory 1 tested": [
+      "achondroplasia"
+    ],
+    "Subcategory 2 tested": [
+      "chondrocytes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0029": {
+    "Subcategory 1 tested": [
+      "gene therapy"
+    ],
+    "Subcategory 2 tested": [
+      "viral vectors"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0030": {
+    "Subcategory 1 tested": [
+      "x-linked recessive disorder"
+    ],
+    "Subcategory 2 tested": [
+      "hemophilia a"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0031": {
+    "Subcategory 1 tested": [
+      "deletion"
+    ],
+    "Subcategory 2 tested": [
+      "prader-willi syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0032": {
+    "Subcategory 1 tested": [
+      "retinoblastoma"
+    ],
+    "Subcategory 2 tested": [
+      "inherited mutations"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0033": {
+    "Subcategory 1 tested": [
+      "amplification"
+    ],
+    "Subcategory 2 tested": [
+      "myotonic dystrophy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Gen_0045": {
+    "Subcategory 1 tested": [
+      "methylguanosine cap"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0001": {
+    "Subcategory 1 tested": [
+      "multiple sclerosis and its symptoms"
+    ],
+    "Subcategory 2 tested": [
+      "mechanism of multiple sclerosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0002": {
+    "Subcategory 1 tested": [
+      "function of stem cells within various tissues and organs"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0003": {
+    "Subcategory 1 tested": [
+      "histology of lymphoid tissue"
+    ],
+    "Subcategory 2 tested": [
+      "different components of the lymph node"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0004": {
+    "Subcategory 1 tested": [
+      "liver histology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0005": {
+    "Subcategory 1 tested": [
+      "renal histology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0006": {
+    "Subcategory 1 tested": [
+      "prostate cancer"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0007": {
+    "Subcategory 1 tested": [
+      "types of hypersensitivities and their mechanisms"
+    ],
+    "Subcategory 2 tested": [
+      "the histology of the human tissue"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0008": {
+    "Subcategory 1 tested": [
+      "morphology of erythrocytes and its alterations in sickle cell anemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0009": {
+    "Subcategory 1 tested": [
+      "urinary tract infection"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0010": {
+    "Subcategory 1 tested": [
+      "the mechanism of type iv hypersensitivity"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0011": {
+    "Subcategory 1 tested": [
+      "mechanism of second-degree burns"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0012": {
+    "Subcategory 1 tested": [
+      "dna presence within the pilosebaceous organ"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0013": {
+    "Subcategory 1 tested": [
+      "definition of third-degree burns"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0014": {
+    "Subcategory 1 tested": [
+      "anatomy of the tongue"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0015": {
+    "Subcategory 1 tested": [
+      "parkinson disease and its associated symptoms"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0016": {
+    "Subcategory 1 tested": [
+      "basal cell carcinoma and its presentation"
+    ],
+    "Subcategory 2 tested": [
+      "etiology of basal cell carcinoma"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0017": {
+    "Subcategory 1 tested": [
+      "ethnic differences among layers of skin"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0018": {
+    "Subcategory 1 tested": [
+      "etiology of chronic bronchitis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0019": {
+    "Subcategory 1 tested": [
+      "the presentation of zeisian hordeolum"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0023": {
+    "Subcategory 1 tested": [
+      "carcinoid tumor"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0027": {
+    "Subcategory 1 tested": [
+      "parietal cell"
+    ],
+    "Subcategory 2 tested": [
+      "gastroesophageal reflux disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0029": {
+    "Subcategory 1 tested": [
+      "erythropoietin"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0034": {
+    "Subcategory 1 tested": [
+      "human immunodeficiency virus"
+    ],
+    "Subcategory 2 tested": [
+      "replication of retroviruses"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0035": {
+    "Subcategory 1 tested": [
+      "cells involved in the blood-testis barrier"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0036": {
+    "Subcategory 1 tested": [
+      "bactericidal properties of the vagina"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0038": {
+    "Subcategory 1 tested": [
+      "parietal cell"
+    ],
+    "Subcategory 2 tested": [
+      "pernicious anemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0039": {
+    "Subcategory 1 tested": [
+      "multiple myeloma"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0043": {
+    "Subcategory 1 tested": [
+      "chemotherapy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0056": {
+    "Subcategory 1 tested": [
+      "megakaryocytes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0058": {
+    "Subcategory 1 tested": [
+      "megakaryocytes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Hist_0066": {
+    "Subcategory 1 tested": [
+      "natural killer cells"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0001": {
+    "Subcategory 1 tested": [
+      "digeorge syndrome"
+    ],
+    "Subcategory 2 tested": [
+      "immune deficiencies"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0002": {
+    "Subcategory 1 tested": [
+      "adenosine deaminase deficiency"
+    ],
+    "Subcategory 2 tested": [
+      "immunization"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0003": {
+    "Subcategory 1 tested": [
+      "laboratory techniques"
+    ],
+    "Subcategory 2 tested": [
+      "elisa"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0004": {
+    "Subcategory 1 tested": [
+      "nk cells"
+    ],
+    "Subcategory 2 tested": [
+      "mhc i and ii"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0005": {
+    "Subcategory 1 tested": [
+      "hypersensitivity reactions"
+    ],
+    "Subcategory 2 tested": [
+      "ige and anaphylaxis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0006": {
+    "Subcategory 1 tested": [
+      "blood type categories"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0007": {
+    "Subcategory 1 tested": [
+      "immunologic disorders"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0008": {
+    "Subcategory 1 tested": [
+      "vaccinations in immunocompromised patients"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0009": {
+    "Subcategory 1 tested": [
+      "bacterial infections as related to immunology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0010": {
+    "Subcategory 1 tested": [
+      "immunoglobulin abundance in serum"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0011": {
+    "Subcategory 1 tested": [
+      "opportunistic infections in hiv/aids"
+    ],
+    "Subcategory 2 tested": [
+      "t cell mediated immunity"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0012": {
+    "Subcategory 1 tested": [
+      "mycobacterium tuberculosis"
+    ],
+    "Subcategory 2 tested": [
+      "hiv"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0013": {
+    "Subcategory 1 tested": [
+      "poststreptococcal glomerulonephritis (psgn)"
+    ],
+    "Subcategory 2 tested": [
+      "type iii hypersensitivity reaction"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0014": {
+    "Subcategory 1 tested": [
+      "passive immunity"
+    ],
+    "Subcategory 2 tested": [
+      "congenital infection"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0015": {
+    "Subcategory 1 tested": [
+      "rhesus (rh) factor"
+    ],
+    "Subcategory 2 tested": [
+      "hemolytic disease of the newborn (hdn)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0016": {
+    "Subcategory 1 tested": [
+      "immunology"
+    ],
+    "Subcategory 2 tested": [
+      "immune response to viral infection"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0017": {
+    "Subcategory 1 tested": [
+      "hypersensitivity reactions"
+    ],
+    "Subcategory 2 tested": [
+      "type iv hypersensitivity mediators"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0018": {
+    "Subcategory 1 tested": [
+      "immune system"
+    ],
+    "Subcategory 2 tested": [
+      "allergy mediators and allergen specific immunotherapy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0019": {
+    "Subcategory 1 tested": [
+      "immune system"
+    ],
+    "Subcategory 2 tested": [
+      "complement activation pathway"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0020": {
+    "Subcategory 1 tested": [
+      "complement deficiencies"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0021": {
+    "Subcategory 1 tested": [
+      "viral infection"
+    ],
+    "Subcategory 2 tested": [
+      "herpes simplex virus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0022": {
+    "Subcategory 1 tested": [
+      "mechanism of th1 immune response"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0023": {
+    "Subcategory 1 tested": [
+      "mechanism of natural killer cells"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0024": {
+    "Subcategory 1 tested": [
+      "mechanism of dendritic cell antigen presentation"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0025": {
+    "Subcategory 1 tested": [
+      "difference in markers between t cells and b cells"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0026": {
+    "Subcategory 1 tested": [
+      "leprosy"
+    ],
+    "Subcategory 2 tested": [
+      "cd4 t cells"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0027": {
+    "Subcategory 1 tested": [
+      "shock"
+    ],
+    "Subcategory 2 tested": [
+      "e. coli"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0028": {
+    "Subcategory 1 tested": [
+      "processes of inflammation"
+    ],
+    "Subcategory 2 tested": [
+      "markers associated with the myeloid lineage cells"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0029": {
+    "Subcategory 1 tested": [
+      "antibody response"
+    ],
+    "Subcategory 2 tested": [
+      "antibody-dependent cellular cytotoxicity (adcc)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0030": {
+    "Subcategory 1 tested": [
+      "tumor necrosis factor (tnf)"
+    ],
+    "Subcategory 2 tested": [
+      "apoptosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0031": {
+    "Subcategory 1 tested": [
+      "serology"
+    ],
+    "Subcategory 2 tested": [
+      "epstein-barr virus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0032": {
+    "Subcategory 1 tested": [
+      "systemic lupus erythematosus"
+    ],
+    "Subcategory 2 tested": [
+      "staphylococcus aureus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0033": {
+    "Subcategory 1 tested": [
+      "immunoglobulin structure"
+    ],
+    "Subcategory 2 tested": [
+      "serology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0034": {
+    "Subcategory 1 tested": [
+      "transplant physiology"
+    ],
+    "Subcategory 2 tested": [
+      "hyperacute rejection"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0035": {
+    "Subcategory 1 tested": [
+      "hepatitis b"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0036": {
+    "Subcategory 1 tested": [
+      "paroxysmal nocturnal hemoglobinuria"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0037": {
+    "Subcategory 1 tested": [
+      "asplenia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0038": {
+    "Subcategory 1 tested": [
+      "x-linked agammaglobulinemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0040": {
+    "Subcategory 1 tested": [
+      "hyper-igm syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0043": {
+    "Subcategory 1 tested": [
+      "tb skin testing"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0048": {
+    "Subcategory 1 tested": [
+      "x-linked agammaglobulinemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0050": {
+    "Subcategory 1 tested": [
+      "psoriasis"
+    ],
+    "Subcategory 2 tested": [
+      "guttate psoriasis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0051": {
+    "Subcategory 1 tested": [
+      "fetal-maternal rh incompatibility"
+    ],
+    "Subcategory 2 tested": [
+      "hemolytic anemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0052": {
+    "Subcategory 1 tested": [
+      "delayed type hypersensitivity reactions"
+    ],
+    "Subcategory 2 tested": [
+      "tuberculosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0053": {
+    "Subcategory 1 tested": [
+      "vaccine"
+    ],
+    "Subcategory 2 tested": [
+      "conjugated vaccine"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0054": {
+    "Subcategory 1 tested": [
+      "passive immunization"
+    ],
+    "Subcategory 2 tested": [
+      "tetanus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0055": {
+    "Subcategory 1 tested": [
+      "allergy"
+    ],
+    "Subcategory 2 tested": [
+      "allergen insensitization therapy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0056": {
+    "Subcategory 1 tested": [
+      "immune responses to parasites"
+    ],
+    "Subcategory 2 tested": [
+      "diphyllobothrium latum"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0057": {
+    "Subcategory 1 tested": [
+      "transplant immunity"
+    ],
+    "Subcategory 2 tested": [
+      "rh factor"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0059": {
+    "Subcategory 1 tested": [
+      "type 1 hypersensitivity reactions"
+    ],
+    "Subcategory 2 tested": [
+      "hay fever"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0060": {
+    "Subcategory 1 tested": [
+      "antiviral immunity"
+    ],
+    "Subcategory 2 tested": [
+      "type 1 interferon"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0063": {
+    "Subcategory 1 tested": [
+      "diarrhea"
+    ],
+    "Subcategory 2 tested": [
+      "giardia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0064": {
+    "Subcategory 1 tested": [
+      "congenital immunodeficiency"
+    ],
+    "Subcategory 2 tested": [
+      "digeorge syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0065": {
+    "Subcategory 1 tested": [
+      "acute transplant rejection"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0084": {
+    "Subcategory 1 tested": [
+      "hemolytic disease of the newborn (hdn)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Imm_0085": {
+    "Subcategory 1 tested": [
+      "syphilis"
+    ],
+    "Subcategory 2 tested": [
+      "jarisch-herxheimer reaction"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0001": {
+    "Subcategory 1 tested": [
+      "sexually transmitted infection"
+    ],
+    "Subcategory 2 tested": [
+      "sore throat/pharyngitis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0002": {
+    "Subcategory 1 tested": [
+      "enteric bacteria"
+    ],
+    "Subcategory 2 tested": [
+      "bone infections"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0003": {
+    "Subcategory 1 tested": [
+      "diphtheria"
+    ],
+    "Subcategory 2 tested": [
+      "pharyngeal infection"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0004": {
+    "Subcategory 1 tested": [
+      "bacterial infection: s. pyogenes"
+    ],
+    "Subcategory 2 tested": [
+      "toxic shock"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0005": {
+    "Subcategory 1 tested": [
+      "enteric bacteria"
+    ],
+    "Subcategory 2 tested": [
+      "bacteremia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0006": {
+    "Subcategory 1 tested": [
+      "listeria monocytogenes"
+    ],
+    "Subcategory 2 tested": [
+      "meningoencephalitis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0007": {
+    "Subcategory 1 tested": [
+      "streptococcus pneumoniae"
+    ],
+    "Subcategory 2 tested": [
+      "community acquired pneumonia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0008": {
+    "Subcategory 1 tested": [
+      "klebsiella pneumoniae"
+    ],
+    "Subcategory 2 tested": [
+      "hospital acquired infection"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0009": {
+    "Subcategory 1 tested": [
+      "urinary tract infection"
+    ],
+    "Subcategory 2 tested": [
+      "proteus mirabilis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0010": {
+    "Subcategory 1 tested": [
+      "staphylococcus aureus"
+    ],
+    "Subcategory 2 tested": [
+      "infant and child diseases"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0011": {
+    "Subcategory 1 tested": [
+      "staphylococcus aureus"
+    ],
+    "Subcategory 2 tested": [
+      "virulence factors"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0012": {
+    "Subcategory 1 tested": [
+      "hemophilus influenzae b"
+    ],
+    "Subcategory 2 tested": [
+      "immunodeficiency"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0013": {
+    "Subcategory 1 tested": [
+      "streptococcus agalactiae"
+    ],
+    "Subcategory 2 tested": [
+      "neonatal infection"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0014": {
+    "Subcategory 1 tested": [
+      "bacillus anthracis"
+    ],
+    "Subcategory 2 tested": [
+      "occupational disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0015": {
+    "Subcategory 1 tested": [
+      "campylobacter jejuni"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0016": {
+    "Subcategory 1 tested": [
+      "guillain-barré syndrome"
+    ],
+    "Subcategory 2 tested": [
+      "campylobacter"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0017": {
+    "Subcategory 1 tested": [
+      "guillain-barré syndrome"
+    ],
+    "Subcategory 2 tested": [
+      "campylobacter"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0018": {
+    "Subcategory 1 tested": [
+      "parvovirus b19"
+    ],
+    "Subcategory 2 tested": [
+      "aplastic crisis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0019": {
+    "Subcategory 1 tested": [
+      "typhoid fever"
+    ],
+    "Subcategory 2 tested": [
+      "salmonella"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0020": {
+    "Subcategory 1 tested": [
+      "parvovirus"
+    ],
+    "Subcategory 2 tested": [
+      "erythema infectiosum"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0021": {
+    "Subcategory 1 tested": [
+      "peptic ulcers"
+    ],
+    "Subcategory 2 tested": [
+      "helicobacter pylori"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0022": {
+    "Subcategory 1 tested": [
+      "sexually transmitted infections"
+    ],
+    "Subcategory 2 tested": [
+      "treponema pallidum"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0023": {
+    "Subcategory 1 tested": [
+      "bioterror agent"
+    ],
+    "Subcategory 2 tested": [
+      "bacillus anthracis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0024": {
+    "Subcategory 1 tested": [
+      "foodborne diseases"
+    ],
+    "Subcategory 2 tested": [
+      "taenia solium"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0025": {
+    "Subcategory 1 tested": [
+      "congenital infections"
+    ],
+    "Subcategory 2 tested": [
+      "parvovirus b19"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0026": {
+    "Subcategory 1 tested": [
+      "immune complex diseases"
+    ],
+    "Subcategory 2 tested": [
+      "parvovirus b19"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0027": {
+    "Subcategory 1 tested": [
+      "bacterial endocarditis"
+    ],
+    "Subcategory 2 tested": [
+      "viridans streptococci: s. mutans"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0028": {
+    "Subcategory 1 tested": [
+      "bacterial endocarditis"
+    ],
+    "Subcategory 2 tested": [
+      "viridans streptococci"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0029": {
+    "Subcategory 1 tested": [
+      "diarrhea"
+    ],
+    "Subcategory 2 tested": [
+      "giardia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0030": {
+    "Subcategory 1 tested": [
+      "bacterial diarrhea"
+    ],
+    "Subcategory 2 tested": [
+      "escherichia coli"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0031": {
+    "Subcategory 1 tested": [
+      "campylobacter jejuni"
+    ],
+    "Subcategory 2 tested": [
+      "reactive arthritis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0032": {
+    "Subcategory 1 tested": [
+      "reactive arthritis"
+    ],
+    "Subcategory 2 tested": [
+      "reiter’s syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0033": {
+    "Subcategory 1 tested": [
+      "ascaris lumbricoides"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0034": {
+    "Subcategory 1 tested": [
+      "tuberculosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0035": {
+    "Subcategory 1 tested": [
+      "urinary tract infection"
+    ],
+    "Subcategory 2 tested": [
+      "escherichia coli"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0036": {
+    "Subcategory 1 tested": [
+      "hepatitis b"
+    ],
+    "Subcategory 2 tested": [
+      "hepatitis b virus serology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0037": {
+    "Subcategory 1 tested": [
+      "nematode infection"
+    ],
+    "Subcategory 2 tested": [
+      "strongyloides stercoralis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0038": {
+    "Subcategory 1 tested": [
+      "treatment of urinary tract infections"
+    ],
+    "Subcategory 2 tested": [
+      "amoxicillin/clavulanate"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0039": {
+    "Subcategory 1 tested": [
+      "diarrheas"
+    ],
+    "Subcategory 2 tested": [
+      "yersinia enterocolitica"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0040": {
+    "Subcategory 1 tested": [
+      "glomerulonephritis"
+    ],
+    "Subcategory 2 tested": [
+      "streptococcus pyogenes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0041": {
+    "Subcategory 1 tested": [
+      "purified protein derivative"
+    ],
+    "Subcategory 2 tested": [
+      "mycobacterium tuberculosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0042": {
+    "Subcategory 1 tested": [
+      "cord factor"
+    ],
+    "Subcategory 2 tested": [
+      "mycobacterium tuberculosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0043": {
+    "Subcategory 1 tested": [
+      "mycobacterium leprae"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0044": {
+    "Subcategory 1 tested": [
+      "leukocyte adhesion deficiency"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0045": {
+    "Subcategory 1 tested": [
+      "otitis media"
+    ],
+    "Subcategory 2 tested": [
+      "rhinitis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0046": {
+    "Subcategory 1 tested": [
+      "hemolytic uremic syndrome"
+    ],
+    "Subcategory 2 tested": [
+      "shiga toxin"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0047": {
+    "Subcategory 1 tested": [
+      "cryptosporidiosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0048": {
+    "Subcategory 1 tested": [
+      "rotavirus"
+    ],
+    "Subcategory 2 tested": [
+      "malabsorption"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0049": {
+    "Subcategory 1 tested": [
+      "hepatitis b serology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0050": {
+    "Subcategory 1 tested": [
+      "spontaneous bacterial peritonitis"
+    ],
+    "Subcategory 2 tested": [
+      "streptococcus pneumoniae"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0051": {
+    "Subcategory 1 tested": [
+      "common pathogens in sexually transmitted infections"
+    ],
+    "Subcategory 2 tested": [
+      "human papillomavirus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0052": {
+    "Subcategory 1 tested": [
+      "vibrio cholerae"
+    ],
+    "Subcategory 2 tested": [
+      "cholera"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0053": {
+    "Subcategory 1 tested": [
+      "vibrio cholerae"
+    ],
+    "Subcategory 2 tested": [
+      "cholera"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0054": {
+    "Subcategory 1 tested": [
+      "hepatitis a"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0055": {
+    "Subcategory 1 tested": [
+      "shigella"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0056": {
+    "Subcategory 1 tested": [
+      "staphylococcus saprophyticus"
+    ],
+    "Subcategory 2 tested": [
+      "urinary tract infection"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0057": {
+    "Subcategory 1 tested": [
+      "enteric parasite infestations"
+    ],
+    "Subcategory 2 tested": [
+      "necator americanus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0058": {
+    "Subcategory 1 tested": [
+      "antibiotics"
+    ],
+    "Subcategory 2 tested": [
+      "trimethoprim sulfamethoxazole"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0060": {
+    "Subcategory 1 tested": [
+      "hemorrhagic diseases"
+    ],
+    "Subcategory 2 tested": [
+      "hantavirus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0061": {
+    "Subcategory 2 tested": [
+      "varicella zoster virus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0062": {
+    "Subcategory 1 tested": [
+      "diagnosis from charcot triad"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0063": {
+    "Subcategory 1 tested": [
+      "presentation of cryptosporidium parvum"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0064": {
+    "Subcategory 1 tested": [
+      "f. hepatica and its presentation"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0065": {
+    "Subcategory 1 tested": [
+      "manifestations of cutaneous nematodes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0066": {
+    "Subcategory 1 tested": [
+      "virulence factors of e. coli"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0067": {
+    "Subcategory 1 tested": [
+      "adenovirus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0068": {
+    "Subcategory 1 tested": [
+      "bacteroides fragilis"
+    ],
+    "Subcategory 2 tested": [
+      "intra-abdominal abscess"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0069": {
+    "Subcategory 1 tested": [
+      "malaria"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0070": {
+    "Subcategory 1 tested": [
+      "antibiotic resistance"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0071": {
+    "Subcategory 1 tested": [
+      "borrelia"
+    ],
+    "Subcategory 2 tested": [
+      "spirochetes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0082": {
+    "Subcategory 1 tested": [
+      "bacterial food contamination"
+    ],
+    "Subcategory 2 tested": [
+      "listeria monocytogenes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0083": {
+    "Subcategory 1 tested": [
+      "bone infections"
+    ],
+    "Subcategory 2 tested": [
+      "staphylococcus epidermidis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0084": {
+    "Subcategory 1 tested": [
+      "pneumonia"
+    ],
+    "Subcategory 2 tested": [
+      "streptococcus pneumoniae"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0085": {
+    "Subcategory 1 tested": [
+      "vaccines"
+    ],
+    "Subcategory 2 tested": [
+      "pneumococcal vaccines"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0086": {
+    "Subcategory 1 tested": [
+      "meningitis"
+    ],
+    "Subcategory 2 tested": [
+      "h. influenzae b"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0087": {
+    "Subcategory 1 tested": [
+      "pasteurella"
+    ],
+    "Subcategory 2 tested": [
+      "cellulitis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0088": {
+    "Subcategory 1 tested": [
+      "urinary tract infection"
+    ],
+    "Subcategory 2 tested": [
+      "klebsiella"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0089": {
+    "Subcategory 1 tested": [
+      "candida"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0090": {
+    "Subcategory 1 tested": [
+      "rocky mountain spotted fever"
+    ],
+    "Subcategory 2 tested": [
+      "rickettsia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0091": {
+    "Subcategory 1 tested": [
+      "pott’s disease"
+    ],
+    "Subcategory 2 tested": [
+      "tuberculosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0095": {
+    "Subcategory 1 tested": [
+      "leishmania donovani"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0098": {
+    "Subcategory 1 tested": [
+      "ixodes scapularis"
+    ],
+    "Subcategory 2 tested": [
+      "tick"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0099": {
+    "Subcategory 1 tested": [
+      "clostridium perfringens"
+    ],
+    "Subcategory 2 tested": [
+      "gas gangrene"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0100": {
+    "Subcategory 1 tested": [
+      "west nile virus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0101": {
+    "Subcategory 1 tested": [
+      "catalase"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0102": {
+    "Subcategory 1 tested": [
+      "sporotrichosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0103": {
+    "Subcategory 1 tested": [
+      "methicillin resistance"
+    ],
+    "Subcategory 2 tested": [
+      "staphylococcus aureus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0104": {
+    "Subcategory 1 tested": [
+      "pathogens of puerperal sepsis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0105": {
+    "Subcategory 1 tested": [
+      "coagulase"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0106": {
+    "Subcategory 1 tested": [
+      "enterohemorrhagic escherichia coli"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0107": {
+    "Subcategory 1 tested": [
+      "chagas disease"
+    ],
+    "Subcategory 2 tested": [
+      "achalasia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0108": {
+    "Subcategory 1 tested": [
+      "crohn disease"
+    ],
+    "Subcategory 2 tested": [
+      "inflammatory bowel disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0109": {
+    "Subcategory 1 tested": [
+      "ascaris lumbricoides"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0110": {
+    "Subcategory 1 tested": [
+      "bacterial peritonitis"
+    ],
+    "Subcategory 2 tested": [
+      "antibiotics"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0111": {
+    "Subcategory 1 tested": [
+      "gentamicin"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0112": {
+    "Subcategory 1 tested": [
+      "staphylococcus aureus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0113": {
+    "Subcategory 1 tested": [
+      "staphylococcus aureus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0114": {
+    "Subcategory 1 tested": [
+      "ophthalmia neonatorum"
+    ],
+    "Subcategory 2 tested": [
+      "erythromycin"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0115": {
+    "Subcategory 1 tested": [
+      "conjunctivitis"
+    ],
+    "Subcategory 2 tested": [
+      "adenovirus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0117": {
+    "Subcategory 1 tested": [
+      "gram stain"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0118": {
+    "Subcategory 1 tested": [
+      "diphtheriae"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Micro_0119": {
+    "Subcategory 1 tested": [
+      "bacillus anthracis"
+    ],
+    "Subcategory 2 tested": [
+      "anthrax"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Mol_0001": {
+    "Subcategory 1 tested": [
+      "molecular testing/diagnosis"
+    ],
+    "Subcategory 2 tested": [
+      "fluorescense in-situ hybridization (fish)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Mol_0002": {
+    "Subcategory 1 tested": [
+      "cell cycle regulation"
+    ],
+    "Subcategory 2 tested": [
+      "tumor suppressor genes and proto-oncogenes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Mol_0003": {
+    "Subcategory 1 tested": [
+      "chemotherapy for hodgkin’s lymphoma"
+    ],
+    "Subcategory 2 tested": [
+      "vinca alkaloids"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Mol_0004": {
+    "Subcategory 1 tested": [
+      "lysosomal storage disorders"
+    ],
+    "Subcategory 2 tested": [
+      "sphingolipidoses"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Mol_0005": {
+    "Subcategory 1 tested": [
+      "antimicrobials"
+    ],
+    "Subcategory 2 tested": [
+      "tuberculosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Mol_0006": {
+    "Subcategory 1 tested": [
+      "metabolic pathways"
+    ],
+    "Subcategory 2 tested": [
+      "lactose intolerance"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Mol_0007": {
+    "Subcategory 1 tested": [
+      "gluconeogenesis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Mol_0008": {
+    "Subcategory 1 tested": [
+      "systemic lupus erythematosus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Mol_0009": {
+    "Subcategory 1 tested": [
+      "niemann-pick disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Mol_0010": {
+    "Subcategory 1 tested": [
+      "autonomic nervous system pharmacology"
+    ],
+    "Subcategory 2 tested": [
+      "phospholipase c pathway"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Mol_0012": {
+    "Subcategory 1 tested": [
+      "megaloblastic anemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Mol_0013": {
+    "Subcategory 1 tested": [
+      "genetics"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0001": {
+    "Subcategory 1 tested": [
+      "brain lesion pathologies"
+    ],
+    "Subcategory 2 tested": [
+      "diagnosing from clinical exam results"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0002": {
+    "Subcategory 1 tested": [
+      "neurological pathologies"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0003": {
+    "Subcategory 1 tested": [
+      "headache"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0004": {
+    "Subcategory 1 tested": [
+      "hemi-neglect syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0005": {
+    "Subcategory 1 tested": [
+      "neuroanatomy"
+    ],
+    "Subcategory 2 tested": [
+      "brain lesion"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0006": {
+    "Subcategory 1 tested": [
+      "brain lesions"
+    ],
+    "Subcategory 2 tested": [
+      "cranial nerves"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0007": {
+    "Subcategory 1 tested": [
+      "brain lesions"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0008": {
+    "Subcategory 1 tested": [
+      "hydrocephalus"
+    ],
+    "Subcategory 2 tested": [
+      "neuroradiology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0009": {
+    "Subcategory 1 tested": [
+      "parkinson disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0010": {
+    "Subcategory 1 tested": [
+      "brain lesions"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0011": {
+    "Subcategory 1 tested": [
+      "brain lesions"
+    ],
+    "Subcategory 2 tested": [
+      "upper motor neuron function"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0012": {
+    "Subcategory 1 tested": [
+      "syphilis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0013": {
+    "Subcategory 1 tested": [
+      "brain lesions"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0014": {
+    "Subcategory 1 tested": [
+      "brain lesions"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0015": {
+    "Subcategory 1 tested": [
+      "stroke"
+    ],
+    "Subcategory 2 tested": [
+      "mesencephalic lesions"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0016": {
+    "Subcategory 1 tested": [
+      "stroke"
+    ],
+    "Subcategory 2 tested": [
+      "medullary lesion"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0017": {
+    "Subcategory 1 tested": [
+      "stroke"
+    ],
+    "Subcategory 2 tested": [
+      "hypoglossal nerve lesion"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0018": {
+    "Subcategory 1 tested": [
+      "stroke"
+    ],
+    "Subcategory 2 tested": [
+      "trigeminal nerve lesions"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0019": {
+    "Subcategory 1 tested": [
+      "akinetopsia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0020": {
+    "Subcategory 1 tested": [
+      "pinealoma"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0021": {
+    "Subcategory 1 tested": [
+      "trigeminal nerve (cn v)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0022": {
+    "Subcategory 1 tested": [
+      "brain lesions"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0023": {
+    "Subcategory 1 tested": [
+      "vitamin e deficiency"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0024": {
+    "Subcategory 1 tested": [
+      "kanamycin"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0025": {
+    "Subcategory 1 tested": [
+      "night blindness"
+    ],
+    "Subcategory 2 tested": [
+      "retinitis pigmentosa"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0026": {
+    "Subcategory 1 tested": [
+      "narcolepsy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0027": {
+    "Subcategory 1 tested": [
+      "korsakoff psychosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0028": {
+    "Subcategory 1 tested": [
+      "decorticate rigidity"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0029": {
+    "Subcategory 1 tested": [
+      "complex regional pain syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0030": {
+    "Subcategory 1 tested": [
+      "aphasia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0031": {
+    "Subcategory 1 tested": [
+      "dorsal column medial lemniscus (dcml) tract"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0032": {
+    "Subcategory 1 tested": [
+      "tay-sachs disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0033": {
+    "Subcategory 1 tested": [
+      "spinothalamic pathway"
+    ],
+    "Subcategory 2 tested": [
+      "syringomyelia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0034": {
+    "Subcategory 1 tested": [
+      "absence seizures"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0035": {
+    "Subcategory 1 tested": [
+      "wernicke aphasia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0046": {
+    "Subcategory 1 tested": [
+      "vision"
+    ],
+    "Subcategory 2 tested": [
+      "brain lesions"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0047": {
+    "Subcategory 1 tested": [
+      "spinal cord"
+    ],
+    "Subcategory 2 tested": [
+      "brain lesions"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0048": {
+    "Subcategory 1 tested": [
+      "brain lesions"
+    ],
+    "Subcategory 2 tested": [
+      "auditory system"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0049": {
+    "Subcategory 1 tested": [
+      "brain lesions"
+    ],
+    "Subcategory 2 tested": [
+      "auditory system"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0050": {
+    "Subcategory 1 tested": [
+      "vision"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0066": {
+    "Subcategory 1 tested": [
+      "multiple sclerosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0067": {
+    "Subcategory 1 tested": [
+      "prader-willi syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0068": {
+    "Subcategory 1 tested": [
+      "locked-in syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0070": {
+    "Subcategory 1 tested": [
+      "basal ganglia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0076": {
+    "Subcategory 1 tested": [
+      "dorsal column pathway"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0077": {
+    "Subcategory 1 tested": [
+      "anterior pons"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0078": {
+    "Subcategory 1 tested": [
+      "cerebellum"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0079": {
+    "Subcategory 1 tested": [
+      "parietal lobe"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0080": {
+    "Subcategory 1 tested": [
+      "cranial nerves"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0116": {
+    "Subcategory 1 tested": [
+      "cranial nerves"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0117": {
+    "Subcategory 1 tested": [
+      "intracranial hemorrhage"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0118": {
+    "Subcategory 1 tested": [
+      "cavernous sinus thrombosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0119": {
+    "Subcategory 1 tested": [
+      "internuclear ophthalmoplegia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Neuro_0120": {
+    "Subcategory 1 tested": [
+      "internal capsule tracts"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0001": {
+    "Subcategory 1 tested": [
+      "lymphatic drainage patterns"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0002": {
+    "Subcategory 1 tested": [
+      "nephritis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0003": {
+    "Subcategory 1 tested": [
+      "electrolytes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0004": {
+    "Subcategory 1 tested": [
+      "colon polyp"
+    ],
+    "Subcategory 2 tested": [
+      "risk factor for colon cancer"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0005": {
+    "Subcategory 1 tested": [
+      "inflammatory bowel disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0006": {
+    "Subcategory 1 tested": [
+      "gastric pathology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0007": {
+    "Subcategory 1 tested": [
+      "gastroesophageal reflux disease (gerd)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0008": {
+    "Subcategory 1 tested": [
+      "small bowel obstruction"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0009": {
+    "Subcategory 1 tested": [
+      "metastatic renal cancer"
+    ],
+    "Subcategory 2 tested": [
+      "multiple pulmonary lesions secondary to metastasis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0010": {
+    "Subcategory 1 tested": [
+      "pathology of myocardium cell damage"
+    ],
+    "Subcategory 2 tested": [
+      "n/a"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0011": {
+    "Subcategory 1 tested": [
+      "testicular cancer cell types"
+    ],
+    "Subcategory 2 tested": [
+      "n/a"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0012": {
+    "Subcategory 1 tested": [
+      "metastatic colon cancer"
+    ],
+    "Subcategory 2 tested": [
+      "n/a"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0013": {
+    "Subcategory 1 tested": [
+      "acute respiratory distress syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0014": {
+    "Subcategory 1 tested": [
+      "central nervous system hemorrhage"
+    ],
+    "Subcategory 2 tested": [
+      "polycystic kidney disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0015": {
+    "Subcategory 1 tested": [
+      "cirrhosis"
+    ],
+    "Subcategory 2 tested": [
+      "congestive heart failure"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0016": {
+    "Subcategory 1 tested": [
+      "thyroid cancer"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0017": {
+    "Subcategory 1 tested": [
+      "spider bites"
+    ],
+    "Subcategory 2 tested": [
+      "toxicology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0018": {
+    "Subcategory 1 tested": [
+      "hyperparathyroidism"
+    ],
+    "Subcategory 2 tested": [
+      "chronic kidney disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0020": {
+    "Subcategory 1 tested": [
+      "inflammatory bowel disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0021": {
+    "Subcategory 1 tested": [
+      "benign prostatic hyperplasia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0022": {
+    "Subcategory 1 tested": [
+      "gilbert syndrome"
+    ],
+    "Subcategory 2 tested": [
+      "congenital hyperbilirubinemias"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0023": {
+    "Subcategory 1 tested": [
+      "primary biliary cholangitis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0024": {
+    "Subcategory 1 tested": [
+      "hepatocellular carcinoma"
+    ],
+    "Subcategory 2 tested": [
+      "α-fetoprotein"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0025": {
+    "Subcategory 1 tested": [
+      "diabetes mellitus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0026": {
+    "Subcategory 1 tested": [
+      "iga glomerulonephropathy"
+    ],
+    "Subcategory 2 tested": [
+      "berger disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0027": {
+    "Subcategory 1 tested": [
+      "consequences of diethylstilbestrol (des), a teratogen"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0028": {
+    "Subcategory 1 tested": [
+      "acetaminophen overdose"
+    ],
+    "Subcategory 2 tested": [
+      "liver injury"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0029": {
+    "Subcategory 1 tested": [
+      "risk factors for endometrial carcinoma"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0030": {
+    "Subcategory 1 tested": [
+      "syphilis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0031": {
+    "Subcategory 1 tested": [
+      "consequences of high estrogen levels on the body"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0032": {
+    "Subcategory 1 tested": [
+      "neoplasia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0033": {
+    "Subcategory 1 tested": [
+      "neuropathology"
+    ],
+    "Subcategory 2 tested": [
+      "ischemic brain disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0034": {
+    "Subcategory 1 tested": [
+      "restrictive lung disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0035": {
+    "Subcategory 1 tested": [
+      "cellular injury"
+    ],
+    "Subcategory 2 tested": [
+      "inflammation"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0036": {
+    "Subcategory 1 tested": [
+      "hypersensitivity reactions"
+    ],
+    "Subcategory 2 tested": [
+      "type ii hemolytic reaction"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0037": {
+    "Subcategory 1 tested": [
+      "chronic inflammation"
+    ],
+    "Subcategory 2 tested": [
+      "granulomatous diseases"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0038": {
+    "Subcategory 1 tested": [
+      "hemostasis"
+    ],
+    "Subcategory 2 tested": [
+      "the coagulation cascade"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0039": {
+    "Subcategory 1 tested": [
+      "respiratory pathology"
+    ],
+    "Subcategory 2 tested": [
+      "pulmonary embolism"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0040": {
+    "Subcategory 1 tested": [
+      "hemorrhagic/hypovolemic shock"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0041": {
+    "Subcategory 1 tested": [
+      "genetic abnormalities"
+    ],
+    "Subcategory 2 tested": [
+      "down syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0042": {
+    "Subcategory 1 tested": [
+      "acute leukemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0043": {
+    "Subcategory 1 tested": [
+      "systemic sclerosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0044": {
+    "Subcategory 1 tested": [
+      "hepatocellular carcinoma"
+    ],
+    "Subcategory 2 tested": [
+      "liver metastasis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0045": {
+    "Subcategory 1 tested": [
+      "inherited tumor syndromes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0046": {
+    "Subcategory 1 tested": [
+      "vitamin c deficiency"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0047": {
+    "Subcategory 1 tested": [
+      "xeroderma pigmentosum"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0048": {
+    "Subcategory 1 tested": [
+      "osteomyelitis"
+    ],
+    "Subcategory 2 tested": [
+      "sickle cell disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0049": {
+    "Subcategory 1 tested": [
+      "radiation toxicity"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0050": {
+    "Subcategory 1 tested": [
+      "neonatal respiratory distress syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0051": {
+    "Subcategory 1 tested": [
+      "polyarteritis nodosa"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0052": {
+    "Subcategory 1 tested": [
+      "hepatic angiosarcoma"
+    ],
+    "Subcategory 2 tested": [
+      "polyvinyl chloride"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0053": {
+    "Subcategory 1 tested": [
+      "marfan syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0054": {
+    "Subcategory 1 tested": [
+      "mitral valve prolapse"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0055": {
+    "Subcategory 1 tested": [
+      "mitral valve stenosis"
+    ],
+    "Subcategory 2 tested": [
+      "rheumatic fever"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0056": {
+    "Subcategory 1 tested": [
+      "iron deficiency anemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0057": {
+    "Subcategory 1 tested": [
+      "myocardial infarction"
+    ],
+    "Subcategory 2 tested": [
+      "coagulation necrosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0058": {
+    "Subcategory 1 tested": [
+      "pernicious anemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0059": {
+    "Subcategory 1 tested": [
+      "thalassemia disorders"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0060": {
+    "Subcategory 1 tested": [
+      "mechanism of bernard-soulier syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0061": {
+    "Subcategory 1 tested": [
+      "small lymphocytic lymphoma"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0062": {
+    "Subcategory 1 tested": [
+      "hereditary spherocytosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0063": {
+    "Subcategory 1 tested": [
+      "hodgkin lymphoma"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0064": {
+    "Subcategory 1 tested": [
+      "acute myelogenous leukemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0065": {
+    "Subcategory 1 tested": [
+      "heart failure"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0066": {
+    "Subcategory 1 tested": [
+      "acute respiratory distress syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0067": {
+    "Subcategory 1 tested": [
+      "streptococcus pneumoniae"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0068": {
+    "Subcategory 1 tested": [
+      "chronic myelogenous leukemia (cml)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0069": {
+    "Subcategory 1 tested": [
+      "hypersensitivity reactions"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0072": {
+    "Subcategory 1 tested": [
+      "hemolytic disease of the newborn"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0074": {
+    "Subcategory 1 tested": [
+      "plummer-vinson syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0076": {
+    "Subcategory 1 tested": [
+      "sideroblastic anemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0081": {
+    "Subcategory 1 tested": [
+      "hemophilia disorders"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0089": {
+    "Subcategory 1 tested": [
+      "epstein-barr virus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0090": {
+    "Subcategory 1 tested": [
+      "polycythemia vera (pv)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0096": {
+    "Subcategory 1 tested": [
+      "visual pathologies"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0097": {
+    "Subcategory 1 tested": [
+      "hypertrophic cardiomyopathy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0098": {
+    "Subcategory 1 tested": [
+      "neonatal respiratory distress syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0099": {
+    "Subcategory 1 tested": [
+      "postoperative state"
+    ],
+    "Subcategory 2 tested": [
+      "lobar pneumonia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0100": {
+    "Subcategory 1 tested": [
+      "horner syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0133": {
+    "Subcategory 1 tested": [
+      "prostatic metaplasia from benign prostatic hyperplasia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0138": {
+    "Subcategory 1 tested": [
+      "testicular germ cell tumors"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0153": {
+    "Subcategory 1 tested": [
+      "differential diagnosis for vaginal bleeding"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Path_0183": {
+    "Subcategory 1 tested": [
+      "fibrocystic changes of the breast"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0001": {
+    "Subcategory 1 tested": [
+      "mechanism of action of 3rd generation cephalosporins"
+    ],
+    "Subcategory 2 tested": [
+      "bacterial meningitis management"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0002": {
+    "Subcategory 1 tested": [
+      "cilastatin organ action"
+    ],
+    "Subcategory 2 tested": [
+      "renal protection with antibiotics"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0003": {
+    "Subcategory 1 tested": [
+      "monoclonal antibody use in crohn disease"
+    ],
+    "Subcategory 2 tested": [
+      "latent tuberculosis and tnf-α inhibitors"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0004": {
+    "Subcategory 1 tested": [
+      "action of lactulose in hyperammonemia"
+    ],
+    "Subcategory 2 tested": [
+      "hepatic encephalopathy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0005": {
+    "Subcategory 1 tested": [
+      "impetigo management"
+    ],
+    "Subcategory 2 tested": [
+      "gram positive antibiotic coverage in penicillin allergy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0006": {
+    "Subcategory 1 tested": [
+      "signal transduction pathways of the nervous system"
+    ],
+    "Subcategory 2 tested": [
+      "g-protein coupled receptor pathways (gpcr)"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0007": {
+    "Subcategory 1 tested": [
+      "hypoglycemia – signs and symptoms of nph insulin induced hypoglycemia"
+    ],
+    "Subcategory 2 tested": [
+      "nervous system – receptor mediated response to hypoglycemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0008": {
+    "Subcategory 1 tested": [
+      "neuromuscular blocking drugs – mechanism of action and adverse effects of depolarizing vs nondepolarizing agents"
+    ],
+    "Subcategory 2 tested": [
+      "anesthetics"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0010": {
+    "Subcategory 1 tested": [
+      "cholinergic pharmacology; direct and indirect cholinomimetic agents"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0011": {
+    "Subcategory 1 tested": [
+      "organophosphate poisoning."
+    ],
+    "Subcategory 2 tested": [
+      "autonomic drugs"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0012": {
+    "Subcategory 1 tested": [
+      "sensory systems"
+    ],
+    "Subcategory 2 tested": [
+      "asthma"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0013": {
+    "Subcategory 1 tested": [
+      "movement disorders- essential tremor."
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0014": {
+    "Subcategory 1 tested": [
+      "acetaminophen intoxication"
+    ],
+    "Subcategory 2 tested": [
+      "antidotes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0015": {
+    "Subcategory 1 tested": [
+      "diabetes mellitus"
+    ],
+    "Subcategory 2 tested": [
+      "insulins"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0016": {
+    "Subcategory 1 tested": [
+      "antipsychotics"
+    ],
+    "Subcategory 2 tested": [
+      "drug induced neutropenia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0017": {
+    "Subcategory 1 tested": [
+      "opioid antagonists"
+    ],
+    "Subcategory 2 tested": [
+      "drugs of abuse"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0018": {
+    "Subcategory 1 tested": [
+      "antihypertensives"
+    ],
+    "Subcategory 2 tested": [
+      "autonomic regulation of blood pressure"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0019": {
+    "Subcategory 1 tested": [
+      "anticoagulants"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0020": {
+    "Subcategory 1 tested": [
+      "beta 2 agonist and bronchodilators"
+    ],
+    "Subcategory 2 tested": [
+      "antihypertensives"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0021": {
+    "Subcategory 1 tested": [
+      "posterior eye pathology"
+    ],
+    "Subcategory 2 tested": [
+      "antiviral agents"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0022": {
+    "Subcategory 1 tested": [
+      "clostridium difficile colitis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0023": {
+    "Subcategory 1 tested": [
+      "treatment of infective endocarditis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0024": {
+    "Subcategory 1 tested": [
+      "antimycobacterial drugs"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0025": {
+    "Subcategory 1 tested": [
+      "treatment of atypical pneumonia"
+    ],
+    "Subcategory 2 tested": [
+      "mechanism of action of antibiotics"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0026": {
+    "Subcategory 1 tested": [
+      "hemolytic anemia"
+    ],
+    "Subcategory 2 tested": [
+      "malaria"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0027": {
+    "Subcategory 1 tested": [
+      "management of hsv infection"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0028": {
+    "Subcategory 1 tested": [
+      "management for treponema pallidum infection"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0029": {
+    "Subcategory 1 tested": [
+      "anti mycobacterial agents"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0030": {
+    "Subcategory 1 tested": [
+      "antihelminthic agents"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0031": {
+    "Subcategory 1 tested": [
+      "antiprotozoal agents"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0032": {
+    "Subcategory 1 tested": [
+      "anti-arrhythmics"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0033": {
+    "Subcategory 1 tested": [
+      "toxicology"
+    ],
+    "Subcategory 2 tested": [
+      "side effects of anti-hypertensives"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0034": {
+    "Subcategory 1 tested": [
+      "hypercholesterolemia"
+    ],
+    "Subcategory 2 tested": [
+      "statin therapy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0035": {
+    "Subcategory 1 tested": [
+      "digoxin"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0036": {
+    "Subcategory 1 tested": [
+      "warfarin"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0037": {
+    "Subcategory 1 tested": [
+      "antiarrhythmic pharmacology"
+    ],
+    "Subcategory 2 tested": [
+      "quinidine"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0038": {
+    "Subcategory 1 tested": [
+      "diuretics"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0039": {
+    "Subcategory 1 tested": [
+      "class iii antiarrhythmics"
+    ],
+    "Subcategory 2 tested": [
+      "amiodarone"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0040": {
+    "Subcategory 1 tested": [
+      "warfarin"
+    ],
+    "Subcategory 2 tested": [
+      "ddrug interactions"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0041": {
+    "Subcategory 1 tested": [
+      "cocaine"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0042": {
+    "Subcategory 1 tested": [
+      "propranolol"
+    ],
+    "Subcategory 2 tested": [
+      "β-adrenergic receptor blockers"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0043": {
+    "Subcategory 1 tested": [
+      "pharmacologic inducers and inhibitors of labor"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0044": {
+    "Subcategory 1 tested": [
+      "local anesthetics"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0045": {
+    "Subcategory 1 tested": [
+      "hypertension"
+    ],
+    "Subcategory 2 tested": [
+      "phenylephrine"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0046": {
+    "Subcategory 1 tested": [
+      "pilocarpine"
+    ],
+    "Subcategory 2 tested": [
+      "glaucoma"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0047": {
+    "Subcategory 1 tested": [
+      "malignant hyperthermia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0048": {
+    "Subcategory 1 tested": [
+      "pharmacology"
+    ],
+    "Subcategory 2 tested": [
+      "hematology and oncology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0049": {
+    "Subcategory 1 tested": [
+      "vincristine"
+    ],
+    "Subcategory 2 tested": [
+      "drug-induced neurotoxicity"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0051": {
+    "Subcategory 1 tested": [
+      "pharmacology"
+    ],
+    "Subcategory 2 tested": [
+      "musculoskeletal"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0055": {
+    "Subcategory 1 tested": [
+      "chemotherapy drugs"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0057": {
+    "Subcategory 1 tested": [
+      "oral contraceptive side effects"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0063": {
+    "Subcategory 1 tested": [
+      "benzodiazepine"
+    ],
+    "Subcategory 2 tested": [
+      "delirium tremens"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0064": {
+    "Subcategory 1 tested": [
+      "tricyclic antidepressant"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0065": {
+    "Subcategory 1 tested": [
+      "bradykinin"
+    ],
+    "Subcategory 2 tested": [
+      "angiotensin-converting enzyme inhibitor"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0066": {
+    "Subcategory 1 tested": [
+      "thiazide"
+    ],
+    "Subcategory 2 tested": [
+      "hyperlipidemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0067": {
+    "Subcategory 1 tested": [
+      "g protein"
+    ],
+    "Subcategory 2 tested": [
+      "bronchodilator"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0068": {
+    "Subcategory 1 tested": [
+      "pseudoephedrine"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0069": {
+    "Subcategory 1 tested": [
+      "graves disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0070": {
+    "Subcategory 1 tested": [
+      "loperamide"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0071": {
+    "Subcategory 1 tested": [
+      "drug interactions"
+    ],
+    "Subcategory 2 tested": [
+      "penicillin"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0072": {
+    "Subcategory 1 tested": [
+      "sideroblastic anemia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0073": {
+    "Subcategory 1 tested": [
+      "primary adrenocortical insufficiency"
+    ],
+    "Subcategory 2 tested": [
+      "addison disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0079": {
+    "Subcategory 1 tested": [
+      "seizures"
+    ],
+    "Subcategory 2 tested": [
+      "pharmacology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0080": {
+    "Subcategory 1 tested": [
+      "antidiuretic hormone (adh)"
+    ],
+    "Subcategory 2 tested": [
+      "side effects"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0081": {
+    "Subcategory 1 tested": [
+      "antihypertensives"
+    ],
+    "Subcategory 2 tested": [
+      "mechanism of action"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0082": {
+    "Subcategory 1 tested": [
+      "drug interactions"
+    ],
+    "Subcategory 2 tested": [
+      "beta blockers"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Pharm_0083": {
+    "Subcategory 1 tested": [
+      "antibacterial medications"
+    ],
+    "Subcategory 2 tested": [
+      "mechanism of action"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0001": {
+    "Subcategory 1 tested": [
+      "methanol intoxication"
+    ],
+    "Subcategory 2 tested": [
+      "metabolic acidosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0002": {
+    "Subcategory 1 tested": [
+      "electrolytes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0003": {
+    "Subcategory 1 tested": [
+      "endocrinology"
+    ],
+    "Subcategory 2 tested": [
+      "diabetes insipidus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0004": {
+    "Subcategory 1 tested": [
+      "glomerular filtration rate calculation"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0005": {
+    "Subcategory 1 tested": [
+      "free water clearance"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0006": {
+    "Subcategory 1 tested": [
+      "fluid compartments"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0007": {
+    "Subcategory 1 tested": [
+      "nephron physiology"
+    ],
+    "Subcategory 2 tested": [
+      "pharmacology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0008": {
+    "Subcategory 1 tested": [
+      "physiology"
+    ],
+    "Subcategory 2 tested": [
+      "renal physiology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0009": {
+    "Subcategory 1 tested": [
+      "endocrinology"
+    ],
+    "Subcategory 2 tested": [
+      "effects of adh secretion"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0010": {
+    "Subcategory 1 tested": [
+      "physiology"
+    ],
+    "Subcategory 2 tested": [
+      "renal and cardiovascular physiology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0011": {
+    "Subcategory 1 tested": [
+      "hyperparathyroidism"
+    ],
+    "Subcategory 2 tested": [
+      "renal insufficiency"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0012": {
+    "Subcategory 1 tested": [
+      "parathyroid hormone"
+    ],
+    "Subcategory 2 tested": [
+      "renal physiology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0013": {
+    "Subcategory 1 tested": [
+      "renal insufficiency"
+    ],
+    "Subcategory 2 tested": [
+      "renal physiology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0014": {
+    "Subcategory 1 tested": [
+      "renal physiology"
+    ],
+    "Subcategory 2 tested": [
+      "exercise physiology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0015": {
+    "Subcategory 1 tested": [
+      "bartter syndrome"
+    ],
+    "Subcategory 2 tested": [
+      "renal physiology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0016": {
+    "Subcategory 1 tested": [
+      "hypothyroidism"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0017": {
+    "Subcategory 1 tested": [
+      "adrenocorticotropic hormone"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0018": {
+    "Subcategory 1 tested": [
+      "epinephrine"
+    ],
+    "Subcategory 2 tested": [
+      "ecg interpretation"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0019": {
+    "Subcategory 1 tested": [
+      "acromegaly"
+    ],
+    "Subcategory 2 tested": [
+      "growth hormone"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0020": {
+    "Subcategory 1 tested": [
+      "cortisol"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0021": {
+    "Subcategory 1 tested": [
+      "primary adrenal insufficiency"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0022": {
+    "Subcategory 1 tested": [
+      "21-hydroxylase deficiency"
+    ],
+    "Subcategory 2 tested": [
+      "congenital adrenal hyperplasia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0023": {
+    "Subcategory 1 tested": [
+      "hypothalamic-pituitary-gonadal axis"
+    ],
+    "Subcategory 2 tested": [
+      "menstrual cycle"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0024": {
+    "Subcategory 1 tested": [
+      "insulin secretion"
+    ],
+    "Subcategory 2 tested": [
+      "glucagon secretion"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0025": {
+    "Subcategory 1 tested": [
+      "hyperaldosteronism"
+    ],
+    "Subcategory 2 tested": [
+      "adrenal hyperplasia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0026": {
+    "Subcategory 1 tested": [
+      "vitamin d metabolism"
+    ],
+    "Subcategory 2 tested": [
+      "renal failure"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0027": {
+    "Subcategory 1 tested": [
+      "hypothalamic-pituitary-gonadal axis."
+    ],
+    "Subcategory 2 tested": [
+      "exogenous testosterone use."
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0028": {
+    "Subcategory 1 tested": [
+      "secondary amenorrhea"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0029": {
+    "Subcategory 1 tested": [
+      "pregnancy"
+    ],
+    "Subcategory 2 tested": [
+      "reproductive hormones"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0030": {
+    "Subcategory 1 tested": [
+      "heart sounds and murmurs"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0031": {
+    "Subcategory 1 tested": [
+      "aortic pressure"
+    ],
+    "Subcategory 2 tested": [
+      "aortic compliance"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0032": {
+    "Subcategory 1 tested": [
+      "heart murmur"
+    ],
+    "Subcategory 2 tested": [
+      "valvular defect"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0033": {
+    "Subcategory 1 tested": [
+      "serum protein"
+    ],
+    "Subcategory 2 tested": [
+      "oncotic pressure"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0034": {
+    "Subcategory 1 tested": [
+      "hyperventilation"
+    ],
+    "Subcategory 2 tested": [
+      "syncope"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0035": {
+    "Subcategory 1 tested": [
+      "contractility"
+    ],
+    "Subcategory 2 tested": [
+      "shortening velocity"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0036": {
+    "Subcategory 1 tested": [
+      "cardiac murmurs"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0037": {
+    "Subcategory 1 tested": [
+      "carotid sinus mechanosensor"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0038": {
+    "Subcategory 1 tested": [
+      "cardiovascular pressure circulation curve"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0039": {
+    "Subcategory 1 tested": [
+      "fick principle"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0040": {
+    "Subcategory 1 tested": [
+      "left ventricular pressure-volume curve"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0041": {
+    "Subcategory 1 tested": [
+      "left ventricular pressure-volume loop"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0042": {
+    "Subcategory 1 tested": [
+      "left ventricular pressure-volume loop"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0043": {
+    "Subcategory 1 tested": [
+      "left ventricular pressure-volume loop"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0044": {
+    "Subcategory 1 tested": [
+      "starling’s force"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0045": {
+    "Subcategory 1 tested": [
+      "atrial pressure and venous return curve"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0051": {
+    "Subcategory 1 tested": [
+      "cardiac conduction pathway"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0052": {
+    "Subcategory 1 tested": [
+      "second-degree av block"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0053": {
+    "Subcategory 1 tested": [
+      "cardiac ventricular action potential phases"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0054": {
+    "Subcategory 1 tested": [
+      "electrical axis of ventricular depolarization"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0055": {
+    "Subcategory 1 tested": [
+      "frank-starling curve"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0056": {
+    "Subcategory 1 tested": [
+      "frank-starling curve"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0057": {
+    "Subcategory 1 tested": [
+      "isovolumetric ventricular contraction"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0058": {
+    "Subcategory 1 tested": [
+      "cushing reflex"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0060": {
+    "Subcategory 1 tested": [
+      "bronchial obstruction"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0061": {
+    "Subcategory 1 tested": [
+      "venous thromboembolic disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0062": {
+    "Subcategory 1 tested": [
+      "pulmonary hypoxic drive for copd patients"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0063": {
+    "Subcategory 1 tested": [
+      "physiologic pulmonary dead space"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0064": {
+    "Subcategory 1 tested": [
+      "carbon monoxide (co) poisoning"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0065": {
+    "Subcategory 1 tested": [
+      "relationship between alveolar ventilation and paco2"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0066": {
+    "Subcategory 1 tested": [
+      "oxyhemoglobin dissociation curve"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0073": {
+    "Subcategory 1 tested": [
+      "alveolar pressure"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0074": {
+    "Subcategory 1 tested": [
+      "fev1/fvc ratio"
+    ],
+    "Subcategory 2 tested": [
+      "restrictive versus obstructive pulmonary disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0075": {
+    "Subcategory 1 tested": [
+      "minute ventilation"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0076": {
+    "Subcategory 1 tested": [
+      "central co2 chemoreceptors"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0077": {
+    "Subcategory 1 tested": [
+      "dalton’s law of partial pressure"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0078": {
+    "Subcategory 1 tested": [
+      "breathing mechanism"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0079": {
+    "Subcategory 1 tested": [
+      "pulmonary function test"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0080": {
+    "Subcategory 1 tested": [
+      "intrapleural pressure changes"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0081": {
+    "Subcategory 1 tested": [
+      "body fluid compartments"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0082": {
+    "Subcategory 1 tested": [
+      "resting membrane potential ion concentrations"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0083": {
+    "Subcategory 1 tested": [
+      "nutrient absorption"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0084": {
+    "Subcategory 1 tested": [
+      "electrochemical gradients"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0085": {
+    "Subcategory 1 tested": [
+      "pharmacokinetics"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0090": {
+    "Subcategory 1 tested": [
+      "digestion"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0091": {
+    "Subcategory 1 tested": [
+      "histamine"
+    ],
+    "Subcategory 2 tested": [
+      "paracrine signaling"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0092": {
+    "Subcategory 1 tested": [
+      "basic electrical rhythm"
+    ],
+    "Subcategory 2 tested": [
+      "enteric nervous system"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0093": {
+    "Subcategory 1 tested": [
+      "gastric acid secretion"
+    ],
+    "Subcategory 2 tested": [
+      "digestion"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0094": {
+    "Subcategory 1 tested": [
+      "secretin"
+    ],
+    "Subcategory 2 tested": [
+      "digestion"
+    ]
+  },
+  "YAI_MEDED_USMLE1_Phys_0159": {
+    "Subcategory 1 tested": [
+      "hormonal changes during breast-feeding"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0000": {
+    "Subcategory 1 tested": [
+      "erectile dysfunction"
+    ],
+    "Subcategory 2 tested": [
+      "diabetes mellitus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0001": {
+    "Subcategory 1 tested": [
+      "loop diuretic"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0002": {
+    "Subcategory 1 tested": [
+      "graves disease and the mechanism behind the disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0003": {
+    "Subcategory 1 tested": [
+      "mechanism of the botulism toxin"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0004": {
+    "Subcategory 1 tested": [
+      "cystic fibrosis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0005": {
+    "Subcategory 1 tested": [
+      "recognition of cushing triad"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0006": {
+    "Subcategory 1 tested": [
+      "acid-base disorders"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0007": {
+    "Subcategory 1 tested": [
+      "symptoms of graves disease"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0008": {
+    "Subcategory 1 tested": [
+      "cardiac pathophysiology"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0009": {
+    "Subcategory 1 tested": [
+      "left ventricular volume and pressure curve"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0010": {
+    "Subcategory 1 tested": [
+      "renal artery stenosis"
+    ],
+    "Subcategory 2 tested": [
+      "renin, angiotensin ii, aldosterone"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0011": {
+    "Subcategory 1 tested": [
+      "chronic obstructive pulmonary disease"
+    ],
+    "Subcategory 2 tested": [
+      "pulmonary function tests"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0012": {
+    "Subcategory 1 tested": [
+      "patent ductus arteriosus as related to the left ventricular pressure-volume curve"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0013": {
+    "Subcategory 1 tested": [
+      "genitofemoral nerve anatomy and innervation"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0014": {
+    "Subcategory 1 tested": [
+      "renovascular hypertension"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0015": {
+    "Subcategory 1 tested": [
+      "hypothyroidism"
+    ],
+    "Subcategory 2 tested": [
+      "hashimoto thyroiditis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0016": {
+    "Subcategory 1 tested": [
+      "central diabetes insipidus"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0017": {
+    "Subcategory 1 tested": [
+      "achondroplasia"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0018": {
+    "Subcategory 1 tested": [
+      "anorexia nervosa"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0019": {
+    "Subcategory 1 tested": [
+      "duchenne muscular dystrophy"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0020": {
+    "Subcategory 1 tested": [
+      "benign prostatic hyperplasia (bph)"
+    ],
+    "Subcategory 2 tested": [
+      "hormone synthesis"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0021": {
+    "Subcategory 1 tested": [
+      "glaucoma"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0022": {
+    "Subcategory 1 tested": [
+      "nephritic syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0023": {
+    "Subcategory 1 tested": [
+      "nephrotic syndrome"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0024": {
+    "Subcategory 1 tested": [
+      "asthma"
+    ]
+  },
+  "YAI_MEDED_USMLE1_PP_0025": {
+    "Subcategory 1 tested": [
+      "chronic obstructive pulmonary disease"
+    ]
+  }
+}

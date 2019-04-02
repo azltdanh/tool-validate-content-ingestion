@@ -21,17 +21,17 @@
  * $ node validate-imsmanifest.js ~/Downloads/MEDED_INDClinicalMedicine_v3_1111888888882_MedEd
  *
  * $ node validate-imsmanifest.js ~/Downloads/MEDED_USMLEStep1_v30_1111444444441_MedEd
- * $ node validate-imsmanifest.js ~/Downloads/MEDED_USMLEStep2_v26_1111444444442_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_USMLEStep2_v27_1111444444442_MedEd
  * #
  */
 const _ = require('lodash');
 const fs = require('fs');
 const path = require('path');
 const xml2js = require('xml2js');
-const inspect = require('eyes').inspector({ maxLength: false });
+// const inspect = require('eyes').inspector({ maxLength: false });
 
-const { utils } = require(`./utils`);
 const { banks } = require(`./banks`);
+const { utils } = require(`./utils`);
 
 const config = {
     checkQuestionTaxonomy: true,
@@ -42,7 +42,9 @@ const config = {
     checkQuestionImageExists: true,
     checkDeletedQuestions: false,
     autoFixIssue: false,
-    generateQuestionKeyTopicsMapping: true
+    validateQuestionTopicMapping: true,
+    generateQuestionTopicMapping: true,
+    generateTopicPageMapping: true
 }
 
 const debugIdentifier = ['YAI_MEDED_USMLE1_Anat_0005'];
@@ -64,62 +66,6 @@ const bankKeyTopicCatalogs = utils.normalize(bankInfo.keyTopicCatalogs || []);
 const listQuestionIds = [];
 const listQuestionFiles = [];
 const listQuestionKeyTopics = {};
-
-const formatArrayToJsonString = (arr) => {
-    return `[\n${arr.map(item => `"${item}"`).join(',\n')}\n]`;
-};
-const formatArrayToTxt = (arr) => {
-    return `${arr.map(item => `"${item}"`).join(',\n')}`;
-};
-
-const isFileExistsWithCaseSync = (filePath) => {
-    try {
-        var dir = path.dirname(filePath);
-        if (dir === '/' || dir === '.') return true;
-        var filenames = fs.readdirSync(dir);
-        if (filenames.indexOf(path.basename(filePath)) === -1) {
-            return false;
-        }
-    }
-    catch (ex) {
-        console.log(filePath, ex);
-        return false;
-    }
-    return isFileExistsWithCaseSync(dir);
-}
-
-const saveJSON = (objData, desc) => {
-    const fileName = `${isbn}_${desc.toLowerCase().replace(new RegExp(/(\s|-)/, 'gm'), '_')}.json`;
-    const dataLength = Array.isArray(objData) ? objData.length : (Object.keys(objData).length || 0);
-    if (dataLength > 0) {
-        console.log('--');
-        console.log(`>> [${desc}]`, dataLength, dataLength > 10 ? fileName : objData);
-        if (dataLength > 10) {
-            const dataStr = JSON.stringify(objData, null, 2);
-            fs.writeFile(fileName, dataStr, function (err) {
-                if (err) console.error(err);
-            })
-        }
-    }
-}
-
-const saveXML = (jsonData, desc) => {
-    const fileName = `${isbn}_${desc.toLowerCase().replace(new RegExp(/(\s|-)/, 'gm'), '_')}.xml`;
-    console.log('--');
-    console.log(`>> [${desc}]`, fileName);
-    const builder = new xml2js.Builder({
-        renderOpts: {
-            'pretty': true,
-            'indent': ' ',
-            'newline': '\n',
-            allowEmpty: true
-        }
-    });
-    const xmlData = builder.buildObject(jsonData);
-    fs.writeFile(fileName, xmlData, function (err, dataXML) {
-        if (err) console.error(err);
-    })
-}
 
 fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsManifestXML) {
     if (err) throw err;
@@ -213,7 +159,7 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
                 }
 
                 /** QUESTION KEY TOPICS */
-                if (config.generateQuestionKeyTopicsMapping && bankKeyTopicCatalogs.length) {
+                if (config.generateQuestionTopicMapping && bankKeyTopicCatalogs.length) {
                     const catalogKeyTopics = catalogEntries.filter(item => {
                         return _.intersection(utils.normalize(item.catalog), bankKeyTopicCatalogs).length;
                     })
@@ -257,34 +203,19 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
         });
 
         const invalidQuestions = invalid.map(item => { return item.$.identifier });
-        saveJSON(invalidQuestions, 'invalid-questions');
+        utils.saveJSON(invalidQuestions, 'invalid-questions', isbn);
 
         const duplicatedQuestions = _(listQuestionIds.map(q => q.toLowerCase())).groupBy().pickBy(x => x.length > 1).keys().value();
-        saveJSON(duplicatedQuestions, 'duplicated-questions');
+        utils.saveJSON(duplicatedQuestions, 'duplicated-questions', isbn);
 
         const longIdQuestions = listQuestionIds.filter(item => item.length > 50);
-        saveJSON(longIdQuestions, 'long-id-questions');
+        utils.saveJSON(longIdQuestions, 'long-id-questions', isbn);
 
-        saveJSON(listQuestionKeyTopics, 'question-key-topics');
+        utils.saveJSON(listQuestionKeyTopics, 'question-key-topics', isbn);
 
         console.log('--');
         console.log('Number of question files:', listQuestionFiles.length);
         console.log('--');
-
-        const yaiQuestionIds = listQuestionIds.map(item => item.replace('question_', 'YAI_').trim());
-
-        /** QUESTION DELETED */
-        // fs.readFile(`${isbn}_ocs_questions.txt`, 'utf8', function (err, ocsQuestions) {
-        //     if (err) {
-        //         console.warn('[file-not-exists]', `${isbn}_ocs_questions.txt`);
-        //     }
-        //     else {
-        //         ocsQuestions = ocsQuestions.split('\n');
-        //         const deletedQuestions = _.difference(ocsQuestions, yaiQuestionIds);
-        //         console.log('--');
-        //         console.log('deletedQuestions', deletedQuestions.length, '\n', deletedQuestions);
-        //     }
-        // });
 
         /** QUESTION DATA */
         if (config.checkQuestionFormat) {
@@ -353,7 +284,7 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
                             }
                             let imgName = imgSources[1];
                             let imgPath = `${pathToPackageDir}/${imgName.trim()}`;
-                            let imgExists = isFileExistsWithCaseSync(imgPath);
+                            let imgExists = utils.isFileExistsWithCaseSync(imgPath);
                             if (!imgExists) {
                                 listMissingImages.push(`${fileName} ${imgSources[0]}`);
                             }
@@ -399,76 +330,51 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
             })
         }
 
+        const yaiQuestionIds = listQuestionIds.map(item => item.replace('question_', 'YAI_').trim());
+
+        /** QUESTION DELETED */
+        // fs.readFile(`${isbn}_ocs_questions.txt`, 'utf8', function (err, ocsQuestions) {
+        //     if (err) {
+        //         console.warn('[file-not-exists]', `${isbn}_ocs_questions.txt`);
+        //     }
+        //     else {
+        //         ocsQuestions = ocsQuestions.split('\n');
+        //         const deletedQuestions = _.difference(ocsQuestions, yaiQuestionIds);
+        //         console.log('--');
+        //         console.log('deletedQuestions', deletedQuestions.length, '\n', deletedQuestions);
+        //     }
+        // });
 
         /** QUESTION TOPIC MAPPING */
-        fs.readFile(`${isbn}_question_topic_mapping.xml`, 'utf8', function (err, qtmXML) {
-            if (err) {
-                // console.warn('[file-not-exists]', `${isbn}_question_topic_mapping.xml`);
-            }
-            else {
-                parser.parseString(qtmXML, function (err, qtmJSON) {
-                    let qtmList = qtmJSON['rec-remediation-data']['question-banks'][0]['question-bank'][0]['questions'][0]['question'];
-                    console.log('--');
-                    console.log('Validating question-topic mappings:', qtmList.length);
-                    let qtmQuestionIds = qtmList.map(q => {
-                        return q.$.id.trim();
-                    })
-                    // console.log('mappedQuestionIds', mappedQuestionIds.length, mappedQuestionIds[0]);
+        if (config.validateQuestionTopicMapping) {
+            utils.validateQuestionTopicMappingXML(yaiQuestionIds, `${isbn}_question_topic_mapping.xml`, isbn);
+        }
 
-                    const qtmMissing = _.difference(yaiQuestionIds, qtmQuestionIds).map(item => item.replace('YAI_', 'question_').trim());
-                    saveJSON(qtmMissing, 'question-topic-mapping-missing');
+        if (config.generateQuestionTopicMapping && Object.keys(listQuestionKeyTopics).length) {
+            utils.generateQuestionTopicMappingXML(listQuestionKeyTopics, bankInfo);
+        }
 
-                    const qtmDuplicated = _(qtmQuestionIds).groupBy().pickBy(x => x.length > 1).keys().value();
-                    saveJSON(qtmDuplicated, 'question-topic-mapping-duplicated');
-
-                    const qtmDeleted = _.difference(qtmQuestionIds, yaiQuestionIds);
-                    saveJSON(qtmDeleted, 'question-topic-mapping-deleted');
-
-                    // REMOVE all deleted question
-                    const qtmCleaned = qtmList.filter(q => {
-                        return qtmDeleted.indexOf(q.$.id.trim()) == -1;
-                    });
-                    qtmJSON['rec-remediation-data']['question-banks'][0]['question-bank'][0]['questions'][0]['question'] = qtmCleaned;
-                    saveXML(qtmJSON, 'question-topic-mapping-cleaned')
-                });
-            }
-        });
-
-        if (config.generateQuestionKeyTopicsMapping && Object.keys(listQuestionKeyTopics).length) {
-            fs.readFile(`exchange-v-1-0.xml`, 'utf8', function (err, qtmXML) {
+        if (config.generateTopicPageMapping) {
+            var dirPath = 'topic-pages';
+            fs.readdir(dirPath, function (err, files) {
                 if (err) {
-                    console.warn('[file-not-exists]', `exchange-v-1-0.xml`);
+                    console.error(`Could not list the ${dirPath} directory.`, err);
+                    process.exit(1);
                 }
-                else {
-                    parser.parseString(qtmXML, function (err, qtmJSON) {
-                        let qtmList = []; // qtmJSON['rec-remediation-data']['question-banks'][0]['question-bank'][0]['questions'][0]['question'];
-                        _.forEach(listQuestionKeyTopics, (topicNamespaces, qYAI) => {
-                            const mapping = {
-                                "$": {
-                                    "id": qYAI
-                                },
-                                "topics": [
-                                    {
-                                        "topic": _.flatMap(topicNamespaces, value => value)
-                                            .map(topicName => {
-                                                return {
-                                                    "group": "Other",
-                                                    "name": topicName
-                                                }
-                                            })
-                                    }
-                                ]
-                            };
-                            qtmList.push(mapping);
-                        });
-                        qtmJSON['rec-remediation-data']['created-ts'] = (new Date()).toISOString();
-                        qtmJSON['rec-remediation-data']['question-banks'][0]['question-bank'][0]['name'] = bankInfo.name;
-                        qtmJSON['rec-remediation-data']['question-banks'][0]['question-bank'][0]['description'] = bankInfo.description;
-                        qtmJSON['rec-remediation-data']['question-banks'][0]['question-bank'][0]['questions'][0]['question'] = qtmList;
-                        delete qtmJSON['rec-remediation-data']['page-domains'];
-                        saveXML(qtmJSON, 'question-topic-mapping-generated')
+                files.forEach(function (file) {
+                    var filePath = path.join(dirPath, file);
+                    fs.stat(filePath, function (error, stat) {
+                        if (error) {
+                            console.error(`Error stating file ${filePath}.`, error);
+                            return;
+                        }
+                        if (stat.isFile()) {
+                            fs.readFile(filePath, 'utf8', function (err, tpTXT) {
+                                utils.generateTopicPageMappingXML(tpTXT.split('\n'), path.parse(filePath).name);
+                            });
+                        }
                     });
-                }
+                });
             });
         }
 

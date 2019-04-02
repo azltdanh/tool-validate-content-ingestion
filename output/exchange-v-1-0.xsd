@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs='http://www.w3.org/2001/XMLSchema'
+           elementFormDefault='qualified'
+           targetNamespace="http://www.elesevier.com/eols/recommendation/remediation/exchange/v1.0"
+           xmlns="http://www.elesevier.com/eols/recommendation/remediation/exchange/v1.0">
+    <xs:import namespace='http://www.w3.org/XML/1998/namespace' schemaLocation='https://www.w3.org/2001/xml.xsd'/>
+    <xs:element name='rec-remediation-data'>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name='created-ts' type='xs:dateTime'/>
+                <xs:element ref='question-banks' minOccurs='0'/>
+                <xs:element ref='page-domains' minOccurs='0' />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name='questions'>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref='question' minOccurs='0' maxOccurs='unbounded'/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name='question'>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name='topics-verified-ts' type='xs:dateTime' minOccurs='0'/>
+                <xs:element ref='topics' minOccurs='0'/>
+            </xs:sequence>
+            <xs:attribute name='id' use='required' type='xs:string'/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name='topics'>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref='topic' minOccurs='0' maxOccurs='unbounded'/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name='topic'>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name='group' type='GroupLabel'/>
+                <xs:element name='name' type='xs:string'/>
+                <xs:element name='hgraph-id' type='HGraphID' minOccurs='0'/>
+                <xs:element name='weight' type='xs:double' minOccurs='0'/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name='question-banks'>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref='question-bank' minOccurs='0' maxOccurs='unbounded'/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name='question-bank'>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name='name' type='xs:string'/>
+                <xs:element name='description' type='xs:string'/>
+                <xs:element ref='questions' minOccurs='0'/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name='pages'>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref='page' minOccurs='0' maxOccurs='unbounded'/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name='page'>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="resource" type="xs:string"/>
+                <xs:element name="description" type="xs:string"/>
+                <xs:element name='topics-verified-ts' type='xs:dateTime' minOccurs='0'/>
+                <xs:element ref='topics' minOccurs='0'/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name='page-domains'>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref='page-domain' minOccurs='0' maxOccurs='unbounded'/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name='page-domain'>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name='name' type='xs:string'/>
+                <xs:element name='url-template' type='xs:string'/>
+                <xs:element name='description' type='xs:string'/>
+                <xs:element ref='pages' minOccurs='0'/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:simpleType name="GroupLabel">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Anatomy"/>
+            <xs:enumeration value="Clinical Finding"/>
+            <xs:enumeration value="Disease"/>
+            <xs:enumeration value="Drug"/>
+            <xs:enumeration value="Event"/>
+            <xs:enumeration value="Organism"/>
+            <xs:enumeration value="Other"/>
+            <xs:enumeration value="Physical Object"/>
+            <xs:enumeration value="Procedure"/>
+            <xs:enumeration value="Specialty"/>
+            <xs:enumeration value="Substance"/>
+            <xs:enumeration value="Symptom"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="HGraphID">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="id-.+" />
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

@@ -1,0 +1,2708 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rec-remediation-data xmlns="http://www.elesevier.com/eols/recommendation/remediation/exchange/v1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.elesevier.com/eols/recommendation/remediation/exchange/v1.0 exchange-v-1-0.xsd">
+ <created-ts>2019-04-02T08:35:47.587Z</created-ts>
+ <question-banks>
+  <question-bank>
+   <name>USMLE_Step2</name>
+   <description>USMLE Step2</description>
+   <questions>
+    <question id="YAI_MEDED_USMLE2_Med_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>elevated maternal serum afp</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>parkinson disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>primary syphilis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>low back pain</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>ankylosing spondylitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>lung cancer</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>wernicke-korsakoff syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>neuroleptic malignant syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>acute hepatitis b</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>thyroiditis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>alcohol withdrawal</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>tricuspid valve prolapse</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>marfan syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chest pain or dyspnea</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>polydipsia</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hypokalemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>diarrhea</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>recurrent urinary tract infection</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0020">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hiv</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>ovarian mass</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>patient autonomy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pulmonary embolism</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>giant cell arteritis (temporal arteritis)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>high blood pressure</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>essential hypertension</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0026">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>rhabdomyolysis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0028">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pallor</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>iron deficiency anemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0029">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>acute interstitial nephritis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0030">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>temporal arteritis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0031">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>obtundation</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>salicylate overdose</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0032">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>oliguria</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>prerenal azotemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0033">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>tuberculosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0034">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hyperlipidemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0035">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chest tightness and wheezing</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>asthma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0036">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>follow up</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>diabetes mellitus and hypertension</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0037">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>seizures and confusion</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hyponatremia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0038">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>confusion</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hyponatremia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0039">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypernatremia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0040">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>weankessweakness</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0041">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hyperosmolar nonketotic syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0042">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>headache</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0043">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypertension</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0044">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>lymphoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0045">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cluster headache</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0046">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mitral valve prolapse</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0047">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>aspiration pneumonia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0048">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hemophilia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0049">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>dic</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0050">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>polymyalgia rheumatica</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0051">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>neurosyphilis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0053">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>osteoarthritis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0054">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>alcoholic hepatitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0055">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>idiopathic pulmonary fibrosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0056">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypocalcemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0057">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chest pain</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>angina</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0058">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>fatigue</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>toxoplasmosis gondii</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0059">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypertension</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0060">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>sore throat</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0061">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pseudomembranous enterocolitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0062">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>sports physical</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>idiopathic hypertrophic subaortic stenosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0063">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>joint pain</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>primary biliary cholangitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0064">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>eye pain</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>acute angle closure glaucoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0065">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>shortness of breath</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>superior vena cava syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0066">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>shortness of breath</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>atrial flutter</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0067">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>fever</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>endocarditis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0068">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>altered mental status</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>benzodiazepine overdose</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0070">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>parathyroid adenoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0071">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypocalcemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0073">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hoarseness and neck pain</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>thyroid nodule</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0075">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>facial paralysis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>bell palsy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0076">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cough</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>mycoplasma pneumonia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0077">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>rheumatoid arthritis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0078">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>osteoarthritis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0080">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>agitation</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>wilson disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0081">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>shortness of breath</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>cardiac tamponade</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0082">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>syncope</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hyperkalemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0083">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chest pain</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>panic disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0086">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>asthma exacerbation</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>sinusitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0087">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>microscopic hematuria and proteinuria</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>asymptomatic bacteruria of pregnancy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0088">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>tachypnea</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>renal tubular acidosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0090">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>rhabdomyolysis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0096">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>abdominal discomfort</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>diabetic gastroparesis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0097">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>café au lait spots</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>neurofibromatosis type i</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0098">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>headache</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>intracranial hemorrhage</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0099">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>headache</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>neisseria meningitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0100">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>screening physical examination</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>av block</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0107">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>swollen leg</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>deep venous thrombosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0108">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>rash</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>varicella zoster virus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0111">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>throat fullness</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hereditary angioedema</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0112">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chest pain</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>dressler syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0118">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>lightheadedness</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0119">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>malignant melanoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0121">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>palpitations</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0122">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>aplastic anemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0123">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>back stiffness</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0124">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cirrhosis of the liver</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0125">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>renal failure</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0126">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>abdominal pain</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0127">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>abdominal pain</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0128">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>diabetic nephropathy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0129">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>lupus nephritis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0130">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>neisseria</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0131">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>lymphoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0133">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pain</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0134">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>shortness of breath</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0135">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chest pain</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0136">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>abdominal pain</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0137">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>leukemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0138">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>myocardial infarction</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0139">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>shortness of breath</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0140">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>muscular dystrophy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0141">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>metastatic lung cancer</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0142">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>x</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>bilateral subdural hematomas</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0143">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chronic lymphocytic leukemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0144">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chronic myelogenous leukemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Med_0145">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chronic myelogenous leukemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0000">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>abdominal pain</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pyelonephritis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pulmonary edema in pregnancy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vaccination in pregnancy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>group b streptococcus infection during pregnancy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>preterm premature rupture of membranes (pprom)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>alloimmunization during pregnancy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>postpartum hemorrhage</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>third trimester bleeding</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>non-reassuring external fetal heart tracing</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hemolytic disease of the newborn</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pelvic inflammatory disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0018">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>urinary incontinence</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>high grade squamous intraepithelial lesion</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0020">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>polycystic ovary syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>infertility</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cystic teratoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>fibroadenoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vaginal discharge</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pregnancy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0026">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>abnormal uterine bleeding</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0036">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>domestic violence</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0037">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>severe acne</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0038">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>post-partum depression</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0039">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>herpes simplex virus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0040">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cervical cancer</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0041">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>gestational diabetes mellitus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0043">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>kallmann syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0044">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>ectopic pregnancy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0045">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>polycystic ovarian syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0056">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>premature rupture of membranes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0057">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bacterial vaginosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0059">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>lichen simplex chronicus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0060">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vulvar pruritis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_OBG_0206">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>appropriate prenatal screening exams based on stages of pregnancy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>rash</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>neonatal sepsis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>meningitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>limping child with fever</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>osteomyelitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>developmental concern</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>developmental milestones</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>neonatal respiratory distress syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>attention deficit hyperactivity disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hypoplastic left heart syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>obstructive uropathy in males</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>kawasaki disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>tourette syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>spinal muscular atrophy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>epiglottitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>non-accidental trauma in infant</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0020">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vaginal discharge in child/sexual abuse of child</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>alkali ingestion</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>testicular torsion</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>malaria</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0027">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>henoch-schönlein purpura</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0031">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>developmental delay</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0032">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>congenital heart defect</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0033">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cystic fibrosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0034">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>scabies</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0038">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>constitutional delay in growth and puberty</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0039">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>loss of developmental milestones</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0040">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>midgut volvulus with malrotation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0041">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hiv testing in infants</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0042">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>autism spectrum disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0046">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>croup</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0047">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>benzodiazepine overdose</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0049">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vitamin a deficiency</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0050">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>henoch-schönlein purpura</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0051">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>infants of diabetic mothers</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0052">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>retropharyngeal abscess</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0053">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>infantile seborrheic dermatitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0054">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>respiratory distress</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>anaphylaxis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0055">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cough</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>croup</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0056">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>rash in pregnancy</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>rubella</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0057">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>dry skin</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>atopic dermatitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0058">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>delayed meconium passage</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>meconium ileus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0059">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>skin lesion</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>infantile hemangioma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0060">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vaginal discharge</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>trichomoniasis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0061">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>fever</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>roseola infantum</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0062">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pediatric hypertension</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>11-beta-hydroxylase deficiency</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0063">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>fatigue</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>iron deficiency anemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0065">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>juvenile idiopathic arthritis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0069">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>nocturnal enuresis management</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0070">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>pediatric osteomyelitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0072">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>fever</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>kawasaki disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0074">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vomiting</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>trisomy 21</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0075">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hip pain</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>slipped capital femoral epiphysis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0076">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>intoeing</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>femoral anteversion</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0077">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>wheezing</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>asthma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0078">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>scalp swelling</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>subgaleal hematoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0079">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>respiratory distress</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>congenital diaphragmatic hernia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0080">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>febrile rash</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>roseola infantum</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0082">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vomiting</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>rumination syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0083">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>skin lesion</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>dermal melanocytosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0084">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>oral ulcers</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hand-foot-and-mouth disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0085">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nocturnal anal itching</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>pinworm infection</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0086">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>rash</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>erythema migrans</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0093">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>iga nephropathy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0094">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>muscular dystrophy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0095">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>sickle cell disease and bacteremia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0096">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>chlamydia management in neonate</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Ped_0098">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>ventricular septal defect (vsd)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>panic attack</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>depersonalization disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>specific phobias</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>avoidant personality disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>obsessive compulsive disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>abnormal speech patterns</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>bulimia nervosa</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>cyclothymic disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>pharmacological management of adhd</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>substance-induced mood disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>bipolar disorder type i</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>adverse effects of antipsychotic medications</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>somatization disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>management of alcohol withdrawal</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>conversion disorder (functional neurological symptom disorder)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0018">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>pain management in chronic opioid abuse</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>delirium in elderly</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0020">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>body dysmorphic disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>major depressive disorder in adolescents</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>borderline personality disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>fatigue</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>medication side effect</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>histrionic personality disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>autism spectrum disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0026">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>unresponsiveness</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>catatonia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0027">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>depression</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0028">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>secondary causes of acute psychosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0029">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>respiratory distress</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>somatic delusion</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0030">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>delusion</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>delusional disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0031">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>obsessions and compulsions</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>obsessive compulsive disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0032">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>agitation</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>delirium</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0033">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>conduct disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0035">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>schizoid personality disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0036">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>schizotypal personality disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0038">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>clozapine side effects</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0044">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nonconsentual sexual contact</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>frotteurism</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0045">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>obsessions and compulsions</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>obsessive-compulsive disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0046">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>double vision</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>functional neurological disorder (conversion disorder)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0047">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>depression</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>uncomplicated bereavement</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0063">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>strange behavior</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>schizophreniform disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0064">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypomania</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>bipolar ii disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0065">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mania</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>bipolar disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0066">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>galactorrhea</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>medication side effect</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Psy_0067">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>involuntary movements</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>tardive dyskinesia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>acute bacterial parotitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>abdominal pain</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>branham’s sign</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>median nerve compression (carpal tunnel syndrome)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>melanoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>branchial cleft cyst</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>esophageal cancer</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>tibial plateau fracture</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>popliteal artery injury</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>postoperative fever</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>malignant polyp</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>porcelain gallbladder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>gastric cancer</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>toxic shock syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pyloric stenosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0018">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pheochromocytoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anal fissure</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0020">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hidradenitis suppurativa</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>diverticulitis with intra-abdominal abscess</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>traumatic hematuria</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pneumaturia</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>enterovesical fistula</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>reflex bradycardia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>abdominal pain</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>chronic mesenteric ischemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0028">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hemorrhoids</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0030">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hemorrhoids</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE2_Surg_0042">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>squamous cell carcinoma</name>
+      </topic>
+     </topics>
+    </question>
+   </questions>
+  </question-bank>
+ </question-banks>
+</rec-remediation-data>

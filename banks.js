@@ -1,5 +1,6 @@
 exports.banks = {
     1111123456789: {
+        isbn: "1111123456789",
         name: "MedEd_Sample_Bank",
         description: "MedEd Sample Bank",
         taxonomies: {
@@ -10,6 +11,7 @@ exports.banks = {
         }
     },
     1111222222222: {
+        isbn: "1111222222222",
         name: "UK_Basic_Science",
         description: "UK Basic Science",
         taxonomies: {
@@ -50,6 +52,7 @@ exports.banks = {
         }
     },
     1111333333333: {
+        isbn: "1111333333333",
         name: "UK_Clinical_Medicine",
         description: "UK Clinical Medicine",
         taxonomies: {
@@ -103,6 +106,7 @@ exports.banks = {
         }
     },
     1111444444441: {
+        isbn: "1111444444441",
         name: "USMLE_Step1",
         description: "USMLE Step1",
         taxonomies: {
@@ -150,6 +154,7 @@ exports.banks = {
         keyTopicCatalogs: ["Subcategory 1 tested", "Subcategory 2 tested"]
     },
     1111444444442: {
+        isbn: "1111444444442",
         name: "USMLE_Step2",
         description: "USMLE Step2",
         taxonomies: {
@@ -190,6 +195,7 @@ exports.banks = {
         keyTopicCatalogs: ["Chief complaint", "Primary disease"]
     },
     1111777777771: {
+        isbn: "1111777777771",
         name: "ANZ_Basic_Science",
         description: "ANZ Basic Science",
         taxonomies: {
@@ -230,6 +236,7 @@ exports.banks = {
         }
     },
     1111777777772: {
+        isbn: "1111777777772",
         name: "ANZ_Clinical_Medicine",
         description: "ANZ Clinical Medicine",
         taxonomies: {
@@ -283,6 +290,7 @@ exports.banks = {
         }
     },
     1111888888881: {
+        isbn: "1111888888881",
         name: "IND_Basic_Science",
         description: "IND Basic Science",
         taxonomies: {
@@ -317,6 +325,7 @@ exports.banks = {
         }
     },
     1111888888882: {
+        isbn: "1111888888882",
         name: "IND_Clinical_Medicine",
         description: "IND Clinical Medicine",
         taxonomies: {

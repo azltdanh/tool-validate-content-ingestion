@@ -1,0 +1,7108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rec-remediation-data xmlns="http://www.elesevier.com/eols/recommendation/remediation/exchange/v1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.elesevier.com/eols/recommendation/remediation/exchange/v1.0 exchange-v-1-0.xsd">
+ <created-ts>2019-03-26T04:02:55.598Z</created-ts>
+ <question-banks>
+  <question-bank>
+   <name>USMLE_Step1</name>
+   <description>USMLE Step1</description>
+   <questions>
+    <question id="YAI_MEDED_USMLE1_Anat_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cranial nerve innverations (vagus nerve)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cervical trunk innervation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>muscle innervation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>muscles of the temporomandibular joint</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>male pelvic anatomy</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>varicocele</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>epidural hematoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pharyngeal anatomy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>parotid sialolithiasis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>salivary gland anatomy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>adult coarctation of the aorta</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>abdominal innervation</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>gross anatomy (musculoskeletal)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anatomy of the lower gastrointestinal tract</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anatomy of the colon</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>adrenal glands</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>adrenal blood supply</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pelvic anatomy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>lower extremity anatomy</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>anterior compartment syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>venous system</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>intravenous catheter placement</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hand anatomy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hand muscles</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>lymph nodes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>situs inversus totalis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>appendicitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>facial blood supply</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0026">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>horner syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0027">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>recurrent laryngeal nerve</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>head and neck anatomy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0028">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>stroke</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>facial nerve (cn vii)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0029">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cavernous sinus drainage</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0030">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pharyngeal muscles</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>palatine tonsil</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0031">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>thoracic vascular anatomy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0032">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anatomy</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>upper extremity</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0034">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>lumbar puncture</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0035">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>erector spinae muscle group</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0036">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>brachial plexus</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>erb palsy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0037">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>scaphoid bone injury</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0038">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>radial nerve</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0039">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anterior humeral dislocation</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>subscapularis muscle</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0040">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cardiac anatomy</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>mitral valve</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0041">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pulmonary anatomy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0042">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hernia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0043">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hernia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0044">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>thoracic and abdominal anatomy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0045">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>metastatic cancer</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0046">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>thoracic anatomy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0062">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nerves within the prostate gland</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0064">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anatomy behind prostatic adenocarcinoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0065">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>ligaments of the uterus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Anat_0066">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anatomical structures damaged during straddle injuries</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>post-traumatic stress disorders and other stress illnesses</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>erectile dysfunction</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>diabetes mellitus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>developmental milestones</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>behavioral science</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>somatic symptom and related disorders</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>sexual response cycle</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>physician skills and communication with the patient</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>obsessive-compulsive disorder</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>ssris</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>obstructive sleep apnea</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>premature (early) ejaculation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>oedipal complex</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>psychosexual development</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>personality disorders</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>schizotypal personality disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>polysomnography</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>medical ethics</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>wernicke-korsakoff syndrome</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>confabulation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0026">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>psychiatric assessments</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0027">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>dysthymia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0028">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>developmental milestones</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0029">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>conditioning</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>ego defenses</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0030">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>sleep physiology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0031">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>reinforcement</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0032">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>temporal lobe</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>parietal lobe</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0033">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cocaine abuse</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0034">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>confidentiality</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>ethics</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0035">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>adjustment disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0036">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>compliance; adherence</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0037">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>schizophrenia</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>epidemiology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0038">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>schizophrenia</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>pharmacologic side effects</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0039">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>delusions</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>psychiatry</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0040">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>abnormal behavior</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>obsessive-compulsive personality disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0042">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>conversion disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Beh_0044">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>psychosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>enzymes that regulate glycolysis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nutritional deficiencies</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nutritional deficiencies</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>consequences of intestinal resection surgery</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>carbohydrate metabolism</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pentose phosphate pathway</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>integrated metabolism</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>enzyme kinetics</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>treatment of gout</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>parkinson disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>signalling pathways</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>the biochemistry of  hereditary fructose intolerance</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>metabolic enzyme deficiency diseases</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>branched-chain α-keto acid dehydrogenase complex (maple syrup urine disease)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>amino acid transport</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hartnup disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>graves disease</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hyaluronic acid</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>enzyme deficiency diseases</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>acute intermittent porphyria</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>lysosomal storage disease</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>gauchers disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>genetic immunodeficiency diseases (scid) or enzyme deficiency diseases</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>adenosine deaminase deficiency</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>lysosomal storage diseases</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>mucopolysaccharidosis (hurler syndrome)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0018">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>neurological diseases</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>myasthenia gravis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>enzyme deficiency diseases</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>phenylketonuria</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0020">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>enzyme deficiency diseases</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>lesch nyhan syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>liver damage</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>fed vs fasting state biochemistry</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>heme synthesis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>kidney disease</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>nephrotic syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>standard deviation/percentile</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>measures of central tendency</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>statistical measurements</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>specificity</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>scatterplots</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>relationships between variables</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>measurements of central tendency and statistics</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>study analysis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>common statistical tests</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>statistical analysis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>statistical hypothesis testing</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>statistical test and hypothesis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hypothesis testing</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>biostatistics</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>diagnostics</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>relative risk</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>interpretation of relative risk</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>attributable risk ratio and its function</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cohort studies and its uses</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cross-sectional studies and its definition</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>the design of ecological studies</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Biostat_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>the definition of recall bias</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nutritional deficiency</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0026">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypopituitarism</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hypoglycemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0027">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>x-linked recessive disorder</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0028">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>electron transport chain</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>carbon monoxide poisoning</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0029">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>muscular dystrophy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0030">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>gastroenteritis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>g protein coupled toxins</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0031">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vitamin e</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0032">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>21α-hydroxylase deficiency</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>congenital adrenal hyperplasia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0033">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypoalbuminemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0034">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>renin-angiotensin-aldosterone system</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0035">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>alpha-1 antitrypsin deficiency</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0036">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>urea cycle defects</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0037">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>western blot</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0038">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pulmonary physiology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0039">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hematology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>sports medicine</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0040">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pediatric hepatology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0041">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0042">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>thyroid carcinoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0043">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>connective tissue</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0044">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>metabolism</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>glycolysis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0047">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>human papillomavirus and its effects</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0048">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nutrition</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0049">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>laboratory techniques</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Bio_0050">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nutrition</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cyp 450 and its respective detoxifying abilities</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hepatic histopathology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>alcoholic hepatitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>electron microscopy</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>plasma cell</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>spermiation</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>male reproductive system</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>implantation</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>fertilization and development</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>sex determination</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>leigh disease</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>mitochondrial diseases</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>transcription factor properties from graves disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>aspirin toxicity as related to the electron transport chain</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>signal cascade sequence of myelogenous leukemia.</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>the mechanism of xeroderma pigmentosa</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>laboratory tests related to diabetes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mechanism of i cell disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>liver and its functions</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mitochondrial disorders</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Cell_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>urea cycle and its enzymes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>embryologically pathology development of the penis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>omphalocele</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>spina bifida occulta</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hydrocephaly</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>toxoplasmosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>embryology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>rubella</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>birth defects</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vitelline fistula</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>turner syndrome</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>karyotype</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cleft lip</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>glucose metabolism</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hirschsprung disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>horseshoe kidney</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>abdominal vasculature</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>polyhydramnios</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vitelline duct</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>duodenal atresia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0018">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>ductus venosus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pulmonary hypoplasia</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>diaphragmatic hernia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0020">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>trisomy 21</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anencephaly</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>teratogenicity</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bone development</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>arnold chiari malformation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0026">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>atrial septal defect</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0027">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>achondroplasia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0028">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hematopoiesis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>erythropoiesis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0029">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mechanism behind ectopic pregnancy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0030">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>stages of zygotic splitting and their effect on the fetus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Emb_0032">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>retinoblastoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>genetic diseases</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>determining a diagnosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>disease inheritance</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>pedigree interpretation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>inheritance patterns</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>down syndrome</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>karyotype interpretation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>depression</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>genetic vs. environmental disease factors</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>calculating genetic probability</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>autosomal recessive genetic mutations</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>inheritance patterns</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>pedigree</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mendelian inheritance</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>prader-willi syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>duchenne muscular dystrophy</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>introns and splicing</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>alpha-fetoprotein levels</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>gastroschisis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>alpha-fetoprotein levels</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>alpha-fetoprotein levels</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>turner syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hbh disease</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>heinz bodies</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>phenylketonuria (pku)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>genetic inheritance and probabilities</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>maternal serum alpha-fetoprotein levels and its implications</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0018">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>edwards syndrome (trisomy 18)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>prenatal screening</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>molecular biology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>principles of genetic inheritances</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chromosomal abnormalities</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>22q11</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>genetic probability</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>inheritance patterns</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>sex chromosome aneuploidy</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>klinefelter syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0027">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>osteogenesis imperfecta</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0028">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>achondroplasia</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>chondrocytes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0029">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>gene therapy</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>viral vectors</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0030">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>x-linked recessive disorder</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hemophilia a</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0031">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>deletion</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>prader-willi syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0032">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>retinoblastoma</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>inherited mutations</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0033">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>amplification</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>myotonic dystrophy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Gen_0045">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>methylguanosine cap</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>multiple sclerosis and its symptoms</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>mechanism of multiple sclerosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>function of stem cells within various tissues and organs</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>histology of lymphoid tissue</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>different components of the lymph node</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>liver histology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>renal histology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>prostate cancer</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>types of hypersensitivities and their mechanisms</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>the histology of the human tissue</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>morphology of erythrocytes and its alterations in sickle cell anemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>urinary tract infection</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>the mechanism of type iv hypersensitivity</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mechanism of second-degree burns</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>dna presence within the pilosebaceous organ</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>definition of third-degree burns</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anatomy of the tongue</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>parkinson disease and its associated symptoms</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>basal cell carcinoma and its presentation</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>etiology of basal cell carcinoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>ethnic differences among layers of skin</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0018">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>etiology of chronic bronchitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>the presentation of zeisian hordeolum</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>carcinoid tumor</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0027">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>parietal cell</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>gastroesophageal reflux disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0029">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>erythropoietin</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0034">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>human immunodeficiency virus</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>replication of retroviruses</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0035">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cells involved in the blood-testis barrier</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0036">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bactericidal properties of the vagina</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0038">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>parietal cell</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>pernicious anemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0039">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>multiple myeloma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0043">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chemotherapy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0056">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>megakaryocytes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0058">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>megakaryocytes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Hist_0066">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>natural killer cells</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>digeorge syndrome</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>immune deficiencies</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>adenosine deaminase deficiency</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>immunization</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>laboratory techniques</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>elisa</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nk cells</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>mhc i and ii</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypersensitivity reactions</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>ige and anaphylaxis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>blood type categories</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>immunologic disorders</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vaccinations in immunocompromised patients</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bacterial infections as related to immunology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>immunoglobulin abundance in serum</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>opportunistic infections in hiv/aids</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>t cell mediated immunity</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mycobacterium tuberculosis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hiv</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>poststreptococcal glomerulonephritis (psgn)</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>type iii hypersensitivity reaction</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>passive immunity</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>congenital infection</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>rhesus (rh) factor</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hemolytic disease of the newborn (hdn)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>immunology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>immune response to viral infection</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypersensitivity reactions</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>type iv hypersensitivity mediators</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0018">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>immune system</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>allergy mediators and allergen specific immunotherapy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>immune system</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>complement activation pathway</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0020">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>complement deficiencies</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>viral infection</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>herpes simplex virus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mechanism of th1 immune response</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mechanism of natural killer cells</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mechanism of dendritic cell antigen presentation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>difference in markers between t cells and b cells</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0026">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>leprosy</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>cd4 t cells</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0027">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>shock</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>e. coli</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0028">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>processes of inflammation</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>markers associated with the myeloid lineage cells</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0029">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>antibody response</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>antibody-dependent cellular cytotoxicity (adcc)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0030">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>tumor necrosis factor (tnf)</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>apoptosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0031">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>serology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>epstein-barr virus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0032">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>systemic lupus erythematosus</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>staphylococcus aureus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0033">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>immunoglobulin structure</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>serology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0034">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>transplant physiology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hyperacute rejection</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0035">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hepatitis b</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0036">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>paroxysmal nocturnal hemoglobinuria</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0037">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>asplenia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0038">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>x-linked agammaglobulinemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0040">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hyper-igm syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0043">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>tb skin testing</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0048">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>x-linked agammaglobulinemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0050">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>psoriasis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>guttate psoriasis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0051">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>fetal-maternal rh incompatibility</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hemolytic anemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0052">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>delayed type hypersensitivity reactions</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>tuberculosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0053">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vaccine</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>conjugated vaccine</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0054">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>passive immunization</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>tetanus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0055">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>allergy</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>allergen insensitization therapy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0056">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>immune responses to parasites</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>diphyllobothrium latum</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0057">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>transplant immunity</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>rh factor</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0059">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>type 1 hypersensitivity reactions</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hay fever</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0060">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>antiviral immunity</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>type 1 interferon</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0063">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>diarrhea</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>giardia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0064">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>congenital immunodeficiency</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>digeorge syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0065">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>acute transplant rejection</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0084">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hemolytic disease of the newborn (hdn)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Imm_0085">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>syphilis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>jarisch-herxheimer reaction</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>sexually transmitted infection</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>sore throat/pharyngitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>enteric bacteria</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>bone infections</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>diphtheria</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>pharyngeal infection</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bacterial infection: s. pyogenes</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>toxic shock</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>enteric bacteria</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>bacteremia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>listeria monocytogenes</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>meningoencephalitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>streptococcus pneumoniae</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>community acquired pneumonia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>klebsiella pneumoniae</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hospital acquired infection</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>urinary tract infection</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>proteus mirabilis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>staphylococcus aureus</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>infant and child diseases</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>staphylococcus aureus</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>virulence factors</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hemophilus influenzae b</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>immunodeficiency</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>streptococcus agalactiae</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>neonatal infection</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bacillus anthracis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>occupational disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>campylobacter jejuni</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>guillain-barré syndrome</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>campylobacter</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>guillain-barré syndrome</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>campylobacter</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0018">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>parvovirus b19</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>aplastic crisis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>typhoid fever</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>salmonella</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0020">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>parvovirus</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>erythema infectiosum</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>peptic ulcers</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>helicobacter pylori</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>sexually transmitted infections</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>treponema pallidum</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bioterror agent</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>bacillus anthracis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>foodborne diseases</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>taenia solium</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>congenital infections</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>parvovirus b19</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0026">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>immune complex diseases</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>parvovirus b19</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0027">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bacterial endocarditis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>viridans streptococci: s. mutans</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0028">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bacterial endocarditis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>viridans streptococci</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0029">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>diarrhea</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>giardia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0030">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bacterial diarrhea</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>escherichia coli</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0031">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>campylobacter jejuni</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>reactive arthritis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0032">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>reactive arthritis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>reiter’s syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0033">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>ascaris lumbricoides</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0034">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>tuberculosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0035">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>urinary tract infection</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>escherichia coli</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0036">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hepatitis b</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hepatitis b virus serology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0037">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nematode infection</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>strongyloides stercoralis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0038">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>treatment of urinary tract infections</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>amoxicillin/clavulanate</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0039">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>diarrheas</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>yersinia enterocolitica</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0040">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>glomerulonephritis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>streptococcus pyogenes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0041">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>purified protein derivative</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>mycobacterium tuberculosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0042">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cord factor</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>mycobacterium tuberculosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0043">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mycobacterium leprae</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0044">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>leukocyte adhesion deficiency</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0045">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>otitis media</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>rhinitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0046">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hemolytic uremic syndrome</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>shiga toxin</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0047">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cryptosporidiosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0048">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>rotavirus</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>malabsorption</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0049">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hepatitis b serology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0050">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>spontaneous bacterial peritonitis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>streptococcus pneumoniae</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0051">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>common pathogens in sexually transmitted infections</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>human papillomavirus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0052">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vibrio cholerae</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>cholera</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0053">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vibrio cholerae</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>cholera</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0054">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hepatitis a</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0055">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>shigella</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0056">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>staphylococcus saprophyticus</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>urinary tract infection</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0057">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>enteric parasite infestations</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>necator americanus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0058">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>antibiotics</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>trimethoprim sulfamethoxazole</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0060">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hemorrhagic diseases</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hantavirus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0061">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>varicella zoster virus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0062">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>diagnosis from charcot triad</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0063">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>presentation of cryptosporidium parvum</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0064">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>f. hepatica and its presentation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0065">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>manifestations of cutaneous nematodes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0066">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>virulence factors of e. coli</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0067">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>adenovirus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0068">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bacteroides fragilis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>intra-abdominal abscess</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0069">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>malaria</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0070">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>antibiotic resistance</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0071">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>borrelia</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>spirochetes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0082">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bacterial food contamination</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>listeria monocytogenes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0083">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bone infections</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>staphylococcus epidermidis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0084">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pneumonia</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>streptococcus pneumoniae</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0085">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vaccines</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>pneumococcal vaccines</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0086">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>meningitis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>h. influenzae b</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0087">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pasteurella</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>cellulitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0088">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>urinary tract infection</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>klebsiella</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0089">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>candida</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0090">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>rocky mountain spotted fever</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>rickettsia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0091">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pott’s disease</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>tuberculosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0095">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>leishmania donovani</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0098">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>ixodes scapularis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>tick</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0099">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>clostridium perfringens</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>gas gangrene</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0100">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>west nile virus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0101">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>catalase</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0102">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>sporotrichosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0103">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>methicillin resistance</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>staphylococcus aureus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0104">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pathogens of puerperal sepsis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0105">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>coagulase</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0106">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>enterohemorrhagic escherichia coli</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0107">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chagas disease</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>achalasia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0108">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>crohn disease</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>inflammatory bowel disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0109">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>ascaris lumbricoides</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0110">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bacterial peritonitis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>antibiotics</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0111">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>gentamicin</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0112">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>staphylococcus aureus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0113">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>staphylococcus aureus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0114">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>ophthalmia neonatorum</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>erythromycin</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0115">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>conjunctivitis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>adenovirus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0117">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>gram stain</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0118">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>diphtheriae</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Micro_0119">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bacillus anthracis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>anthrax</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Mol_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>molecular testing/diagnosis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>fluorescense in-situ hybridization (fish)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Mol_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cell cycle regulation</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>tumor suppressor genes and proto-oncogenes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Mol_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chemotherapy for hodgkin’s lymphoma</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>vinca alkaloids</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Mol_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>lysosomal storage disorders</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>sphingolipidoses</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Mol_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>antimicrobials</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>tuberculosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Mol_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>metabolic pathways</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>lactose intolerance</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Mol_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>gluconeogenesis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Mol_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>systemic lupus erythematosus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Mol_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>niemann-pick disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Mol_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>autonomic nervous system pharmacology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>phospholipase c pathway</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Mol_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>megaloblastic anemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Mol_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>genetics</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>brain lesion pathologies</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>diagnosing from clinical exam results</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>neurological pathologies</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>headache</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hemi-neglect syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>neuroanatomy</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>brain lesion</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>brain lesions</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>cranial nerves</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>brain lesions</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hydrocephalus</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>neuroradiology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>parkinson disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>brain lesions</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>brain lesions</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>upper motor neuron function</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>syphilis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>brain lesions</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>brain lesions</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>stroke</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>mesencephalic lesions</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>stroke</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>medullary lesion</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>stroke</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hypoglossal nerve lesion</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0018">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>stroke</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>trigeminal nerve lesions</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>akinetopsia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0020">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pinealoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>trigeminal nerve (cn v)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>brain lesions</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vitamin e deficiency</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>kanamycin</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>night blindness</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>retinitis pigmentosa</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0026">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>narcolepsy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0027">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>korsakoff psychosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0028">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>decorticate rigidity</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0029">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>complex regional pain syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0030">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>aphasia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0031">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>dorsal column medial lemniscus (dcml) tract</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0032">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>tay-sachs disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0033">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>spinothalamic pathway</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>syringomyelia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0034">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>absence seizures</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0035">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>wernicke aphasia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0046">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vision</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>brain lesions</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0047">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>spinal cord</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>brain lesions</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0048">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>brain lesions</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>auditory system</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0049">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>brain lesions</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>auditory system</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0050">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vision</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0066">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>multiple sclerosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0067">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>prader-willi syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0068">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>locked-in syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0070">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>basal ganglia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0076">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>dorsal column pathway</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0077">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anterior pons</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0078">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cerebellum</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0079">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>parietal lobe</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0080">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cranial nerves</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0116">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cranial nerves</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0117">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>intracranial hemorrhage</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0118">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cavernous sinus thrombosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0119">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>internuclear ophthalmoplegia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Neuro_0120">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>internal capsule tracts</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>lymphatic drainage patterns</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nephritis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>electrolytes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>colon polyp</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>risk factor for colon cancer</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>inflammatory bowel disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>gastric pathology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>gastroesophageal reflux disease (gerd)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>small bowel obstruction</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>metastatic renal cancer</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>multiple pulmonary lesions secondary to metastasis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pathology of myocardium cell damage</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>testicular cancer cell types</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>metastatic colon cancer</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>n/a</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>acute respiratory distress syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>central nervous system hemorrhage</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>polycystic kidney disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cirrhosis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>congestive heart failure</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>thyroid cancer</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>spider bites</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>toxicology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0018">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hyperparathyroidism</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>chronic kidney disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0020">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>inflammatory bowel disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>benign prostatic hyperplasia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>gilbert syndrome</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>congenital hyperbilirubinemias</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>primary biliary cholangitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hepatocellular carcinoma</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>α-fetoprotein</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>diabetes mellitus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0026">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>iga glomerulonephropathy</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>berger disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0027">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>consequences of diethylstilbestrol (des), a teratogen</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0028">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>acetaminophen overdose</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>liver injury</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0029">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>risk factors for endometrial carcinoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0030">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>syphilis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0031">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>consequences of high estrogen levels on the body</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0032">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>neoplasia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0033">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>neuropathology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>ischemic brain disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0034">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>restrictive lung disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0035">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cellular injury</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>inflammation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0036">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypersensitivity reactions</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>type ii hemolytic reaction</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0037">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chronic inflammation</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>granulomatous diseases</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0038">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hemostasis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>the coagulation cascade</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0039">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>respiratory pathology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>pulmonary embolism</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0040">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hemorrhagic/hypovolemic shock</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0041">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>genetic abnormalities</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>down syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0042">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>acute leukemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0043">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>systemic sclerosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0044">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hepatocellular carcinoma</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>liver metastasis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0045">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>inherited tumor syndromes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0046">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vitamin c deficiency</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0047">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>xeroderma pigmentosum</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0048">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>osteomyelitis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>sickle cell disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0049">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>radiation toxicity</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0050">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>neonatal respiratory distress syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0051">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>polyarteritis nodosa</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0052">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hepatic angiosarcoma</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>polyvinyl chloride</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0053">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>marfan syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0054">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mitral valve prolapse</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0055">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mitral valve stenosis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>rheumatic fever</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0056">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>iron deficiency anemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0057">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>myocardial infarction</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>coagulation necrosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0058">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pernicious anemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0059">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>thalassemia disorders</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0060">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mechanism of bernard-soulier syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0061">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>small lymphocytic lymphoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0062">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hereditary spherocytosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0063">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hodgkin lymphoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0064">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>acute myelogenous leukemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0065">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>heart failure</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0066">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>acute respiratory distress syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0067">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>streptococcus pneumoniae</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0068">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chronic myelogenous leukemia (cml)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0069">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypersensitivity reactions</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0072">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hemolytic disease of the newborn</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0074">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>plummer-vinson syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0076">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>sideroblastic anemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0081">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hemophilia disorders</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0089">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>epstein-barr virus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0090">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>polycythemia vera (pv)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0096">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>visual pathologies</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0097">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypertrophic cardiomyopathy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0098">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>neonatal respiratory distress syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0099">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>postoperative state</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>lobar pneumonia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0100">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>horner syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0133">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>prostatic metaplasia from benign prostatic hyperplasia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0138">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>testicular germ cell tumors</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0153">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>differential diagnosis for vaginal bleeding</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Path_0183">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>fibrocystic changes of the breast</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mechanism of action of 3rd generation cephalosporins</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>bacterial meningitis management</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cilastatin organ action</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>renal protection with antibiotics</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>monoclonal antibody use in crohn disease</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>latent tuberculosis and tnf-α inhibitors</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>action of lactulose in hyperammonemia</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hepatic encephalopathy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>impetigo management</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>gram positive antibiotic coverage in penicillin allergy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>signal transduction pathways of the nervous system</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>g-protein coupled receptor pathways (gpcr)</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypoglycemia – signs and symptoms of nph insulin induced hypoglycemia</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>nervous system – receptor mediated response to hypoglycemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>neuromuscular blocking drugs – mechanism of action and adverse effects of depolarizing vs nondepolarizing agents</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>anesthetics</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cholinergic pharmacology; direct and indirect cholinomimetic agents</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>organophosphate poisoning.</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>autonomic drugs</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>sensory systems</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>asthma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>movement disorders- essential tremor.</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>acetaminophen intoxication</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>antidotes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>diabetes mellitus</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>insulins</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>antipsychotics</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>drug induced neutropenia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>opioid antagonists</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>drugs of abuse</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0018">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>antihypertensives</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>autonomic regulation of blood pressure</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anticoagulants</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0020">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>beta 2 agonist and bronchodilators</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>antihypertensives</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>posterior eye pathology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>antiviral agents</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>clostridium difficile colitis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>treatment of infective endocarditis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>antimycobacterial drugs</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>treatment of atypical pneumonia</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>mechanism of action of antibiotics</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0026">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hemolytic anemia</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>malaria</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0027">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>management of hsv infection</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0028">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>management for treponema pallidum infection</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0029">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anti mycobacterial agents</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0030">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>antihelminthic agents</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0031">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>antiprotozoal agents</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0032">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anti-arrhythmics</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0033">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>toxicology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>side effects of anti-hypertensives</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0034">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypercholesterolemia</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>statin therapy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0035">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>digoxin</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0036">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>warfarin</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0037">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>antiarrhythmic pharmacology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>quinidine</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0038">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>diuretics</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0039">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>class iii antiarrhythmics</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>amiodarone</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0040">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>warfarin</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>ddrug interactions</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0041">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cocaine</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0042">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>propranolol</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>β-adrenergic receptor blockers</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0043">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pharmacologic inducers and inhibitors of labor</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0044">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>local anesthetics</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0045">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypertension</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>phenylephrine</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0046">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pilocarpine</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>glaucoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0047">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>malignant hyperthermia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0048">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pharmacology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hematology and oncology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0049">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vincristine</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>drug-induced neurotoxicity</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0051">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pharmacology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>musculoskeletal</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0055">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chemotherapy drugs</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0057">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>oral contraceptive side effects</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0063">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>benzodiazepine</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>delirium tremens</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0064">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>tricyclic antidepressant</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0065">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bradykinin</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>angiotensin-converting enzyme inhibitor</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0066">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>thiazide</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hyperlipidemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0067">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>g protein</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>bronchodilator</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0068">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pseudoephedrine</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0069">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>graves disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0070">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>loperamide</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0071">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>drug interactions</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>penicillin</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0072">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>sideroblastic anemia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0073">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>primary adrenocortical insufficiency</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>addison disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0079">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>seizures</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>pharmacology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0080">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>antidiuretic hormone (adh)</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>side effects</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0081">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>antihypertensives</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>mechanism of action</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0082">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>drug interactions</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>beta blockers</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Pharm_0083">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>antibacterial medications</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>mechanism of action</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>methanol intoxication</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>metabolic acidosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>electrolytes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>endocrinology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>diabetes insipidus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>glomerular filtration rate calculation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>free water clearance</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>fluid compartments</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nephron physiology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>pharmacology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>physiology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>renal physiology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>endocrinology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>effects of adh secretion</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>physiology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>renal and cardiovascular physiology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hyperparathyroidism</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>renal insufficiency</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>parathyroid hormone</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>renal physiology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>renal insufficiency</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>renal physiology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>renal physiology</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>exercise physiology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bartter syndrome</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>renal physiology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypothyroidism</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>adrenocorticotropic hormone</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0018">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>epinephrine</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>ecg interpretation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>acromegaly</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>growth hormone</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0020">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cortisol</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>primary adrenal insufficiency</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>21-hydroxylase deficiency</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>congenital adrenal hyperplasia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypothalamic-pituitary-gonadal axis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>menstrual cycle</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>insulin secretion</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>glucagon secretion</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hyperaldosteronism</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>adrenal hyperplasia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0026">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>vitamin d metabolism</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>renal failure</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0027">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypothalamic-pituitary-gonadal axis.</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>exogenous testosterone use.</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0028">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>secondary amenorrhea</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0029">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pregnancy</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>reproductive hormones</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0030">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>heart sounds and murmurs</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0031">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>aortic pressure</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>aortic compliance</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0032">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>heart murmur</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>valvular defect</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0033">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>serum protein</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>oncotic pressure</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0034">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hyperventilation</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>syncope</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0035">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>contractility</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>shortening velocity</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0036">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cardiac murmurs</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0037">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>carotid sinus mechanosensor</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0038">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cardiovascular pressure circulation curve</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0039">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>fick principle</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0040">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>left ventricular pressure-volume curve</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0041">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>left ventricular pressure-volume loop</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0042">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>left ventricular pressure-volume loop</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0043">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>left ventricular pressure-volume loop</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0044">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>starling’s force</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0045">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>atrial pressure and venous return curve</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0051">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cardiac conduction pathway</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0052">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>second-degree av block</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0053">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cardiac ventricular action potential phases</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0054">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>electrical axis of ventricular depolarization</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0055">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>frank-starling curve</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0056">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>frank-starling curve</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0057">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>isovolumetric ventricular contraction</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0058">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cushing reflex</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0060">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>bronchial obstruction</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0061">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>venous thromboembolic disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0062">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pulmonary hypoxic drive for copd patients</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0063">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>physiologic pulmonary dead space</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0064">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>carbon monoxide (co) poisoning</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0065">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>relationship between alveolar ventilation and paco2</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0066">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>oxyhemoglobin dissociation curve</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0073">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>alveolar pressure</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0074">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>fev1/fvc ratio</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>restrictive versus obstructive pulmonary disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0075">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>minute ventilation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0076">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>central co2 chemoreceptors</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0077">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>dalton’s law of partial pressure</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0078">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>breathing mechanism</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0079">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pulmonary function test</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0080">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>intrapleural pressure changes</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0081">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>body fluid compartments</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0082">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>resting membrane potential ion concentrations</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0083">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nutrient absorption</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0084">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>electrochemical gradients</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0085">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>pharmacokinetics</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0090">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>digestion</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0091">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>histamine</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>paracrine signaling</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0092">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>basic electrical rhythm</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>enteric nervous system</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0093">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>gastric acid secretion</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>digestion</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0094">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>secretin</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>digestion</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_Phys_0159">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hormonal changes during breast-feeding</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0000">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>erectile dysfunction</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>diabetes mellitus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0001">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>loop diuretic</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0002">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>graves disease and the mechanism behind the disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0003">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>mechanism of the botulism toxin</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0004">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cystic fibrosis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0005">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>recognition of cushing triad</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0006">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>acid-base disorders</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0007">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>symptoms of graves disease</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0008">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>cardiac pathophysiology</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0009">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>left ventricular volume and pressure curve</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0010">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>renal artery stenosis</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>renin, angiotensin ii, aldosterone</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0011">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chronic obstructive pulmonary disease</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>pulmonary function tests</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0012">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>patent ductus arteriosus as related to the left ventricular pressure-volume curve</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0013">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>genitofemoral nerve anatomy and innervation</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0014">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>renovascular hypertension</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0015">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>hypothyroidism</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hashimoto thyroiditis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0016">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>central diabetes insipidus</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0017">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>achondroplasia</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0018">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>anorexia nervosa</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0019">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>duchenne muscular dystrophy</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0020">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>benign prostatic hyperplasia (bph)</name>
+      </topic>
+      <topic>
+       <group>Other</group>
+       <name>hormone synthesis</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0021">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>glaucoma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0022">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nephritic syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0023">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>nephrotic syndrome</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0024">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>asthma</name>
+      </topic>
+     </topics>
+    </question>
+    <question id="YAI_MEDED_USMLE1_PP_0025">
+     <topics>
+      <topic>
+       <group>Other</group>
+       <name>chronic obstructive pulmonary disease</name>
+      </topic>
+     </topics>
+    </question>
+   </questions>
+  </question-bank>
+ </question-banks>
+</rec-remediation-data>
