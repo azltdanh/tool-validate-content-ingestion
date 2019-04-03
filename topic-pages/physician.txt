@@ -372,7 +372,6 @@ Cushing disease
 Cushing syndrome
 cutaneous candidiasis
 cutaneous leishmaniasis
-cutaneous leishmaniasis
 cutaneous paraneoplastic syndrome
 cutaneous T-cell lymphoma
 cyclical vomiting syndrome
@@ -1341,8 +1340,6 @@ superficial thrombophlebitis
 superior vena cava obstruction
 supraventricular tachycardia
 Sweet syndrome
-syndrome
-syndrome
 syndrome
 syndrome of inappropriate ADH secretion
 synovial cyst of popliteal space

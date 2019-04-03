@@ -2,8 +2,10 @@ const _ = require('lodash');
 const fs = require('fs');
 const path = require('path');
 const xml2js = require('xml2js');
+const request = require('request');
 
 const outputPath = 'output';
+const JSESSIONID = 'B808847B17EA7A3E03AF24C2DD544C91';
 
 const normalize = (array) => {
   return array.map(item => { return item.toLowerCase().trim() });
@@ -38,6 +40,27 @@ const isFileExistsWithCaseSync = (filePath) => {
   }
   return isFileExistsWithCaseSync(dir);
 }
+
+const isUrlExists = (url, callback) => {
+  var cookie = request.cookie(`INDEX=GLOBAL;JSESSIONID=${JSESSIONID}`);
+  var headers = {
+    'Content-Type': 'application/json',
+    'Cookie': cookie
+  };
+  var options = {
+    url: encodeURI(url),
+    method: 'HEAD',
+    headers: headers
+  };
+  request.get(options, (err, res, body) => {
+    if (err) { return console.log(err); }
+    callback(res.statusCode == 200);
+  });
+};
+
+const isUrlExistsPromise = url => {
+  return new Promise((resolve, reject) => isUrlExists(url, (exists) => exists ? resolve(exists) : reject(exists)));
+};
 
 const saveJSON = (objData, desc, prefix) => {
   const fileName = `${prefix}_${desc.toLowerCase().replace(new RegExp(/(\s|-)/, 'gm'), '_')}.json`;
@@ -149,14 +172,43 @@ const generateQuestionTopicMappingXML = (objQuestionTopics, bankInfo) => {
 };
 
 const generateTopicPageMappingXML = (arrTopics, prefix) => {
+  if (prefix == 'nursing') return;
+
+  const validateUrls = false;
+  if (validateUrls) {
+    const topicDuplicated = _(arrTopics).groupBy().pickBy(x => x.length > 1).keys().value();
+    saveJSON(topicDuplicated, 'topic-page-mapping-duplicated', prefix);
+
+    const validatedTopics = [];
+    const noValidTopics = [];
+    const validateTopicPromises = arrTopics.slice(0, 10).map(topicName => {
+      return isUrlExistsPromise(`https://cd-staging.clinicalkey.com/meded/api/topic/${topicName}`)
+        .then(exists => {
+          // console.log(exists, topicName);
+          validatedTopics.push(topicName);
+        })
+        .catch(exists => {
+          // console.log(exists, topicName);
+          noValidTopics.push(topicName);
+        });
+    });
+
+    Promise.all(validateTopicPromises)
+      .then(function () {
+        console.log('all dropped)');
+        console.log('validatedTopics', validatedTopics.length, validatedTopics);
+        console.log('noValidTopics', noValidTopics.length, noValidTopics);
+      })
+      .catch(console.error);
+  }
   const tpmList = (arrTopics || []).map(topicName => {
     return {
-      "resource": `/meded/api/topic/${topicName.replace(/\s/gi, '_')}`,
+      "resource": `/meded/api/topic/${topicName}`, //.replace(/\s/gi, '_')
       "description": '',
       "topics": [
         {
           "topic": {
-            "group": "Other",
+            "group": "Disease",
             "name": topicName
           }
         }
@@ -172,7 +224,7 @@ const generateTopicPageMappingXML = (arrTopics, prefix) => {
       parser.parseString(qtmXML, function (err, qtmJSON) {
         qtmJSON['rec-remediation-data']['created-ts'] = (new Date()).toISOString();
         qtmJSON['rec-remediation-data']['page-domains'][0]['page-domain'][0]['name'] = 'TOPIC';
-        qtmJSON['rec-remediation-data']['page-domains'][0]['page-domain'][0]['url-template'] = 'https://ck2-cert.clinicalkey.com/meded';
+        qtmJSON['rec-remediation-data']['page-domains'][0]['page-domain'][0]['url-template'] = 'https://ck2-cert.clinicalkey.com';
         qtmJSON['rec-remediation-data']['page-domains'][0]['page-domain'][0]['description'] = '';
         qtmJSON['rec-remediation-data']['page-domains'][0]['page-domain'][0]['pages'][0]['page'] = tpmList;
         delete qtmJSON['rec-remediation-data']['question-banks'];
