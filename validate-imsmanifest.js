@@ -9,19 +9,19 @@
  * # Add --fix to auto fix encoded-tag and force-close-tag
  *
  * # Example
- * $ node validate-imsmanifest.js ~/Downloads/MEDED_UKBasicScience_v45_1111222222222_MedEd
- * $ node validate-imsmanifest.js ~/Downloads/MEDED_UKClinicalMedicine_v59_1111333333333_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_UKBasicScience_v47_1111222222222_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_UKClinicalMedicine_v61_1111333333333_MedEd
  *
- * $ node validate-imsmanifest.js ~/Downloads/MEDED_ANZBasicScience_v7_1111777777771_MedEd
- * $ node validate-imsmanifest.js ~/Downloads/MEDED_ANZClinicalMedicine_v6_1111777777772_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_ANZBasicScience_v9_1111777777771_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_ANZClinicalMedicine_v8_1111777777772_MedEd
  *
  * $ node validate-imsmanifest.js ~/Downloads/MEDED_MedEdSample_v19_1111123456789_MedEd
  *
- * $ node validate-imsmanifest.js ~/Downloads/MEDED_INDBasicScience_v2_1111888888881_MedEd
- * $ node validate-imsmanifest.js ~/Downloads/MEDED_INDClinicalMedicine_v3_1111888888882_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_INDBasicScience_v5_1111888888881_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_INDClinicalMedicine_v5_1111888888882_MedEd
  *
- * $ node validate-imsmanifest.js ~/Downloads/MEDED_USMLEStep1_v30_1111444444441_MedEd
- * $ node validate-imsmanifest.js ~/Downloads/MEDED_USMLEStep2_v27_1111444444442_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_USMLEStep1_v31_1111444444441_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_USMLEStep2_v28_1111444444442_MedEd
  * #
  */
 const _ = require('lodash');
@@ -369,8 +369,12 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
                             return;
                         }
                         if (stat.isFile()) {
-                            fs.readFile(filePath, 'utf8', function (err, tpTXT) {
-                                utils.generateTopicPageMappingXML(tpTXT.split('\n'), path.parse(filePath).name);
+                            fs.readFile(filePath, 'utf8', function (err, tpCSV) {
+                                let tpArr = tpCSV.split('\n');
+                                if (tpArr[0] === 'topic_name') {
+                                    tpArr = tpArr.shift();
+                                }
+                                utils.generateTopicPageMappingXML(tpArr, path.parse(filePath).name);
                             });
                         }
                     });
