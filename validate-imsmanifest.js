@@ -30,8 +30,19 @@ const path = require('path');
 const xml2js = require('xml2js');
 // const inspect = require('eyes').inspector({ maxLength: false });
 
-const { banks } = require(`./banks`);
-const { utils } = require(`./utils`);
+const { banks } = require('./banks');
+const { utils } = require('./utils');
+
+// const physicianPages = require('./topic-pages/physician_page_resource_test_results.json')
+// const allTests = physicianPages.results[0].allTests;
+// const failedTests =
+//     allTests.filter(obj => {
+//         return Object.values(obj)[0] === false;
+//     }).map(obj => {
+//         return Object.keys(obj)[0].match(/'(.*?)'/gi)[0].replace(/'/g, '');
+//     });
+// console.log('physicianPages', failedTests);
+// utils.saveCSV(failedTests, 'failed-tests', 'physician');
 
 const config = {
     checkQuestionTaxonomy: true,
@@ -43,7 +54,7 @@ const config = {
     checkDeletedQuestions: false,
     autoFixIssue: false,
     validateQuestionTopicMapping: true,
-    generateQuestionTopicMapping: true,
+    generateQuestionTopicMapping: false,
     generateTopicPageMapping: true
 }
 
@@ -66,6 +77,50 @@ const bankKeyTopicCatalogs = utils.normalize(bankInfo.keyTopicCatalogs || []);
 const listQuestionIds = [];
 const listQuestionFiles = [];
 const listQuestionKeyTopics = {};
+
+if (config.generateTopicPageMapping) {
+    var dirPath = 'topic-pages';
+    fs.readdir(dirPath, function (err, files) {
+        if (err) {
+            console.error(`Could not list the ${dirPath} directory.`, err);
+            process.exit(1);
+        }
+        files.forEach(function (file) {
+            var filePath = path.join(dirPath, file);
+            fs.stat(filePath, function (error, stat) {
+                if (error) {
+                    console.error(`Error stating file ${filePath}.`, error);
+                    return;
+                }
+                if (stat.isFile()) {
+                    fs.readFile(filePath, 'utf8', function (err, tpCSV) {
+                        let tpArr = tpCSV.split('\n').map(value => value.replace(/['"]+/g, '')); // TODO: normalize text
+                        if (tpArr[0] === 'topic_name') {
+                            tpArr.shift();
+                        }
+                        const prefix = path.parse(filePath).name;
+                        if (['physician', 'uk'].indexOf(prefix) > -1) {
+                            console.log('filePath', filePath);
+                            console.log(tpArr);
+
+                            // check for duplicated
+                            const topicDuplicated = _(tpArr).groupBy().pickBy(x => x.length > 1).keys().value();
+                            utils.saveCSV(topicDuplicated, 'topic-page-mapping-duplicated', prefix);
+
+                            const topicDistinct = _(tpArr).groupBy().pickBy(x => x.length == 1).keys().value();
+                            if (topicDistinct.length < tpArr.length) {
+                                utils.saveCSV(topicDistinct, 'topic-page-mapping-distinct', prefix);
+                            }
+
+                            utils.generateTopicPageMappingXML(tpArr, prefix);
+                        }
+
+                    });
+                }
+            });
+        });
+    });
+}
 
 fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsManifestXML) {
     if (err) throw err;
@@ -352,34 +407,6 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
 
         if (config.generateQuestionTopicMapping && Object.keys(listQuestionKeyTopics).length) {
             utils.generateQuestionTopicMappingXML(listQuestionKeyTopics, bankInfo);
-        }
-
-        if (config.generateTopicPageMapping) {
-            var dirPath = 'topic-pages';
-            fs.readdir(dirPath, function (err, files) {
-                if (err) {
-                    console.error(`Could not list the ${dirPath} directory.`, err);
-                    process.exit(1);
-                }
-                files.forEach(function (file) {
-                    var filePath = path.join(dirPath, file);
-                    fs.stat(filePath, function (error, stat) {
-                        if (error) {
-                            console.error(`Error stating file ${filePath}.`, error);
-                            return;
-                        }
-                        if (stat.isFile()) {
-                            fs.readFile(filePath, 'utf8', function (err, tpCSV) {
-                                let tpArr = tpCSV.split('\n');
-                                if (tpArr[0] === 'topic_name') {
-                                    tpArr = tpArr.shift();
-                                }
-                                utils.generateTopicPageMappingXML(tpArr, path.parse(filePath).name);
-                            });
-                        }
-                    });
-                });
-            });
         }
 
         /** END */

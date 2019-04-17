@@ -21,9 +21,12 @@ const capitalize = (text) => {
 // const formatArrayToJsonString = (arr) => {
 //   return `[\n${arr.map(item => `"${item}"`).join(',\n')}\n]`;
 // };
-// const formatArrayToTxt = (arr) => {
-//   return `${arr.map(item => `"${item}"`).join(',\n')}`;
-// };
+const formatArrayToTxt = (arr) => {
+  return `${arr.map(item => `"${item}"`).join(',\n')}`;
+};
+const formatArrayToCSV = (arr) => {
+  return `${arr.map(item => `"${item}"`).join('\n')}`;
+};
 
 const isFileExistsWithCaseSync = (filePath) => {
   try {
@@ -60,6 +63,22 @@ const isUrlExists = (url, callback) => {
 
 const isUrlExistsPromise = url => {
   return new Promise((resolve, reject) => isUrlExists(url, (exists) => exists ? resolve(exists) : reject(exists)));
+};
+
+const saveCSV = (objData, desc, prefix) => {
+  const fileName = `${prefix}_${desc.toLowerCase().replace(new RegExp(/(\s|-)/, 'gm'), '_')}.csv`;
+  const filePath = path.join(outputPath, fileName);
+  const dataLength = Array.isArray(objData) ? objData.length : (Object.keys(objData).length || 0);
+  if (dataLength > 0) {
+    console.log('--');
+    console.log(`>> [${desc}]`, dataLength, dataLength > 10 ? filePath : objData);
+    if (dataLength > 10) {
+      const dataStr = formatArrayToCSV(objData);
+      fs.writeFile(filePath, dataStr, function (err) {
+        if (err) console.error(err);
+      })
+    }
+  }
 };
 
 const saveJSON = (objData, desc, prefix) => {
@@ -172,38 +191,9 @@ const generateQuestionTopicMappingXML = (objQuestionTopics, bankInfo) => {
 };
 
 const generateTopicPageMappingXML = (arrTopics, prefix) => {
-  if (prefix == 'nursing') return;
-
-  const validateUrls = false;
-  if (validateUrls) {
-    const topicDuplicated = _(arrTopics).groupBy().pickBy(x => x.length > 1).keys().value();
-    saveJSON(topicDuplicated, 'topic-page-mapping-duplicated', prefix);
-
-    const validatedTopics = [];
-    const noValidTopics = [];
-    const validateTopicPromises = arrTopics.slice(0, 10).map(topicName => {
-      return isUrlExistsPromise(`https://cd-staging.clinicalkey.com/meded/api/topic/${topicName}`)
-        .then(exists => {
-          // console.log(exists, topicName);
-          validatedTopics.push(topicName);
-        })
-        .catch(exists => {
-          // console.log(exists, topicName);
-          noValidTopics.push(topicName);
-        });
-    });
-
-    Promise.all(validateTopicPromises)
-      .then(function () {
-        console.log('all dropped)');
-        console.log('validatedTopics', validatedTopics.length, validatedTopics);
-        console.log('noValidTopics', noValidTopics.length, noValidTopics);
-      })
-      .catch(console.error);
-  }
   const tpmList = (arrTopics || []).map(topicName => {
     return {
-      "resource": `/meded/api/topic/${topicName}`, //.replace(/\s/gi, '_')
+      "resource": `/meded/api/topic/${topicName}`,
       "description": '',
       "topics": [
         {
@@ -239,6 +229,7 @@ exports.utils = {
   normalize,
   capitalize,
   isFileExistsWithCaseSync,
+  saveCSV,
   saveJSON,
   saveXML,
   validateQuestionTopicMappingXML,
