@@ -54,8 +54,10 @@ const config = {
     checkDeletedQuestions: false,
     autoFixIssue: false,
     validateQuestionTopicMapping: true,
-    generateQuestionTopicMapping: false,
-    generateTopicPageMapping: true
+    generateQuestionTopicMapping: true,
+
+    generateTopicPageMappingFromCSV: false,
+    generateQuestionTopicMappingFromCSV: true
 }
 
 const debugIdentifier = ['YAI_MEDED_USMLE1_Anat_0005'];
@@ -78,7 +80,7 @@ const listQuestionIds = [];
 const listQuestionFiles = [];
 const listQuestionKeyTopics = {};
 
-if (config.generateTopicPageMapping) {
+if (config.generateTopicPageMappingFromCSV) {
     var dirPath = 'topic-pages';
     fs.readdir(dirPath, function (err, files) {
         if (err) {
@@ -100,9 +102,6 @@ if (config.generateTopicPageMapping) {
                         }
                         const prefix = path.parse(filePath).name;
                         if (['physician', 'uk'].indexOf(prefix) > -1) {
-                            console.log('filePath', filePath);
-                            console.log(tpArr);
-
                             // check for duplicated
                             const topicDuplicated = _(tpArr).groupBy().pickBy(x => x.length > 1).keys().value();
                             utils.saveCSV(topicDuplicated, 'topic-page-mapping-duplicated', prefix);
@@ -120,6 +119,19 @@ if (config.generateTopicPageMapping) {
             });
         });
     });
+}
+
+if (config.generateQuestionTopicMappingFromCSV) {
+    const filePath = './backup/uk_question_topic_mapping.json';
+    const qtmJSON = require(filePath)
+    const prefix = 'uk';
+    const qtmArr = qtmJSON;
+    // console.log('qtmArr', qtmArr.length);
+    const questionTopics = _.mapValues(_.groupBy(qtmArr, 'vtw_id'),
+        list => list.map(qtm => _.omit(qtm, 'vtw_id')));
+    // console.log('qtmObj', Object.keys(qtmObj).length, qtmObj['YAI_XIU-003_remed']);
+    utils.saveJSON(questionTopics, 'question-key-topics', prefix);
+    utils.generateQuestionTopicMappingXML(questionTopics, { "isbn": prefix });
 }
 
 fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsManifestXML) {
@@ -221,18 +233,22 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
                     if (showDebug) console.dir(catalogKeyTopics);
                     if (catalogKeyTopics.length) {
                         catalogKeyTopics.forEach(item => {
-                            const topicNamespace = item.catalog[0];
+                            const topicCatalog = item.catalog[0];
                             const topicNames = _.flatMap(item.entry.map(en => {
                                 return utils.normalize(en.langstring);
                             }));
-                            if (showDebug) console.log('topicNamespace', topicNamespace);
+                            if (showDebug) console.log('topicNamespace', topicCatalog);
                             if (showDebug) console.log('topicNames', topicNames);
-                            if (!listQuestionKeyTopics[YAI]) {
-                                listQuestionKeyTopics[YAI] = {};
-                            }
-                            listQuestionKeyTopics[YAI][topicNamespace] = (listQuestionKeyTopics[YAI][topicNamespace] || []).concat(topicNames);
+                            listQuestionKeyTopics[YAI] = (listQuestionKeyTopics[YAI] || []).concat(
+                                topicNames.map(topicName => {
+                                    return {
+                                        "name": topicName,
+                                        "namespace": "Other",
+                                        "catalog": topicCatalog
+                                    }
+                                })
+                            );
                             if (showDebug) console.log(listQuestionKeyTopics[YAI]);
-                            if (showDebug) console.log(listQuestionKeyTopics[YAI][topicNamespace]);
                         });
                     }
                 }
@@ -266,7 +282,6 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
         const longIdQuestions = listQuestionIds.filter(item => item.length > 50);
         utils.saveJSON(longIdQuestions, 'long-id-questions', isbn);
 
-        utils.saveJSON(listQuestionKeyTopics, 'question-key-topics', isbn);
 
         console.log('--');
         console.log('Number of question files:', listQuestionFiles.length);
@@ -406,6 +421,7 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
         }
 
         if (config.generateQuestionTopicMapping && Object.keys(listQuestionKeyTopics).length) {
+            utils.saveJSON(listQuestionKeyTopics, 'question-key-topics', isbn);
             utils.generateQuestionTopicMappingXML(listQuestionKeyTopics, bankInfo);
         }
 

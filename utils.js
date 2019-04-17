@@ -6,6 +6,7 @@ const request = require('request');
 
 const outputPath = 'output';
 const JSESSIONID = 'B808847B17EA7A3E03AF24C2DD544C91';
+const TOPIC_NAMESPACE = ['Anatomy', 'Clinical Finding', 'Disease', 'Drug', 'Event', 'Organism', 'Other', 'Physical Object', 'Procedure', 'Specialty', 'Substance', 'Symptom'];
 
 const normalize = (array) => {
   return array.map(item => { return item.toLowerCase().trim() });
@@ -17,6 +18,15 @@ const capitalize = (text) => {
     .map((s) => s.charAt(0).toUpperCase() + s.substring(1))
     .join(' ');
 };
+
+const validateTopicNamespace = (topicNamespace) => {
+  if (_.includes(TOPIC_NAMESPACE, capitalize(topicNamespace))) {
+    return capitalize(topicNamespace);
+  }
+  else {
+    return 'Other';
+  }
+}
 
 // const formatArrayToJsonString = (arr) => {
 //   return `[\n${arr.map(item => `"${item}"`).join(',\n')}\n]`;
@@ -153,20 +163,19 @@ const validateQuestionTopicMappingXML = (yaiQuestionIds, filePath, prefix) => {
 
 const generateQuestionTopicMappingXML = (objQuestionTopics, bankInfo) => {
   let qtmList = []; // qtmJSON['rec-remediation-data']['question-banks'][0]['question-bank'][0]['questions'][0]['question'];
-  _.forEach(objQuestionTopics, (topicNamespaces, qYAI) => {
+  _.forEach(objQuestionTopics, (topics, qYAI) => {
     const mapping = {
       "$": {
         "id": qYAI
       },
       "topics": [
         {
-          "topic": _.flatMap(topicNamespaces, value => value)
-            .map(topicName => {
-              return {
-                "group": "Other",
-                "name": topicName
-              }
-            })
+          "topic": topics.map(topic => {
+            return {
+              "group": validateTopicNamespace(topic.namespace),
+              "name": topic.name
+            }
+          })
         }
       ]
     };
