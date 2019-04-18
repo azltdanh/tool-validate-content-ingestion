@@ -1,4 +1,5 @@
 const _ = require('lodash');
+const os = require('os');
 const fs = require('fs');
 const path = require('path');
 const xml2js = require('xml2js');
@@ -7,6 +8,29 @@ const request = require('request');
 const outputPath = 'output';
 const JSESSIONID = 'B808847B17EA7A3E03AF24C2DD544C91';
 const TOPIC_NAMESPACE = ['Anatomy', 'Clinical Finding', 'Disease', 'Drug', 'Event', 'Organism', 'Other', 'Physical Object', 'Procedure', 'Specialty', 'Substance', 'Symptom'];
+
+const getAbsolutePath = (pathStr) => {
+  return pathStr.replace('~', os.homedir());
+};
+
+const getImsManifestXML = (dirPath) => {
+  const imsManifestXML = fs.readFileSync(`${dirPath}/imsmanifest.xml`)
+    .toString()
+    .replace(new RegExp('\>\>', 'gm'), '>')
+    .replace(new RegExp('imsmd\:', 'gm'), '')
+    .replace(new RegExp('imsqti\:', 'gm'), '');
+  return imsManifestXML;
+}
+
+const parseImsManifestResources = (xmlStr) => {
+  return new Promise(function (resolve, reject) {
+    const parser = new xml2js.Parser();
+    parser.parseString(xmlStr, function (err, jsonObj) {
+      const resources = jsonObj.manifest.resources[0].resource.map(item => item.$);
+      resolve(resources);
+    })
+  });
+}
 
 const normalize = (array) => {
   return array.map(item => { return item.toLowerCase().trim() });
@@ -235,6 +259,9 @@ const generateTopicPageMappingXML = (arrTopics, prefix) => {
 
 
 exports.utils = {
+  getAbsolutePath,
+  getImsManifestXML,
+  parseImsManifestResources,
   normalize,
   capitalize,
   isFileExistsWithCaseSync,

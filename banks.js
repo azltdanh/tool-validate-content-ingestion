@@ -1,8 +1,11 @@
-exports.banks = {
-    1111123456789: {
+exports.banks = [
+    {
+        cid: "776279",
+        package: "Sample",
         isbn: "1111123456789",
         name: "MedEd_Sample_Bank",
         description: "MedEd Sample Bank",
+        path: "~/Downloads/MEDED_MedEdSample_v19_1111123456789_MedEd",
         taxonomies: {
             "MedEd Test Sample": [
                 "Sample",
@@ -10,10 +13,13 @@ exports.banks = {
             ]
         }
     },
-    1111222222222: {
+    {
+        cid: "776259",
+        package: "UK",
         isbn: "1111222222222",
         name: "UK_Basic_Science",
         description: "UK Basic Science",
+        path: "~/Downloads/MEDED_UKBasicScience_v47_1111222222222_MedEd",
         taxonomies: {
             "UK Basic Sciences - Systems": [
                 "Cardiovascular system",
@@ -51,10 +57,13 @@ exports.banks = {
             ]
         }
     },
-    1111333333333: {
+    {
+        cid: "776259",
+        package: "UK",
         isbn: "1111333333333",
         name: "UK_Clinical_Medicine",
         description: "UK Clinical Medicine",
+        path: "~/Downloads/MEDED_UKClinicalMedicine_v61_1111333333333_MedEd",
         taxonomies: {
             "UK Clinical Medicine - Systems": [
                 "Cardiovascular system",
@@ -105,10 +114,13 @@ exports.banks = {
             ]
         }
     },
-    1111444444441: {
+    {
+        cid: "776277",
+        package: "USMLE1",
         isbn: "1111444444441",
         name: "USMLE_Step1",
         description: "USMLE Step1",
+        path: "~/Downloads/MEDED_USMLEStep1_v31_1111444444441_MedEd",
         taxonomies: {
             "Organ Systems": [
                 "Cardiovascular system",
@@ -153,10 +165,13 @@ exports.banks = {
         },
         keyTopicCatalogs: ["Subcategory 1 tested", "Subcategory 2 tested"]
     },
-    1111444444442: {
+    {
+        cid: "776278",
+        package: "USMLE2",
         isbn: "1111444444442",
         name: "USMLE_Step2",
         description: "USMLE Step2",
+        path: "~/Downloads/MEDED_USMLEStep2_v28_1111444444442_MedEd",
         taxonomies: {
             "Normal Conditions and Disease Categories": [
                 "Immune",
@@ -194,10 +209,13 @@ exports.banks = {
         },
         keyTopicCatalogs: ["Chief complaint", "Primary disease"]
     },
-    1111555555551: {
+    {
+        cid: "776274",
+        package: "ESES",
         isbn: "1111555555551",
         name: "ESES_Basic_Science",
         description: "ESES Basic Science",
+        path: "~/Downloads/MEDED_ESESBasicScience_v2_1111555555551_MedEd",
         taxonomies: {
             "ESES Basic Sciences - Systems": [
                 "Aparato digestivo",
@@ -238,10 +256,13 @@ exports.banks = {
             ]
         }
     },
-    1111555555552: {
+    {
+        cid: "776274",
+        package: "ESES",
         isbn: "1111555555552",
         name: "ESES_Clinical_Medicine",
         description: "ESES Clinical Medicine",
+        path: "~/Downloads/MEDED_ESESClinicalMedicine_v2_1111555555552_MedEd",
         taxonomies: {
             "ESES Clinical Medicine - Systems": [
                 "Aparato cardiovascular",
@@ -318,10 +339,13 @@ exports.banks = {
             ]
         }
     },
-    1111777777771: {
+    {
+        cid: "776273",
+        package: "ANZ",
         isbn: "1111777777771",
         name: "ANZ_Basic_Science",
         description: "ANZ Basic Science",
+        path: "~/Downloads/MEDED_ANZBasicScience_v9_1111777777771_MedEd",
         taxonomies: {
             "UK Basic Sciences - Systems": [
                 "Cardiovascular system",
@@ -359,10 +383,13 @@ exports.banks = {
             ]
         }
     },
-    1111777777772: {
+    {
+        cid: "776273",
+        package: "ANZ",
         isbn: "1111777777772",
         name: "ANZ_Clinical_Medicine",
         description: "ANZ Clinical Medicine",
+        path: "~/Downloads/MEDED_ANZClinicalMedicine_v8_1111777777772_MedEd",
         taxonomies: {
             "UK Clinical Medicine - Systems": [
                 "Cardiovascular system",
@@ -413,10 +440,13 @@ exports.banks = {
             ]
         }
     },
-    1111888888881: {
+    {
+        cid: "776271",
+        package: "IND",
         isbn: "1111888888881",
         name: "IND_Basic_Science",
         description: "IND Basic Science",
+        path: "~/Downloads/MEDED_INDBasicScience_v5_1111888888881_MedEd",
         taxonomies: {
             "IND Basic Sciences - Systems": [
                 "Basic sciences application in clinical context",
@@ -448,10 +478,13 @@ exports.banks = {
             ]
         }
     },
-    1111888888882: {
+    {
+        cid: "776271",
+        package: "IND",
         isbn: "1111888888882",
         name: "IND_Clinical_Medicine",
         description: "IND Clinical Medicine",
+        path: "~/Downloads/MEDED_INDClinicalMedicine_v5_1111888888882_MedEd",
         taxonomies: {
             "IND Clinical Medicine - Systems": [
                 "Cardiovascular system",
@@ -494,5 +527,47 @@ exports.banks = {
                 "Symptoms and Signs"
             ]
         }
+    },
+    {
+        cid: "776272",
+        package: "BRA",
+        isbn: "1111666666661",
+        name: "BRA_Basic_Science",
+        description: "BRA Basic Science",
+    },
+    {
+        cid: "776272",
+        package: "BRA",
+        isbn: "1111666666662",
+        name: "BRA_Clinical_Medicine",
+        description: "BRA Clinical Medicine",
+    },
+    {
+        cid: "776269",
+        package: "FR",
+        isbn: "1111999999991",
+        name: "FR_Basic_Science",
+        description: "FR Basic Science",
+    },
+    {
+        cid: "776269",
+        package: "FR",
+        isbn: "1111999999992",
+        name: "FR_Clinical_Medicine",
+        description: "FR Clinical Medicine",
+    },
+    {
+        cid: "776270",
+        package: "DE",
+        isbn: "1111000000001",
+        name: "DE_Basic_Science",
+        description: "DE Basic Science",
+    },
+    {
+        cid: "776270",
+        package: "DE",
+        isbn: "1111000000002",
+        name: "DE_Clinical_Medicine",
+        description: "DE Clinical Medicine",
     }
-};
+];
