@@ -37,7 +37,7 @@ const xml2js = require('xml2js');
 const { banks } = require('./banks');
 const { utils } = require('./utils');
 
-// const physicianPages = require('./topic-pages/physician_page_resource_test_results.json')
+// const physicianPages = require('./input/physician_page_resource_test_results.json')
 // const allTests = physicianPages.results[0].allTests;
 // const failedTests =
 //     allTests.filter(obj => {
@@ -85,7 +85,7 @@ const listQuestionFiles = [];
 const listQuestionKeyTopics = {};
 
 if (config.generateTopicPageMappingFromCSV) {
-    var dirPath = 'topic-pages';
+    var dirPath = 'input';
     fs.readdir(dirPath, function (err, files) {
         if (err) {
             console.error(`Could not list the ${dirPath} directory.`, err);
