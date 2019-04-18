@@ -22,6 +22,10 @@
  *
  * $ node validate-imsmanifest.js ~/Downloads/MEDED_USMLEStep1_v31_1111444444441_MedEd
  * $ node validate-imsmanifest.js ~/Downloads/MEDED_USMLEStep2_v28_1111444444442_MedEd
+ *
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_ESESBasicScience_v2_1111555555551_MedEd
+ * $ node validate-imsmanifest.js ~/Downloads/MEDED_ESESClinicalMedicine_v2_1111555555552_MedEd
+ *
  * #
  */
 const _ = require('lodash');
@@ -57,10 +61,10 @@ const config = {
     generateQuestionTopicMapping: true,
 
     generateTopicPageMappingFromCSV: false,
-    generateQuestionTopicMappingFromCSV: true
+    generateQuestionTopicMappingFromCSV: false
 }
 
-const debugIdentifier = ['YAI_MEDED_USMLE1_Anat_0005'];
+const debugIdentifier = ['question_MEDED_ESES_MJP166'];
 var args = process.argv.slice(2);
 const pathToPackageDir = args[0];
 config.autoFixIssue = args.indexOf('--fix') > -1;
@@ -172,19 +176,19 @@ fs.readFile(`${pathToPackageDir}/imsmanifest.xml`, 'utf8', function (err, imsMan
                 isMatchIdentifier = resourceIdentifier === generalIdentifier;
 
                 let catalogEntries = general.catalogentry;
-                // console.log(inspect(catalogEntries, false, null));
+                // if (showDebug) console.log(inspect(catalogEntries, false, null));
 
                 /** TAXONOMY */
                 if (config.checkQuestionTaxonomy) {
-                    const catalogTaxonomies = catalogEntries.filter(item => {
-                        return _.intersection(utils.normalize(item.catalog), taxonomies).length;
+                    const catalogTaxonomies = (catalogEntries || []).filter(item => {
+                        return _.intersection(utils.normalize(item.catalog || []), taxonomies).length;
                     })
                     // if (showDebug) console.log(inspect(catalogTaxonomies, false, null));
                     if (catalogTaxonomies.length) {
                         hasTaxonomy = true;
                         catalogTaxonomies.forEach(item => {
-                            const entries = _.flatMap(item.entry.map(en => {
-                                return utils.normalize(en.langstring);
+                            const entries = _.flatMap((item.entry || []).map(en => {
+                                return utils.normalize(en.langstring || []);
                             }));
                             const topic = item.catalog[0].trim();
                             const subTopics = _.intersection(entries, taxonomiesData[topic]);
