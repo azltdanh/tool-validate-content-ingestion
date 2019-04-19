@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rec-remediation-data xmlns="http://www.elesevier.com/eols/recommendation/remediation/exchange/v1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.elesevier.com/eols/recommendation/remediation/exchange/v1.0 exchange-v-1-0.xsd">
- <created-ts>2019-04-19T09:13:05.435Z</created-ts>
+ <created-ts>2019-04-19T09:57:06.289Z</created-ts>
  <page-domains>
   <page-domain>
    <name>TOPIC</name>
@@ -208,32 +208,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/acute appendicitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>acute appendicitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/acute bronchitis</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>acute bronchitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/acute cholangitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>acute cholangitis</name>
       </topic>
      </topics>
     </page>
@@ -254,16 +234,6 @@
       <topic>
        <group>Disease</group>
        <name>acute coronary syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/acute diarrhea</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>acute diarrhea</name>
       </topic>
      </topics>
     </page>
@@ -294,16 +264,6 @@
       <topic>
        <group>Disease</group>
        <name>acute glomerulonephritis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/acute gout</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>acute gout</name>
       </topic>
      </topics>
     </page>
@@ -488,16 +448,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/acute otitis media</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>acute otitis media</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/acute pancreatitis</resource>
      <description></description>
      <topics>
@@ -514,16 +464,6 @@
       <topic>
        <group>Disease</group>
        <name>acute pericarditis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/acute postinfectious glomerulonephritis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>acute postinfectious glomerulonephritis</name>
       </topic>
      </topics>
     </page>
@@ -578,16 +518,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/acute subdural hematoma</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>acute subdural hematoma</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/acute tracheitis</resource>
      <description></description>
      <topics>
@@ -598,62 +528,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/acute type b viral hepatitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>acute type b viral hepatitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/acute upper respiratory tract infection in adults</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>acute upper respiratory tract infection in adults</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/acute upper respiratory tract infection in children</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>acute upper respiratory tract infection in children</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/acute viral encephalitis</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>acute viral encephalitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/addison disease</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>addison disease</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/adenocarcinoma of unknown primary</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>adenocarcinoma of unknown primary</name>
       </topic>
      </topics>
     </page>
@@ -674,16 +554,6 @@
       <topic>
        <group>Disease</group>
        <name>adenomatous polyposis coli</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/adenoviral infection</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>adenoviral infection</name>
       </topic>
      </topics>
     </page>
@@ -748,16 +618,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/adult acute diarrhea</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>adult acute diarrhea</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/adult congenital cardiac disease</resource>
      <description></description>
      <topics>
@@ -774,16 +634,6 @@
       <topic>
        <group>Disease</group>
        <name>adult congenital heart disease</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/adult growth hormone deficiency</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>adult growth hormone deficiency</name>
       </topic>
      </topics>
     </page>
@@ -814,16 +664,6 @@
       <topic>
        <group>Disease</group>
        <name>adult t-cell leukemia/lymphoma</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/adult-onset obesity</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>adult-onset obesity</name>
       </topic>
      </topics>
     </page>
@@ -864,36 +704,6 @@
       <topic>
        <group>Disease</group>
        <name>african trypanosomiasis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/aggressive fibromatosis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>aggressive fibromatosis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/agoraphobia</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>agoraphobia</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/aids-associated nephropathy</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>aids-associated nephropathy</name>
       </topic>
      </topics>
     </page>
@@ -948,16 +758,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/allergic conjunctivitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>allergic conjunctivitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/allergic reaction</resource>
      <description></description>
      <topics>
@@ -1004,16 +804,6 @@
       <topic>
        <group>Disease</group>
        <name>alpha 1-antitrypsin deficiency</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/altitude sickness</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>altitude sickness</name>
       </topic>
      </topics>
     </page>
@@ -1074,26 +864,6 @@
       <topic>
        <group>Disease</group>
        <name>amniotic fluid embolism</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/amphetamine dependence</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>amphetamine dependence</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/amphetamine use</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>amphetamine use</name>
       </topic>
      </topics>
     </page>
@@ -1238,32 +1008,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/animal bite</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>animal bite</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/ankle fracture</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>ankle fracture</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/ankle injury</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>ankle injury</name>
       </topic>
      </topics>
     </page>
@@ -1468,16 +1218,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/appendiceal cancer</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>appendiceal cancer</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/appendicitis</resource>
      <description></description>
      <topics>
@@ -1528,32 +1268,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/arterial disease</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>arterial disease</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/arthritis</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>arthritis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/arthropod bite</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>arthropod bite</name>
       </topic>
      </topics>
     </page>
@@ -1728,16 +1448,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/atrioventricular block</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>atrioventricular block</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/atrioventricular dissociation</resource>
      <description></description>
      <topics>
@@ -1754,16 +1464,6 @@
       <topic>
        <group>Disease</group>
        <name>atrioventricular dissociation</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/atrophic vaginitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>atrophic vaginitis</name>
       </topic>
      </topics>
     </page>
@@ -1918,26 +1618,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/bacterial meningitis in adult</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>bacterial meningitis in adult</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/bacterial meningitis in children</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>bacterial meningitis in children</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/bacterial pneumonia</resource>
      <description></description>
      <topics>
@@ -1964,16 +1644,6 @@
       <topic>
        <group>Disease</group>
        <name>balanitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/balanoposthitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>balanoposthitis</name>
       </topic>
      </topics>
     </page>
@@ -2048,16 +1718,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/bed bug infestation</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>bed bug infestation</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/behcet syndrome</resource>
      <description></description>
      <topics>
@@ -2088,32 +1748,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/benign cervical lesion</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>benign cervical lesion</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/benign monoclonal gammopathy</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>benign monoclonal gammopathy</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/benign mucous membrane pemphigoid</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>benign mucous membrane pemphigoid</name>
       </topic>
      </topics>
     </page>
@@ -2148,16 +1788,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/benign skin tumor</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>benign skin tumor</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/bile duct cancer</resource>
      <description></description>
      <topics>
@@ -2174,16 +1804,6 @@
       <topic>
        <group>Disease</group>
        <name>binge eating disorder</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/bipolar depression</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>bipolar depression</name>
       </topic>
      </topics>
     </page>
@@ -2228,52 +1848,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/bites and stings</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>bites and stings</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/bladder cancer</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>bladder cancer</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/bladder injury</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>bladder injury</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/bladder tumor</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>bladder tumor</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/blast injury</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>blast injury</name>
       </topic>
      </topics>
     </page>
@@ -2458,16 +2038,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/breathing-related sleep disorder</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>breathing-related sleep disorder</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/bronchiectasis</resource>
      <description></description>
      <topics>
@@ -2608,16 +2178,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/capillary hemangioma</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>capillary hemangioma</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/carbon monoxide poisoning</resource>
      <description></description>
      <topics>
@@ -2628,32 +2188,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/carbuncle boil</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>carbuncle/boil</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/carcinoma of prostate</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>carcinoma of prostate</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/cardiac arrest</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>cardiac arrest</name>
       </topic>
      </topics>
     </page>
@@ -2754,16 +2294,6 @@
       <topic>
        <group>Disease</group>
        <name>cataract</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/cauda equina syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>cauda equina syndrome</name>
       </topic>
      </topics>
     </page>
@@ -2908,16 +2438,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/cervical spine injury</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>cervical spine injury</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/cervicitis</resource>
      <description></description>
      <topics>
@@ -2954,16 +2474,6 @@
       <topic>
        <group>Disease</group>
        <name>chancroid</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/cheilitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>cheilitis</name>
       </topic>
      </topics>
     </page>
@@ -3008,42 +2518,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/childhood asthma</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>childhood asthma</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/childhood obesity</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>childhood obesity</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/chlamydia infection</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>chlamydia infection</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/chlamydophila pneumoniae infection</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>chlamydophila pneumoniae infection</name>
       </topic>
      </topics>
     </page>
@@ -3094,16 +2574,6 @@
       <topic>
        <group>Disease</group>
        <name>cholera</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/cholesteatoma</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>cholesteatoma</name>
       </topic>
      </topics>
     </page>
@@ -3174,16 +2644,6 @@
       <topic>
        <group>Disease</group>
        <name>chronic daily headache</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/chronic diarrhea</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>chronic diarrhea</name>
       </topic>
      </topics>
     </page>
@@ -3328,16 +2788,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/chronic otitis media</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>chronic otitis media</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/chronic pancreatitis</resource>
      <description></description>
      <topics>
@@ -3354,36 +2804,6 @@
       <topic>
        <group>Disease</group>
        <name>chronic renal failure</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/chronic subdural hematoma</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>chronic subdural hematoma</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/chronic tophaceous gout</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>chronic tophaceous gout</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/chronic type c viral hepatitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>chronic type c viral hepatitis</name>
       </topic>
      </topics>
     </page>
@@ -3488,16 +2908,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/cleft lip cleft palate</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>cleft lip/cleft palate</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/clonorchiasis</resource>
      <description></description>
      <topics>
@@ -3558,32 +2968,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/cocaine addiction</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>cocaine addiction</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/cocaine overdose</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>cocaine overdose</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/cocaine use disorder</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>cocaine use disorder</name>
       </topic>
      </topics>
     </page>
@@ -3638,26 +3028,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/colonic polyp</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>colonic polyp</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/colonic volvulus</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>colonic volvulus</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/colorado tick fever</resource>
      <description></description>
      <topics>
@@ -3694,26 +3064,6 @@
       <topic>
        <group>Disease</group>
        <name>community-acquired pneumonia</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/community-acquired pneumonia in adults</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>community-acquired pneumonia in adults</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/community-acquired pneumonia in children</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>community-acquired pneumonia in children</name>
       </topic>
      </topics>
     </page>
@@ -3784,26 +3134,6 @@
       <topic>
        <group>Disease</group>
        <name>congenital adrenal hyperplasia</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/congenital cytomegalovirus infection</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>congenital cytomegalovirus infection</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/congenital leukocyte adherence deficiency</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>congenital leukocyte adherence deficiency</name>
       </topic>
      </topics>
     </page>
@@ -3928,16 +3258,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/corneal foreign body</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>corneal foreign body</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/corneal ulcer</resource>
      <description></description>
      <topics>
@@ -4028,16 +3348,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/cryptococcal infection</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>cryptococcal infection</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/cryptococcosis</resource>
      <description></description>
      <topics>
@@ -4118,16 +3428,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/cutaneous paraneoplastic syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>cutaneous paraneoplastic syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/cutaneous t-cell lymphoma</resource>
      <description></description>
      <topics>
@@ -4174,16 +3474,6 @@
       <topic>
        <group>Disease</group>
        <name>cysticercosis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/cystocele</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>cystocele</name>
       </topic>
      </topics>
     </page>
@@ -4318,32 +3608,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/depression</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>depression</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/dermatitis herpetiformis</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>dermatitis herpetiformis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/dermatitis medicamentosa</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>dermatitis medicamentosa</name>
       </topic>
      </topics>
     </page>
@@ -4364,26 +3634,6 @@
       <topic>
        <group>Disease</group>
        <name>desquamative interstitial pneumonia</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/developmental dysplasia of the hip</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>developmental dysplasia of the hip</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/dextromethorphan overdose</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>dextromethorphan overdose</name>
       </topic>
      </topics>
     </page>
@@ -4418,26 +3668,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/diabetes mellitus type 1 in adults</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>diabetes mellitus type 1 in adults</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/diabetes mellitus type 1 in children</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>diabetes mellitus type 1 in children</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/diabetes mellitus type 2</resource>
      <description></description>
      <topics>
@@ -4448,32 +3678,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/diabetes mellitus type 2 in children</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>diabetes mellitus type 2 in children</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/diabetic foot</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>diabetic foot</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/diabetic foot ulcer</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>diabetic foot ulcer</name>
       </topic>
      </topics>
     </page>
@@ -4778,16 +3988,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/dyshidrotic eczema</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>dyshidrotic eczema</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/dyskinesia syndrome</resource>
      <description></description>
      <topics>
@@ -4824,16 +4024,6 @@
       <topic>
        <group>Disease</group>
        <name>dysphagia</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/dystocia</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>dystocia</name>
       </topic>
      </topics>
     </page>
@@ -5088,32 +4278,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/endophthalmitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>endophthalmitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/endosteal hyperostosis</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>endosteal hyperostosis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/enterocele</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>enterocele</name>
       </topic>
      </topics>
     </page>
@@ -5134,26 +4304,6 @@
       <topic>
        <group>Disease</group>
        <name>enteropathic arthritis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/enterovirus infection</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>enterovirus infection</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/enthesitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>enthesitis</name>
       </topic>
      </topics>
     </page>
@@ -5308,16 +4458,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/epilepsy in children</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>epilepsy in children</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/epiploic appendagitis</resource>
      <description></description>
      <topics>
@@ -5464,16 +4604,6 @@
       <topic>
        <group>Disease</group>
        <name>esophageal adenocarcinoma</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/esophageal cancer</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>esophageal cancer</name>
       </topic>
      </topics>
     </page>
@@ -5718,16 +4848,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/fatty liver</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>fatty liver</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/febrile convulsions</resource>
      <description></description>
      <topics>
@@ -5754,16 +4874,6 @@
       <topic>
        <group>Disease</group>
        <name>felty syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/femoral hernia</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>femoral hernia</name>
       </topic>
      </topics>
     </page>
@@ -5928,26 +5038,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/fracture-dislocation</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>fracture-dislocation</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/fragile x syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>fragile x syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/freckle</resource>
      <description></description>
      <topics>
@@ -6008,16 +5098,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/functional mitral regurgitation</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>functional mitral regurgitation</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/functional pancreatic neuroendocrine tumor</resource>
      <description></description>
      <topics>
@@ -6064,16 +5144,6 @@
       <topic>
        <group>Disease</group>
        <name>galactorrhea</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/ganglion cyst</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>ganglion cyst</name>
       </topic>
      </topics>
     </page>
@@ -6178,16 +5248,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/gastroesophageal reflux disease in adults</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>gastroesophageal reflux disease in adults</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/gastrointestinal motility disorder</resource>
      <description></description>
      <topics>
@@ -6228,32 +5288,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/generalized anxiety disorder</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>generalized anxiety disorder</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/genetic syndrome</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>genetic syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/genital herpes</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>genital herpes</name>
       </topic>
      </topics>
     </page>
@@ -6274,16 +5314,6 @@
       <topic>
        <group>Disease</group>
        <name>gestational diabetes</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/gestational trophoblastic disease</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>gestational trophoblastic disease</name>
       </topic>
      </topics>
     </page>
@@ -6498,16 +5528,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/gynecologic cancer</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>gynecologic cancer</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/gynecomastia</resource>
      <description></description>
      <topics>
@@ -6554,16 +5574,6 @@
       <topic>
        <group>Disease</group>
        <name>hand foot and mouth disease</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/hand injury</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>hand injury</name>
       </topic>
      </topics>
     </page>
@@ -6958,16 +5968,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/hereditary nonhemolytic jaundice</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>hereditary nonhemolytic jaundice</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/hereditary nonpolyposis colorectal cancer</resource>
      <description></description>
      <topics>
@@ -7088,16 +6088,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/hip joint dislocation</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>hip joint dislocation</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/hirschsprung disease</resource>
      <description></description>
      <topics>
@@ -7208,26 +6198,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/human ehrlichiosis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>human ehrlichiosis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/human metapneumovirus infection</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>human metapneumovirus infection</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/huntington disease</resource>
      <description></description>
      <topics>
@@ -7254,16 +6224,6 @@
       <topic>
        <group>Disease</group>
        <name>hydrocele</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/hydrocephalus</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>hydrocephalus</name>
       </topic>
      </topics>
     </page>
@@ -7318,16 +6278,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/hypercalcemia of malignancy</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>hypercalcemia of malignancy</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/hypercholesterolemia</resource>
      <description></description>
      <topics>
@@ -7354,16 +6304,6 @@
       <topic>
        <group>Disease</group>
        <name>hyperhomocysteinemia</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/hyperkalemia</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>hyperkalemia</name>
       </topic>
      </topics>
     </page>
@@ -7468,16 +6408,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/hypertensive emergency</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>hypertensive emergency</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/hyperthyroidism</resource>
      <description></description>
      <topics>
@@ -7514,16 +6444,6 @@
       <topic>
        <group>Disease</group>
        <name>hyperuricemia</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/hyperviscosity syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>hyperviscosity syndrome</name>
       </topic>
      </topics>
     </page>
@@ -7728,16 +6648,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/ileus</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>ileus</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/immune disorder</resource>
      <description></description>
      <topics>
@@ -7828,16 +6738,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/infection of vascular catheter</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>infection of vascular catheter</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/infectious mononucleosis</resource>
      <description></description>
      <topics>
@@ -7848,32 +6748,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/infective conjunctivitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>infective conjunctivitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/infective endocarditis</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>infective endocarditis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/infective esophagitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>infective esophagitis</name>
       </topic>
      </topics>
     </page>
@@ -7914,16 +6794,6 @@
       <topic>
        <group>Disease</group>
        <name>influenza</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/inguinal hernia</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>inguinal hernia</name>
       </topic>
      </topics>
     </page>
@@ -8098,16 +6968,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/intracranial hemorrhage</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>intracranial hemorrhage</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/intracranial hypertension</resource>
      <description></description>
      <topics>
@@ -8138,16 +6998,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/intraocular melanoma</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>intraocular melanoma</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/intussusception</resource>
      <description></description>
      <topics>
@@ -8174,16 +7024,6 @@
       <topic>
        <group>Disease</group>
        <name>invasive malignant neoplasm of breast</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/ipex syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>ipex syndrome</name>
       </topic>
      </topics>
     </page>
@@ -8378,16 +7218,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/knee injury</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>knee injury</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/kyphoscoliosis</resource>
      <description></description>
      <topics>
@@ -8448,16 +7278,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/laryngeal cancer</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>laryngeal cancer</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/laryngeal carcinoma</resource>
      <description></description>
      <topics>
@@ -8484,16 +7304,6 @@
       <topic>
        <group>Disease</group>
        <name>lateral sinus thrombosis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/latex allergy</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>latex allergy</name>
       </topic>
      </topics>
     </page>
@@ -8668,16 +7478,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/lipoma</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>lipoma</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/listeriosis</resource>
      <description></description>
      <topics>
@@ -8764,16 +7564,6 @@
       <topic>
        <group>Disease</group>
        <name>lumbar spinal stenosis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/lumbar spondylosis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>lumbar spondylosis</name>
       </topic>
      </topics>
     </page>
@@ -8978,16 +7768,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/malignant epidural spinal cord compression</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>malignant epidural spinal cord compression</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/malignant hyperthermia</resource>
      <description></description>
      <topics>
@@ -9038,32 +7818,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/maltoma</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>maltoma</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/mammary paget disease</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>mammary paget disease</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/marburg hemorrhagic fever</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>marburg hemorrhagic fever</name>
       </topic>
      </topics>
     </page>
@@ -9188,32 +7948,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/medulloblastoma</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>medulloblastoma</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/megaloblastic anemia</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>megaloblastic anemia</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/meibomian cyst</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>meibomian cyst</name>
       </topic>
      </topics>
     </page>
@@ -9294,16 +8034,6 @@
       <topic>
        <group>Disease</group>
        <name>meningitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/meningococcemia</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>meningococcemia</name>
       </topic>
      </topics>
     </page>
@@ -9468,16 +8198,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/methemoglobinemia</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>methemoglobinemia</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/microscopic polyangiitis</resource>
      <description></description>
      <topics>
@@ -9534,16 +8254,6 @@
       <topic>
        <group>Disease</group>
        <name>miliary tuberculosis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/milk-alkali syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>milk-alkali syndrome</name>
       </topic>
      </topics>
     </page>
@@ -9628,26 +8338,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/monoclonal gammopathy</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>monoclonal gammopathy</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/mood disorder</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>mood disorder</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/morton neuroma</resource>
      <description></description>
      <topics>
@@ -9674,26 +8364,6 @@
       <topic>
        <group>Disease</group>
        <name>motor neuron disease</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/moyamoya disease</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>moyamoya disease</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/mucocutaneous candidiasis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>mucocutaneous candidiasis</name>
       </topic>
      </topics>
     </page>
@@ -9768,36 +8438,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/multiple chemical sensitivity</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>multiple chemical sensitivity</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/multiple endocrine neoplasia type 1</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>multiple endocrine neoplasia type 1</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/multiple endocrine neoplasia type 2a</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>multiple endocrine neoplasia type 2a</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/multiple myeloma</resource>
      <description></description>
      <topics>
@@ -9834,16 +8474,6 @@
       <topic>
        <group>Disease</group>
        <name>mumps</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/munchausen syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>munchausen syndrome</name>
       </topic>
      </topics>
     </page>
@@ -9988,16 +8618,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/myofascial pelvic pain syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>myofascial pelvic pain syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/myopericarditis</resource>
      <description></description>
      <topics>
@@ -10098,26 +8718,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/nasopharyngeal carcinoma</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>nasopharyngeal carcinoma</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/natural killer cell deficiency syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>natural killer cell deficiency syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/necrotizing fasciitis</resource>
      <description></description>
      <topics>
@@ -10148,36 +8748,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/neonatal jaundice</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>neonatal jaundice</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/neonatal seizure</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>neonatal seizure</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/neonatal sepsis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>neonatal sepsis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/neoplasm metastasis</resource>
      <description></description>
      <topics>
@@ -10198,16 +8768,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/nephritic syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>nephritic syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/nephrogenic systemic fibrosis</resource>
      <description></description>
      <topics>
@@ -10224,16 +8784,6 @@
       <topic>
        <group>Disease</group>
        <name>nephrotic syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/neural tube defect</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>neural tube defect</name>
       </topic>
      </topics>
     </page>
@@ -10308,32 +8858,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/newborn respiratory distress syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>newborn respiratory distress syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/nocardiosis</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>nocardiosis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/nocturnal leg cramps</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>nocturnal leg cramps</name>
       </topic>
      </topics>
     </page>
@@ -10428,16 +8958,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/nonspecific ulcerative proctitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>nonspecific ulcerative proctitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/nonspecific urethritis</resource>
      <description></description>
      <topics>
@@ -10478,32 +8998,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/onyong-nyong fever</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>o'nyong-nyong fever</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/obesity</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>obesity</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/obesity hypoventilation syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>obesity hypoventilation syndrome</name>
       </topic>
      </topics>
     </page>
@@ -10568,26 +9068,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/oculovestibuloauditory syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>oculovestibuloauditory syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/oligohydramnios</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>oligohydramnios</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/onchocerciasis</resource>
      <description></description>
      <topics>
@@ -10638,32 +9118,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/opioid use</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>opioid use</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/opisthorchiasis</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>opisthorchiasis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/opportunistic infection</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>opportunistic infection</name>
       </topic>
      </topics>
     </page>
@@ -10704,16 +9164,6 @@
       <topic>
        <group>Disease</group>
        <name>oral cancer</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/oral leukoplakia</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>oral leukoplakia</name>
       </topic>
      </topics>
     </page>
@@ -10808,16 +9258,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/osteogenesis imperfecta</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>osteogenesis imperfecta</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/osteomalacia</resource>
      <description></description>
      <topics>
@@ -10854,16 +9294,6 @@
       <topic>
        <group>Disease</group>
        <name>osteoporosis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/osteosarcoma</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>osteosarcoma</name>
       </topic>
      </topics>
     </page>
@@ -10918,26 +9348,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/ovarian cyst</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>ovarian cyst</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/ovarian hyperstimulation syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>ovarian hyperstimulation syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/oxygen toxicity</resource>
      <description></description>
      <topics>
@@ -10964,16 +9374,6 @@
       <topic>
        <group>Disease</group>
        <name>pancreatic cancer</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/pancreatic exocrine cancer</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>pancreatic exocrine cancer</name>
       </topic>
      </topics>
     </page>
@@ -11074,26 +9474,6 @@
       <topic>
        <group>Disease</group>
        <name>paranoid personality disorder</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/paraphimosis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>paraphimosis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/paraquat poisoning</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>paraquat poisoning</name>
       </topic>
      </topics>
     </page>
@@ -11204,16 +9584,6 @@
       <topic>
        <group>Disease</group>
        <name>patent foramen ovale</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/pauci-immune vasculitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>pauci-immune vasculitis</name>
       </topic>
      </topics>
     </page>
@@ -11408,26 +9778,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/perimeningeal infection</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>perimeningeal infection</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/perioperative anaphylaxis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>perioperative anaphylaxis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/periorificial lentiginosis syndrome</resource>
      <description></description>
      <topics>
@@ -11454,16 +9804,6 @@
       <topic>
        <group>Disease</group>
        <name>perirectal abscess</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/peritoneal carcinomatosis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>peritoneal carcinomatosis</name>
       </topic>
      </topics>
     </page>
@@ -11598,42 +9938,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/phimosis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>phimosis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/phobic anxiety disorder</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>phobic anxiety disorder</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/photosensitivity disorder</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>photosensitivity disorder</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/physical child abuse</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>physical child abuse</name>
       </topic>
      </topics>
     </page>
@@ -11898,16 +10208,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/polyhydramnios</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>polyhydramnios</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/polymyalgia rheumatica</resource>
      <description></description>
      <topics>
@@ -12158,16 +10458,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/pregnancy disorder</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>pregnancy disorder</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/pregnancy-induced hypertension</resource>
      <description></description>
      <topics>
@@ -12238,26 +10528,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/prepubescent vulvovaginitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>prepubescent vulvovaginitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/presbycusis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>presbycusis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/pressure injury</resource>
      <description></description>
      <topics>
@@ -12298,16 +10568,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/primary bacterial peritonitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>primary bacterial peritonitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/primary biliary cholangitis</resource>
      <description></description>
      <topics>
@@ -12324,16 +10584,6 @@
       <topic>
        <group>Disease</group>
        <name>primary biliary cirrhosis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/primary central nervous system lymphoma</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>primary central nervous system lymphoma</name>
       </topic>
      </topics>
     </page>
@@ -12578,16 +10828,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/pseudomyxoma peritonei</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>pseudomyxoma peritonei</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/pseudotumor cerebri</resource>
      <description></description>
      <topics>
@@ -12644,26 +10884,6 @@
       <topic>
        <group>Disease</group>
        <name>psychotic disorder</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/pterygium</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>pterygium</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/puerperal endometritis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>puerperal endometritis</name>
       </topic>
      </topics>
     </page>
@@ -12734,16 +10954,6 @@
       <topic>
        <group>Disease</group>
        <name>pulmonary hypertension</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/pulmonary hypertensive arterial disease</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>pulmonary hypertensive arterial disease</name>
       </topic>
      </topics>
     </page>
@@ -12928,16 +11138,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/rectocele</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>rectocele</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/red blood cell disorder</resource>
      <description></description>
      <topics>
@@ -12954,26 +11154,6 @@
       <topic>
        <group>Disease</group>
        <name>reiter syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/relapsing fever</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>relapsing fever</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/relapsing polychondritis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>relapsing polychondritis</name>
       </topic>
      </topics>
     </page>
@@ -13098,16 +11278,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/respiratory acid-base disorder</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>respiratory acid-base disorder</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/respiratory acidosis</resource>
      <description></description>
      <topics>
@@ -13144,16 +11314,6 @@
       <topic>
        <group>Disease</group>
        <name>respiratory injury</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/respiratory syncytial virus infection</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>respiratory syncytial virus infection</name>
       </topic>
      </topics>
     </page>
@@ -13198,16 +11358,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/retinal vein occlusion</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>retinal vein occlusion</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/retinitis pigmentosa</resource>
      <description></description>
      <topics>
@@ -13224,16 +11374,6 @@
       <topic>
        <group>Disease</group>
        <name>retinoblastoma</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/retinopathy of prematurity</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>retinopathy of prematurity</name>
       </topic>
      </topics>
     </page>
@@ -13294,16 +11434,6 @@
       <topic>
        <group>Disease</group>
        <name>rheumatic fever</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/rheumatism</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>rheumatism</name>
       </topic>
      </topics>
     </page>
@@ -13384,26 +11514,6 @@
       <topic>
        <group>Disease</group>
        <name>rosacea</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/rotator cuff injury</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>rotator cuff injury</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/rotavirus infection</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>rotavirus infection</name>
       </topic>
      </topics>
     </page>
@@ -13548,16 +11658,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/scleritis and episcleritis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>scleritis and episcleritis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/scleroderma</resource>
      <description></description>
      <topics>
@@ -13644,16 +11744,6 @@
       <topic>
        <group>Disease</group>
        <name>secondary peritonitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/segmental glomerulosclerosis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>segmental glomerulosclerosis</name>
       </topic>
      </topics>
     </page>
@@ -13818,16 +11908,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/shoulder injury</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>shoulder injury</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/sialadenitis</resource>
      <description></description>
      <topics>
@@ -13874,16 +11954,6 @@
       <topic>
        <group>Disease</group>
        <name>silicosis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/simple phobia</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>simple phobia</name>
       </topic>
      </topics>
     </page>
@@ -13964,16 +12034,6 @@
       <topic>
        <group>Disease</group>
        <name>sleep disorder</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/sleep starts</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>sleep starts</name>
       </topic>
      </topics>
     </page>
@@ -14068,16 +12128,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/somatization disorder</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>somatization disorder</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/somatoform disorder</resource>
      <description></description>
      <topics>
@@ -14144,16 +12194,6 @@
       <topic>
        <group>Disease</group>
        <name>spinal cord disease</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/spinal cord infarction</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>spinal cord infarction</name>
       </topic>
      </topics>
     </page>
@@ -14258,26 +12298,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/spondylolisthesis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>spondylolisthesis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/spontaneous abortion</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>spontaneous abortion</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/spontaneous bacterial peritonitis</resource>
      <description></description>
      <topics>
@@ -14328,16 +12348,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/squamous cell carcinoma of skin</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>squamous cell carcinoma of skin</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/st. louis encephalitis</resource>
      <description></description>
      <topics>
@@ -14374,16 +12384,6 @@
       <topic>
        <group>Disease</group>
        <name>staphylococcal infection</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/stasis dermatitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>stasis dermatitis</name>
       </topic>
      </topics>
     </page>
@@ -14558,42 +12558,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/sudden infant death syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>sudden infant death syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/suicide</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>suicide</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/suicide attempt</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>suicide attempt</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/superficial thrombophlebitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>superficial thrombophlebitis</name>
       </topic>
      </topics>
     </page>
@@ -14624,16 +12594,6 @@
       <topic>
        <group>Disease</group>
        <name>sweet syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>syndrome</name>
       </topic>
      </topics>
     </page>
@@ -14758,16 +12718,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/tachycardia-induced cardiomyopathy</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>tachycardia-induced cardiomyopathy</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/takayasu arteritis</resource>
      <description></description>
      <topics>
@@ -14844,16 +12794,6 @@
       <topic>
        <group>Disease</group>
        <name>temporomandibular joint dysfunction</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/tendinitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>tendinitis</name>
       </topic>
      </topics>
     </page>
@@ -15018,16 +12958,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/thymic carcinoma</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>thymic carcinoma</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/thyroid cancer</resource>
      <description></description>
      <topics>
@@ -15128,16 +13058,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/tinea infection</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>tinea infection</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/tinea pedis</resource>
      <description></description>
      <topics>
@@ -15154,36 +13074,6 @@
       <topic>
        <group>Disease</group>
        <name>tinea versicolor</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/toddler diarrhea</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>toddler's diarrhea</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/tonsillar cancer</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>tonsillar cancer</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/tonsillitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>tonsillitis</name>
       </topic>
      </topics>
     </page>
@@ -15234,16 +13124,6 @@
       <topic>
        <group>Disease</group>
        <name>toxic megacolon</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/toxic polyneuropathy</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>toxic polyneuropathy</name>
       </topic>
      </topics>
     </page>
@@ -15488,16 +13368,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/trochanteric bursitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>trochanteric bursitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/tropical pulmonary eosinophilia</resource>
      <description></description>
      <topics>
@@ -15628,16 +13498,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/ulnar nerve compression syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>ulnar nerve compression syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/ulnar nerve entrapment syndrome</resource>
      <description></description>
      <topics>
@@ -15698,26 +13558,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/urethritis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>urethritis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/urethrocele</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>urethrocele</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/urinary incontinence</resource>
      <description></description>
      <topics>
@@ -15754,16 +13594,6 @@
       <topic>
        <group>Disease</group>
        <name>urticaria</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/uterine cancer</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>uterine cancer</name>
       </topic>
      </topics>
     </page>
@@ -15908,26 +13738,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/vasculitis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>vasculitis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/velocardiofacial syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>velocardiofacial syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/venezuelan equine encephalomyelitis</resource>
      <description></description>
      <topics>
@@ -15954,16 +13764,6 @@
       <topic>
        <group>Disease</group>
        <name>venous thrombosis</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/ventilator acquired pneumonia</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>ventilator acquired pneumonia</name>
       </topic>
      </topics>
     </page>
@@ -16028,16 +13828,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/vesicoureteral reflux</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>vesicoureteral reflux</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/vestibular neuronitis</resource>
      <description></description>
      <topics>
@@ -16054,16 +13844,6 @@
       <topic>
        <group>Disease</group>
        <name>vipoma</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/viral gastroenteritis</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>viral gastroenteritis</name>
       </topic>
      </topics>
     </page>
@@ -16208,16 +13988,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/wart</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>wart</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/wernicke encephalopathy</resource>
      <description></description>
      <topics>
@@ -16288,16 +14058,6 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/williams syndrome</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>williams syndrome</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/wilms tumor</resource>
      <description></description>
      <topics>
@@ -16338,32 +14098,12 @@
      </topics>
     </page>
     <page>
-     <resource>/meded/api/topic/wrist injury</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>wrist injury</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
      <resource>/meded/api/topic/yellow fever</resource>
      <description></description>
      <topics>
       <topic>
        <group>Disease</group>
        <name>yellow fever</name>
-      </topic>
-     </topics>
-    </page>
-    <page>
-     <resource>/meded/api/topic/yersinia enterocolitica infection</resource>
-     <description></description>
-     <topics>
-      <topic>
-       <group>Disease</group>
-       <name>yersinia enterocolitica infection</name>
       </topic>
      </topics>
     </page>

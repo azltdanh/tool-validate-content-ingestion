@@ -36,22 +36,11 @@ const xml2js = require('xml2js');
 const { banks } = require('./banks');
 const { utils } = require('./utils');
 
-// const physicianPages = require('./output/physician_all_unique_test_report.json')
-// const allTests = physicianPages.results[0].allTests;
-// const failedTests =
-//     allTests.filter(obj => {
-//         return Object.values(obj)[0] === false;
-//     }).map(obj => {
-//         return Object.keys(obj)[0].match(/'(.*?)'/gi)[0].replace(/'/g, '');
-//     });
-// console.log('physicianPages', failedTests.sort());
-// utils.saveCSV(failedTests, 'test-failed', 'physician');
 
-
-// // Combine Physician topics (Disease)
-// const physician2016 = fs.readFileSync('./input/topic-page-mapping/disease/physician_2016.csv').toString().split('\n');
-// const physician2019 = fs.readFileSync('./input/topic-page-mapping/disease/physician_2019.csv').toString().split('\n');
-// const topicUK = fs.readFileSync('./input/topic-page-mapping/disease/uk.csv').toString().split('\n');
+// // 1. COMBINE Physician topics (Disease)
+// const physician2016 = fs.readFileSync('./input/topic-page-mapping/disease/physician_2016.csv').toString().replace(/["]+/g, '').split('\n');
+// const physician2019 = fs.readFileSync('./input/topic-page-mapping/disease/physician_2019.csv').toString().replace(/["]+/g, '').split('\n');
+// const topicUK = fs.readFileSync('./input/topic-page-mapping/disease/uk.csv').toString().replace(/["]+/g, '').split('\n');
 // const physicianAll = physician2016.concat(physician2019);
 // const physicianUnique = _.uniq(physicianAll)
 //     // .map(item => utils.normalizeStr(item))
@@ -59,14 +48,38 @@ const { utils } = require('./utils');
 //     .sort();
 // console.log(physicianUnique);
 // utils.saveCSV(physicianUnique, 'all-unique', 'physician');
-// const physicianJSON = physicianUnique.map(item => {
-//     return {
-//         "name": item,
-//         "group": "Disease",
-//         "resource": utils.normalizeStr(item)
-//     };
-// });
+
+// // 2. TEST using Postman
+
+// // 3. FILTER test results
+// const physicianTestReport = require('./output/physician_all_unique_test_report.json')
+// const allTests = physicianTestReport.results[0].allTests;
+// const failedTests = allTests
+//     .filter(obj => Object.values(obj)[0] === false)
+//     .map(obj => Object.keys(obj)[0].match(/'(.*?)'/gi)[0].replace(/'/g, ''))
+//     .map(item => item.toLowerCase().trim())
+//     .sort();
+// console.log('physicianTestReport', failedTests);
+// utils.saveCSV(failedTests, 'test-failed', 'physician');
+
+
+// // 4. GENERATE json from passed topics
+// const physicianAll = fs.readFileSync('./output/physician_all_unique.csv').toString().replace(/["]+/g, '').split('\n').sort();
+// const physicianPassed = fs.readFileSync('./output/physician_all_unique_test_passed.csv').toString().replace(/["]+/g, '').split('\n').sort();
+// const physicianFailed = fs.readFileSync('./output/physician_all_unique_test_failed.csv').toString().replace(/["]+/g, '').split('\n').sort();
+
+// const physicianJSON = physicianAll
+//     .filter(item => physicianPassed.indexOf(utils.normalizeStr(item)) > -1)
+//     .map(item => {
+//         return {
+//             "name": item,
+//             "group": "Disease",
+//             "resource": utils.normalizeStr(item)
+//         };
+//     });
 // utils.saveJSON(physicianJSON, 'topic-page-mapping', 'physician');
+
+// // 5. GENERATE XML
 
 const config = {
     checkQuestionTaxonomy: true,
@@ -80,7 +93,7 @@ const config = {
     validateQuestionTopicMapping: true,
     generateQuestionTopicMapping: true,
 
-    generateTopicPageMappingFromJSON: false,
+    generateTopicPageMappingFromJSON: true,
     generateQuestionTopicMappingFromJSON: false,
     generateQuestionTopicMappingFromQuestionMappingCSV: false
 }

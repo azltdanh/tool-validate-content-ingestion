@@ -100,19 +100,9 @@
     "resource": "acute angle-closure glaucoma"
   },
   {
-    "name": "acute appendicitis",
-    "group": "Disease",
-    "resource": "acute appendicitis"
-  },
-  {
     "name": "acute bronchitis",
     "group": "Disease",
     "resource": "acute bronchitis"
-  },
-  {
-    "name": "acute cholangitis",
-    "group": "Disease",
-    "resource": "acute cholangitis"
   },
   {
     "name": "acute cholecystitis",
@@ -123,11 +113,6 @@
     "name": "acute coronary syndrome",
     "group": "Disease",
     "resource": "acute coronary syndrome"
-  },
-  {
-    "name": "acute diarrhea",
-    "group": "Disease",
-    "resource": "acute diarrhea"
   },
   {
     "name": "acute fatty liver of pregnancy",
@@ -143,11 +128,6 @@
     "name": "acute glomerulonephritis",
     "group": "Disease",
     "resource": "acute glomerulonephritis"
-  },
-  {
-    "name": "acute gout",
-    "group": "Disease",
-    "resource": "acute gout"
   },
   {
     "name": "acute hemorrhagic conjunctivitis",
@@ -240,11 +220,6 @@
     "resource": "acute nephritis"
   },
   {
-    "name": "acute otitis media",
-    "group": "Disease",
-    "resource": "acute otitis media"
-  },
-  {
     "name": "acute pancreatitis",
     "group": "Disease",
     "resource": "acute pancreatitis"
@@ -253,11 +228,6 @@
     "name": "acute pericarditis",
     "group": "Disease",
     "resource": "acute pericarditis"
-  },
-  {
-    "name": "acute postinfectious glomerulonephritis",
-    "group": "Disease",
-    "resource": "acute postinfectious glomerulonephritis"
   },
   {
     "name": "acute poststreptococcal glomerulonephritis",
@@ -285,44 +255,14 @@
     "resource": "acute stress disorder"
   },
   {
-    "name": "acute subdural hematoma",
-    "group": "Disease",
-    "resource": "acute subdural hematoma"
-  },
-  {
     "name": "acute tracheitis",
     "group": "Disease",
     "resource": "acute tracheitis"
   },
   {
-    "name": "acute type b viral hepatitis",
-    "group": "Disease",
-    "resource": "acute type b viral hepatitis"
-  },
-  {
-    "name": "acute upper respiratory tract infection in adults",
-    "group": "Disease",
-    "resource": "acute upper respiratory tract infection in adults"
-  },
-  {
-    "name": "acute upper respiratory tract infection in children",
-    "group": "Disease",
-    "resource": "acute upper respiratory tract infection in children"
-  },
-  {
     "name": "acute viral encephalitis",
     "group": "Disease",
     "resource": "acute viral encephalitis"
-  },
-  {
-    "name": "addison disease",
-    "group": "Disease",
-    "resource": "addison disease"
-  },
-  {
-    "name": "adenocarcinoma of unknown primary",
-    "group": "Disease",
-    "resource": "adenocarcinoma of unknown primary"
   },
   {
     "name": "adenomatous polyp",
@@ -333,11 +273,6 @@
     "name": "adenomatous polyposis coli",
     "group": "Disease",
     "resource": "adenomatous polyposis coli"
-  },
-  {
-    "name": "adenoviral infection",
-    "group": "Disease",
-    "resource": "adenoviral infection"
   },
   {
     "name": "adhesive capsulitis of shoulder",
@@ -370,11 +305,6 @@
     "resource": "adrenomyeloneuropathy"
   },
   {
-    "name": "adult acute diarrhea",
-    "group": "Disease",
-    "resource": "adult acute diarrhea"
-  },
-  {
     "name": "adult congenital cardiac disease",
     "group": "Disease",
     "resource": "adult congenital cardiac disease"
@@ -383,11 +313,6 @@
     "name": "adult congenital heart disease",
     "group": "Disease",
     "resource": "adult congenital heart disease"
-  },
-  {
-    "name": "adult growth hormone deficiency",
-    "group": "Disease",
-    "resource": "adult growth hormone deficiency"
   },
   {
     "name": "adult onset still disease",
@@ -403,11 +328,6 @@
     "name": "adult t-cell leukemia/lymphoma",
     "group": "Disease",
     "resource": "adult t-cell leukemia lymphoma"
-  },
-  {
-    "name": "adult-onset obesity",
-    "group": "Disease",
-    "resource": "adult-onset obesity"
   },
   {
     "name": "adult-onset still disease",
@@ -428,21 +348,6 @@
     "name": "african trypanosomiasis",
     "group": "Disease",
     "resource": "african trypanosomiasis"
-  },
-  {
-    "name": "aggressive fibromatosis",
-    "group": "Disease",
-    "resource": "aggressive fibromatosis"
-  },
-  {
-    "name": "agoraphobia",
-    "group": "Disease",
-    "resource": "agoraphobia"
-  },
-  {
-    "name": "aids-associated nephropathy",
-    "group": "Disease",
-    "resource": "aids-associated nephropathy"
   },
   {
     "name": "alcohol use disorder",
@@ -470,11 +375,6 @@
     "resource": "alcoholism"
   },
   {
-    "name": "allergic conjunctivitis",
-    "group": "Disease",
-    "resource": "allergic conjunctivitis"
-  },
-  {
     "name": "allergic reaction",
     "group": "Disease",
     "resource": "allergic reaction"
@@ -498,11 +398,6 @@
     "name": "alpha 1-antitrypsin deficiency",
     "group": "Disease",
     "resource": "alpha 1-antitrypsin deficiency"
-  },
-  {
-    "name": "altitude sickness",
-    "group": "Disease",
-    "resource": "altitude sickness"
   },
   {
     "name": "alzheimer disease",
@@ -533,16 +428,6 @@
     "name": "amniotic fluid embolism",
     "group": "Disease",
     "resource": "amniotic fluid embolism"
-  },
-  {
-    "name": "amphetamine dependence",
-    "group": "Disease",
-    "resource": "amphetamine dependence"
-  },
-  {
-    "name": "amphetamine use",
-    "group": "Disease",
-    "resource": "amphetamine use"
   },
   {
     "name": "amyloidosis",
@@ -615,19 +500,9 @@
     "resource": "angular cheilitis"
   },
   {
-    "name": "animal bite",
-    "group": "Disease",
-    "resource": "animal bite"
-  },
-  {
     "name": "ankle fracture",
     "group": "Disease",
     "resource": "ankle fracture"
-  },
-  {
-    "name": "ankle injury",
-    "group": "Disease",
-    "resource": "ankle injury"
   },
   {
     "name": "ankle sprain",
@@ -730,11 +605,6 @@
     "resource": "aplastic anemia"
   },
   {
-    "name": "appendiceal cancer",
-    "group": "Disease",
-    "resource": "appendiceal cancer"
-  },
-  {
     "name": "appendicitis",
     "group": "Disease",
     "resource": "appendicitis"
@@ -760,19 +630,9 @@
     "resource": "arsenical keratosis"
   },
   {
-    "name": "arterial disease",
-    "group": "Disease",
-    "resource": "arterial disease"
-  },
-  {
     "name": "arthritis",
     "group": "Disease",
     "resource": "arthritis"
-  },
-  {
-    "name": "arthropod bite",
-    "group": "Disease",
-    "resource": "arthropod bite"
   },
   {
     "name": "asbestosis",
@@ -860,11 +720,6 @@
     "resource": "atrial septal defect"
   },
   {
-    "name": "atrioventricular block",
-    "group": "Disease",
-    "resource": "atrioventricular block"
-  },
-  {
     "name": "atrioventricular dissociation",
     "group": "Disease",
     "resource": "atrioventricular dissociation"
@@ -873,11 +728,6 @@
     "name": "atrioventricular dissociation",
     "group": "Disease",
     "resource": "atrioventricular dissociation"
-  },
-  {
-    "name": "atrophic vaginitis",
-    "group": "Disease",
-    "resource": "atrophic vaginitis"
   },
   {
     "name": "attention deficit hyperactivity disorder",
@@ -955,16 +805,6 @@
     "resource": "bacterial meningitis"
   },
   {
-    "name": "bacterial meningitis in adult",
-    "group": "Disease",
-    "resource": "bacterial meningitis in adult"
-  },
-  {
-    "name": "bacterial meningitis in children",
-    "group": "Disease",
-    "resource": "bacterial meningitis in children"
-  },
-  {
     "name": "bacterial pneumonia",
     "group": "Disease",
     "resource": "bacterial pneumonia"
@@ -978,11 +818,6 @@
     "name": "balanitis",
     "group": "Disease",
     "resource": "balanitis"
-  },
-  {
-    "name": "balanoposthitis",
-    "group": "Disease",
-    "resource": "balanoposthitis"
   },
   {
     "name": "barrett esophagus",
@@ -1020,11 +855,6 @@
     "resource": "becker muscular dystrophy"
   },
   {
-    "name": "bed bug infestation",
-    "group": "Disease",
-    "resource": "bed bug infestation"
-  },
-  {
     "name": "behcet syndrome",
     "group": "Disease",
     "resource": "behcet syndrome"
@@ -1040,19 +870,9 @@
     "resource": "benign brain tumor"
   },
   {
-    "name": "benign cervical lesion",
-    "group": "Disease",
-    "resource": "benign cervical lesion"
-  },
-  {
     "name": "benign monoclonal gammopathy",
     "group": "Disease",
     "resource": "benign monoclonal gammopathy"
-  },
-  {
-    "name": "benign mucous membrane pemphigoid",
-    "group": "Disease",
-    "resource": "benign mucous membrane pemphigoid"
   },
   {
     "name": "benign ovarian tumor",
@@ -1070,11 +890,6 @@
     "resource": "benign prostatic hypertrophy"
   },
   {
-    "name": "benign skin tumor",
-    "group": "Disease",
-    "resource": "benign skin tumor"
-  },
-  {
     "name": "bile duct cancer",
     "group": "Disease",
     "resource": "bile duct cancer"
@@ -1083,11 +898,6 @@
     "name": "binge eating disorder",
     "group": "Disease",
     "resource": "binge eating disorder"
-  },
-  {
-    "name": "bipolar depression",
-    "group": "Disease",
-    "resource": "bipolar depression"
   },
   {
     "name": "bipolar disorder",
@@ -1110,29 +920,9 @@
     "resource": "bite wound"
   },
   {
-    "name": "bites and stings",
-    "group": "Disease",
-    "resource": "bites and stings"
-  },
-  {
     "name": "bladder cancer",
     "group": "Disease",
     "resource": "bladder cancer"
-  },
-  {
-    "name": "bladder injury",
-    "group": "Disease",
-    "resource": "bladder injury"
-  },
-  {
-    "name": "bladder tumor",
-    "group": "Disease",
-    "resource": "bladder tumor"
-  },
-  {
-    "name": "blast injury",
-    "group": "Disease",
-    "resource": "blast injury"
   },
   {
     "name": "blastomycosis",
@@ -1225,11 +1015,6 @@
     "resource": "breathing related sleep disorder"
   },
   {
-    "name": "breathing-related sleep disorder",
-    "group": "Disease",
-    "resource": "breathing-related sleep disorder"
-  },
-  {
     "name": "bronchiectasis",
     "group": "Disease",
     "resource": "bronchiectasis"
@@ -1300,29 +1085,14 @@
     "resource": "candidiasis"
   },
   {
-    "name": "capillary hemangioma",
-    "group": "Disease",
-    "resource": "capillary hemangioma"
-  },
-  {
     "name": "carbon monoxide poisoning",
     "group": "Disease",
     "resource": "carbon monoxide poisoning"
   },
   {
-    "name": "carbuncle/boil",
-    "group": "Disease",
-    "resource": "carbuncle boil"
-  },
-  {
     "name": "carcinoma of prostate",
     "group": "Disease",
     "resource": "carcinoma of prostate"
-  },
-  {
-    "name": "cardiac arrest",
-    "group": "Disease",
-    "resource": "cardiac arrest"
   },
   {
     "name": "cardiac tamponade",
@@ -1373,11 +1143,6 @@
     "name": "cataract",
     "group": "Disease",
     "resource": "cataract"
-  },
-  {
-    "name": "cauda equina syndrome",
-    "group": "Disease",
-    "resource": "cauda equina syndrome"
   },
   {
     "name": "cavernous sinus thrombosis",
@@ -1450,11 +1215,6 @@
     "resource": "cervical polyp"
   },
   {
-    "name": "cervical spine injury",
-    "group": "Disease",
-    "resource": "cervical spine injury"
-  },
-  {
     "name": "cervicitis",
     "group": "Disease",
     "resource": "cervicitis"
@@ -1473,11 +1233,6 @@
     "name": "chancroid",
     "group": "Disease",
     "resource": "chancroid"
-  },
-  {
-    "name": "cheilitis",
-    "group": "Disease",
-    "resource": "cheilitis"
   },
   {
     "name": "chemically induced",
@@ -1500,24 +1255,9 @@
     "resource": "child abuse"
   },
   {
-    "name": "childhood asthma",
-    "group": "Disease",
-    "resource": "childhood asthma"
-  },
-  {
-    "name": "childhood obesity",
-    "group": "Disease",
-    "resource": "childhood obesity"
-  },
-  {
     "name": "chlamydia infection",
     "group": "Disease",
     "resource": "chlamydia infection"
-  },
-  {
-    "name": "chlamydophila pneumoniae infection",
-    "group": "Disease",
-    "resource": "chlamydophila pneumoniae infection"
   },
   {
     "name": "cholangitis",
@@ -1543,11 +1283,6 @@
     "name": "cholera",
     "group": "Disease",
     "resource": "cholera"
-  },
-  {
-    "name": "cholesteatoma",
-    "group": "Disease",
-    "resource": "cholesteatoma"
   },
   {
     "name": "chondrosarcoma",
@@ -1583,11 +1318,6 @@
     "name": "chronic daily headache",
     "group": "Disease",
     "resource": "chronic daily headache"
-  },
-  {
-    "name": "chronic diarrhea",
-    "group": "Disease",
-    "resource": "chronic diarrhea"
   },
   {
     "name": "chronic fatigue syndrome",
@@ -1660,11 +1390,6 @@
     "resource": "chronic obstructive pulmonary disease"
   },
   {
-    "name": "chronic otitis media",
-    "group": "Disease",
-    "resource": "chronic otitis media"
-  },
-  {
     "name": "chronic pancreatitis",
     "group": "Disease",
     "resource": "chronic pancreatitis"
@@ -1673,21 +1398,6 @@
     "name": "chronic renal failure",
     "group": "Disease",
     "resource": "chronic renal failure"
-  },
-  {
-    "name": "chronic subdural hematoma",
-    "group": "Disease",
-    "resource": "chronic subdural hematoma"
-  },
-  {
-    "name": "chronic tophaceous gout",
-    "group": "Disease",
-    "resource": "chronic tophaceous gout"
-  },
-  {
-    "name": "chronic type c viral hepatitis",
-    "group": "Disease",
-    "resource": "chronic type c viral hepatitis"
   },
   {
     "name": "chronic urticaria",
@@ -1740,11 +1450,6 @@
     "resource": "claudication"
   },
   {
-    "name": "cleft lip/cleft palate",
-    "group": "Disease",
-    "resource": "cleft lip cleft palate"
-  },
-  {
     "name": "clonorchiasis",
     "group": "Disease",
     "resource": "clonorchiasis"
@@ -1775,19 +1480,9 @@
     "resource": "cns infection"
   },
   {
-    "name": "cocaine addiction",
-    "group": "Disease",
-    "resource": "cocaine addiction"
-  },
-  {
     "name": "cocaine overdose",
     "group": "Disease",
     "resource": "cocaine overdose"
-  },
-  {
-    "name": "cocaine use disorder",
-    "group": "Disease",
-    "resource": "cocaine use disorder"
   },
   {
     "name": "coccidioidomycosis",
@@ -1815,16 +1510,6 @@
     "resource": "colonic diverticulitis"
   },
   {
-    "name": "colonic polyp",
-    "group": "Disease",
-    "resource": "colonic polyp"
-  },
-  {
-    "name": "colonic volvulus",
-    "group": "Disease",
-    "resource": "colonic volvulus"
-  },
-  {
     "name": "colorado tick fever",
     "group": "Disease",
     "resource": "colorado tick fever"
@@ -1843,16 +1528,6 @@
     "name": "community-acquired pneumonia",
     "group": "Disease",
     "resource": "community-acquired pneumonia"
-  },
-  {
-    "name": "community-acquired pneumonia in adults",
-    "group": "Disease",
-    "resource": "community-acquired pneumonia in adults"
-  },
-  {
-    "name": "community-acquired pneumonia in children",
-    "group": "Disease",
-    "resource": "community-acquired pneumonia in children"
   },
   {
     "name": "compartment syndrome",
@@ -1888,16 +1563,6 @@
     "name": "congenital adrenal hyperplasia",
     "group": "Disease",
     "resource": "congenital adrenal hyperplasia"
-  },
-  {
-    "name": "congenital cytomegalovirus infection",
-    "group": "Disease",
-    "resource": "congenital cytomegalovirus infection"
-  },
-  {
-    "name": "congenital leukocyte adherence deficiency",
-    "group": "Disease",
-    "resource": "congenital leukocyte adherence deficiency"
   },
   {
     "name": "congenital omphalocele",
@@ -1960,11 +1625,6 @@
     "resource": "corneal abrasion"
   },
   {
-    "name": "corneal foreign body",
-    "group": "Disease",
-    "resource": "corneal foreign body"
-  },
-  {
     "name": "corneal ulcer",
     "group": "Disease",
     "resource": "corneal ulcer"
@@ -2010,11 +1670,6 @@
     "resource": "cryoglobulinemia"
   },
   {
-    "name": "cryptococcal infection",
-    "group": "Disease",
-    "resource": "cryptococcal infection"
-  },
-  {
     "name": "cryptococcosis",
     "group": "Disease",
     "resource": "cryptococcosis"
@@ -2055,11 +1710,6 @@
     "resource": "cutaneous leishmaniasis"
   },
   {
-    "name": "cutaneous paraneoplastic syndrome",
-    "group": "Disease",
-    "resource": "cutaneous paraneoplastic syndrome"
-  },
-  {
     "name": "cutaneous t-cell lymphoma",
     "group": "Disease",
     "resource": "cutaneous t-cell lymphoma"
@@ -2083,11 +1733,6 @@
     "name": "cysticercosis",
     "group": "Disease",
     "resource": "cysticercosis"
-  },
-  {
-    "name": "cystocele",
-    "group": "Disease",
-    "resource": "cystocele"
   },
   {
     "name": "cytomegalovirus infection",
@@ -2155,19 +1800,9 @@
     "resource": "dependent personality disorder"
   },
   {
-    "name": "depression",
-    "group": "Disease",
-    "resource": "depression"
-  },
-  {
     "name": "dermatitis herpetiformis",
     "group": "Disease",
     "resource": "dermatitis herpetiformis"
-  },
-  {
-    "name": "dermatitis medicamentosa",
-    "group": "Disease",
-    "resource": "dermatitis medicamentosa"
   },
   {
     "name": "dermatomyositis",
@@ -2178,16 +1813,6 @@
     "name": "desquamative interstitial pneumonia",
     "group": "Disease",
     "resource": "desquamative interstitial pneumonia"
-  },
-  {
-    "name": "developmental dysplasia of the hip",
-    "group": "Disease",
-    "resource": "developmental dysplasia of the hip"
-  },
-  {
-    "name": "dextromethorphan overdose",
-    "group": "Disease",
-    "resource": "dextromethorphan overdose"
   },
   {
     "name": "diabetes insipidus",
@@ -2205,34 +1830,14 @@
     "resource": "diabetes mellitus type 1"
   },
   {
-    "name": "diabetes mellitus type 1 in adults",
-    "group": "Disease",
-    "resource": "diabetes mellitus type 1 in adults"
-  },
-  {
-    "name": "diabetes mellitus type 1 in children",
-    "group": "Disease",
-    "resource": "diabetes mellitus type 1 in children"
-  },
-  {
     "name": "diabetes mellitus type 2",
     "group": "Disease",
     "resource": "diabetes mellitus type 2"
   },
   {
-    "name": "diabetes mellitus type 2 in children",
-    "group": "Disease",
-    "resource": "diabetes mellitus type 2 in children"
-  },
-  {
     "name": "diabetic foot",
     "group": "Disease",
     "resource": "diabetic foot"
-  },
-  {
-    "name": "diabetic foot ulcer",
-    "group": "Disease",
-    "resource": "diabetic foot ulcer"
   },
   {
     "name": "diabetic ketoacidosis",
@@ -2385,11 +1990,6 @@
     "resource": "dysfunctional uterine bleeding"
   },
   {
-    "name": "dyshidrotic eczema",
-    "group": "Disease",
-    "resource": "dyshidrotic eczema"
-  },
-  {
     "name": "dyskinesia syndrome",
     "group": "Disease",
     "resource": "dyskinesia syndrome"
@@ -2408,11 +2008,6 @@
     "name": "dysphagia",
     "group": "Disease",
     "resource": "dysphagia"
-  },
-  {
-    "name": "dystocia",
-    "group": "Disease",
-    "resource": "dystocia"
   },
   {
     "name": "dystonia",
@@ -2540,19 +2135,9 @@
     "resource": "endometritis"
   },
   {
-    "name": "endophthalmitis",
-    "group": "Disease",
-    "resource": "endophthalmitis"
-  },
-  {
     "name": "endosteal hyperostosis",
     "group": "Disease",
     "resource": "endosteal hyperostosis"
-  },
-  {
-    "name": "enterocele",
-    "group": "Disease",
-    "resource": "enterocele"
   },
   {
     "name": "enterococcus infection",
@@ -2563,16 +2148,6 @@
     "name": "enteropathic arthritis",
     "group": "Disease",
     "resource": "enteropathic arthritis"
-  },
-  {
-    "name": "enterovirus infection",
-    "group": "Disease",
-    "resource": "enterovirus infection"
-  },
-  {
-    "name": "enthesitis",
-    "group": "Disease",
-    "resource": "enthesitis"
   },
   {
     "name": "envenomation",
@@ -2650,11 +2225,6 @@
     "resource": "epilepsy in adults"
   },
   {
-    "name": "epilepsy in children",
-    "group": "Disease",
-    "resource": "epilepsy in children"
-  },
-  {
     "name": "epiploic appendagitis",
     "group": "Disease",
     "resource": "epiploic appendagitis"
@@ -2728,11 +2298,6 @@
     "name": "esophageal adenocarcinoma",
     "group": "Disease",
     "resource": "esophageal adenocarcinoma"
-  },
-  {
-    "name": "esophageal cancer",
-    "group": "Disease",
-    "resource": "esophageal cancer"
   },
   {
     "name": "esophageal dysphagia",
@@ -2855,11 +2420,6 @@
     "resource": "fat embolism syndrome"
   },
   {
-    "name": "fatty liver",
-    "group": "Disease",
-    "resource": "fatty liver"
-  },
-  {
     "name": "febrile convulsions",
     "group": "Disease",
     "resource": "febrile convulsions"
@@ -2873,11 +2433,6 @@
     "name": "felty syndrome",
     "group": "Disease",
     "resource": "felty syndrome"
-  },
-  {
-    "name": "femoral hernia",
-    "group": "Disease",
-    "resource": "femoral hernia"
   },
   {
     "name": "fetal alcohol syndrome",
@@ -2960,16 +2515,6 @@
     "resource": "food anaphylaxis"
   },
   {
-    "name": "fracture-dislocation",
-    "group": "Disease",
-    "resource": "fracture-dislocation"
-  },
-  {
-    "name": "fragile x syndrome",
-    "group": "Disease",
-    "resource": "fragile x syndrome"
-  },
-  {
     "name": "freckle",
     "group": "Disease",
     "resource": "freckle"
@@ -3000,11 +2545,6 @@
     "resource": "functional dyspepsia"
   },
   {
-    "name": "functional mitral regurgitation",
-    "group": "Disease",
-    "resource": "functional mitral regurgitation"
-  },
-  {
     "name": "functional pancreatic neuroendocrine tumor",
     "group": "Disease",
     "resource": "functional pancreatic neuroendocrine tumor"
@@ -3028,11 +2568,6 @@
     "name": "galactorrhea",
     "group": "Disease",
     "resource": "galactorrhea"
-  },
-  {
-    "name": "ganglion cyst",
-    "group": "Disease",
-    "resource": "ganglion cyst"
   },
   {
     "name": "gardner syndrome",
@@ -3085,11 +2620,6 @@
     "resource": "gastroesophageal reflux disease"
   },
   {
-    "name": "gastroesophageal reflux disease in adults",
-    "group": "Disease",
-    "resource": "gastroesophageal reflux disease in adults"
-  },
-  {
     "name": "gastrointestinal motility disorder",
     "group": "Disease",
     "resource": "gastrointestinal motility disorder"
@@ -3110,19 +2640,9 @@
     "resource": "gaucher disease"
   },
   {
-    "name": "generalized anxiety disorder",
-    "group": "Disease",
-    "resource": "generalized anxiety disorder"
-  },
-  {
     "name": "genetic syndrome",
     "group": "Disease",
     "resource": "genetic syndrome"
-  },
-  {
-    "name": "genital herpes",
-    "group": "Disease",
-    "resource": "genital herpes"
   },
   {
     "name": "genital infection",
@@ -3133,11 +2653,6 @@
     "name": "gestational diabetes",
     "group": "Disease",
     "resource": "gestational diabetes"
-  },
-  {
-    "name": "gestational trophoblastic disease",
-    "group": "Disease",
-    "resource": "gestational trophoblastic disease"
   },
   {
     "name": "giardiasis",
@@ -3245,11 +2760,6 @@
     "resource": "guillain-barre syndrome"
   },
   {
-    "name": "gynecologic cancer",
-    "group": "Disease",
-    "resource": "gynecologic cancer"
-  },
-  {
     "name": "gynecomastia",
     "group": "Disease",
     "resource": "gynecomastia"
@@ -3273,11 +2783,6 @@
     "name": "hand foot and mouth disease",
     "group": "Disease",
     "resource": "hand foot and mouth disease"
-  },
-  {
-    "name": "hand injury",
-    "group": "Disease",
-    "resource": "hand injury"
   },
   {
     "name": "hantavirus pulmonary syndrome",
@@ -3475,11 +2980,6 @@
     "resource": "hereditary hemorrhagic telangiectasia"
   },
   {
-    "name": "hereditary nonhemolytic jaundice",
-    "group": "Disease",
-    "resource": "hereditary nonhemolytic jaundice"
-  },
-  {
     "name": "hereditary nonpolyposis colorectal cancer",
     "group": "Disease",
     "resource": "hereditary nonpolyposis colorectal cancer"
@@ -3540,11 +3040,6 @@
     "resource": "hip fracture"
   },
   {
-    "name": "hip joint dislocation",
-    "group": "Disease",
-    "resource": "hip joint dislocation"
-  },
-  {
     "name": "hirschsprung disease",
     "group": "Disease",
     "resource": "hirschsprung disease"
@@ -3600,16 +3095,6 @@
     "resource": "human anaplasmosis"
   },
   {
-    "name": "human ehrlichiosis",
-    "group": "Disease",
-    "resource": "human ehrlichiosis"
-  },
-  {
-    "name": "human metapneumovirus infection",
-    "group": "Disease",
-    "resource": "human metapneumovirus infection"
-  },
-  {
     "name": "huntington disease",
     "group": "Disease",
     "resource": "huntington disease"
@@ -3623,11 +3108,6 @@
     "name": "hydrocele",
     "group": "Disease",
     "resource": "hydrocele"
-  },
-  {
-    "name": "hydrocephalus",
-    "group": "Disease",
-    "resource": "hydrocephalus"
   },
   {
     "name": "hydronephrosis",
@@ -3655,11 +3135,6 @@
     "resource": "hypercalcemia"
   },
   {
-    "name": "hypercalcemia of malignancy",
-    "group": "Disease",
-    "resource": "hypercalcemia of malignancy"
-  },
-  {
     "name": "hypercholesterolemia",
     "group": "Disease",
     "resource": "hypercholesterolemia"
@@ -3673,11 +3148,6 @@
     "name": "hyperhomocysteinemia",
     "group": "Disease",
     "resource": "hyperhomocysteinemia"
-  },
-  {
-    "name": "hyperkalemia",
-    "group": "Disease",
-    "resource": "hyperkalemia"
   },
   {
     "name": "hyperlipidemia",
@@ -3730,11 +3200,6 @@
     "resource": "hypertension"
   },
   {
-    "name": "hypertensive emergency",
-    "group": "Disease",
-    "resource": "hypertensive emergency"
-  },
-  {
     "name": "hyperthyroidism",
     "group": "Disease",
     "resource": "hyperthyroidism"
@@ -3753,11 +3218,6 @@
     "name": "hyperuricemia",
     "group": "Disease",
     "resource": "hyperuricemia"
-  },
-  {
-    "name": "hyperviscosity syndrome",
-    "group": "Disease",
-    "resource": "hyperviscosity syndrome"
   },
   {
     "name": "hypoactive sexual desire disorder",
@@ -3860,11 +3320,6 @@
     "resource": "iga glomerulonephritis"
   },
   {
-    "name": "ileus",
-    "group": "Disease",
-    "resource": "ileus"
-  },
-  {
     "name": "immune disorder",
     "group": "Disease",
     "resource": "immune disorder"
@@ -3910,29 +3365,14 @@
     "resource": "infected bursa"
   },
   {
-    "name": "infection of vascular catheter",
-    "group": "Disease",
-    "resource": "infection of vascular catheter"
-  },
-  {
     "name": "infectious mononucleosis",
     "group": "Disease",
     "resource": "infectious mononucleosis"
   },
   {
-    "name": "infective conjunctivitis",
-    "group": "Disease",
-    "resource": "infective conjunctivitis"
-  },
-  {
     "name": "infective endocarditis",
     "group": "Disease",
     "resource": "infective endocarditis"
-  },
-  {
-    "name": "infective esophagitis",
-    "group": "Disease",
-    "resource": "infective esophagitis"
   },
   {
     "name": "infertility",
@@ -3953,11 +3393,6 @@
     "name": "influenza",
     "group": "Disease",
     "resource": "influenza"
-  },
-  {
-    "name": "inguinal hernia",
-    "group": "Disease",
-    "resource": "inguinal hernia"
   },
   {
     "name": "inhalation injury",
@@ -4045,11 +3480,6 @@
     "resource": "intracerebral hemorrhage"
   },
   {
-    "name": "intracranial hemorrhage",
-    "group": "Disease",
-    "resource": "intracranial hemorrhage"
-  },
-  {
     "name": "intracranial hypertension",
     "group": "Disease",
     "resource": "intracranial hypertension"
@@ -4065,11 +3495,6 @@
     "resource": "intracranial neoplasm"
   },
   {
-    "name": "intraocular melanoma",
-    "group": "Disease",
-    "resource": "intraocular melanoma"
-  },
-  {
     "name": "intussusception",
     "group": "Disease",
     "resource": "intussusception"
@@ -4083,11 +3508,6 @@
     "name": "invasive malignant neoplasm of breast",
     "group": "Disease",
     "resource": "invasive malignant neoplasm of breast"
-  },
-  {
-    "name": "ipex syndrome",
-    "group": "Disease",
-    "resource": "ipex syndrome"
   },
   {
     "name": "iron overload",
@@ -4185,11 +3605,6 @@
     "resource": "klinefelter syndrome"
   },
   {
-    "name": "knee injury",
-    "group": "Disease",
-    "resource": "knee injury"
-  },
-  {
     "name": "kyphoscoliosis",
     "group": "Disease",
     "resource": "kyphoscoliosis"
@@ -4220,11 +3635,6 @@
     "resource": "lambert-eaton syndrome"
   },
   {
-    "name": "laryngeal cancer",
-    "group": "Disease",
-    "resource": "laryngeal cancer"
-  },
-  {
     "name": "laryngeal carcinoma",
     "group": "Disease",
     "resource": "laryngeal carcinoma"
@@ -4238,11 +3648,6 @@
     "name": "lateral sinus thrombosis",
     "group": "Disease",
     "resource": "lateral sinus thrombosis"
-  },
-  {
-    "name": "latex allergy",
-    "group": "Disease",
-    "resource": "latex allergy"
   },
   {
     "name": "lead poisoning",
@@ -4330,11 +3735,6 @@
     "resource": "lipoid pneumonia"
   },
   {
-    "name": "lipoma",
-    "group": "Disease",
-    "resource": "lipoma"
-  },
-  {
     "name": "listeriosis",
     "group": "Disease",
     "resource": "listeriosis"
@@ -4378,11 +3778,6 @@
     "name": "lumbar spinal stenosis",
     "group": "Disease",
     "resource": "lumbar spinal stenosis"
-  },
-  {
-    "name": "lumbar spondylosis",
-    "group": "Disease",
-    "resource": "lumbar spondylosis"
   },
   {
     "name": "lung cancer",
@@ -4485,11 +3880,6 @@
     "resource": "malignant carcinoid syndrome"
   },
   {
-    "name": "malignant epidural spinal cord compression",
-    "group": "Disease",
-    "resource": "malignant epidural spinal cord compression"
-  },
-  {
     "name": "malignant hyperthermia",
     "group": "Disease",
     "resource": "malignant hyperthermia"
@@ -4515,19 +3905,9 @@
     "resource": "mallory-weiss syndrome"
   },
   {
-    "name": "maltoma",
-    "group": "Disease",
-    "resource": "maltoma"
-  },
-  {
     "name": "mammary paget disease",
     "group": "Disease",
     "resource": "mammary paget disease"
-  },
-  {
-    "name": "marburg hemorrhagic fever",
-    "group": "Disease",
-    "resource": "marburg hemorrhagic fever"
   },
   {
     "name": "marfan syndrome",
@@ -4590,19 +3970,9 @@
     "resource": "medullary thyroid carcinoma"
   },
   {
-    "name": "medulloblastoma",
-    "group": "Disease",
-    "resource": "medulloblastoma"
-  },
-  {
     "name": "megaloblastic anemia",
     "group": "Disease",
     "resource": "megaloblastic anemia"
-  },
-  {
-    "name": "meibomian cyst",
-    "group": "Disease",
-    "resource": "meibomian cyst"
   },
   {
     "name": "meigs syndrome",
@@ -4643,11 +4013,6 @@
     "name": "meningitis",
     "group": "Disease",
     "resource": "meningitis"
-  },
-  {
-    "name": "meningococcemia",
-    "group": "Disease",
-    "resource": "meningococcemia"
   },
   {
     "name": "meningomyelocele",
@@ -4730,11 +4095,6 @@
     "resource": "metabolic syndrome"
   },
   {
-    "name": "methemoglobinemia",
-    "group": "Disease",
-    "resource": "methemoglobinemia"
-  },
-  {
     "name": "microscopic polyangiitis",
     "group": "Disease",
     "resource": "microscopic polyangiitis"
@@ -4763,11 +4123,6 @@
     "name": "miliary tuberculosis",
     "group": "Disease",
     "resource": "miliary tuberculosis"
-  },
-  {
-    "name": "milk-alkali syndrome",
-    "group": "Disease",
-    "resource": "milk-alkali syndrome"
   },
   {
     "name": "mineralocorticoid deficiency",
@@ -4810,16 +4165,6 @@
     "resource": "monkeypox"
   },
   {
-    "name": "monoclonal gammopathy",
-    "group": "Disease",
-    "resource": "monoclonal gammopathy"
-  },
-  {
-    "name": "mood disorder",
-    "group": "Disease",
-    "resource": "mood disorder"
-  },
-  {
     "name": "morton neuroma",
     "group": "Disease",
     "resource": "morton neuroma"
@@ -4833,16 +4178,6 @@
     "name": "motor neuron disease",
     "group": "Disease",
     "resource": "motor neuron disease"
-  },
-  {
-    "name": "moyamoya disease",
-    "group": "Disease",
-    "resource": "moyamoya disease"
-  },
-  {
-    "name": "mucocutaneous candidiasis",
-    "group": "Disease",
-    "resource": "mucocutaneous candidiasis"
   },
   {
     "name": "mucopolysaccharidosis",
@@ -4880,21 +4215,6 @@
     "resource": "multifocal motor neuropathy"
   },
   {
-    "name": "multiple chemical sensitivity",
-    "group": "Disease",
-    "resource": "multiple chemical sensitivity"
-  },
-  {
-    "name": "multiple endocrine neoplasia type 1",
-    "group": "Disease",
-    "resource": "multiple endocrine neoplasia type 1"
-  },
-  {
-    "name": "multiple endocrine neoplasia type 2a",
-    "group": "Disease",
-    "resource": "multiple endocrine neoplasia type 2a"
-  },
-  {
     "name": "multiple myeloma",
     "group": "Disease",
     "resource": "multiple myeloma"
@@ -4913,11 +4233,6 @@
     "name": "mumps",
     "group": "Disease",
     "resource": "mumps"
-  },
-  {
-    "name": "munchausen syndrome",
-    "group": "Disease",
-    "resource": "munchausen syndrome"
   },
   {
     "name": "murine typhus",
@@ -4990,11 +4305,6 @@
     "resource": "myofascial pain syndrome"
   },
   {
-    "name": "myofascial pelvic pain syndrome",
-    "group": "Disease",
-    "resource": "myofascial pelvic pain syndrome"
-  },
-  {
     "name": "myopericarditis",
     "group": "Disease",
     "resource": "myopericarditis"
@@ -5045,16 +4355,6 @@
     "resource": "nasal polyp"
   },
   {
-    "name": "nasopharyngeal carcinoma",
-    "group": "Disease",
-    "resource": "nasopharyngeal carcinoma"
-  },
-  {
-    "name": "natural killer cell deficiency syndrome",
-    "group": "Disease",
-    "resource": "natural killer cell deficiency syndrome"
-  },
-  {
     "name": "necrotizing fasciitis",
     "group": "Disease",
     "resource": "necrotizing fasciitis"
@@ -5070,21 +4370,6 @@
     "resource": "necrotizing ulcerative gingivitis"
   },
   {
-    "name": "neonatal jaundice",
-    "group": "Disease",
-    "resource": "neonatal jaundice"
-  },
-  {
-    "name": "neonatal seizure",
-    "group": "Disease",
-    "resource": "neonatal seizure"
-  },
-  {
-    "name": "neonatal sepsis",
-    "group": "Disease",
-    "resource": "neonatal sepsis"
-  },
-  {
     "name": "neoplasm metastasis",
     "group": "Disease",
     "resource": "neoplasm metastasis"
@@ -5095,11 +4380,6 @@
     "resource": "neoplasm of myocardium"
   },
   {
-    "name": "nephritic syndrome",
-    "group": "Disease",
-    "resource": "nephritic syndrome"
-  },
-  {
     "name": "nephrogenic systemic fibrosis",
     "group": "Disease",
     "resource": "nephrogenic systemic fibrosis"
@@ -5108,11 +4388,6 @@
     "name": "nephrotic syndrome",
     "group": "Disease",
     "resource": "nephrotic syndrome"
-  },
-  {
-    "name": "neural tube defect",
-    "group": "Disease",
-    "resource": "neural tube defect"
   },
   {
     "name": "neuroblastoma",
@@ -5150,19 +4425,9 @@
     "resource": "neutropenia"
   },
   {
-    "name": "newborn respiratory distress syndrome",
-    "group": "Disease",
-    "resource": "newborn respiratory distress syndrome"
-  },
-  {
     "name": "nocardiosis",
     "group": "Disease",
     "resource": "nocardiosis"
-  },
-  {
-    "name": "nocturnal leg cramps",
-    "group": "Disease",
-    "resource": "nocturnal leg cramps"
   },
   {
     "name": "non-allergic rhinitis",
@@ -5210,11 +4475,6 @@
     "resource": "nonspecific interstitial pneumonia"
   },
   {
-    "name": "nonspecific ulcerative proctitis",
-    "group": "Disease",
-    "resource": "nonspecific ulcerative proctitis"
-  },
-  {
     "name": "nonspecific urethritis",
     "group": "Disease",
     "resource": "nonspecific urethritis"
@@ -5235,19 +4495,9 @@
     "resource": "normal pressure hydrocephalus"
   },
   {
-    "name": "o'nyong-nyong fever",
-    "group": "Disease",
-    "resource": "onyong-nyong fever"
-  },
-  {
     "name": "obesity",
     "group": "Disease",
     "resource": "obesity"
-  },
-  {
-    "name": "obesity hypoventilation syndrome",
-    "group": "Disease",
-    "resource": "obesity hypoventilation syndrome"
   },
   {
     "name": "obsessive compulsive disorder",
@@ -5280,16 +4530,6 @@
     "resource": "occupational pulmonary disease"
   },
   {
-    "name": "oculovestibuloauditory syndrome",
-    "group": "Disease",
-    "resource": "oculovestibuloauditory syndrome"
-  },
-  {
-    "name": "oligohydramnios",
-    "group": "Disease",
-    "resource": "oligohydramnios"
-  },
-  {
     "name": "onchocerciasis",
     "group": "Disease",
     "resource": "onchocerciasis"
@@ -5315,19 +4555,9 @@
     "resource": "opioid dependence"
   },
   {
-    "name": "opioid use",
-    "group": "Disease",
-    "resource": "opioid use"
-  },
-  {
     "name": "opisthorchiasis",
     "group": "Disease",
     "resource": "opisthorchiasis"
-  },
-  {
-    "name": "opportunistic infection",
-    "group": "Disease",
-    "resource": "opportunistic infection"
   },
   {
     "name": "oppositional defiant disorder",
@@ -5348,11 +4578,6 @@
     "name": "oral cancer",
     "group": "Disease",
     "resource": "oral cancer"
-  },
-  {
-    "name": "oral leukoplakia",
-    "group": "Disease",
-    "resource": "oral leukoplakia"
   },
   {
     "name": "orchitis",
@@ -5400,11 +4625,6 @@
     "resource": "osteochondritis dissecans"
   },
   {
-    "name": "osteogenesis imperfecta",
-    "group": "Disease",
-    "resource": "osteogenesis imperfecta"
-  },
-  {
     "name": "osteomalacia",
     "group": "Disease",
     "resource": "osteomalacia"
@@ -5423,11 +4643,6 @@
     "name": "osteoporosis",
     "group": "Disease",
     "resource": "osteoporosis"
-  },
-  {
-    "name": "osteosarcoma",
-    "group": "Disease",
-    "resource": "osteosarcoma"
   },
   {
     "name": "osteosclerosis",
@@ -5455,16 +4670,6 @@
     "resource": "ovarian cancer"
   },
   {
-    "name": "ovarian cyst",
-    "group": "Disease",
-    "resource": "ovarian cyst"
-  },
-  {
-    "name": "ovarian hyperstimulation syndrome",
-    "group": "Disease",
-    "resource": "ovarian hyperstimulation syndrome"
-  },
-  {
     "name": "oxygen toxicity",
     "group": "Disease",
     "resource": "oxygen toxicity"
@@ -5478,11 +4683,6 @@
     "name": "pancreatic cancer",
     "group": "Disease",
     "resource": "pancreatic cancer"
-  },
-  {
-    "name": "pancreatic exocrine cancer",
-    "group": "Disease",
-    "resource": "pancreatic exocrine cancer"
   },
   {
     "name": "pancreatitis",
@@ -5533,16 +4733,6 @@
     "name": "paranoid personality disorder",
     "group": "Disease",
     "resource": "paranoid personality disorder"
-  },
-  {
-    "name": "paraphimosis",
-    "group": "Disease",
-    "resource": "paraphimosis"
-  },
-  {
-    "name": "paraquat poisoning",
-    "group": "Disease",
-    "resource": "paraquat poisoning"
   },
   {
     "name": "parasitic disease",
@@ -5598,11 +4788,6 @@
     "name": "patent foramen ovale",
     "group": "Disease",
     "resource": "patent foramen ovale"
-  },
-  {
-    "name": "pauci-immune vasculitis",
-    "group": "Disease",
-    "resource": "pauci-immune vasculitis"
   },
   {
     "name": "pectus excavatum",
@@ -5700,16 +4885,6 @@
     "resource": "pericarditis"
   },
   {
-    "name": "perimeningeal infection",
-    "group": "Disease",
-    "resource": "perimeningeal infection"
-  },
-  {
-    "name": "perioperative anaphylaxis",
-    "group": "Disease",
-    "resource": "perioperative anaphylaxis"
-  },
-  {
     "name": "periorificial lentiginosis syndrome",
     "group": "Disease",
     "resource": "periorificial lentiginosis syndrome"
@@ -5723,11 +4898,6 @@
     "name": "perirectal abscess",
     "group": "Disease",
     "resource": "perirectal abscess"
-  },
-  {
-    "name": "peritoneal carcinomatosis",
-    "group": "Disease",
-    "resource": "peritoneal carcinomatosis"
   },
   {
     "name": "peritonitis",
@@ -5795,24 +4965,9 @@
     "resource": "pheochromocytoma"
   },
   {
-    "name": "phimosis",
-    "group": "Disease",
-    "resource": "phimosis"
-  },
-  {
     "name": "phobic anxiety disorder",
     "group": "Disease",
     "resource": "phobic anxiety disorder"
-  },
-  {
-    "name": "photosensitivity disorder",
-    "group": "Disease",
-    "resource": "photosensitivity disorder"
-  },
-  {
-    "name": "physical child abuse",
-    "group": "Disease",
-    "resource": "physical child abuse"
   },
   {
     "name": "pilonidal disease",
@@ -5945,11 +5100,6 @@
     "resource": "polyglandular autoimmune syndrome type 2"
   },
   {
-    "name": "polyhydramnios",
-    "group": "Disease",
-    "resource": "polyhydramnios"
-  },
-  {
     "name": "polymyalgia rheumatica",
     "group": "Disease",
     "resource": "polymyalgia rheumatica"
@@ -6075,11 +5225,6 @@
     "resource": "precocious puberty"
   },
   {
-    "name": "pregnancy disorder",
-    "group": "Disease",
-    "resource": "pregnancy disorder"
-  },
-  {
     "name": "pregnancy-induced hypertension",
     "group": "Disease",
     "resource": "pregnancy-induced hypertension"
@@ -6115,16 +5260,6 @@
     "resource": "premenstrual syndrome"
   },
   {
-    "name": "prepubescent vulvovaginitis",
-    "group": "Disease",
-    "resource": "prepubescent vulvovaginitis"
-  },
-  {
-    "name": "presbycusis",
-    "group": "Disease",
-    "resource": "presbycusis"
-  },
-  {
     "name": "pressure injury",
     "group": "Disease",
     "resource": "pressure injury"
@@ -6145,11 +5280,6 @@
     "resource": "primary angle-closure glaucoma"
   },
   {
-    "name": "primary bacterial peritonitis",
-    "group": "Disease",
-    "resource": "primary bacterial peritonitis"
-  },
-  {
     "name": "primary biliary cholangitis",
     "group": "Disease",
     "resource": "primary biliary cholangitis"
@@ -6158,11 +5288,6 @@
     "name": "primary biliary cirrhosis",
     "group": "Disease",
     "resource": "primary biliary cirrhosis"
-  },
-  {
-    "name": "primary central nervous system lymphoma",
-    "group": "Disease",
-    "resource": "primary central nervous system lymphoma"
   },
   {
     "name": "primary hypercoagulable state",
@@ -6285,11 +5410,6 @@
     "resource": "pseudomembranous colitis"
   },
   {
-    "name": "pseudomyxoma peritonei",
-    "group": "Disease",
-    "resource": "pseudomyxoma peritonei"
-  },
-  {
     "name": "pseudotumor cerebri",
     "group": "Disease",
     "resource": "pseudotumor cerebri"
@@ -6318,16 +5438,6 @@
     "name": "psychotic disorder",
     "group": "Disease",
     "resource": "psychotic disorder"
-  },
-  {
-    "name": "pterygium",
-    "group": "Disease",
-    "resource": "pterygium"
-  },
-  {
-    "name": "puerperal endometritis",
-    "group": "Disease",
-    "resource": "puerperal endometritis"
   },
   {
     "name": "pulmonary abscess",
@@ -6363,11 +5473,6 @@
     "name": "pulmonary hypertension",
     "group": "Disease",
     "resource": "pulmonary hypertension"
-  },
-  {
-    "name": "pulmonary hypertensive arterial disease",
-    "group": "Disease",
-    "resource": "pulmonary hypertensive arterial disease"
   },
   {
     "name": "pulmonary hypoplasia",
@@ -6460,11 +5565,6 @@
     "resource": "rectal prolapse"
   },
   {
-    "name": "rectocele",
-    "group": "Disease",
-    "resource": "rectocele"
-  },
-  {
     "name": "red blood cell disorder",
     "group": "Disease",
     "resource": "red blood cell disorder"
@@ -6473,16 +5573,6 @@
     "name": "reiter syndrome",
     "group": "Disease",
     "resource": "reiter syndrome"
-  },
-  {
-    "name": "relapsing fever",
-    "group": "Disease",
-    "resource": "relapsing fever"
-  },
-  {
-    "name": "relapsing polychondritis",
-    "group": "Disease",
-    "resource": "relapsing polychondritis"
   },
   {
     "name": "renal abscess",
@@ -6545,11 +5635,6 @@
     "resource": "renovascular hypertension"
   },
   {
-    "name": "respiratory acid-base disorder",
-    "group": "Disease",
-    "resource": "respiratory acid-base disorder"
-  },
-  {
     "name": "respiratory acidosis",
     "group": "Disease",
     "resource": "respiratory acidosis"
@@ -6568,11 +5653,6 @@
     "name": "respiratory injury",
     "group": "Disease",
     "resource": "respiratory injury"
-  },
-  {
-    "name": "respiratory syncytial virus infection",
-    "group": "Disease",
-    "resource": "respiratory syncytial virus infection"
   },
   {
     "name": "restless legs syndrome",
@@ -6595,11 +5675,6 @@
     "resource": "retinal hemorrhage"
   },
   {
-    "name": "retinal vein occlusion",
-    "group": "Disease",
-    "resource": "retinal vein occlusion"
-  },
-  {
     "name": "retinitis pigmentosa",
     "group": "Disease",
     "resource": "retinitis pigmentosa"
@@ -6608,11 +5683,6 @@
     "name": "retinoblastoma",
     "group": "Disease",
     "resource": "retinoblastoma"
-  },
-  {
-    "name": "retinopathy of prematurity",
-    "group": "Disease",
-    "resource": "retinopathy of prematurity"
   },
   {
     "name": "retroperitoneal fibrosis",
@@ -6643,11 +5713,6 @@
     "name": "rheumatic fever",
     "group": "Disease",
     "resource": "rheumatic fever"
-  },
-  {
-    "name": "rheumatism",
-    "group": "Disease",
-    "resource": "rheumatism"
   },
   {
     "name": "rheumatoid arthritis",
@@ -6688,16 +5753,6 @@
     "name": "rosacea",
     "group": "Disease",
     "resource": "rosacea"
-  },
-  {
-    "name": "rotator cuff injury",
-    "group": "Disease",
-    "resource": "rotator cuff injury"
-  },
-  {
-    "name": "rotavirus infection",
-    "group": "Disease",
-    "resource": "rotavirus infection"
   },
   {
     "name": "rubella",
@@ -6770,11 +5825,6 @@
     "resource": "scleritis"
   },
   {
-    "name": "scleritis and episcleritis",
-    "group": "Disease",
-    "resource": "scleritis and episcleritis"
-  },
-  {
     "name": "scleroderma",
     "group": "Disease",
     "resource": "scleroderma"
@@ -6818,11 +5868,6 @@
     "name": "secondary peritonitis",
     "group": "Disease",
     "resource": "secondary peritonitis"
-  },
-  {
-    "name": "segmental glomerulosclerosis",
-    "group": "Disease",
-    "resource": "segmental glomerulosclerosis"
   },
   {
     "name": "senile lentigo",
@@ -6905,11 +5950,6 @@
     "resource": "short qt syndrome"
   },
   {
-    "name": "shoulder injury",
-    "group": "Disease",
-    "resource": "shoulder injury"
-  },
-  {
     "name": "sialadenitis",
     "group": "Disease",
     "resource": "sialadenitis"
@@ -6933,11 +5973,6 @@
     "name": "silicosis",
     "group": "Disease",
     "resource": "silicosis"
-  },
-  {
-    "name": "simple phobia",
-    "group": "Disease",
-    "resource": "simple phobia"
   },
   {
     "name": "sinus bradycardia",
@@ -6978,11 +6013,6 @@
     "name": "sleep disorder",
     "group": "Disease",
     "resource": "sleep disorder"
-  },
-  {
-    "name": "sleep starts",
-    "group": "Disease",
-    "resource": "sleep starts"
   },
   {
     "name": "slipped upper femoral epiphysis",
@@ -7030,11 +6060,6 @@
     "resource": "solar erythema"
   },
   {
-    "name": "somatization disorder",
-    "group": "Disease",
-    "resource": "somatization disorder"
-  },
-  {
     "name": "somatoform disorder",
     "group": "Disease",
     "resource": "somatoform disorder"
@@ -7068,11 +6093,6 @@
     "name": "spinal cord disease",
     "group": "Disease",
     "resource": "spinal cord disease"
-  },
-  {
-    "name": "spinal cord infarction",
-    "group": "Disease",
-    "resource": "spinal cord infarction"
   },
   {
     "name": "spinal cord injury",
@@ -7125,16 +6145,6 @@
     "resource": "spondyloarthropathy"
   },
   {
-    "name": "spondylolisthesis",
-    "group": "Disease",
-    "resource": "spondylolisthesis"
-  },
-  {
-    "name": "spontaneous abortion",
-    "group": "Disease",
-    "resource": "spontaneous abortion"
-  },
-  {
     "name": "spontaneous bacterial peritonitis",
     "group": "Disease",
     "resource": "spontaneous bacterial peritonitis"
@@ -7160,11 +6170,6 @@
     "resource": "squamous cell carcinoma of head and neck"
   },
   {
-    "name": "squamous cell carcinoma of skin",
-    "group": "Disease",
-    "resource": "squamous cell carcinoma of skin"
-  },
-  {
     "name": "st. louis encephalitis",
     "group": "Disease",
     "resource": "st. louis encephalitis"
@@ -7183,11 +6188,6 @@
     "name": "staphylococcal infection",
     "group": "Disease",
     "resource": "staphylococcal infection"
-  },
-  {
-    "name": "stasis dermatitis",
-    "group": "Disease",
-    "resource": "stasis dermatitis"
   },
   {
     "name": "status epilepticus",
@@ -7275,24 +6275,9 @@
     "resource": "sudden cardiac death"
   },
   {
-    "name": "sudden infant death syndrome",
-    "group": "Disease",
-    "resource": "sudden infant death syndrome"
-  },
-  {
     "name": "suicide",
     "group": "Disease",
     "resource": "suicide"
-  },
-  {
-    "name": "suicide attempt",
-    "group": "Disease",
-    "resource": "suicide attempt"
-  },
-  {
-    "name": "superficial thrombophlebitis",
-    "group": "Disease",
-    "resource": "superficial thrombophlebitis"
   },
   {
     "name": "superior vena cava obstruction",
@@ -7308,11 +6293,6 @@
     "name": "sweet syndrome",
     "group": "Disease",
     "resource": "sweet syndrome"
-  },
-  {
-    "name": "syndrome",
-    "group": "Disease",
-    "resource": "syndrome"
   },
   {
     "name": "syndrome of inappropriate adh secretion",
@@ -7375,11 +6355,6 @@
     "resource": "tachycardia"
   },
   {
-    "name": "tachycardia-induced cardiomyopathy",
-    "group": "Disease",
-    "resource": "tachycardia-induced cardiomyopathy"
-  },
-  {
     "name": "takayasu arteritis",
     "group": "Disease",
     "resource": "takayasu arteritis"
@@ -7418,11 +6393,6 @@
     "name": "temporomandibular joint dysfunction",
     "group": "Disease",
     "resource": "temporomandibular joint dysfunction"
-  },
-  {
-    "name": "tendinitis",
-    "group": "Disease",
-    "resource": "tendinitis"
   },
   {
     "name": "tendinopathy",
@@ -7505,11 +6475,6 @@
     "resource": "thrombotic thrombocytopenic purpura"
   },
   {
-    "name": "thymic carcinoma",
-    "group": "Disease",
-    "resource": "thymic carcinoma"
-  },
-  {
     "name": "thyroid cancer",
     "group": "Disease",
     "resource": "thyroid cancer"
@@ -7560,11 +6525,6 @@
     "resource": "tinea cruris"
   },
   {
-    "name": "tinea infection",
-    "group": "Disease",
-    "resource": "tinea infection"
-  },
-  {
     "name": "tinea pedis",
     "group": "Disease",
     "resource": "tinea pedis"
@@ -7573,21 +6533,6 @@
     "name": "tinea versicolor",
     "group": "Disease",
     "resource": "tinea versicolor"
-  },
-  {
-    "name": "toddler's diarrhea",
-    "group": "Disease",
-    "resource": "toddler diarrhea"
-  },
-  {
-    "name": "tonsillar cancer",
-    "group": "Disease",
-    "resource": "tonsillar cancer"
-  },
-  {
-    "name": "tonsillitis",
-    "group": "Disease",
-    "resource": "tonsillitis"
   },
   {
     "name": "torsade de pointes",
@@ -7613,11 +6558,6 @@
     "name": "toxic megacolon",
     "group": "Disease",
     "resource": "toxic megacolon"
-  },
-  {
-    "name": "toxic polyneuropathy",
-    "group": "Disease",
-    "resource": "toxic polyneuropathy"
   },
   {
     "name": "toxic shock syndrome",
@@ -7740,11 +6680,6 @@
     "resource": "trigger finger disorder"
   },
   {
-    "name": "trochanteric bursitis",
-    "group": "Disease",
-    "resource": "trochanteric bursitis"
-  },
-  {
     "name": "tropical pulmonary eosinophilia",
     "group": "Disease",
     "resource": "tropical pulmonary eosinophilia"
@@ -7810,11 +6745,6 @@
     "resource": "ulcerative colitis"
   },
   {
-    "name": "ulnar nerve compression syndrome",
-    "group": "Disease",
-    "resource": "ulnar nerve compression syndrome"
-  },
-  {
     "name": "ulnar nerve entrapment syndrome",
     "group": "Disease",
     "resource": "ulnar nerve entrapment syndrome"
@@ -7845,16 +6775,6 @@
     "resource": "urethral stricture"
   },
   {
-    "name": "urethritis",
-    "group": "Disease",
-    "resource": "urethritis"
-  },
-  {
-    "name": "urethrocele",
-    "group": "Disease",
-    "resource": "urethrocele"
-  },
-  {
     "name": "urinary incontinence",
     "group": "Disease",
     "resource": "urinary incontinence"
@@ -7873,11 +6793,6 @@
     "name": "urticaria",
     "group": "Disease",
     "resource": "urticaria"
-  },
-  {
-    "name": "uterine cancer",
-    "group": "Disease",
-    "resource": "uterine cancer"
   },
   {
     "name": "uterine fibroleiomyoma",
@@ -7950,16 +6865,6 @@
     "resource": "vasculitic neuropathy"
   },
   {
-    "name": "vasculitis",
-    "group": "Disease",
-    "resource": "vasculitis"
-  },
-  {
-    "name": "velocardiofacial syndrome",
-    "group": "Disease",
-    "resource": "velocardiofacial syndrome"
-  },
-  {
     "name": "venezuelan equine encephalomyelitis",
     "group": "Disease",
     "resource": "venezuelan equine encephalomyelitis"
@@ -7973,11 +6878,6 @@
     "name": "venous thrombosis",
     "group": "Disease",
     "resource": "venous thrombosis"
-  },
-  {
-    "name": "ventilator acquired pneumonia",
-    "group": "Disease",
-    "resource": "ventilator acquired pneumonia"
   },
   {
     "name": "ventricular arrhythmia",
@@ -8010,11 +6910,6 @@
     "resource": "vertebral compression fracture"
   },
   {
-    "name": "vesicoureteral reflux",
-    "group": "Disease",
-    "resource": "vesicoureteral reflux"
-  },
-  {
     "name": "vestibular neuronitis",
     "group": "Disease",
     "resource": "vestibular neuronitis"
@@ -8023,11 +6918,6 @@
     "name": "vipoma",
     "group": "Disease",
     "resource": "vipoma"
-  },
-  {
-    "name": "viral gastroenteritis",
-    "group": "Disease",
-    "resource": "viral gastroenteritis"
   },
   {
     "name": "viral infection",
@@ -8100,11 +6990,6 @@
     "resource": "waldenstrom macroglobulinemia"
   },
   {
-    "name": "wart",
-    "group": "Disease",
-    "resource": "wart"
-  },
-  {
     "name": "wernicke encephalopathy",
     "group": "Disease",
     "resource": "wernicke encephalopathy"
@@ -8140,11 +7025,6 @@
     "resource": "whipple disease"
   },
   {
-    "name": "williams syndrome",
-    "group": "Disease",
-    "resource": "williams syndrome"
-  },
-  {
     "name": "wilms tumor",
     "group": "Disease",
     "resource": "wilms tumor"
@@ -8165,19 +7045,9 @@
     "resource": "wolff-parkinson-white syndrome"
   },
   {
-    "name": "wrist injury",
-    "group": "Disease",
-    "resource": "wrist injury"
-  },
-  {
     "name": "yellow fever",
     "group": "Disease",
     "resource": "yellow fever"
-  },
-  {
-    "name": "yersinia enterocolitica infection",
-    "group": "Disease",
-    "resource": "yersinia enterocolitica infection"
   },
   {
     "name": "yersinia infection",
