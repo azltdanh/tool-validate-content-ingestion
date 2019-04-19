@@ -36,7 +36,7 @@ const xml2js = require('xml2js');
 const { banks } = require('./banks');
 const { utils } = require('./utils');
 
-// const physicianPages = require('./input/physician_page_resource_test_results.json')
+// const physicianPages = require('./output/physician_all_unique_test_report.json')
 // const allTests = physicianPages.results[0].allTests;
 // const failedTests =
 //     allTests.filter(obj => {
@@ -44,8 +44,29 @@ const { utils } = require('./utils');
 //     }).map(obj => {
 //         return Object.keys(obj)[0].match(/'(.*?)'/gi)[0].replace(/'/g, '');
 //     });
-// console.log('physicianPages', failedTests);
-// utils.saveCSV(failedTests, 'failed-tests', 'physician');
+// console.log('physicianPages', failedTests.sort());
+// utils.saveCSV(failedTests, 'test-failed', 'physician');
+
+
+// // Combine Physician topics (Disease)
+// const physician2016 = fs.readFileSync('./input/topic-page-mapping/disease/physician_2016.csv').toString().split('\n');
+// const physician2019 = fs.readFileSync('./input/topic-page-mapping/disease/physician_2019.csv').toString().split('\n');
+// const topicUK = fs.readFileSync('./input/topic-page-mapping/disease/uk.csv').toString().split('\n');
+// const physicianAll = physician2016.concat(physician2019);
+// const physicianUnique = _.uniq(physicianAll)
+//     // .map(item => utils.normalizeStr(item))
+//     .map(item => item.toLowerCase().trim())
+//     .sort();
+// console.log(physicianUnique);
+// utils.saveCSV(physicianUnique, 'all-unique', 'physician');
+// const physicianJSON = physicianUnique.map(item => {
+//     return {
+//         "name": item,
+//         "group": "Disease",
+//         "resource": utils.normalizeStr(item)
+//     };
+// });
+// utils.saveJSON(physicianJSON, 'topic-page-mapping', 'physician');
 
 const config = {
     checkQuestionTaxonomy: true,
@@ -59,57 +80,23 @@ const config = {
     validateQuestionTopicMapping: true,
     generateQuestionTopicMapping: true,
 
-    generateTopicPageMappingFromCSV: false,
-    generateQuestionTopicMappingFromCSV: false,
-    generateQuestionTopicMappingFromQuestionMappingCSV: true
+    generateTopicPageMappingFromJSON: false,
+    generateQuestionTopicMappingFromJSON: false,
+    generateQuestionTopicMappingFromQuestionMappingCSV: false
 }
 
-if (config.generateTopicPageMappingFromCSV) {
-    var dirPath = 'input';
-    fs.readdir(dirPath, function (err, files) {
-        if (err) {
-            console.error(`Could not list the ${dirPath} directory.`, err);
-            process.exit(1);
-        }
-        files.forEach(function (file) {
-            var filePath = path.join(dirPath, file);
-            fs.stat(filePath, function (error, stat) {
-                if (error) {
-                    console.error(`Error stating file ${filePath}.`, error);
-                    return;
-                }
-                if (stat.isFile()) {
-                    fs.readFile(filePath, 'utf8', function (err, tpCSV) {
-                        let tpArr = tpCSV.split('\n').map(value => value.replace(/['"]+/g, '')); // TODO: normalize text
-                        if (tpArr[0] === 'topic_name') {
-                            tpArr.shift();
-                        }
-                        const prefix = path.parse(filePath).name;
-                        if (['physician', 'uk'].indexOf(prefix) > -1) {
-                            // check for duplicated
-                            const topicDuplicated = _(tpArr).groupBy().pickBy(x => x.length > 1).keys().value();
-                            utils.saveCSV(topicDuplicated, 'topic-page-mapping-duplicated', prefix);
+if (config.generateTopicPageMappingFromJSON) {
+    const prefix = 'physician';
+    const filePath = './output/physician_topic_page_mapping.json';
+    const tpmArr = require(filePath);
+    utils.generateTopicPageMappingXML(tpmArr, prefix);
 
-                            const topicDistinct = _(tpArr).groupBy().pickBy(x => x.length == 1).keys().value();
-                            if (topicDistinct.length < tpArr.length) {
-                                utils.saveCSV(topicDistinct, 'topic-page-mapping-distinct', prefix);
-                            }
-
-                            utils.generateTopicPageMappingXML(tpArr, prefix);
-                        }
-
-                    });
-                }
-            });
-        });
-    });
 }
 
-if (config.generateQuestionTopicMappingFromCSV) {
-    const filePath = './archives/uk_question_topic_mapping.json';
-    const qtmJSON = require(filePath);
+if (config.generateQuestionTopicMappingFromJSON) {
     const prefix = 'uk';
-    const qtmArr = qtmJSON;
+    const filePath = './archives/uk_question_topic_mapping.json';
+    const qtmArr = require(filePath);
     const questionTopics = _.mapValues(_.groupBy(qtmArr, 'vtw_id'), list => list.map(qtm => _.omit(qtm, 'vtw_id')));
     utils.saveJSON(questionTopics, 'question-key-topics', prefix);
     utils.generateQuestionTopicMappingXML(questionTopics, { "isbn": prefix });
@@ -212,7 +199,7 @@ if (bankInfo) {
     const bankTaxonomies = bankInfo.taxonomies;
     const pathToPackageDir = utils.getAbsolutePath(bankInfo.path);
     const packageName = pathToPackageDir.match(/MEDED_.+?_MedEd$/)[0];
-    const bankKeyTopicCatalogs = utils.normalize(bankInfo.keyTopicCatalogs || []);
+    const bankKeyTopicCatalogs = utils.normalizeArr(bankInfo.keyTopicCatalogs || []);
 
     console.log('--START Validating...')
     console.log('ISBN', isbn);
@@ -234,9 +221,9 @@ if (bankInfo) {
         // normalize taxonomies
         var taxonomiesData = bankTaxonomies;
         _.forEach(taxonomiesData, (value, key) => {
-            taxonomiesData[key] = utils.normalize(value);
+            taxonomiesData[key] = utils.normalizeArr(value);
         })
-        const taxonomies = utils.normalize(Object.keys(taxonomiesData));
+        const taxonomies = utils.normalizeArr(Object.keys(taxonomiesData));
 
         const parser = new xml2js.Parser();
         parser.parseString(imsManifestXML, function (err, imsManifestJSON) {
@@ -266,14 +253,14 @@ if (bankInfo) {
                     /** TAXONOMY */
                     if (config.checkQuestionTaxonomy) {
                         const catalogTaxonomies = (catalogEntries || []).filter(item => {
-                            return _.intersection(utils.normalize(item.catalog || []), taxonomies).length;
+                            return _.intersection(utils.normalizeArr(item.catalog || []), taxonomies).length;
                         })
                         // if (showDebug) console.log(inspect(catalogTaxonomies, false, null));
                         if (catalogTaxonomies.length) {
                             hasTaxonomy = true;
                             catalogTaxonomies.forEach(item => {
                                 const entries = _.flatMap((item.entry || []).map(en => {
-                                    return utils.normalize(en.langstring || []);
+                                    return utils.normalizeArr(en.langstring || []);
                                 }));
                                 const topic = item.catalog[0].trim();
                                 const subTopics = _.intersection(entries, taxonomiesData[topic]);
@@ -284,26 +271,26 @@ if (bankInfo) {
 
                     /** COMPETENCY TESTED */
                     // const catalogCompetencyTested = catalogEntries.filter(item => {
-                    //     return _.intersection(utils.normalize(item.catalog), ['competency tested']).length;
+                    //     return _.intersection(utils.normalizeArr(item.catalog), ['competency tested']).length;
                     // })
                     // if (showDebug) console.log(inspect(catalogCompetencyTested, false, null));
 
                     /** KEYWORDS */
                     // const catalogKeywords = catalogEntries.filter(item => {
-                    //     return _.intersection(utils.normalize(item.catalog), ['keywords']).length;
+                    //     return _.intersection(utils.normalizeArr(item.catalog), ['keywords']).length;
                     // })
                     // if (showDebug) console.log(inspect(catalogKeywords, false, null));
 
                     /** QUESTION TYPE */
                     if (config.checkQuestionType) {
                         const catalogQuestionType = catalogEntries.filter(item => {
-                            return _.intersection(utils.normalize(item.catalog), ['question type']).length;
+                            return _.intersection(utils.normalizeArr(item.catalog), ['question type']).length;
                         })
                         // if (showDebug) console.log(inspect(catalogQuestionType, false, null));
                         if (catalogQuestionType.length) {
                             catalogQuestionType.forEach(item => {
                                 const entries = _.flatMap(item.entry.map(en => {
-                                    return utils.normalize(en.langstring);
+                                    return utils.normalizeArr(en.langstring);
                                 }));
                                 const questionType = _.intersection(entries, ['multiple choice']);
                                 hasQuestionType = hasQuestionType || questionType.length > 0 ? true : false;
@@ -317,14 +304,14 @@ if (bankInfo) {
                     /** QUESTION KEY TOPICS */
                     if (config.generateQuestionTopicMapping && bankKeyTopicCatalogs.length) {
                         const catalogKeyTopics = catalogEntries.filter(item => {
-                            return _.intersection(utils.normalize(item.catalog), bankKeyTopicCatalogs).length;
+                            return _.intersection(utils.normalizeArr(item.catalog), bankKeyTopicCatalogs).length;
                         })
                         if (showDebug) console.dir(catalogKeyTopics);
                         if (catalogKeyTopics.length) {
                             catalogKeyTopics.forEach(item => {
                                 const topicCatalog = item.catalog[0];
                                 const topicNames = _.flatMap(item.entry.map(en => {
-                                    return utils.normalize(en.langstring);
+                                    return utils.normalizeArr(en.langstring);
                                 }));
                                 if (showDebug) console.log('topicNamespace', topicCatalog);
                                 if (showDebug) console.log('topicNames', topicNames);
@@ -384,7 +371,6 @@ if (bankInfo) {
 
                 listQuestionFiles.forEach((fileName, idx) => {
                     let filePath = `${pathToPackageDir}/${fileName}`;
-                    // let qtiData = fs.readFileSync(filePath, 'utf8');
                     fs.readFile(filePath, 'utf8', function (err, qtiData) {
                         if (err) {
                             console.warn('[file-not-exists]', fileName);

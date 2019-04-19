@@ -1,0 +1,8207 @@
+[
+  {
+    "name": "abdominal aortic aneurysm",
+    "group": "Disease",
+    "resource": "abdominal aortic aneurysm"
+  },
+  {
+    "name": "abdominal compartment syndrome",
+    "group": "Disease",
+    "resource": "abdominal compartment syndrome"
+  },
+  {
+    "name": "abnormal uterine bleeding",
+    "group": "Disease",
+    "resource": "abnormal uterine bleeding"
+  },
+  {
+    "name": "abruptio placentae",
+    "group": "Disease",
+    "resource": "abruptio placentae"
+  },
+  {
+    "name": "absence seizure",
+    "group": "Disease",
+    "resource": "absence seizure"
+  },
+  {
+    "name": "accidental hypothermia",
+    "group": "Disease",
+    "resource": "accidental hypothermia"
+  },
+  {
+    "name": "acetaminophen toxicity",
+    "group": "Disease",
+    "resource": "acetaminophen toxicity"
+  },
+  {
+    "name": "achilles tendon rupture",
+    "group": "Disease",
+    "resource": "achilles tendon rupture"
+  },
+  {
+    "name": "acid-base disorder",
+    "group": "Disease",
+    "resource": "acid-base disorder"
+  },
+  {
+    "name": "acne vulgaris",
+    "group": "Disease",
+    "resource": "acne vulgaris"
+  },
+  {
+    "name": "acoustic neuroma",
+    "group": "Disease",
+    "resource": "acoustic neuroma"
+  },
+  {
+    "name": "acquired hemophilia",
+    "group": "Disease",
+    "resource": "acquired hemophilia"
+  },
+  {
+    "name": "acquired immunodeficiency syndrome",
+    "group": "Disease",
+    "resource": "acquired immunodeficiency syndrome"
+  },
+  {
+    "name": "acquired platelet disorder",
+    "group": "Disease",
+    "resource": "acquired platelet disorder"
+  },
+  {
+    "name": "acquired renal cystic disease",
+    "group": "Disease",
+    "resource": "acquired renal cystic disease"
+  },
+  {
+    "name": "acrocyanosis",
+    "group": "Disease",
+    "resource": "acrocyanosis"
+  },
+  {
+    "name": "acromegaly",
+    "group": "Disease",
+    "resource": "acromegaly"
+  },
+  {
+    "name": "actinic keratosis",
+    "group": "Disease",
+    "resource": "actinic keratosis"
+  },
+  {
+    "name": "actinomycosis",
+    "group": "Disease",
+    "resource": "actinomycosis"
+  },
+  {
+    "name": "acute angle-closure glaucoma",
+    "group": "Disease",
+    "resource": "acute angle-closure glaucoma"
+  },
+  {
+    "name": "acute appendicitis",
+    "group": "Disease",
+    "resource": "acute appendicitis"
+  },
+  {
+    "name": "acute bronchitis",
+    "group": "Disease",
+    "resource": "acute bronchitis"
+  },
+  {
+    "name": "acute cholangitis",
+    "group": "Disease",
+    "resource": "acute cholangitis"
+  },
+  {
+    "name": "acute cholecystitis",
+    "group": "Disease",
+    "resource": "acute cholecystitis"
+  },
+  {
+    "name": "acute coronary syndrome",
+    "group": "Disease",
+    "resource": "acute coronary syndrome"
+  },
+  {
+    "name": "acute diarrhea",
+    "group": "Disease",
+    "resource": "acute diarrhea"
+  },
+  {
+    "name": "acute fatty liver of pregnancy",
+    "group": "Disease",
+    "resource": "acute fatty liver of pregnancy"
+  },
+  {
+    "name": "acute gestational hepatic steatosis",
+    "group": "Disease",
+    "resource": "acute gestational hepatic steatosis"
+  },
+  {
+    "name": "acute glomerulonephritis",
+    "group": "Disease",
+    "resource": "acute glomerulonephritis"
+  },
+  {
+    "name": "acute gout",
+    "group": "Disease",
+    "resource": "acute gout"
+  },
+  {
+    "name": "acute hemorrhagic conjunctivitis",
+    "group": "Disease",
+    "resource": "acute hemorrhagic conjunctivitis"
+  },
+  {
+    "name": "acute hepatic failure",
+    "group": "Disease",
+    "resource": "acute hepatic failure"
+  },
+  {
+    "name": "acute hepatitis b",
+    "group": "Disease",
+    "resource": "acute hepatitis b"
+  },
+  {
+    "name": "acute hepatitis c",
+    "group": "Disease",
+    "resource": "acute hepatitis c"
+  },
+  {
+    "name": "acute hepatitis e",
+    "group": "Disease",
+    "resource": "acute hepatitis e"
+  },
+  {
+    "name": "acute intermittent porphyria",
+    "group": "Disease",
+    "resource": "acute intermittent porphyria"
+  },
+  {
+    "name": "acute interstitial nephritis",
+    "group": "Disease",
+    "resource": "acute interstitial nephritis"
+  },
+  {
+    "name": "acute interstitial pneumonia",
+    "group": "Disease",
+    "resource": "acute interstitial pneumonia"
+  },
+  {
+    "name": "acute kidney injury",
+    "group": "Disease",
+    "resource": "acute kidney injury"
+  },
+  {
+    "name": "acute leukemia",
+    "group": "Disease",
+    "resource": "acute leukemia"
+  },
+  {
+    "name": "acute liver failure",
+    "group": "Disease",
+    "resource": "acute liver failure"
+  },
+  {
+    "name": "acute lung injury",
+    "group": "Disease",
+    "resource": "acute lung injury"
+  },
+  {
+    "name": "acute lymphocytic leukemia",
+    "group": "Disease",
+    "resource": "acute lymphocytic leukemia"
+  },
+  {
+    "name": "acute mesenteric ischemia",
+    "group": "Disease",
+    "resource": "acute mesenteric ischemia"
+  },
+  {
+    "name": "acute myeloid leukemia",
+    "group": "Disease",
+    "resource": "acute myeloid leukemia"
+  },
+  {
+    "name": "acute myocardial infarction",
+    "group": "Disease",
+    "resource": "acute myocardial infarction"
+  },
+  {
+    "name": "acute myocardial infarction complication",
+    "group": "Disease",
+    "resource": "acute myocardial infarction complication"
+  },
+  {
+    "name": "acute nephritis",
+    "group": "Disease",
+    "resource": "acute nephritis"
+  },
+  {
+    "name": "acute otitis media",
+    "group": "Disease",
+    "resource": "acute otitis media"
+  },
+  {
+    "name": "acute pancreatitis",
+    "group": "Disease",
+    "resource": "acute pancreatitis"
+  },
+  {
+    "name": "acute pericarditis",
+    "group": "Disease",
+    "resource": "acute pericarditis"
+  },
+  {
+    "name": "acute postinfectious glomerulonephritis",
+    "group": "Disease",
+    "resource": "acute postinfectious glomerulonephritis"
+  },
+  {
+    "name": "acute poststreptococcal glomerulonephritis",
+    "group": "Disease",
+    "resource": "acute poststreptococcal glomerulonephritis"
+  },
+  {
+    "name": "acute respiratory distress syndrome",
+    "group": "Disease",
+    "resource": "acute respiratory distress syndrome"
+  },
+  {
+    "name": "acute respiratory failure",
+    "group": "Disease",
+    "resource": "acute respiratory failure"
+  },
+  {
+    "name": "acute st segment elevation myocardial infarction",
+    "group": "Disease",
+    "resource": "acute st segment elevation myocardial infarction"
+  },
+  {
+    "name": "acute stress disorder",
+    "group": "Disease",
+    "resource": "acute stress disorder"
+  },
+  {
+    "name": "acute subdural hematoma",
+    "group": "Disease",
+    "resource": "acute subdural hematoma"
+  },
+  {
+    "name": "acute tracheitis",
+    "group": "Disease",
+    "resource": "acute tracheitis"
+  },
+  {
+    "name": "acute type b viral hepatitis",
+    "group": "Disease",
+    "resource": "acute type b viral hepatitis"
+  },
+  {
+    "name": "acute upper respiratory tract infection in adults",
+    "group": "Disease",
+    "resource": "acute upper respiratory tract infection in adults"
+  },
+  {
+    "name": "acute upper respiratory tract infection in children",
+    "group": "Disease",
+    "resource": "acute upper respiratory tract infection in children"
+  },
+  {
+    "name": "acute viral encephalitis",
+    "group": "Disease",
+    "resource": "acute viral encephalitis"
+  },
+  {
+    "name": "addison disease",
+    "group": "Disease",
+    "resource": "addison disease"
+  },
+  {
+    "name": "adenocarcinoma of unknown primary",
+    "group": "Disease",
+    "resource": "adenocarcinoma of unknown primary"
+  },
+  {
+    "name": "adenomatous polyp",
+    "group": "Disease",
+    "resource": "adenomatous polyp"
+  },
+  {
+    "name": "adenomatous polyposis coli",
+    "group": "Disease",
+    "resource": "adenomatous polyposis coli"
+  },
+  {
+    "name": "adenoviral infection",
+    "group": "Disease",
+    "resource": "adenoviral infection"
+  },
+  {
+    "name": "adhesive capsulitis of shoulder",
+    "group": "Disease",
+    "resource": "adhesive capsulitis of shoulder"
+  },
+  {
+    "name": "adrenal cortical hypofunction",
+    "group": "Disease",
+    "resource": "adrenal cortical hypofunction"
+  },
+  {
+    "name": "adrenal cortical hypofunction",
+    "group": "Disease",
+    "resource": "adrenal cortical hypofunction"
+  },
+  {
+    "name": "adrenal insufficiency",
+    "group": "Disease",
+    "resource": "adrenal insufficiency"
+  },
+  {
+    "name": "adrenoleukodystrophy",
+    "group": "Disease",
+    "resource": "adrenoleukodystrophy"
+  },
+  {
+    "name": "adrenomyeloneuropathy",
+    "group": "Disease",
+    "resource": "adrenomyeloneuropathy"
+  },
+  {
+    "name": "adult acute diarrhea",
+    "group": "Disease",
+    "resource": "adult acute diarrhea"
+  },
+  {
+    "name": "adult congenital cardiac disease",
+    "group": "Disease",
+    "resource": "adult congenital cardiac disease"
+  },
+  {
+    "name": "adult congenital heart disease",
+    "group": "Disease",
+    "resource": "adult congenital heart disease"
+  },
+  {
+    "name": "adult growth hormone deficiency",
+    "group": "Disease",
+    "resource": "adult growth hormone deficiency"
+  },
+  {
+    "name": "adult onset still disease",
+    "group": "Disease",
+    "resource": "adult onset still disease"
+  },
+  {
+    "name": "adult osteomyelitis",
+    "group": "Disease",
+    "resource": "adult osteomyelitis"
+  },
+  {
+    "name": "adult t-cell leukemia/lymphoma",
+    "group": "Disease",
+    "resource": "adult t-cell leukemia lymphoma"
+  },
+  {
+    "name": "adult-onset obesity",
+    "group": "Disease",
+    "resource": "adult-onset obesity"
+  },
+  {
+    "name": "adult-onset still disease",
+    "group": "Disease",
+    "resource": "adult-onset still disease"
+  },
+  {
+    "name": "adverse drug reaction",
+    "group": "Disease",
+    "resource": "adverse drug reaction"
+  },
+  {
+    "name": "afibrinogenemia",
+    "group": "Disease",
+    "resource": "afibrinogenemia"
+  },
+  {
+    "name": "african trypanosomiasis",
+    "group": "Disease",
+    "resource": "african trypanosomiasis"
+  },
+  {
+    "name": "aggressive fibromatosis",
+    "group": "Disease",
+    "resource": "aggressive fibromatosis"
+  },
+  {
+    "name": "agoraphobia",
+    "group": "Disease",
+    "resource": "agoraphobia"
+  },
+  {
+    "name": "aids-associated nephropathy",
+    "group": "Disease",
+    "resource": "aids-associated nephropathy"
+  },
+  {
+    "name": "alcohol use disorder",
+    "group": "Disease",
+    "resource": "alcohol use disorder"
+  },
+  {
+    "name": "alcoholic hepatitis",
+    "group": "Disease",
+    "resource": "alcoholic hepatitis"
+  },
+  {
+    "name": "alcoholic ketoacidosis",
+    "group": "Disease",
+    "resource": "alcoholic ketoacidosis"
+  },
+  {
+    "name": "alcoholic liver disease",
+    "group": "Disease",
+    "resource": "alcoholic liver disease"
+  },
+  {
+    "name": "alcoholism",
+    "group": "Disease",
+    "resource": "alcoholism"
+  },
+  {
+    "name": "allergic conjunctivitis",
+    "group": "Disease",
+    "resource": "allergic conjunctivitis"
+  },
+  {
+    "name": "allergic reaction",
+    "group": "Disease",
+    "resource": "allergic reaction"
+  },
+  {
+    "name": "allergic rhinitis",
+    "group": "Disease",
+    "resource": "allergic rhinitis"
+  },
+  {
+    "name": "allergy",
+    "group": "Disease",
+    "resource": "allergy"
+  },
+  {
+    "name": "alopecia",
+    "group": "Disease",
+    "resource": "alopecia"
+  },
+  {
+    "name": "alpha 1-antitrypsin deficiency",
+    "group": "Disease",
+    "resource": "alpha 1-antitrypsin deficiency"
+  },
+  {
+    "name": "altitude sickness",
+    "group": "Disease",
+    "resource": "altitude sickness"
+  },
+  {
+    "name": "alzheimer disease",
+    "group": "Disease",
+    "resource": "alzheimer disease"
+  },
+  {
+    "name": "amblyopia",
+    "group": "Disease",
+    "resource": "amblyopia"
+  },
+  {
+    "name": "amebiasis",
+    "group": "Disease",
+    "resource": "amebiasis"
+  },
+  {
+    "name": "amebic liver abscess",
+    "group": "Disease",
+    "resource": "amebic liver abscess"
+  },
+  {
+    "name": "amenorrhea",
+    "group": "Disease",
+    "resource": "amenorrhea"
+  },
+  {
+    "name": "amniotic fluid embolism",
+    "group": "Disease",
+    "resource": "amniotic fluid embolism"
+  },
+  {
+    "name": "amphetamine dependence",
+    "group": "Disease",
+    "resource": "amphetamine dependence"
+  },
+  {
+    "name": "amphetamine use",
+    "group": "Disease",
+    "resource": "amphetamine use"
+  },
+  {
+    "name": "amyloidosis",
+    "group": "Disease",
+    "resource": "amyloidosis"
+  },
+  {
+    "name": "amyotrophic lateral sclerosis",
+    "group": "Disease",
+    "resource": "amyotrophic lateral sclerosis"
+  },
+  {
+    "name": "anaerobic infection",
+    "group": "Disease",
+    "resource": "anaerobic infection"
+  },
+  {
+    "name": "anal cancer",
+    "group": "Disease",
+    "resource": "anal cancer"
+  },
+  {
+    "name": "anal fissure",
+    "group": "Disease",
+    "resource": "anal fissure"
+  },
+  {
+    "name": "anal fistula",
+    "group": "Disease",
+    "resource": "anal fistula"
+  },
+  {
+    "name": "anaphylactic shock",
+    "group": "Disease",
+    "resource": "anaphylactic shock"
+  },
+  {
+    "name": "ancylostomal cutaneous larva migrans",
+    "group": "Disease",
+    "resource": "ancylostomal cutaneous larva migrans"
+  },
+  {
+    "name": "anemia",
+    "group": "Disease",
+    "resource": "anemia"
+  },
+  {
+    "name": "anemia of chronic disease",
+    "group": "Disease",
+    "resource": "anemia of chronic disease"
+  },
+  {
+    "name": "angiodysplasia",
+    "group": "Disease",
+    "resource": "angiodysplasia"
+  },
+  {
+    "name": "angioedema",
+    "group": "Disease",
+    "resource": "angioedema"
+  },
+  {
+    "name": "angiostrongyliasis",
+    "group": "Disease",
+    "resource": "angiostrongyliasis"
+  },
+  {
+    "name": "angular cheilitis",
+    "group": "Disease",
+    "resource": "angular cheilitis"
+  },
+  {
+    "name": "animal bite",
+    "group": "Disease",
+    "resource": "animal bite"
+  },
+  {
+    "name": "ankle fracture",
+    "group": "Disease",
+    "resource": "ankle fracture"
+  },
+  {
+    "name": "ankle injury",
+    "group": "Disease",
+    "resource": "ankle injury"
+  },
+  {
+    "name": "ankle sprain",
+    "group": "Disease",
+    "resource": "ankle sprain"
+  },
+  {
+    "name": "ankylosing spondylitis",
+    "group": "Disease",
+    "resource": "ankylosing spondylitis"
+  },
+  {
+    "name": "anorectal fissure abscess",
+    "group": "Disease",
+    "resource": "anorectal fissure abscess"
+  },
+  {
+    "name": "anorectal fistula",
+    "group": "Disease",
+    "resource": "anorectal fistula"
+  },
+  {
+    "name": "anorexia nervosa",
+    "group": "Disease",
+    "resource": "anorexia nervosa"
+  },
+  {
+    "name": "anoxic encephalopathy",
+    "group": "Disease",
+    "resource": "anoxic encephalopathy"
+  },
+  {
+    "name": "anthrax",
+    "group": "Disease",
+    "resource": "anthrax"
+  },
+  {
+    "name": "antiphospholipid syndrome",
+    "group": "Disease",
+    "resource": "antiphospholipid syndrome"
+  },
+  {
+    "name": "antithrombin iii deficiency",
+    "group": "Disease",
+    "resource": "antithrombin iii deficiency"
+  },
+  {
+    "name": "anxiety",
+    "group": "Disease",
+    "resource": "anxiety"
+  },
+  {
+    "name": "anxiety disorder",
+    "group": "Disease",
+    "resource": "anxiety disorder"
+  },
+  {
+    "name": "aortic aneurysm",
+    "group": "Disease",
+    "resource": "aortic aneurysm"
+  },
+  {
+    "name": "aortic coarctation",
+    "group": "Disease",
+    "resource": "aortic coarctation"
+  },
+  {
+    "name": "aortic disease",
+    "group": "Disease",
+    "resource": "aortic disease"
+  },
+  {
+    "name": "aortic dissection",
+    "group": "Disease",
+    "resource": "aortic dissection"
+  },
+  {
+    "name": "aortic intramural hematoma",
+    "group": "Disease",
+    "resource": "aortic intramural hematoma"
+  },
+  {
+    "name": "aortic regurgitation",
+    "group": "Disease",
+    "resource": "aortic regurgitation"
+  },
+  {
+    "name": "aortic valve stenosis",
+    "group": "Disease",
+    "resource": "aortic valve stenosis"
+  },
+  {
+    "name": "aphasia",
+    "group": "Disease",
+    "resource": "aphasia"
+  },
+  {
+    "name": "aplastic anemia",
+    "group": "Disease",
+    "resource": "aplastic anemia"
+  },
+  {
+    "name": "appendiceal cancer",
+    "group": "Disease",
+    "resource": "appendiceal cancer"
+  },
+  {
+    "name": "appendicitis",
+    "group": "Disease",
+    "resource": "appendicitis"
+  },
+  {
+    "name": "arrhythmogenic right ventricular dysplasia",
+    "group": "Disease",
+    "resource": "arrhythmogenic right ventricular dysplasia"
+  },
+  {
+    "name": "arsenic poisoning",
+    "group": "Disease",
+    "resource": "arsenic poisoning"
+  },
+  {
+    "name": "arsenical keratosis",
+    "group": "Disease",
+    "resource": "arsenical keratosis"
+  },
+  {
+    "name": "arsenical keratosis",
+    "group": "Disease",
+    "resource": "arsenical keratosis"
+  },
+  {
+    "name": "arterial disease",
+    "group": "Disease",
+    "resource": "arterial disease"
+  },
+  {
+    "name": "arthritis",
+    "group": "Disease",
+    "resource": "arthritis"
+  },
+  {
+    "name": "arthropod bite",
+    "group": "Disease",
+    "resource": "arthropod bite"
+  },
+  {
+    "name": "asbestosis",
+    "group": "Disease",
+    "resource": "asbestosis"
+  },
+  {
+    "name": "ascariasis",
+    "group": "Disease",
+    "resource": "ascariasis"
+  },
+  {
+    "name": "aspergillosis",
+    "group": "Disease",
+    "resource": "aspergillosis"
+  },
+  {
+    "name": "aspiration pneumonia",
+    "group": "Disease",
+    "resource": "aspiration pneumonia"
+  },
+  {
+    "name": "asthma",
+    "group": "Disease",
+    "resource": "asthma"
+  },
+  {
+    "name": "asthma-copd overlap syndrome",
+    "group": "Disease",
+    "resource": "asthma-copd overlap syndrome"
+  },
+  {
+    "name": "astrocytoma",
+    "group": "Disease",
+    "resource": "astrocytoma"
+  },
+  {
+    "name": "ataxia telangiectasia",
+    "group": "Disease",
+    "resource": "ataxia telangiectasia"
+  },
+  {
+    "name": "atelectasis",
+    "group": "Disease",
+    "resource": "atelectasis"
+  },
+  {
+    "name": "atheroembolism of renal arteries",
+    "group": "Disease",
+    "resource": "atheroembolism of renal arteries"
+  },
+  {
+    "name": "atherosclerosis",
+    "group": "Disease",
+    "resource": "atherosclerosis"
+  },
+  {
+    "name": "atopic dermatitis",
+    "group": "Disease",
+    "resource": "atopic dermatitis"
+  },
+  {
+    "name": "atrial fibrillation",
+    "group": "Disease",
+    "resource": "atrial fibrillation"
+  },
+  {
+    "name": "atrial flutter",
+    "group": "Disease",
+    "resource": "atrial flutter"
+  },
+  {
+    "name": "atrial myxoma",
+    "group": "Disease",
+    "resource": "atrial myxoma"
+  },
+  {
+    "name": "atrial premature complex",
+    "group": "Disease",
+    "resource": "atrial premature complex"
+  },
+  {
+    "name": "atrial septal defect",
+    "group": "Disease",
+    "resource": "atrial septal defect"
+  },
+  {
+    "name": "atrioventricular block",
+    "group": "Disease",
+    "resource": "atrioventricular block"
+  },
+  {
+    "name": "atrioventricular dissociation",
+    "group": "Disease",
+    "resource": "atrioventricular dissociation"
+  },
+  {
+    "name": "atrioventricular dissociation",
+    "group": "Disease",
+    "resource": "atrioventricular dissociation"
+  },
+  {
+    "name": "atrophic vaginitis",
+    "group": "Disease",
+    "resource": "atrophic vaginitis"
+  },
+  {
+    "name": "attention deficit hyperactivity disorder",
+    "group": "Disease",
+    "resource": "attention deficit hyperactivity disorder"
+  },
+  {
+    "name": "auditory alteration",
+    "group": "Disease",
+    "resource": "auditory alteration"
+  },
+  {
+    "name": "autism spectrum disorder",
+    "group": "Disease",
+    "resource": "autism spectrum disorder"
+  },
+  {
+    "name": "autoimmune hemolytic anemia",
+    "group": "Disease",
+    "resource": "autoimmune hemolytic anemia"
+  },
+  {
+    "name": "autoimmune hepatitis",
+    "group": "Disease",
+    "resource": "autoimmune hepatitis"
+  },
+  {
+    "name": "autosomal dominant polycystic kidney disease",
+    "group": "Disease",
+    "resource": "autosomal dominant polycystic kidney disease"
+  },
+  {
+    "name": "autosomal recessive polycystic kidney disease",
+    "group": "Disease",
+    "resource": "autosomal recessive polycystic kidney disease"
+  },
+  {
+    "name": "avascular necrosis",
+    "group": "Disease",
+    "resource": "avascular necrosis"
+  },
+  {
+    "name": "avian influenza",
+    "group": "Disease",
+    "resource": "avian influenza"
+  },
+  {
+    "name": "babesiosis",
+    "group": "Disease",
+    "resource": "babesiosis"
+  },
+  {
+    "name": "bacillary angiomatosis",
+    "group": "Disease",
+    "resource": "bacillary angiomatosis"
+  },
+  {
+    "name": "bacillary peliosis",
+    "group": "Disease",
+    "resource": "bacillary peliosis"
+  },
+  {
+    "name": "bacterial arthritis",
+    "group": "Disease",
+    "resource": "bacterial arthritis"
+  },
+  {
+    "name": "bacterial food poisoning",
+    "group": "Disease",
+    "resource": "bacterial food poisoning"
+  },
+  {
+    "name": "bacterial meningitis",
+    "group": "Disease",
+    "resource": "bacterial meningitis"
+  },
+  {
+    "name": "bacterial meningitis in adult",
+    "group": "Disease",
+    "resource": "bacterial meningitis in adult"
+  },
+  {
+    "name": "bacterial meningitis in children",
+    "group": "Disease",
+    "resource": "bacterial meningitis in children"
+  },
+  {
+    "name": "bacterial pneumonia",
+    "group": "Disease",
+    "resource": "bacterial pneumonia"
+  },
+  {
+    "name": "bacterial vaginosis",
+    "group": "Disease",
+    "resource": "bacterial vaginosis"
+  },
+  {
+    "name": "balanitis",
+    "group": "Disease",
+    "resource": "balanitis"
+  },
+  {
+    "name": "balanoposthitis",
+    "group": "Disease",
+    "resource": "balanoposthitis"
+  },
+  {
+    "name": "barrett esophagus",
+    "group": "Disease",
+    "resource": "barrett esophagus"
+  },
+  {
+    "name": "bartholin cyst",
+    "group": "Disease",
+    "resource": "bartholin cyst"
+  },
+  {
+    "name": "bartonellosis",
+    "group": "Disease",
+    "resource": "bartonellosis"
+  },
+  {
+    "name": "bartter syndrome",
+    "group": "Disease",
+    "resource": "bartter syndrome"
+  },
+  {
+    "name": "basal cell carcinoma",
+    "group": "Disease",
+    "resource": "basal cell carcinoma"
+  },
+  {
+    "name": "becker muscular dystrophy",
+    "group": "Disease",
+    "resource": "becker muscular dystrophy"
+  },
+  {
+    "name": "becker's muscular dystrophy",
+    "group": "Disease",
+    "resource": "becker muscular dystrophy"
+  },
+  {
+    "name": "bed bug infestation",
+    "group": "Disease",
+    "resource": "bed bug infestation"
+  },
+  {
+    "name": "behcet syndrome",
+    "group": "Disease",
+    "resource": "behcet syndrome"
+  },
+  {
+    "name": "bell palsy",
+    "group": "Disease",
+    "resource": "bell palsy"
+  },
+  {
+    "name": "benign brain tumor",
+    "group": "Disease",
+    "resource": "benign brain tumor"
+  },
+  {
+    "name": "benign cervical lesion",
+    "group": "Disease",
+    "resource": "benign cervical lesion"
+  },
+  {
+    "name": "benign monoclonal gammopathy",
+    "group": "Disease",
+    "resource": "benign monoclonal gammopathy"
+  },
+  {
+    "name": "benign mucous membrane pemphigoid",
+    "group": "Disease",
+    "resource": "benign mucous membrane pemphigoid"
+  },
+  {
+    "name": "benign ovarian tumor",
+    "group": "Disease",
+    "resource": "benign ovarian tumor"
+  },
+  {
+    "name": "benign paroxysmal positional vertigo",
+    "group": "Disease",
+    "resource": "benign paroxysmal positional vertigo"
+  },
+  {
+    "name": "benign prostatic hypertrophy",
+    "group": "Disease",
+    "resource": "benign prostatic hypertrophy"
+  },
+  {
+    "name": "benign skin tumor",
+    "group": "Disease",
+    "resource": "benign skin tumor"
+  },
+  {
+    "name": "bile duct cancer",
+    "group": "Disease",
+    "resource": "bile duct cancer"
+  },
+  {
+    "name": "binge eating disorder",
+    "group": "Disease",
+    "resource": "binge eating disorder"
+  },
+  {
+    "name": "bipolar depression",
+    "group": "Disease",
+    "resource": "bipolar depression"
+  },
+  {
+    "name": "bipolar disorder",
+    "group": "Disease",
+    "resource": "bipolar disorder"
+  },
+  {
+    "name": "bisphosphonate-associated osteonecrosis of the jaw",
+    "group": "Disease",
+    "resource": "bisphosphonate-associated osteonecrosis of the jaw"
+  },
+  {
+    "name": "bisphosphonate-related osteonecrosis of jaw",
+    "group": "Disease",
+    "resource": "bisphosphonate-related osteonecrosis of jaw"
+  },
+  {
+    "name": "bite wound",
+    "group": "Disease",
+    "resource": "bite wound"
+  },
+  {
+    "name": "bites and stings",
+    "group": "Disease",
+    "resource": "bites and stings"
+  },
+  {
+    "name": "bladder cancer",
+    "group": "Disease",
+    "resource": "bladder cancer"
+  },
+  {
+    "name": "bladder injury",
+    "group": "Disease",
+    "resource": "bladder injury"
+  },
+  {
+    "name": "bladder tumor",
+    "group": "Disease",
+    "resource": "bladder tumor"
+  },
+  {
+    "name": "blast injury",
+    "group": "Disease",
+    "resource": "blast injury"
+  },
+  {
+    "name": "blastomycosis",
+    "group": "Disease",
+    "resource": "blastomycosis"
+  },
+  {
+    "name": "bleeding esophageal varices",
+    "group": "Disease",
+    "resource": "bleeding esophageal varices"
+  },
+  {
+    "name": "blepharitis",
+    "group": "Disease",
+    "resource": "blepharitis"
+  },
+  {
+    "name": "blood transfusion reaction",
+    "group": "Disease",
+    "resource": "blood transfusion reaction"
+  },
+  {
+    "name": "body dysmorphic disorder",
+    "group": "Disease",
+    "resource": "body dysmorphic disorder"
+  },
+  {
+    "name": "boerhaave syndrome",
+    "group": "Disease",
+    "resource": "boerhaave syndrome"
+  },
+  {
+    "name": "bone cancer",
+    "group": "Disease",
+    "resource": "bone cancer"
+  },
+  {
+    "name": "bone tumor",
+    "group": "Disease",
+    "resource": "bone tumor"
+  },
+  {
+    "name": "borderline personality disorder",
+    "group": "Disease",
+    "resource": "borderline personality disorder"
+  },
+  {
+    "name": "borrelia relapsing fever",
+    "group": "Disease",
+    "resource": "borrelia relapsing fever"
+  },
+  {
+    "name": "botulism",
+    "group": "Disease",
+    "resource": "botulism"
+  },
+  {
+    "name": "bradyarrhythmia",
+    "group": "Disease",
+    "resource": "bradyarrhythmia"
+  },
+  {
+    "name": "brain hemorrhage",
+    "group": "Disease",
+    "resource": "brain hemorrhage"
+  },
+  {
+    "name": "brain tumor",
+    "group": "Disease",
+    "resource": "brain tumor"
+  },
+  {
+    "name": "brain vascular malformation",
+    "group": "Disease",
+    "resource": "brain vascular malformation"
+  },
+  {
+    "name": "breast abscess",
+    "group": "Disease",
+    "resource": "breast abscess"
+  },
+  {
+    "name": "breast cancer",
+    "group": "Disease",
+    "resource": "breast cancer"
+  },
+  {
+    "name": "breathing related sleep disorder",
+    "group": "Disease",
+    "resource": "breathing related sleep disorder"
+  },
+  {
+    "name": "breathing-related sleep disorder",
+    "group": "Disease",
+    "resource": "breathing-related sleep disorder"
+  },
+  {
+    "name": "bronchiectasis",
+    "group": "Disease",
+    "resource": "bronchiectasis"
+  },
+  {
+    "name": "bronchiolitis",
+    "group": "Disease",
+    "resource": "bronchiolitis"
+  },
+  {
+    "name": "brucellosis",
+    "group": "Disease",
+    "resource": "brucellosis"
+  },
+  {
+    "name": "brugada syndrome",
+    "group": "Disease",
+    "resource": "brugada syndrome"
+  },
+  {
+    "name": "bruxism",
+    "group": "Disease",
+    "resource": "bruxism"
+  },
+  {
+    "name": "bulbospinal neuronopathy",
+    "group": "Disease",
+    "resource": "bulbospinal neuronopathy"
+  },
+  {
+    "name": "bulimia nervosa",
+    "group": "Disease",
+    "resource": "bulimia nervosa"
+  },
+  {
+    "name": "bullous pemphigoid",
+    "group": "Disease",
+    "resource": "bullous pemphigoid"
+  },
+  {
+    "name": "burn",
+    "group": "Disease",
+    "resource": "burn"
+  },
+  {
+    "name": "bursitis",
+    "group": "Disease",
+    "resource": "bursitis"
+  },
+  {
+    "name": "cadmium poisoning",
+    "group": "Disease",
+    "resource": "cadmium poisoning"
+  },
+  {
+    "name": "campylobacteriosis",
+    "group": "Disease",
+    "resource": "campylobacteriosis"
+  },
+  {
+    "name": "cancer of unknown primary origin",
+    "group": "Disease",
+    "resource": "cancer of unknown primary origin"
+  },
+  {
+    "name": "candidiasis",
+    "group": "Disease",
+    "resource": "candidiasis"
+  },
+  {
+    "name": "capillary hemangioma",
+    "group": "Disease",
+    "resource": "capillary hemangioma"
+  },
+  {
+    "name": "carbon monoxide poisoning",
+    "group": "Disease",
+    "resource": "carbon monoxide poisoning"
+  },
+  {
+    "name": "carbuncle/boil",
+    "group": "Disease",
+    "resource": "carbuncle boil"
+  },
+  {
+    "name": "carcinoma of prostate",
+    "group": "Disease",
+    "resource": "carcinoma of prostate"
+  },
+  {
+    "name": "cardiac arrest",
+    "group": "Disease",
+    "resource": "cardiac arrest"
+  },
+  {
+    "name": "cardiac tamponade",
+    "group": "Disease",
+    "resource": "cardiac tamponade"
+  },
+  {
+    "name": "cardiogenic shock",
+    "group": "Disease",
+    "resource": "cardiogenic shock"
+  },
+  {
+    "name": "cardiomyopathy",
+    "group": "Disease",
+    "resource": "cardiomyopathy"
+  },
+  {
+    "name": "cardiorenal syndrome",
+    "group": "Disease",
+    "resource": "cardiorenal syndrome"
+  },
+  {
+    "name": "carotid artery disease",
+    "group": "Disease",
+    "resource": "carotid artery disease"
+  },
+  {
+    "name": "carotid sinus syndrome",
+    "group": "Disease",
+    "resource": "carotid sinus syndrome"
+  },
+  {
+    "name": "carotid stenosis",
+    "group": "Disease",
+    "resource": "carotid stenosis"
+  },
+  {
+    "name": "carpal tunnel syndrome",
+    "group": "Disease",
+    "resource": "carpal tunnel syndrome"
+  },
+  {
+    "name": "cat-scratch disease",
+    "group": "Disease",
+    "resource": "cat-scratch disease"
+  },
+  {
+    "name": "cataract",
+    "group": "Disease",
+    "resource": "cataract"
+  },
+  {
+    "name": "cauda equina syndrome",
+    "group": "Disease",
+    "resource": "cauda equina syndrome"
+  },
+  {
+    "name": "cavernous sinus thrombosis",
+    "group": "Disease",
+    "resource": "cavernous sinus thrombosis"
+  },
+  {
+    "name": "celiac disease",
+    "group": "Disease",
+    "resource": "celiac disease"
+  },
+  {
+    "name": "cellulitis",
+    "group": "Disease",
+    "resource": "cellulitis"
+  },
+  {
+    "name": "central nervous system complication",
+    "group": "Disease",
+    "resource": "central nervous system complication"
+  },
+  {
+    "name": "central nervous system infection",
+    "group": "Disease",
+    "resource": "central nervous system infection"
+  },
+  {
+    "name": "cerebral abscess",
+    "group": "Disease",
+    "resource": "cerebral abscess"
+  },
+  {
+    "name": "cerebral angiitis",
+    "group": "Disease",
+    "resource": "cerebral angiitis"
+  },
+  {
+    "name": "cerebral ischemia",
+    "group": "Disease",
+    "resource": "cerebral ischemia"
+  },
+  {
+    "name": "cerebral palsy",
+    "group": "Disease",
+    "resource": "cerebral palsy"
+  },
+  {
+    "name": "cervical cancer",
+    "group": "Disease",
+    "resource": "cervical cancer"
+  },
+  {
+    "name": "cervical disc disorder",
+    "group": "Disease",
+    "resource": "cervical disc disorder"
+  },
+  {
+    "name": "cervical dysplasia",
+    "group": "Disease",
+    "resource": "cervical dysplasia"
+  },
+  {
+    "name": "cervical incompetence",
+    "group": "Disease",
+    "resource": "cervical incompetence"
+  },
+  {
+    "name": "cervical polyp",
+    "group": "Disease",
+    "resource": "cervical polyp"
+  },
+  {
+    "name": "cervical spine injury",
+    "group": "Disease",
+    "resource": "cervical spine injury"
+  },
+  {
+    "name": "cervicitis",
+    "group": "Disease",
+    "resource": "cervicitis"
+  },
+  {
+    "name": "cestoda infection",
+    "group": "Disease",
+    "resource": "cestoda infection"
+  },
+  {
+    "name": "chagas disease",
+    "group": "Disease",
+    "resource": "chagas disease"
+  },
+  {
+    "name": "chancroid",
+    "group": "Disease",
+    "resource": "chancroid"
+  },
+  {
+    "name": "cheilitis",
+    "group": "Disease",
+    "resource": "cheilitis"
+  },
+  {
+    "name": "chemically induced",
+    "group": "Disease",
+    "resource": "chemically induced"
+  },
+  {
+    "name": "chemotherapy-induced nausea and vomiting",
+    "group": "Disease",
+    "resource": "chemotherapy-induced nausea and vomiting"
+  },
+  {
+    "name": "chikungunya fever",
+    "group": "Disease",
+    "resource": "chikungunya fever"
+  },
+  {
+    "name": "child abuse",
+    "group": "Disease",
+    "resource": "child abuse"
+  },
+  {
+    "name": "childhood asthma",
+    "group": "Disease",
+    "resource": "childhood asthma"
+  },
+  {
+    "name": "childhood obesity",
+    "group": "Disease",
+    "resource": "childhood obesity"
+  },
+  {
+    "name": "chlamydia infection",
+    "group": "Disease",
+    "resource": "chlamydia infection"
+  },
+  {
+    "name": "chlamydophila pneumoniae infection",
+    "group": "Disease",
+    "resource": "chlamydophila pneumoniae infection"
+  },
+  {
+    "name": "cholangitis",
+    "group": "Disease",
+    "resource": "cholangitis"
+  },
+  {
+    "name": "cholecystitis",
+    "group": "Disease",
+    "resource": "cholecystitis"
+  },
+  {
+    "name": "choledocholithiasis",
+    "group": "Disease",
+    "resource": "choledocholithiasis"
+  },
+  {
+    "name": "cholelithiasis",
+    "group": "Disease",
+    "resource": "cholelithiasis"
+  },
+  {
+    "name": "cholera",
+    "group": "Disease",
+    "resource": "cholera"
+  },
+  {
+    "name": "cholesteatoma",
+    "group": "Disease",
+    "resource": "cholesteatoma"
+  },
+  {
+    "name": "chondrosarcoma",
+    "group": "Disease",
+    "resource": "chondrosarcoma"
+  },
+  {
+    "name": "chorea",
+    "group": "Disease",
+    "resource": "chorea"
+  },
+  {
+    "name": "chronic anemia",
+    "group": "Disease",
+    "resource": "chronic anemia"
+  },
+  {
+    "name": "chronic anemia",
+    "group": "Disease",
+    "resource": "chronic anemia"
+  },
+  {
+    "name": "chronic anovulation",
+    "group": "Disease",
+    "resource": "chronic anovulation"
+  },
+  {
+    "name": "chronic berylliosis",
+    "group": "Disease",
+    "resource": "chronic berylliosis"
+  },
+  {
+    "name": "chronic daily headache",
+    "group": "Disease",
+    "resource": "chronic daily headache"
+  },
+  {
+    "name": "chronic diarrhea",
+    "group": "Disease",
+    "resource": "chronic diarrhea"
+  },
+  {
+    "name": "chronic fatigue syndrome",
+    "group": "Disease",
+    "resource": "chronic fatigue syndrome"
+  },
+  {
+    "name": "chronic graft rejection",
+    "group": "Disease",
+    "resource": "chronic graft rejection"
+  },
+  {
+    "name": "chronic granulomatous disease",
+    "group": "Disease",
+    "resource": "chronic granulomatous disease"
+  },
+  {
+    "name": "chronic hepatitis b",
+    "group": "Disease",
+    "resource": "chronic hepatitis b"
+  },
+  {
+    "name": "chronic hepatitis c",
+    "group": "Disease",
+    "resource": "chronic hepatitis c"
+  },
+  {
+    "name": "chronic hepatitis d",
+    "group": "Disease",
+    "resource": "chronic hepatitis d"
+  },
+  {
+    "name": "chronic inflammation",
+    "group": "Disease",
+    "resource": "chronic inflammation"
+  },
+  {
+    "name": "chronic inflammatory demyelinating polyradiculoneuropathy",
+    "group": "Disease",
+    "resource": "chronic inflammatory demyelinating polyradiculoneuropathy"
+  },
+  {
+    "name": "chronic interstitial nephritis",
+    "group": "Disease",
+    "resource": "chronic interstitial nephritis"
+  },
+  {
+    "name": "chronic lymphocytic leukemia",
+    "group": "Disease",
+    "resource": "chronic lymphocytic leukemia"
+  },
+  {
+    "name": "chronic mesenteric ischemia",
+    "group": "Disease",
+    "resource": "chronic mesenteric ischemia"
+  },
+  {
+    "name": "chronic myelogenous leukemia",
+    "group": "Disease",
+    "resource": "chronic myelogenous leukemia"
+  },
+  {
+    "name": "chronic myelomonocytic leukemia",
+    "group": "Disease",
+    "resource": "chronic myelomonocytic leukemia"
+  },
+  {
+    "name": "chronic obstructive pulmonary disease",
+    "group": "Disease",
+    "resource": "chronic obstructive pulmonary disease"
+  },
+  {
+    "name": "chronic otitis media",
+    "group": "Disease",
+    "resource": "chronic otitis media"
+  },
+  {
+    "name": "chronic pancreatitis",
+    "group": "Disease",
+    "resource": "chronic pancreatitis"
+  },
+  {
+    "name": "chronic renal failure",
+    "group": "Disease",
+    "resource": "chronic renal failure"
+  },
+  {
+    "name": "chronic subdural hematoma",
+    "group": "Disease",
+    "resource": "chronic subdural hematoma"
+  },
+  {
+    "name": "chronic tophaceous gout",
+    "group": "Disease",
+    "resource": "chronic tophaceous gout"
+  },
+  {
+    "name": "chronic type c viral hepatitis",
+    "group": "Disease",
+    "resource": "chronic type c viral hepatitis"
+  },
+  {
+    "name": "chronic urticaria",
+    "group": "Disease",
+    "resource": "chronic urticaria"
+  },
+  {
+    "name": "chronic urticaria",
+    "group": "Disease",
+    "resource": "chronic urticaria"
+  },
+  {
+    "name": "chronic venous insufficiency",
+    "group": "Disease",
+    "resource": "chronic venous insufficiency"
+  },
+  {
+    "name": "churg-strauss syndrome",
+    "group": "Disease",
+    "resource": "churg-strauss syndrome"
+  },
+  {
+    "name": "chylomicronemia syndrome",
+    "group": "Disease",
+    "resource": "chylomicronemia syndrome"
+  },
+  {
+    "name": "chédiak-higashi syndrome",
+    "group": "Disease",
+    "resource": "chediak-higashi syndrome"
+  },
+  {
+    "name": "cicatricial pemphigoid",
+    "group": "Disease",
+    "resource": "cicatricial pemphigoid"
+  },
+  {
+    "name": "ciguatera poisoning",
+    "group": "Disease",
+    "resource": "ciguatera poisoning"
+  },
+  {
+    "name": "circadian rhythm disorder",
+    "group": "Disease",
+    "resource": "circadian rhythm disorder"
+  },
+  {
+    "name": "claudication",
+    "group": "Disease",
+    "resource": "claudication"
+  },
+  {
+    "name": "cleft lip/cleft palate",
+    "group": "Disease",
+    "resource": "cleft lip cleft palate"
+  },
+  {
+    "name": "clonorchiasis",
+    "group": "Disease",
+    "resource": "clonorchiasis"
+  },
+  {
+    "name": "clostridial infection",
+    "group": "Disease",
+    "resource": "clostridial infection"
+  },
+  {
+    "name": "clostridium difficile infection",
+    "group": "Disease",
+    "resource": "clostridium difficile infection"
+  },
+  {
+    "name": "cluster headache",
+    "group": "Disease",
+    "resource": "cluster headache"
+  },
+  {
+    "name": "cluster headaches",
+    "group": "Disease",
+    "resource": "cluster headaches"
+  },
+  {
+    "name": "cns infection",
+    "group": "Disease",
+    "resource": "cns infection"
+  },
+  {
+    "name": "cocaine addiction",
+    "group": "Disease",
+    "resource": "cocaine addiction"
+  },
+  {
+    "name": "cocaine overdose",
+    "group": "Disease",
+    "resource": "cocaine overdose"
+  },
+  {
+    "name": "cocaine use disorder",
+    "group": "Disease",
+    "resource": "cocaine use disorder"
+  },
+  {
+    "name": "coccidioidomycosis",
+    "group": "Disease",
+    "resource": "coccidioidomycosis"
+  },
+  {
+    "name": "cogan syndrome",
+    "group": "Disease",
+    "resource": "cogan syndrome"
+  },
+  {
+    "name": "cold injury",
+    "group": "Disease",
+    "resource": "cold injury"
+  },
+  {
+    "name": "colonic disorder",
+    "group": "Disease",
+    "resource": "colonic disorder"
+  },
+  {
+    "name": "colonic diverticulitis",
+    "group": "Disease",
+    "resource": "colonic diverticulitis"
+  },
+  {
+    "name": "colonic polyp",
+    "group": "Disease",
+    "resource": "colonic polyp"
+  },
+  {
+    "name": "colonic volvulus",
+    "group": "Disease",
+    "resource": "colonic volvulus"
+  },
+  {
+    "name": "colorado tick fever",
+    "group": "Disease",
+    "resource": "colorado tick fever"
+  },
+  {
+    "name": "colorectal cancer",
+    "group": "Disease",
+    "resource": "colorectal cancer"
+  },
+  {
+    "name": "common cold",
+    "group": "Disease",
+    "resource": "common cold"
+  },
+  {
+    "name": "community-acquired pneumonia",
+    "group": "Disease",
+    "resource": "community-acquired pneumonia"
+  },
+  {
+    "name": "community-acquired pneumonia in adults",
+    "group": "Disease",
+    "resource": "community-acquired pneumonia in adults"
+  },
+  {
+    "name": "community-acquired pneumonia in children",
+    "group": "Disease",
+    "resource": "community-acquired pneumonia in children"
+  },
+  {
+    "name": "compartment syndrome",
+    "group": "Disease",
+    "resource": "compartment syndrome"
+  },
+  {
+    "name": "complete atrioventricular block",
+    "group": "Disease",
+    "resource": "complete atrioventricular block"
+  },
+  {
+    "name": "complex regional pain syndrome",
+    "group": "Disease",
+    "resource": "complex regional pain syndrome"
+  },
+  {
+    "name": "concussion",
+    "group": "Disease",
+    "resource": "concussion"
+  },
+  {
+    "name": "conduct disorder",
+    "group": "Disease",
+    "resource": "conduct disorder"
+  },
+  {
+    "name": "condyloma accuminatum",
+    "group": "Disease",
+    "resource": "condyloma accuminatum"
+  },
+  {
+    "name": "congenital adrenal hyperplasia",
+    "group": "Disease",
+    "resource": "congenital adrenal hyperplasia"
+  },
+  {
+    "name": "congenital cytomegalovirus infection",
+    "group": "Disease",
+    "resource": "congenital cytomegalovirus infection"
+  },
+  {
+    "name": "congenital leukocyte adherence deficiency",
+    "group": "Disease",
+    "resource": "congenital leukocyte adherence deficiency"
+  },
+  {
+    "name": "congenital omphalocele",
+    "group": "Disease",
+    "resource": "congenital omphalocele"
+  },
+  {
+    "name": "congenital stenosis of aorta",
+    "group": "Disease",
+    "resource": "congenital stenosis of aorta"
+  },
+  {
+    "name": "congenital vascular malformation",
+    "group": "Disease",
+    "resource": "congenital vascular malformation"
+  },
+  {
+    "name": "congestive cardiomyopathy",
+    "group": "Disease",
+    "resource": "congestive cardiomyopathy"
+  },
+  {
+    "name": "conjunctivitis",
+    "group": "Disease",
+    "resource": "conjunctivitis"
+  },
+  {
+    "name": "connective tissue disorder",
+    "group": "Disease",
+    "resource": "connective tissue disorder"
+  },
+  {
+    "name": "connective tissue tumor",
+    "group": "Disease",
+    "resource": "connective tissue tumor"
+  },
+  {
+    "name": "contact dermatitis",
+    "group": "Disease",
+    "resource": "contact dermatitis"
+  },
+  {
+    "name": "conversion disorder",
+    "group": "Disease",
+    "resource": "conversion disorder"
+  },
+  {
+    "name": "copd exacerbation",
+    "group": "Disease",
+    "resource": "copd exacerbation"
+  },
+  {
+    "name": "cor pulmonale",
+    "group": "Disease",
+    "resource": "cor pulmonale"
+  },
+  {
+    "name": "corneal abrasion",
+    "group": "Disease",
+    "resource": "corneal abrasion"
+  },
+  {
+    "name": "corneal foreign body",
+    "group": "Disease",
+    "resource": "corneal foreign body"
+  },
+  {
+    "name": "corneal ulcer",
+    "group": "Disease",
+    "resource": "corneal ulcer"
+  },
+  {
+    "name": "coronary artery disease",
+    "group": "Disease",
+    "resource": "coronary artery disease"
+  },
+  {
+    "name": "costochondritis",
+    "group": "Disease",
+    "resource": "costochondritis"
+  },
+  {
+    "name": "craniocerebral trauma",
+    "group": "Disease",
+    "resource": "craniocerebral trauma"
+  },
+  {
+    "name": "craniopharyngioma",
+    "group": "Disease",
+    "resource": "craniopharyngioma"
+  },
+  {
+    "name": "critical illness",
+    "group": "Disease",
+    "resource": "critical illness"
+  },
+  {
+    "name": "crohn disease",
+    "group": "Disease",
+    "resource": "crohn disease"
+  },
+  {
+    "name": "croup",
+    "group": "Disease",
+    "resource": "croup"
+  },
+  {
+    "name": "cryoglobulinemia",
+    "group": "Disease",
+    "resource": "cryoglobulinemia"
+  },
+  {
+    "name": "cryptococcal infection",
+    "group": "Disease",
+    "resource": "cryptococcal infection"
+  },
+  {
+    "name": "cryptococcosis",
+    "group": "Disease",
+    "resource": "cryptococcosis"
+  },
+  {
+    "name": "cryptogenic organizing pneumonia",
+    "group": "Disease",
+    "resource": "cryptogenic organizing pneumonia"
+  },
+  {
+    "name": "cryptorchidism",
+    "group": "Disease",
+    "resource": "cryptorchidism"
+  },
+  {
+    "name": "cryptosporidiosis",
+    "group": "Disease",
+    "resource": "cryptosporidiosis"
+  },
+  {
+    "name": "cushing disease",
+    "group": "Disease",
+    "resource": "cushing disease"
+  },
+  {
+    "name": "cushing syndrome",
+    "group": "Disease",
+    "resource": "cushing syndrome"
+  },
+  {
+    "name": "cutaneous candidiasis",
+    "group": "Disease",
+    "resource": "cutaneous candidiasis"
+  },
+  {
+    "name": "cutaneous leishmaniasis",
+    "group": "Disease",
+    "resource": "cutaneous leishmaniasis"
+  },
+  {
+    "name": "cutaneous paraneoplastic syndrome",
+    "group": "Disease",
+    "resource": "cutaneous paraneoplastic syndrome"
+  },
+  {
+    "name": "cutaneous t-cell lymphoma",
+    "group": "Disease",
+    "resource": "cutaneous t-cell lymphoma"
+  },
+  {
+    "name": "cyclical vomiting syndrome",
+    "group": "Disease",
+    "resource": "cyclical vomiting syndrome"
+  },
+  {
+    "name": "cystic fibrosis",
+    "group": "Disease",
+    "resource": "cystic fibrosis"
+  },
+  {
+    "name": "cystic kidney disease",
+    "group": "Disease",
+    "resource": "cystic kidney disease"
+  },
+  {
+    "name": "cysticercosis",
+    "group": "Disease",
+    "resource": "cysticercosis"
+  },
+  {
+    "name": "cystocele",
+    "group": "Disease",
+    "resource": "cystocele"
+  },
+  {
+    "name": "cytomegalovirus infection",
+    "group": "Disease",
+    "resource": "cytomegalovirus infection"
+  },
+  {
+    "name": "de quervain tenosynovitis",
+    "group": "Disease",
+    "resource": "de quervain tenosynovitis"
+  },
+  {
+    "name": "deep vein thrombosis",
+    "group": "Disease",
+    "resource": "deep vein thrombosis"
+  },
+  {
+    "name": "deep vein thrombosis of upper extremity",
+    "group": "Disease",
+    "resource": "deep vein thrombosis of upper extremity"
+  },
+  {
+    "name": "deficiency of glutathione synthase",
+    "group": "Disease",
+    "resource": "deficiency of glutathione synthase"
+  },
+  {
+    "name": "delayed hemolytic transfusion reaction",
+    "group": "Disease",
+    "resource": "delayed hemolytic transfusion reaction"
+  },
+  {
+    "name": "delayed puberty",
+    "group": "Disease",
+    "resource": "delayed puberty"
+  },
+  {
+    "name": "delayed sleep phase syndrome",
+    "group": "Disease",
+    "resource": "delayed sleep phase syndrome"
+  },
+  {
+    "name": "delirium",
+    "group": "Disease",
+    "resource": "delirium"
+  },
+  {
+    "name": "delirium tremens",
+    "group": "Disease",
+    "resource": "delirium tremens"
+  },
+  {
+    "name": "delusion",
+    "group": "Disease",
+    "resource": "delusion"
+  },
+  {
+    "name": "dengue fever",
+    "group": "Disease",
+    "resource": "dengue fever"
+  },
+  {
+    "name": "dependent personality disorder",
+    "group": "Disease",
+    "resource": "dependent personality disorder"
+  },
+  {
+    "name": "depression",
+    "group": "Disease",
+    "resource": "depression"
+  },
+  {
+    "name": "dermatitis herpetiformis",
+    "group": "Disease",
+    "resource": "dermatitis herpetiformis"
+  },
+  {
+    "name": "dermatitis medicamentosa",
+    "group": "Disease",
+    "resource": "dermatitis medicamentosa"
+  },
+  {
+    "name": "dermatomyositis",
+    "group": "Disease",
+    "resource": "dermatomyositis"
+  },
+  {
+    "name": "desquamative interstitial pneumonia",
+    "group": "Disease",
+    "resource": "desquamative interstitial pneumonia"
+  },
+  {
+    "name": "developmental dysplasia of the hip",
+    "group": "Disease",
+    "resource": "developmental dysplasia of the hip"
+  },
+  {
+    "name": "dextromethorphan overdose",
+    "group": "Disease",
+    "resource": "dextromethorphan overdose"
+  },
+  {
+    "name": "diabetes insipidus",
+    "group": "Disease",
+    "resource": "diabetes insipidus"
+  },
+  {
+    "name": "diabetes mellitus",
+    "group": "Disease",
+    "resource": "diabetes mellitus"
+  },
+  {
+    "name": "diabetes mellitus type 1",
+    "group": "Disease",
+    "resource": "diabetes mellitus type 1"
+  },
+  {
+    "name": "diabetes mellitus type 1 in adults",
+    "group": "Disease",
+    "resource": "diabetes mellitus type 1 in adults"
+  },
+  {
+    "name": "diabetes mellitus type 1 in children",
+    "group": "Disease",
+    "resource": "diabetes mellitus type 1 in children"
+  },
+  {
+    "name": "diabetes mellitus type 2",
+    "group": "Disease",
+    "resource": "diabetes mellitus type 2"
+  },
+  {
+    "name": "diabetes mellitus type 2 in children",
+    "group": "Disease",
+    "resource": "diabetes mellitus type 2 in children"
+  },
+  {
+    "name": "diabetic foot",
+    "group": "Disease",
+    "resource": "diabetic foot"
+  },
+  {
+    "name": "diabetic foot ulcer",
+    "group": "Disease",
+    "resource": "diabetic foot ulcer"
+  },
+  {
+    "name": "diabetic ketoacidosis",
+    "group": "Disease",
+    "resource": "diabetic ketoacidosis"
+  },
+  {
+    "name": "diabetic polyneuropathy",
+    "group": "Disease",
+    "resource": "diabetic polyneuropathy"
+  },
+  {
+    "name": "diabetic retinopathy",
+    "group": "Disease",
+    "resource": "diabetic retinopathy"
+  },
+  {
+    "name": "dieulafoy lesion",
+    "group": "Disease",
+    "resource": "dieulafoy lesion"
+  },
+  {
+    "name": "diffuse alveolar hemorrhage",
+    "group": "Disease",
+    "resource": "diffuse alveolar hemorrhage"
+  },
+  {
+    "name": "diffuse esophageal spasm",
+    "group": "Disease",
+    "resource": "diffuse esophageal spasm"
+  },
+  {
+    "name": "diffuse idiopathic skeletal hyperostosis",
+    "group": "Disease",
+    "resource": "diffuse idiopathic skeletal hyperostosis"
+  },
+  {
+    "name": "diffuse idiopathic skeletal hyperostosis",
+    "group": "Disease",
+    "resource": "diffuse idiopathic skeletal hyperostosis"
+  },
+  {
+    "name": "digeorge syndrome",
+    "group": "Disease",
+    "resource": "digeorge syndrome"
+  },
+  {
+    "name": "digoxin poisoning",
+    "group": "Disease",
+    "resource": "digoxin poisoning"
+  },
+  {
+    "name": "diphtheria",
+    "group": "Disease",
+    "resource": "diphtheria"
+  },
+  {
+    "name": "discoid lupus erythematosus",
+    "group": "Disease",
+    "resource": "discoid lupus erythematosus"
+  },
+  {
+    "name": "disease of anus and rectum",
+    "group": "Disease",
+    "resource": "disease of anus and rectum"
+  },
+  {
+    "name": "disorder of complement",
+    "group": "Disease",
+    "resource": "disorder of complement"
+  },
+  {
+    "name": "dissecting aortic aneurysm",
+    "group": "Disease",
+    "resource": "dissecting aortic aneurysm"
+  },
+  {
+    "name": "disseminated intravascular coagulation",
+    "group": "Disease",
+    "resource": "disseminated intravascular coagulation"
+  },
+  {
+    "name": "dissociative disorder",
+    "group": "Disease",
+    "resource": "dissociative disorder"
+  },
+  {
+    "name": "dissociative disorders",
+    "group": "Disease",
+    "resource": "dissociative disorders"
+  },
+  {
+    "name": "diverticulosis",
+    "group": "Disease",
+    "resource": "diverticulosis"
+  },
+  {
+    "name": "down syndrome",
+    "group": "Disease",
+    "resource": "down syndrome"
+  },
+  {
+    "name": "drowning",
+    "group": "Disease",
+    "resource": "drowning"
+  },
+  {
+    "name": "drug allergy",
+    "group": "Disease",
+    "resource": "drug allergy"
+  },
+  {
+    "name": "drug induced liver injury",
+    "group": "Disease",
+    "resource": "drug induced liver injury"
+  },
+  {
+    "name": "drug use",
+    "group": "Disease",
+    "resource": "drug use"
+  },
+  {
+    "name": "dry eye syndrome",
+    "group": "Disease",
+    "resource": "dry eye syndrome"
+  },
+  {
+    "name": "duchenne muscular dystrophy",
+    "group": "Disease",
+    "resource": "duchenne muscular dystrophy"
+  },
+  {
+    "name": "dumping syndrome",
+    "group": "Disease",
+    "resource": "dumping syndrome"
+  },
+  {
+    "name": "dupuytren contracture",
+    "group": "Disease",
+    "resource": "dupuytren contracture"
+  },
+  {
+    "name": "dysfibrinogenemia",
+    "group": "Disease",
+    "resource": "dysfibrinogenemia"
+  },
+  {
+    "name": "dysfunctional uterine bleeding",
+    "group": "Disease",
+    "resource": "dysfunctional uterine bleeding"
+  },
+  {
+    "name": "dyshidrotic eczema",
+    "group": "Disease",
+    "resource": "dyshidrotic eczema"
+  },
+  {
+    "name": "dyskinesia syndrome",
+    "group": "Disease",
+    "resource": "dyskinesia syndrome"
+  },
+  {
+    "name": "dyslipidemia",
+    "group": "Disease",
+    "resource": "dyslipidemia"
+  },
+  {
+    "name": "dysmenorrhea",
+    "group": "Disease",
+    "resource": "dysmenorrhea"
+  },
+  {
+    "name": "dysphagia",
+    "group": "Disease",
+    "resource": "dysphagia"
+  },
+  {
+    "name": "dystocia",
+    "group": "Disease",
+    "resource": "dystocia"
+  },
+  {
+    "name": "dystonia",
+    "group": "Disease",
+    "resource": "dystonia"
+  },
+  {
+    "name": "eastern equine encephalomyelitis",
+    "group": "Disease",
+    "resource": "eastern equine encephalomyelitis"
+  },
+  {
+    "name": "eating disorder",
+    "group": "Disease",
+    "resource": "eating disorder"
+  },
+  {
+    "name": "ebola hemorrhagic fever",
+    "group": "Disease",
+    "resource": "ebola hemorrhagic fever"
+  },
+  {
+    "name": "echinococcosis",
+    "group": "Disease",
+    "resource": "echinococcosis"
+  },
+  {
+    "name": "eclampsia",
+    "group": "Disease",
+    "resource": "eclampsia"
+  },
+  {
+    "name": "ectopic pregnancy",
+    "group": "Disease",
+    "resource": "ectopic pregnancy"
+  },
+  {
+    "name": "eczema",
+    "group": "Disease",
+    "resource": "eczema"
+  },
+  {
+    "name": "effusion",
+    "group": "Disease",
+    "resource": "effusion"
+  },
+  {
+    "name": "ehlers-danlos syndrome",
+    "group": "Disease",
+    "resource": "ehlers-danlos syndrome"
+  },
+  {
+    "name": "ehrlichiosis",
+    "group": "Disease",
+    "resource": "ehrlichiosis"
+  },
+  {
+    "name": "ejaculation disorder",
+    "group": "Disease",
+    "resource": "ejaculation disorder"
+  },
+  {
+    "name": "elder abuse",
+    "group": "Disease",
+    "resource": "elder abuse"
+  },
+  {
+    "name": "electrical injury",
+    "group": "Disease",
+    "resource": "electrical injury"
+  },
+  {
+    "name": "electromechanical dissociation",
+    "group": "Disease",
+    "resource": "electromechanical dissociation"
+  },
+  {
+    "name": "elephantiasis",
+    "group": "Disease",
+    "resource": "elephantiasis"
+  },
+  {
+    "name": "embolism and thrombosis",
+    "group": "Disease",
+    "resource": "embolism and thrombosis"
+  },
+  {
+    "name": "empyema",
+    "group": "Disease",
+    "resource": "empyema"
+  },
+  {
+    "name": "encephalitis",
+    "group": "Disease",
+    "resource": "encephalitis"
+  },
+  {
+    "name": "encephalopathy",
+    "group": "Disease",
+    "resource": "encephalopathy"
+  },
+  {
+    "name": "endocarditis",
+    "group": "Disease",
+    "resource": "endocarditis"
+  },
+  {
+    "name": "endocrine disorder",
+    "group": "Disease",
+    "resource": "endocrine disorder"
+  },
+  {
+    "name": "endometrial cancer",
+    "group": "Disease",
+    "resource": "endometrial cancer"
+  },
+  {
+    "name": "endometriosis",
+    "group": "Disease",
+    "resource": "endometriosis"
+  },
+  {
+    "name": "endometritis",
+    "group": "Disease",
+    "resource": "endometritis"
+  },
+  {
+    "name": "endophthalmitis",
+    "group": "Disease",
+    "resource": "endophthalmitis"
+  },
+  {
+    "name": "endosteal hyperostosis",
+    "group": "Disease",
+    "resource": "endosteal hyperostosis"
+  },
+  {
+    "name": "enterocele",
+    "group": "Disease",
+    "resource": "enterocele"
+  },
+  {
+    "name": "enterococcus infection",
+    "group": "Disease",
+    "resource": "enterococcus infection"
+  },
+  {
+    "name": "enteropathic arthritis",
+    "group": "Disease",
+    "resource": "enteropathic arthritis"
+  },
+  {
+    "name": "enterovirus infection",
+    "group": "Disease",
+    "resource": "enterovirus infection"
+  },
+  {
+    "name": "enthesitis",
+    "group": "Disease",
+    "resource": "enthesitis"
+  },
+  {
+    "name": "envenomation",
+    "group": "Disease",
+    "resource": "envenomation"
+  },
+  {
+    "name": "eosinophilic esophagitis",
+    "group": "Disease",
+    "resource": "eosinophilic esophagitis"
+  },
+  {
+    "name": "eosinophilic fasciitis",
+    "group": "Disease",
+    "resource": "eosinophilic fasciitis"
+  },
+  {
+    "name": "eosinophilic pneumonia",
+    "group": "Disease",
+    "resource": "eosinophilic pneumonia"
+  },
+  {
+    "name": "eosinophilic syndrome",
+    "group": "Disease",
+    "resource": "eosinophilic syndrome"
+  },
+  {
+    "name": "epicondylitis",
+    "group": "Disease",
+    "resource": "epicondylitis"
+  },
+  {
+    "name": "epidemic louse-borne typhus",
+    "group": "Disease",
+    "resource": "epidemic louse-borne typhus"
+  },
+  {
+    "name": "epidermolysis bullosa acquisita",
+    "group": "Disease",
+    "resource": "epidermolysis bullosa acquisita"
+  },
+  {
+    "name": "epididymitis",
+    "group": "Disease",
+    "resource": "epididymitis"
+  },
+  {
+    "name": "epidural abscess",
+    "group": "Disease",
+    "resource": "epidural abscess"
+  },
+  {
+    "name": "epidural hematoma",
+    "group": "Disease",
+    "resource": "epidural hematoma"
+  },
+  {
+    "name": "epidural neoplasm",
+    "group": "Disease",
+    "resource": "epidural neoplasm"
+  },
+  {
+    "name": "epiglottitis",
+    "group": "Disease",
+    "resource": "epiglottitis"
+  },
+  {
+    "name": "epilepsy",
+    "group": "Disease",
+    "resource": "epilepsy"
+  },
+  {
+    "name": "epilepsy in adults",
+    "group": "Disease",
+    "resource": "epilepsy in adults"
+  },
+  {
+    "name": "epilepsy in children",
+    "group": "Disease",
+    "resource": "epilepsy in children"
+  },
+  {
+    "name": "epiploic appendagitis",
+    "group": "Disease",
+    "resource": "epiploic appendagitis"
+  },
+  {
+    "name": "episcleritis",
+    "group": "Disease",
+    "resource": "episcleritis"
+  },
+  {
+    "name": "epistaxis",
+    "group": "Disease",
+    "resource": "epistaxis"
+  },
+  {
+    "name": "epstein-barr virus infection",
+    "group": "Disease",
+    "resource": "epstein-barr virus infection"
+  },
+  {
+    "name": "erectile dysfunction",
+    "group": "Disease",
+    "resource": "erectile dysfunction"
+  },
+  {
+    "name": "erysipelas",
+    "group": "Disease",
+    "resource": "erysipelas"
+  },
+  {
+    "name": "erysipeloid",
+    "group": "Disease",
+    "resource": "erysipeloid"
+  },
+  {
+    "name": "erythema ab igne",
+    "group": "Disease",
+    "resource": "erythema ab igne"
+  },
+  {
+    "name": "erythema ab igne",
+    "group": "Disease",
+    "resource": "erythema ab igne"
+  },
+  {
+    "name": "erythema elevatum diutinum",
+    "group": "Disease",
+    "resource": "erythema elevatum diutinum"
+  },
+  {
+    "name": "erythema multiforme",
+    "group": "Disease",
+    "resource": "erythema multiforme"
+  },
+  {
+    "name": "erythema nodosum",
+    "group": "Disease",
+    "resource": "erythema nodosum"
+  },
+  {
+    "name": "erythromelalgia",
+    "group": "Disease",
+    "resource": "erythromelalgia"
+  },
+  {
+    "name": "escherichia coli infection",
+    "group": "Disease",
+    "resource": "escherichia coli infection"
+  },
+  {
+    "name": "esophageal adenocarcinoma",
+    "group": "Disease",
+    "resource": "esophageal adenocarcinoma"
+  },
+  {
+    "name": "esophageal cancer",
+    "group": "Disease",
+    "resource": "esophageal cancer"
+  },
+  {
+    "name": "esophageal dysphagia",
+    "group": "Disease",
+    "resource": "esophageal dysphagia"
+  },
+  {
+    "name": "esophageal motility disorder",
+    "group": "Disease",
+    "resource": "esophageal motility disorder"
+  },
+  {
+    "name": "esophageal obstruction",
+    "group": "Disease",
+    "resource": "esophageal obstruction"
+  },
+  {
+    "name": "esophageal squamous cell carcinoma",
+    "group": "Disease",
+    "resource": "esophageal squamous cell carcinoma"
+  },
+  {
+    "name": "esophageal tumor",
+    "group": "Disease",
+    "resource": "esophageal tumor"
+  },
+  {
+    "name": "esophageal varices",
+    "group": "Disease",
+    "resource": "esophageal varices"
+  },
+  {
+    "name": "essential tremor",
+    "group": "Disease",
+    "resource": "essential tremor"
+  },
+  {
+    "name": "estrogen-deficiency vaginitis",
+    "group": "Disease",
+    "resource": "estrogen-deficiency vaginitis"
+  },
+  {
+    "name": "ewing sarcoma",
+    "group": "Disease",
+    "resource": "ewing sarcoma"
+  },
+  {
+    "name": "exanthema subitum",
+    "group": "Disease",
+    "resource": "exanthema subitum"
+  },
+  {
+    "name": "extrinsic allergic alveolitis",
+    "group": "Disease",
+    "resource": "extrinsic allergic alveolitis"
+  },
+  {
+    "name": "fabry disease",
+    "group": "Disease",
+    "resource": "fabry disease"
+  },
+  {
+    "name": "facioscapulohumeral progressive muscular dystrophy",
+    "group": "Disease",
+    "resource": "facioscapulohumeral progressive muscular dystrophy"
+  },
+  {
+    "name": "factitious disorder",
+    "group": "Disease",
+    "resource": "factitious disorder"
+  },
+  {
+    "name": "factitious disorders",
+    "group": "Disease",
+    "resource": "factitious disorders"
+  },
+  {
+    "name": "factor xi deficiency",
+    "group": "Disease",
+    "resource": "factor xi deficiency"
+  },
+  {
+    "name": "failure to thrive",
+    "group": "Disease",
+    "resource": "failure to thrive"
+  },
+  {
+    "name": "familial breast cancer",
+    "group": "Disease",
+    "resource": "familial breast cancer"
+  },
+  {
+    "name": "familial combined hyperlipidemia",
+    "group": "Disease",
+    "resource": "familial combined hyperlipidemia"
+  },
+  {
+    "name": "familial hypercholesterolemia",
+    "group": "Disease",
+    "resource": "familial hypercholesterolemia"
+  },
+  {
+    "name": "familial mediterranean fever",
+    "group": "Disease",
+    "resource": "familial mediterranean fever"
+  },
+  {
+    "name": "fascioliasis",
+    "group": "Disease",
+    "resource": "fascioliasis"
+  },
+  {
+    "name": "fat embolism as early complication of trauma",
+    "group": "Disease",
+    "resource": "fat embolism as early complication of trauma"
+  },
+  {
+    "name": "fat embolism syndrome",
+    "group": "Disease",
+    "resource": "fat embolism syndrome"
+  },
+  {
+    "name": "fatty liver",
+    "group": "Disease",
+    "resource": "fatty liver"
+  },
+  {
+    "name": "febrile convulsions",
+    "group": "Disease",
+    "resource": "febrile convulsions"
+  },
+  {
+    "name": "fecal incontinence",
+    "group": "Disease",
+    "resource": "fecal incontinence"
+  },
+  {
+    "name": "felty syndrome",
+    "group": "Disease",
+    "resource": "felty syndrome"
+  },
+  {
+    "name": "femoral hernia",
+    "group": "Disease",
+    "resource": "femoral hernia"
+  },
+  {
+    "name": "fetal alcohol syndrome",
+    "group": "Disease",
+    "resource": "fetal alcohol syndrome"
+  },
+  {
+    "name": "fetal erythroblastosis",
+    "group": "Disease",
+    "resource": "fetal erythroblastosis"
+  },
+  {
+    "name": "fetal prematurity",
+    "group": "Disease",
+    "resource": "fetal prematurity"
+  },
+  {
+    "name": "fibrocystic breast disease",
+    "group": "Disease",
+    "resource": "fibrocystic breast disease"
+  },
+  {
+    "name": "fibromuscular dysplasia",
+    "group": "Disease",
+    "resource": "fibromuscular dysplasia"
+  },
+  {
+    "name": "fibromyalgia",
+    "group": "Disease",
+    "resource": "fibromyalgia"
+  },
+  {
+    "name": "fibrous dysplasia",
+    "group": "Disease",
+    "resource": "fibrous dysplasia"
+  },
+  {
+    "name": "fibrous dysplasia of bone",
+    "group": "Disease",
+    "resource": "fibrous dysplasia of bone"
+  },
+  {
+    "name": "fifth disease",
+    "group": "Disease",
+    "resource": "fifth disease"
+  },
+  {
+    "name": "filariasis",
+    "group": "Disease",
+    "resource": "filariasis"
+  },
+  {
+    "name": "flail chest",
+    "group": "Disease",
+    "resource": "flail chest"
+  },
+  {
+    "name": "fluid overload",
+    "group": "Disease",
+    "resource": "fluid overload"
+  },
+  {
+    "name": "focal glomerulosclerosis",
+    "group": "Disease",
+    "resource": "focal glomerulosclerosis"
+  },
+  {
+    "name": "folliculitis",
+    "group": "Disease",
+    "resource": "folliculitis"
+  },
+  {
+    "name": "food allergy",
+    "group": "Disease",
+    "resource": "food allergy"
+  },
+  {
+    "name": "food anaphylaxis",
+    "group": "Disease",
+    "resource": "food anaphylaxis"
+  },
+  {
+    "name": "fracture-dislocation",
+    "group": "Disease",
+    "resource": "fracture-dislocation"
+  },
+  {
+    "name": "fragile x syndrome",
+    "group": "Disease",
+    "resource": "fragile x syndrome"
+  },
+  {
+    "name": "freckle",
+    "group": "Disease",
+    "resource": "freckle"
+  },
+  {
+    "name": "freckles",
+    "group": "Disease",
+    "resource": "freckles"
+  },
+  {
+    "name": "friedreich ataxia",
+    "group": "Disease",
+    "resource": "friedreich ataxia"
+  },
+  {
+    "name": "frontotemporal lobar degeneration",
+    "group": "Disease",
+    "resource": "frontotemporal lobar degeneration"
+  },
+  {
+    "name": "frostbite",
+    "group": "Disease",
+    "resource": "frostbite"
+  },
+  {
+    "name": "functional dyspepsia",
+    "group": "Disease",
+    "resource": "functional dyspepsia"
+  },
+  {
+    "name": "functional mitral regurgitation",
+    "group": "Disease",
+    "resource": "functional mitral regurgitation"
+  },
+  {
+    "name": "functional pancreatic neuroendocrine tumor",
+    "group": "Disease",
+    "resource": "functional pancreatic neuroendocrine tumor"
+  },
+  {
+    "name": "fungal dermatitis",
+    "group": "Disease",
+    "resource": "fungal dermatitis"
+  },
+  {
+    "name": "fungal meningitis",
+    "group": "Disease",
+    "resource": "fungal meningitis"
+  },
+  {
+    "name": "fungal skin disease",
+    "group": "Disease",
+    "resource": "fungal skin disease"
+  },
+  {
+    "name": "galactorrhea",
+    "group": "Disease",
+    "resource": "galactorrhea"
+  },
+  {
+    "name": "ganglion cyst",
+    "group": "Disease",
+    "resource": "ganglion cyst"
+  },
+  {
+    "name": "gardner syndrome",
+    "group": "Disease",
+    "resource": "gardner syndrome"
+  },
+  {
+    "name": "gas gangrene",
+    "group": "Disease",
+    "resource": "gas gangrene"
+  },
+  {
+    "name": "gastric adenocarcinoma",
+    "group": "Disease",
+    "resource": "gastric adenocarcinoma"
+  },
+  {
+    "name": "gastric cancer",
+    "group": "Disease",
+    "resource": "gastric cancer"
+  },
+  {
+    "name": "gastric lymphoma",
+    "group": "Disease",
+    "resource": "gastric lymphoma"
+  },
+  {
+    "name": "gastric tumor",
+    "group": "Disease",
+    "resource": "gastric tumor"
+  },
+  {
+    "name": "gastrinoma",
+    "group": "Disease",
+    "resource": "gastrinoma"
+  },
+  {
+    "name": "gastritis",
+    "group": "Disease",
+    "resource": "gastritis"
+  },
+  {
+    "name": "gastroenteritis",
+    "group": "Disease",
+    "resource": "gastroenteritis"
+  },
+  {
+    "name": "gastroesophageal reflux disease",
+    "group": "Disease",
+    "resource": "gastroesophageal reflux disease"
+  },
+  {
+    "name": "gastroesophageal reflux disease in adults",
+    "group": "Disease",
+    "resource": "gastroesophageal reflux disease in adults"
+  },
+  {
+    "name": "gastrointestinal motility disorder",
+    "group": "Disease",
+    "resource": "gastrointestinal motility disorder"
+  },
+  {
+    "name": "gastroparesis",
+    "group": "Disease",
+    "resource": "gastroparesis"
+  },
+  {
+    "name": "gastroschisis",
+    "group": "Disease",
+    "resource": "gastroschisis"
+  },
+  {
+    "name": "gaucher disease",
+    "group": "Disease",
+    "resource": "gaucher disease"
+  },
+  {
+    "name": "generalized anxiety disorder",
+    "group": "Disease",
+    "resource": "generalized anxiety disorder"
+  },
+  {
+    "name": "genetic syndrome",
+    "group": "Disease",
+    "resource": "genetic syndrome"
+  },
+  {
+    "name": "genital herpes",
+    "group": "Disease",
+    "resource": "genital herpes"
+  },
+  {
+    "name": "genital infection",
+    "group": "Disease",
+    "resource": "genital infection"
+  },
+  {
+    "name": "gestational diabetes",
+    "group": "Disease",
+    "resource": "gestational diabetes"
+  },
+  {
+    "name": "gestational trophoblastic disease",
+    "group": "Disease",
+    "resource": "gestational trophoblastic disease"
+  },
+  {
+    "name": "giardiasis",
+    "group": "Disease",
+    "resource": "giardiasis"
+  },
+  {
+    "name": "gilbert disease",
+    "group": "Disease",
+    "resource": "gilbert disease"
+  },
+  {
+    "name": "gingivitis",
+    "group": "Disease",
+    "resource": "gingivitis"
+  },
+  {
+    "name": "glioblastoma multiforme of brain",
+    "group": "Disease",
+    "resource": "glioblastoma multiforme of brain"
+  },
+  {
+    "name": "glioma",
+    "group": "Disease",
+    "resource": "glioma"
+  },
+  {
+    "name": "glossitis",
+    "group": "Disease",
+    "resource": "glossitis"
+  },
+  {
+    "name": "glucagonoma",
+    "group": "Disease",
+    "resource": "glucagonoma"
+  },
+  {
+    "name": "glucose-6-phosphate dehydrogenase deficiency",
+    "group": "Disease",
+    "resource": "glucose-6-phosphate dehydrogenase deficiency"
+  },
+  {
+    "name": "glycogen storage disease",
+    "group": "Disease",
+    "resource": "glycogen storage disease"
+  },
+  {
+    "name": "goiter",
+    "group": "Disease",
+    "resource": "goiter"
+  },
+  {
+    "name": "gonococcal joint infection",
+    "group": "Disease",
+    "resource": "gonococcal joint infection"
+  },
+  {
+    "name": "gonococcal urethritis",
+    "group": "Disease",
+    "resource": "gonococcal urethritis"
+  },
+  {
+    "name": "gonococcemia",
+    "group": "Disease",
+    "resource": "gonococcemia"
+  },
+  {
+    "name": "gonorrhea",
+    "group": "Disease",
+    "resource": "gonorrhea"
+  },
+  {
+    "name": "goodpasture syndrome",
+    "group": "Disease",
+    "resource": "goodpasture syndrome"
+  },
+  {
+    "name": "gout",
+    "group": "Disease",
+    "resource": "gout"
+  },
+  {
+    "name": "granuloma annulare",
+    "group": "Disease",
+    "resource": "granuloma annulare"
+  },
+  {
+    "name": "granuloma inguinale",
+    "group": "Disease",
+    "resource": "granuloma inguinale"
+  },
+  {
+    "name": "granulomatosis",
+    "group": "Disease",
+    "resource": "granulomatosis"
+  },
+  {
+    "name": "graves disease",
+    "group": "Disease",
+    "resource": "graves disease"
+  },
+  {
+    "name": "guillain-barre syndrome",
+    "group": "Disease",
+    "resource": "guillain-barre syndrome"
+  },
+  {
+    "name": "gynecologic cancer",
+    "group": "Disease",
+    "resource": "gynecologic cancer"
+  },
+  {
+    "name": "gynecomastia",
+    "group": "Disease",
+    "resource": "gynecomastia"
+  },
+  {
+    "name": "hair disorder",
+    "group": "Disease",
+    "resource": "hair disorder"
+  },
+  {
+    "name": "hairy cell leukemia",
+    "group": "Disease",
+    "resource": "hairy cell leukemia"
+  },
+  {
+    "name": "hairy leukoplakia",
+    "group": "Disease",
+    "resource": "hairy leukoplakia"
+  },
+  {
+    "name": "hand foot and mouth disease",
+    "group": "Disease",
+    "resource": "hand foot and mouth disease"
+  },
+  {
+    "name": "hand injury",
+    "group": "Disease",
+    "resource": "hand injury"
+  },
+  {
+    "name": "hantavirus pulmonary syndrome",
+    "group": "Disease",
+    "resource": "hantavirus pulmonary syndrome"
+  },
+  {
+    "name": "head and neck neoplasms",
+    "group": "Disease",
+    "resource": "head and neck neoplasms"
+  },
+  {
+    "name": "headache",
+    "group": "Disease",
+    "resource": "headache"
+  },
+  {
+    "name": "healthcare associated infection",
+    "group": "Disease",
+    "resource": "healthcare associated infection"
+  },
+  {
+    "name": "healthcare associated infectious disease",
+    "group": "Disease",
+    "resource": "healthcare associated infectious disease"
+  },
+  {
+    "name": "heart block",
+    "group": "Disease",
+    "resource": "heart block"
+  },
+  {
+    "name": "heart failure",
+    "group": "Disease",
+    "resource": "heart failure"
+  },
+  {
+    "name": "heart valve disorder",
+    "group": "Disease",
+    "resource": "heart valve disorder"
+  },
+  {
+    "name": "heat exhaustion",
+    "group": "Disease",
+    "resource": "heat exhaustion"
+  },
+  {
+    "name": "heat illness",
+    "group": "Disease",
+    "resource": "heat illness"
+  },
+  {
+    "name": "heat stroke",
+    "group": "Disease",
+    "resource": "heat stroke"
+  },
+  {
+    "name": "helicobacter pylori infection",
+    "group": "Disease",
+    "resource": "helicobacter pylori infection"
+  },
+  {
+    "name": "hellp syndrome",
+    "group": "Disease",
+    "resource": "hellp syndrome"
+  },
+  {
+    "name": "hemochromatosis",
+    "group": "Disease",
+    "resource": "hemochromatosis"
+  },
+  {
+    "name": "hemolytic anemia",
+    "group": "Disease",
+    "resource": "hemolytic anemia"
+  },
+  {
+    "name": "hemolytic transfusion reaction",
+    "group": "Disease",
+    "resource": "hemolytic transfusion reaction"
+  },
+  {
+    "name": "hemolytic uremic syndrome",
+    "group": "Disease",
+    "resource": "hemolytic uremic syndrome"
+  },
+  {
+    "name": "hemophagocytic lymphohistiocytosis",
+    "group": "Disease",
+    "resource": "hemophagocytic lymphohistiocytosis"
+  },
+  {
+    "name": "hemophilia",
+    "group": "Disease",
+    "resource": "hemophilia"
+  },
+  {
+    "name": "hemorrhagic fever",
+    "group": "Disease",
+    "resource": "hemorrhagic fever"
+  },
+  {
+    "name": "hemorrhagic thrombocythemia",
+    "group": "Disease",
+    "resource": "hemorrhagic thrombocythemia"
+  },
+  {
+    "name": "hemorrhoid",
+    "group": "Disease",
+    "resource": "hemorrhoid"
+  },
+  {
+    "name": "henoch-schonlein purpura",
+    "group": "Disease",
+    "resource": "henoch-schonlein purpura"
+  },
+  {
+    "name": "heparin-induced thrombocytopenia",
+    "group": "Disease",
+    "resource": "heparin-induced thrombocytopenia"
+  },
+  {
+    "name": "hepatic encephalopathy",
+    "group": "Disease",
+    "resource": "hepatic encephalopathy"
+  },
+  {
+    "name": "hepatic vein thrombosis",
+    "group": "Disease",
+    "resource": "hepatic vein thrombosis"
+  },
+  {
+    "name": "hepatitis",
+    "group": "Disease",
+    "resource": "hepatitis"
+  },
+  {
+    "name": "hepatitis a",
+    "group": "Disease",
+    "resource": "hepatitis a"
+  },
+  {
+    "name": "hepatitis b",
+    "group": "Disease",
+    "resource": "hepatitis b"
+  },
+  {
+    "name": "hepatitis c",
+    "group": "Disease",
+    "resource": "hepatitis c"
+  },
+  {
+    "name": "hepatitis d",
+    "group": "Disease",
+    "resource": "hepatitis d"
+  },
+  {
+    "name": "hepatitis e",
+    "group": "Disease",
+    "resource": "hepatitis e"
+  },
+  {
+    "name": "hepatocellular carcinoma",
+    "group": "Disease",
+    "resource": "hepatocellular carcinoma"
+  },
+  {
+    "name": "hepatopulmonary syndrome",
+    "group": "Disease",
+    "resource": "hepatopulmonary syndrome"
+  },
+  {
+    "name": "hepatorenal syndrome",
+    "group": "Disease",
+    "resource": "hepatorenal syndrome"
+  },
+  {
+    "name": "hepatosplenic candidiasis",
+    "group": "Disease",
+    "resource": "hepatosplenic candidiasis"
+  },
+  {
+    "name": "hereditary factor ix deficiency disease",
+    "group": "Disease",
+    "resource": "hereditary factor ix deficiency disease"
+  },
+  {
+    "name": "hereditary factor viii deficiency disease",
+    "group": "Disease",
+    "resource": "hereditary factor viii deficiency disease"
+  },
+  {
+    "name": "hereditary hemorrhagic telangiectasia",
+    "group": "Disease",
+    "resource": "hereditary hemorrhagic telangiectasia"
+  },
+  {
+    "name": "hereditary nonhemolytic jaundice",
+    "group": "Disease",
+    "resource": "hereditary nonhemolytic jaundice"
+  },
+  {
+    "name": "hereditary nonpolyposis colorectal cancer",
+    "group": "Disease",
+    "resource": "hereditary nonpolyposis colorectal cancer"
+  },
+  {
+    "name": "hereditary pyropoikilocytosis",
+    "group": "Disease",
+    "resource": "hereditary pyropoikilocytosis"
+  },
+  {
+    "name": "hereditary spastic paraplegia",
+    "group": "Disease",
+    "resource": "hereditary spastic paraplegia"
+  },
+  {
+    "name": "hereditary spherocytosis",
+    "group": "Disease",
+    "resource": "hereditary spherocytosis"
+  },
+  {
+    "name": "herpangina",
+    "group": "Disease",
+    "resource": "herpangina"
+  },
+  {
+    "name": "herpes encephalitis",
+    "group": "Disease",
+    "resource": "herpes encephalitis"
+  },
+  {
+    "name": "herpes simplex infection",
+    "group": "Disease",
+    "resource": "herpes simplex infection"
+  },
+  {
+    "name": "herpes zoster",
+    "group": "Disease",
+    "resource": "herpes zoster"
+  },
+  {
+    "name": "herpes zoster auricularis",
+    "group": "Disease",
+    "resource": "herpes zoster auricularis"
+  },
+  {
+    "name": "hiatal hernia",
+    "group": "Disease",
+    "resource": "hiatal hernia"
+  },
+  {
+    "name": "hidradenitis suppurativa",
+    "group": "Disease",
+    "resource": "hidradenitis suppurativa"
+  },
+  {
+    "name": "hip fracture",
+    "group": "Disease",
+    "resource": "hip fracture"
+  },
+  {
+    "name": "hip joint dislocation",
+    "group": "Disease",
+    "resource": "hip joint dislocation"
+  },
+  {
+    "name": "hirschsprung disease",
+    "group": "Disease",
+    "resource": "hirschsprung disease"
+  },
+  {
+    "name": "histoplasmosis",
+    "group": "Disease",
+    "resource": "histoplasmosis"
+  },
+  {
+    "name": "histrionic personality disorder",
+    "group": "Disease",
+    "resource": "histrionic personality disorder"
+  },
+  {
+    "name": "hiv infection",
+    "group": "Disease",
+    "resource": "hiv infection"
+  },
+  {
+    "name": "hiv/aids",
+    "group": "Disease",
+    "resource": "hiv aids"
+  },
+  {
+    "name": "hoarding disorder",
+    "group": "Disease",
+    "resource": "hoarding disorder"
+  },
+  {
+    "name": "hodgkin disease",
+    "group": "Disease",
+    "resource": "hodgkin disease"
+  },
+  {
+    "name": "homocystinuria",
+    "group": "Disease",
+    "resource": "homocystinuria"
+  },
+  {
+    "name": "hordeolum",
+    "group": "Disease",
+    "resource": "hordeolum"
+  },
+  {
+    "name": "horner syndrome",
+    "group": "Disease",
+    "resource": "horner syndrome"
+  },
+  {
+    "name": "human anaplasmosis",
+    "group": "Disease",
+    "resource": "human anaplasmosis"
+  },
+  {
+    "name": "human ehrlichiosis",
+    "group": "Disease",
+    "resource": "human ehrlichiosis"
+  },
+  {
+    "name": "human metapneumovirus infection",
+    "group": "Disease",
+    "resource": "human metapneumovirus infection"
+  },
+  {
+    "name": "huntington disease",
+    "group": "Disease",
+    "resource": "huntington disease"
+  },
+  {
+    "name": "hydatidiform mole",
+    "group": "Disease",
+    "resource": "hydatidiform mole"
+  },
+  {
+    "name": "hydrocele",
+    "group": "Disease",
+    "resource": "hydrocele"
+  },
+  {
+    "name": "hydrocephalus",
+    "group": "Disease",
+    "resource": "hydrocephalus"
+  },
+  {
+    "name": "hydronephrosis",
+    "group": "Disease",
+    "resource": "hydronephrosis"
+  },
+  {
+    "name": "hyperaldosteronism",
+    "group": "Disease",
+    "resource": "hyperaldosteronism"
+  },
+  {
+    "name": "hyperandrogenism",
+    "group": "Disease",
+    "resource": "hyperandrogenism"
+  },
+  {
+    "name": "hyperbilirubinemia",
+    "group": "Disease",
+    "resource": "hyperbilirubinemia"
+  },
+  {
+    "name": "hypercalcemia",
+    "group": "Disease",
+    "resource": "hypercalcemia"
+  },
+  {
+    "name": "hypercalcemia of malignancy",
+    "group": "Disease",
+    "resource": "hypercalcemia of malignancy"
+  },
+  {
+    "name": "hypercholesterolemia",
+    "group": "Disease",
+    "resource": "hypercholesterolemia"
+  },
+  {
+    "name": "hypereosinophilic syndrome",
+    "group": "Disease",
+    "resource": "hypereosinophilic syndrome"
+  },
+  {
+    "name": "hyperhomocysteinemia",
+    "group": "Disease",
+    "resource": "hyperhomocysteinemia"
+  },
+  {
+    "name": "hyperkalemia",
+    "group": "Disease",
+    "resource": "hyperkalemia"
+  },
+  {
+    "name": "hyperlipidemia",
+    "group": "Disease",
+    "resource": "hyperlipidemia"
+  },
+  {
+    "name": "hypermagnesemia",
+    "group": "Disease",
+    "resource": "hypermagnesemia"
+  },
+  {
+    "name": "hypernatremia",
+    "group": "Disease",
+    "resource": "hypernatremia"
+  },
+  {
+    "name": "hyperosmolar hyperglycemic state",
+    "group": "Disease",
+    "resource": "hyperosmolar hyperglycemic state"
+  },
+  {
+    "name": "hyperparathyroidism",
+    "group": "Disease",
+    "resource": "hyperparathyroidism"
+  },
+  {
+    "name": "hyperphosphatemia",
+    "group": "Disease",
+    "resource": "hyperphosphatemia"
+  },
+  {
+    "name": "hyperprolactinemia",
+    "group": "Disease",
+    "resource": "hyperprolactinemia"
+  },
+  {
+    "name": "hypersensitivity vasculitis",
+    "group": "Disease",
+    "resource": "hypersensitivity vasculitis"
+  },
+  {
+    "name": "hypersplenism",
+    "group": "Disease",
+    "resource": "hypersplenism"
+  },
+  {
+    "name": "hypertension",
+    "group": "Disease",
+    "resource": "hypertension"
+  },
+  {
+    "name": "hypertensive emergency",
+    "group": "Disease",
+    "resource": "hypertensive emergency"
+  },
+  {
+    "name": "hyperthyroidism",
+    "group": "Disease",
+    "resource": "hyperthyroidism"
+  },
+  {
+    "name": "hypertrophic cardiomyopathy",
+    "group": "Disease",
+    "resource": "hypertrophic cardiomyopathy"
+  },
+  {
+    "name": "hypertrophic osteoarthropathy",
+    "group": "Disease",
+    "resource": "hypertrophic osteoarthropathy"
+  },
+  {
+    "name": "hyperuricemia",
+    "group": "Disease",
+    "resource": "hyperuricemia"
+  },
+  {
+    "name": "hyperviscosity syndrome",
+    "group": "Disease",
+    "resource": "hyperviscosity syndrome"
+  },
+  {
+    "name": "hypoactive sexual desire disorder",
+    "group": "Disease",
+    "resource": "hypoactive sexual desire disorder"
+  },
+  {
+    "name": "hypoaldosteronism",
+    "group": "Disease",
+    "resource": "hypoaldosteronism"
+  },
+  {
+    "name": "hypocalcemia",
+    "group": "Disease",
+    "resource": "hypocalcemia"
+  },
+  {
+    "name": "hypochondriasis",
+    "group": "Disease",
+    "resource": "hypochondriasis"
+  },
+  {
+    "name": "hypogonadotropic hypogonadism",
+    "group": "Disease",
+    "resource": "hypogonadotropic hypogonadism"
+  },
+  {
+    "name": "hypoparathyroidism",
+    "group": "Disease",
+    "resource": "hypoparathyroidism"
+  },
+  {
+    "name": "hypophosphatemia",
+    "group": "Disease",
+    "resource": "hypophosphatemia"
+  },
+  {
+    "name": "hypopituitarism",
+    "group": "Disease",
+    "resource": "hypopituitarism"
+  },
+  {
+    "name": "hypospadias",
+    "group": "Disease",
+    "resource": "hypospadias"
+  },
+  {
+    "name": "hypothyroidism",
+    "group": "Disease",
+    "resource": "hypothyroidism"
+  },
+  {
+    "name": "hypovolemia",
+    "group": "Disease",
+    "resource": "hypovolemia"
+  },
+  {
+    "name": "hypoxic ischemic encephalopathy",
+    "group": "Disease",
+    "resource": "hypoxic ischemic encephalopathy"
+  },
+  {
+    "name": "id reaction",
+    "group": "Disease",
+    "resource": "id reaction"
+  },
+  {
+    "name": "id reaction",
+    "group": "Disease",
+    "resource": "id reaction"
+  },
+  {
+    "name": "idiopathic guttate hypomelanosis",
+    "group": "Disease",
+    "resource": "idiopathic guttate hypomelanosis"
+  },
+  {
+    "name": "idiopathic interstitial pneumonia",
+    "group": "Disease",
+    "resource": "idiopathic interstitial pneumonia"
+  },
+  {
+    "name": "idiopathic interstitial pneumonias",
+    "group": "Disease",
+    "resource": "idiopathic interstitial pneumonias"
+  },
+  {
+    "name": "idiopathic pulmonary fibrosis",
+    "group": "Disease",
+    "resource": "idiopathic pulmonary fibrosis"
+  },
+  {
+    "name": "idiopathic thrombocytopenic purpura",
+    "group": "Disease",
+    "resource": "idiopathic thrombocytopenic purpura"
+  },
+  {
+    "name": "iga glomerulonephritis",
+    "group": "Disease",
+    "resource": "iga glomerulonephritis"
+  },
+  {
+    "name": "ileus",
+    "group": "Disease",
+    "resource": "ileus"
+  },
+  {
+    "name": "immune disorder",
+    "group": "Disease",
+    "resource": "immune disorder"
+  },
+  {
+    "name": "immune reconstitution syndrome",
+    "group": "Disease",
+    "resource": "immune reconstitution syndrome"
+  },
+  {
+    "name": "immune thrombocytopenic purpura",
+    "group": "Disease",
+    "resource": "immune thrombocytopenic purpura"
+  },
+  {
+    "name": "immune-mediated necrotizing myopathy",
+    "group": "Disease",
+    "resource": "immune-mediated necrotizing myopathy"
+  },
+  {
+    "name": "impetigo",
+    "group": "Disease",
+    "resource": "impetigo"
+  },
+  {
+    "name": "inborn error of metabolism",
+    "group": "Disease",
+    "resource": "inborn error of metabolism"
+  },
+  {
+    "name": "inclusion body myositis",
+    "group": "Disease",
+    "resource": "inclusion body myositis"
+  },
+  {
+    "name": "incontinence",
+    "group": "Disease",
+    "resource": "incontinence"
+  },
+  {
+    "name": "infected bursa",
+    "group": "Disease",
+    "resource": "infected bursa"
+  },
+  {
+    "name": "infection of vascular catheter",
+    "group": "Disease",
+    "resource": "infection of vascular catheter"
+  },
+  {
+    "name": "infectious mononucleosis",
+    "group": "Disease",
+    "resource": "infectious mononucleosis"
+  },
+  {
+    "name": "infective conjunctivitis",
+    "group": "Disease",
+    "resource": "infective conjunctivitis"
+  },
+  {
+    "name": "infective endocarditis",
+    "group": "Disease",
+    "resource": "infective endocarditis"
+  },
+  {
+    "name": "infective esophagitis",
+    "group": "Disease",
+    "resource": "infective esophagitis"
+  },
+  {
+    "name": "infertility",
+    "group": "Disease",
+    "resource": "infertility"
+  },
+  {
+    "name": "inflammatory bowel disease",
+    "group": "Disease",
+    "resource": "inflammatory bowel disease"
+  },
+  {
+    "name": "inflammatory diarrhea",
+    "group": "Disease",
+    "resource": "inflammatory diarrhea"
+  },
+  {
+    "name": "influenza",
+    "group": "Disease",
+    "resource": "influenza"
+  },
+  {
+    "name": "inguinal hernia",
+    "group": "Disease",
+    "resource": "inguinal hernia"
+  },
+  {
+    "name": "inhalation injury",
+    "group": "Disease",
+    "resource": "inhalation injury"
+  },
+  {
+    "name": "injury",
+    "group": "Disease",
+    "resource": "injury"
+  },
+  {
+    "name": "insect bite and sting",
+    "group": "Disease",
+    "resource": "insect bite and sting"
+  },
+  {
+    "name": "insect sting",
+    "group": "Disease",
+    "resource": "insect sting"
+  },
+  {
+    "name": "insulinoma",
+    "group": "Disease",
+    "resource": "insulinoma"
+  },
+  {
+    "name": "intermittent explosive disorder",
+    "group": "Disease",
+    "resource": "intermittent explosive disorder"
+  },
+  {
+    "name": "interstitial cystitis",
+    "group": "Disease",
+    "resource": "interstitial cystitis"
+  },
+  {
+    "name": "interstitial lung disease",
+    "group": "Disease",
+    "resource": "interstitial lung disease"
+  },
+  {
+    "name": "interstitial nephritis",
+    "group": "Disease",
+    "resource": "interstitial nephritis"
+  },
+  {
+    "name": "intestinal infection",
+    "group": "Disease",
+    "resource": "intestinal infection"
+  },
+  {
+    "name": "intestinal ischemia",
+    "group": "Disease",
+    "resource": "intestinal ischemia"
+  },
+  {
+    "name": "intestinal nematode infection",
+    "group": "Disease",
+    "resource": "intestinal nematode infection"
+  },
+  {
+    "name": "intestinal obstruction",
+    "group": "Disease",
+    "resource": "intestinal obstruction"
+  },
+  {
+    "name": "intestinal polyposis syndrome",
+    "group": "Disease",
+    "resource": "intestinal polyposis syndrome"
+  },
+  {
+    "name": "intestinal volvulus",
+    "group": "Disease",
+    "resource": "intestinal volvulus"
+  },
+  {
+    "name": "intimate partner violence",
+    "group": "Disease",
+    "resource": "intimate partner violence"
+  },
+  {
+    "name": "intracerebral hemorrhage",
+    "group": "Disease",
+    "resource": "intracerebral hemorrhage"
+  },
+  {
+    "name": "intracranial hemorrhage",
+    "group": "Disease",
+    "resource": "intracranial hemorrhage"
+  },
+  {
+    "name": "intracranial hypertension",
+    "group": "Disease",
+    "resource": "intracranial hypertension"
+  },
+  {
+    "name": "intracranial hypotension",
+    "group": "Disease",
+    "resource": "intracranial hypotension"
+  },
+  {
+    "name": "intracranial neoplasm",
+    "group": "Disease",
+    "resource": "intracranial neoplasm"
+  },
+  {
+    "name": "intraocular melanoma",
+    "group": "Disease",
+    "resource": "intraocular melanoma"
+  },
+  {
+    "name": "intussusception",
+    "group": "Disease",
+    "resource": "intussusception"
+  },
+  {
+    "name": "invasive candidiasis",
+    "group": "Disease",
+    "resource": "invasive candidiasis"
+  },
+  {
+    "name": "invasive malignant neoplasm of breast",
+    "group": "Disease",
+    "resource": "invasive malignant neoplasm of breast"
+  },
+  {
+    "name": "ipex syndrome",
+    "group": "Disease",
+    "resource": "ipex syndrome"
+  },
+  {
+    "name": "iron overload",
+    "group": "Disease",
+    "resource": "iron overload"
+  },
+  {
+    "name": "iron-deficiency anemia",
+    "group": "Disease",
+    "resource": "iron-deficiency anemia"
+  },
+  {
+    "name": "irritable bowel syndrome",
+    "group": "Disease",
+    "resource": "irritable bowel syndrome"
+  },
+  {
+    "name": "isaacs syndrome",
+    "group": "Disease",
+    "resource": "isaacs syndrome"
+  },
+  {
+    "name": "ischemic cerebrovascular disease",
+    "group": "Disease",
+    "resource": "ischemic cerebrovascular disease"
+  },
+  {
+    "name": "ischemic colitis",
+    "group": "Disease",
+    "resource": "ischemic colitis"
+  },
+  {
+    "name": "ischemic hepatitis",
+    "group": "Disease",
+    "resource": "ischemic hepatitis"
+  },
+  {
+    "name": "ischemic optic neuropathy",
+    "group": "Disease",
+    "resource": "ischemic optic neuropathy"
+  },
+  {
+    "name": "ischemic stroke",
+    "group": "Disease",
+    "resource": "ischemic stroke"
+  },
+  {
+    "name": "islet cell carcinoma",
+    "group": "Disease",
+    "resource": "islet cell carcinoma"
+  },
+  {
+    "name": "japanese encephalitis",
+    "group": "Disease",
+    "resource": "japanese encephalitis"
+  },
+  {
+    "name": "jaundice",
+    "group": "Disease",
+    "resource": "jaundice"
+  },
+  {
+    "name": "job syndrome",
+    "group": "Disease",
+    "resource": "job syndrome"
+  },
+  {
+    "name": "job's syndrome",
+    "group": "Disease",
+    "resource": "job syndrome"
+  },
+  {
+    "name": "juvenile rheumatoid arthritis",
+    "group": "Disease",
+    "resource": "juvenile rheumatoid arthritis"
+  },
+  {
+    "name": "kaposi sarcoma",
+    "group": "Disease",
+    "resource": "kaposi sarcoma"
+  },
+  {
+    "name": "kawasaki disease",
+    "group": "Disease",
+    "resource": "kawasaki disease"
+  },
+  {
+    "name": "keloid",
+    "group": "Disease",
+    "resource": "keloid"
+  },
+  {
+    "name": "klinefelter syndrome",
+    "group": "Disease",
+    "resource": "klinefelter syndrome"
+  },
+  {
+    "name": "knee injury",
+    "group": "Disease",
+    "resource": "knee injury"
+  },
+  {
+    "name": "kyphoscoliosis",
+    "group": "Disease",
+    "resource": "kyphoscoliosis"
+  },
+  {
+    "name": "labyrinthitis",
+    "group": "Disease",
+    "resource": "labyrinthitis"
+  },
+  {
+    "name": "lactase deficiency",
+    "group": "Disease",
+    "resource": "lactase deficiency"
+  },
+  {
+    "name": "lactic acidosis",
+    "group": "Disease",
+    "resource": "lactic acidosis"
+  },
+  {
+    "name": "lactose intolerance",
+    "group": "Disease",
+    "resource": "lactose intolerance"
+  },
+  {
+    "name": "lambert-eaton syndrome",
+    "group": "Disease",
+    "resource": "lambert-eaton syndrome"
+  },
+  {
+    "name": "laryngeal cancer",
+    "group": "Disease",
+    "resource": "laryngeal cancer"
+  },
+  {
+    "name": "laryngeal carcinoma",
+    "group": "Disease",
+    "resource": "laryngeal carcinoma"
+  },
+  {
+    "name": "laryngitis",
+    "group": "Disease",
+    "resource": "laryngitis"
+  },
+  {
+    "name": "lateral sinus thrombosis",
+    "group": "Disease",
+    "resource": "lateral sinus thrombosis"
+  },
+  {
+    "name": "latex allergy",
+    "group": "Disease",
+    "resource": "latex allergy"
+  },
+  {
+    "name": "lead poisoning",
+    "group": "Disease",
+    "resource": "lead poisoning"
+  },
+  {
+    "name": "legg-calvé-perthes disease",
+    "group": "Disease",
+    "resource": "legg-calve-perthes disease"
+  },
+  {
+    "name": "legionella infection",
+    "group": "Disease",
+    "resource": "legionella infection"
+  },
+  {
+    "name": "legionella pneumonia",
+    "group": "Disease",
+    "resource": "legionella pneumonia"
+  },
+  {
+    "name": "leishmaniasis",
+    "group": "Disease",
+    "resource": "leishmaniasis"
+  },
+  {
+    "name": "leprosy",
+    "group": "Disease",
+    "resource": "leprosy"
+  },
+  {
+    "name": "leptospirosis",
+    "group": "Disease",
+    "resource": "leptospirosis"
+  },
+  {
+    "name": "leukocytosis",
+    "group": "Disease",
+    "resource": "leukocytosis"
+  },
+  {
+    "name": "leukopenia",
+    "group": "Disease",
+    "resource": "leukopenia"
+  },
+  {
+    "name": "lewy body dementia",
+    "group": "Disease",
+    "resource": "lewy body dementia"
+  },
+  {
+    "name": "lichen planus",
+    "group": "Disease",
+    "resource": "lichen planus"
+  },
+  {
+    "name": "lichen sclerosus",
+    "group": "Disease",
+    "resource": "lichen sclerosus"
+  },
+  {
+    "name": "lichen simplex chronicus",
+    "group": "Disease",
+    "resource": "lichen simplex chronicus"
+  },
+  {
+    "name": "ligament injury",
+    "group": "Disease",
+    "resource": "ligament injury"
+  },
+  {
+    "name": "lightning injury",
+    "group": "Disease",
+    "resource": "lightning injury"
+  },
+  {
+    "name": "lipid metabolism disorder",
+    "group": "Disease",
+    "resource": "lipid metabolism disorder"
+  },
+  {
+    "name": "lipoid pneumonia",
+    "group": "Disease",
+    "resource": "lipoid pneumonia"
+  },
+  {
+    "name": "lipoma",
+    "group": "Disease",
+    "resource": "lipoma"
+  },
+  {
+    "name": "listeriosis",
+    "group": "Disease",
+    "resource": "listeriosis"
+  },
+  {
+    "name": "livedo reticularis",
+    "group": "Disease",
+    "resource": "livedo reticularis"
+  },
+  {
+    "name": "liver abscess",
+    "group": "Disease",
+    "resource": "liver abscess"
+  },
+  {
+    "name": "liver cirrhosis",
+    "group": "Disease",
+    "resource": "liver cirrhosis"
+  },
+  {
+    "name": "loa loa disease",
+    "group": "Disease",
+    "resource": "loa loa disease"
+  },
+  {
+    "name": "long qt syndrome",
+    "group": "Disease",
+    "resource": "long qt syndrome"
+  },
+  {
+    "name": "low-flow low-gradient aortic stenosis",
+    "group": "Disease",
+    "resource": "low-flow low-gradient aortic stenosis"
+  },
+  {
+    "name": "lower gastrointestinal hemorrhage",
+    "group": "Disease",
+    "resource": "lower gastrointestinal hemorrhage"
+  },
+  {
+    "name": "lumbar spinal stenosis",
+    "group": "Disease",
+    "resource": "lumbar spinal stenosis"
+  },
+  {
+    "name": "lumbar spondylosis",
+    "group": "Disease",
+    "resource": "lumbar spondylosis"
+  },
+  {
+    "name": "lung cancer",
+    "group": "Disease",
+    "resource": "lung cancer"
+  },
+  {
+    "name": "lung infection",
+    "group": "Disease",
+    "resource": "lung infection"
+  },
+  {
+    "name": "lung injury",
+    "group": "Disease",
+    "resource": "lung injury"
+  },
+  {
+    "name": "lung neoplasm",
+    "group": "Disease",
+    "resource": "lung neoplasm"
+  },
+  {
+    "name": "lupus erythematosus",
+    "group": "Disease",
+    "resource": "lupus erythematosus"
+  },
+  {
+    "name": "lyme disease",
+    "group": "Disease",
+    "resource": "lyme disease"
+  },
+  {
+    "name": "lymphangitis",
+    "group": "Disease",
+    "resource": "lymphangitis"
+  },
+  {
+    "name": "lymphatic filariasis",
+    "group": "Disease",
+    "resource": "lymphatic filariasis"
+  },
+  {
+    "name": "lymphedema",
+    "group": "Disease",
+    "resource": "lymphedema"
+  },
+  {
+    "name": "lymphogranuloma venereum",
+    "group": "Disease",
+    "resource": "lymphogranuloma venereum"
+  },
+  {
+    "name": "lymphohistiocytosis, hemophagocytic",
+    "group": "Disease",
+    "resource": "lymphohistiocytosis hemophagocytic"
+  },
+  {
+    "name": "macrophage activation syndrome",
+    "group": "Disease",
+    "resource": "macrophage activation syndrome"
+  },
+  {
+    "name": "macular degeneration",
+    "group": "Disease",
+    "resource": "macular degeneration"
+  },
+  {
+    "name": "magnesium deficiency",
+    "group": "Disease",
+    "resource": "magnesium deficiency"
+  },
+  {
+    "name": "major depressive disorder",
+    "group": "Disease",
+    "resource": "major depressive disorder"
+  },
+  {
+    "name": "malaria",
+    "group": "Disease",
+    "resource": "malaria"
+  },
+  {
+    "name": "male hypogonadism",
+    "group": "Disease",
+    "resource": "male hypogonadism"
+  },
+  {
+    "name": "male infertility",
+    "group": "Disease",
+    "resource": "male infertility"
+  },
+  {
+    "name": "malignant ascites",
+    "group": "Disease",
+    "resource": "malignant ascites"
+  },
+  {
+    "name": "malignant carcinoid syndrome",
+    "group": "Disease",
+    "resource": "malignant carcinoid syndrome"
+  },
+  {
+    "name": "malignant epidural spinal cord compression",
+    "group": "Disease",
+    "resource": "malignant epidural spinal cord compression"
+  },
+  {
+    "name": "malignant hyperthermia",
+    "group": "Disease",
+    "resource": "malignant hyperthermia"
+  },
+  {
+    "name": "malignant melanoma of skin",
+    "group": "Disease",
+    "resource": "malignant melanoma of skin"
+  },
+  {
+    "name": "malignant mesothelioma",
+    "group": "Disease",
+    "resource": "malignant mesothelioma"
+  },
+  {
+    "name": "malignant tumor of head and neck",
+    "group": "Disease",
+    "resource": "malignant tumor of head and neck"
+  },
+  {
+    "name": "mallory-weiss syndrome",
+    "group": "Disease",
+    "resource": "mallory-weiss syndrome"
+  },
+  {
+    "name": "maltoma",
+    "group": "Disease",
+    "resource": "maltoma"
+  },
+  {
+    "name": "mammary paget disease",
+    "group": "Disease",
+    "resource": "mammary paget disease"
+  },
+  {
+    "name": "marburg hemorrhagic fever",
+    "group": "Disease",
+    "resource": "marburg hemorrhagic fever"
+  },
+  {
+    "name": "marfan syndrome",
+    "group": "Disease",
+    "resource": "marfan syndrome"
+  },
+  {
+    "name": "mastitis",
+    "group": "Disease",
+    "resource": "mastitis"
+  },
+  {
+    "name": "mastocytosis",
+    "group": "Disease",
+    "resource": "mastocytosis"
+  },
+  {
+    "name": "mastoiditis",
+    "group": "Disease",
+    "resource": "mastoiditis"
+  },
+  {
+    "name": "maternal hypertension",
+    "group": "Disease",
+    "resource": "maternal hypertension"
+  },
+  {
+    "name": "mayaro fever",
+    "group": "Disease",
+    "resource": "mayaro fever"
+  },
+  {
+    "name": "meckel diverticulum",
+    "group": "Disease",
+    "resource": "meckel diverticulum"
+  },
+  {
+    "name": "meconium aspiration",
+    "group": "Disease",
+    "resource": "meconium aspiration"
+  },
+  {
+    "name": "mediastinal mass",
+    "group": "Disease",
+    "resource": "mediastinal mass"
+  },
+  {
+    "name": "mediastinitis",
+    "group": "Disease",
+    "resource": "mediastinitis"
+  },
+  {
+    "name": "medullary cystic disease",
+    "group": "Disease",
+    "resource": "medullary cystic disease"
+  },
+  {
+    "name": "medullary thyroid carcinoma",
+    "group": "Disease",
+    "resource": "medullary thyroid carcinoma"
+  },
+  {
+    "name": "medulloblastoma",
+    "group": "Disease",
+    "resource": "medulloblastoma"
+  },
+  {
+    "name": "megaloblastic anemia",
+    "group": "Disease",
+    "resource": "megaloblastic anemia"
+  },
+  {
+    "name": "meibomian cyst",
+    "group": "Disease",
+    "resource": "meibomian cyst"
+  },
+  {
+    "name": "meigs syndrome",
+    "group": "Disease",
+    "resource": "meigs syndrome"
+  },
+  {
+    "name": "melanoma",
+    "group": "Disease",
+    "resource": "melanoma"
+  },
+  {
+    "name": "melasma",
+    "group": "Disease",
+    "resource": "melasma"
+  },
+  {
+    "name": "melorheostosis",
+    "group": "Disease",
+    "resource": "melorheostosis"
+  },
+  {
+    "name": "membranoproliferative glomerulonephritis",
+    "group": "Disease",
+    "resource": "membranoproliferative glomerulonephritis"
+  },
+  {
+    "name": "membranous glomerulonephritis",
+    "group": "Disease",
+    "resource": "membranous glomerulonephritis"
+  },
+  {
+    "name": "meningioma",
+    "group": "Disease",
+    "resource": "meningioma"
+  },
+  {
+    "name": "meningitis",
+    "group": "Disease",
+    "resource": "meningitis"
+  },
+  {
+    "name": "meningococcemia",
+    "group": "Disease",
+    "resource": "meningococcemia"
+  },
+  {
+    "name": "meningomyelocele",
+    "group": "Disease",
+    "resource": "meningomyelocele"
+  },
+  {
+    "name": "menopause praecox",
+    "group": "Disease",
+    "resource": "menopause praecox"
+  },
+  {
+    "name": "menorrhagia",
+    "group": "Disease",
+    "resource": "menorrhagia"
+  },
+  {
+    "name": "mental disorder",
+    "group": "Disease",
+    "resource": "mental disorder"
+  },
+  {
+    "name": "meralgia paresthetica",
+    "group": "Disease",
+    "resource": "meralgia paresthetica"
+  },
+  {
+    "name": "mercury poisoning",
+    "group": "Disease",
+    "resource": "mercury poisoning"
+  },
+  {
+    "name": "mesenteric lymphadenitis",
+    "group": "Disease",
+    "resource": "mesenteric lymphadenitis"
+  },
+  {
+    "name": "mesenteric venous thrombosis",
+    "group": "Disease",
+    "resource": "mesenteric venous thrombosis"
+  },
+  {
+    "name": "mesothelioma",
+    "group": "Disease",
+    "resource": "mesothelioma"
+  },
+  {
+    "name": "metabolic acidosis",
+    "group": "Disease",
+    "resource": "metabolic acidosis"
+  },
+  {
+    "name": "metabolic alkalosis",
+    "group": "Disease",
+    "resource": "metabolic alkalosis"
+  },
+  {
+    "name": "metabolic disease",
+    "group": "Disease",
+    "resource": "metabolic disease"
+  },
+  {
+    "name": "metabolic myopathy",
+    "group": "Disease",
+    "resource": "metabolic myopathy"
+  },
+  {
+    "name": "metabolic myopathy",
+    "group": "Disease",
+    "resource": "metabolic myopathy"
+  },
+  {
+    "name": "metabolic neuropathy",
+    "group": "Disease",
+    "resource": "metabolic neuropathy"
+  },
+  {
+    "name": "metabolic syndrome",
+    "group": "Disease",
+    "resource": "metabolic syndrome"
+  },
+  {
+    "name": "methemoglobinemia",
+    "group": "Disease",
+    "resource": "methemoglobinemia"
+  },
+  {
+    "name": "microscopic polyangiitis",
+    "group": "Disease",
+    "resource": "microscopic polyangiitis"
+  },
+  {
+    "name": "microsporidiosis",
+    "group": "Disease",
+    "resource": "microsporidiosis"
+  },
+  {
+    "name": "migraine",
+    "group": "Disease",
+    "resource": "migraine"
+  },
+  {
+    "name": "mild cognitive disorder",
+    "group": "Disease",
+    "resource": "mild cognitive disorder"
+  },
+  {
+    "name": "mild cognitive impairment",
+    "group": "Disease",
+    "resource": "mild cognitive impairment"
+  },
+  {
+    "name": "miliary tuberculosis",
+    "group": "Disease",
+    "resource": "miliary tuberculosis"
+  },
+  {
+    "name": "milk-alkali syndrome",
+    "group": "Disease",
+    "resource": "milk-alkali syndrome"
+  },
+  {
+    "name": "mineralocorticoid deficiency",
+    "group": "Disease",
+    "resource": "mineralocorticoid deficiency"
+  },
+  {
+    "name": "minimal change disease",
+    "group": "Disease",
+    "resource": "minimal change disease"
+  },
+  {
+    "name": "mitral regurgitation",
+    "group": "Disease",
+    "resource": "mitral regurgitation"
+  },
+  {
+    "name": "mitral valve prolapse",
+    "group": "Disease",
+    "resource": "mitral valve prolapse"
+  },
+  {
+    "name": "mitral valve stenosis",
+    "group": "Disease",
+    "resource": "mitral valve stenosis"
+  },
+  {
+    "name": "mixed connective tissue disease",
+    "group": "Disease",
+    "resource": "mixed connective tissue disease"
+  },
+  {
+    "name": "molluscum contagiosum",
+    "group": "Disease",
+    "resource": "molluscum contagiosum"
+  },
+  {
+    "name": "monkeypox",
+    "group": "Disease",
+    "resource": "monkeypox"
+  },
+  {
+    "name": "monoclonal gammopathy",
+    "group": "Disease",
+    "resource": "monoclonal gammopathy"
+  },
+  {
+    "name": "mood disorder",
+    "group": "Disease",
+    "resource": "mood disorder"
+  },
+  {
+    "name": "morton neuroma",
+    "group": "Disease",
+    "resource": "morton neuroma"
+  },
+  {
+    "name": "motion sickness",
+    "group": "Disease",
+    "resource": "motion sickness"
+  },
+  {
+    "name": "motor neuron disease",
+    "group": "Disease",
+    "resource": "motor neuron disease"
+  },
+  {
+    "name": "moyamoya disease",
+    "group": "Disease",
+    "resource": "moyamoya disease"
+  },
+  {
+    "name": "mucocutaneous candidiasis",
+    "group": "Disease",
+    "resource": "mucocutaneous candidiasis"
+  },
+  {
+    "name": "mucopolysaccharidosis",
+    "group": "Disease",
+    "resource": "mucopolysaccharidosis"
+  },
+  {
+    "name": "mucormycosis",
+    "group": "Disease",
+    "resource": "mucormycosis"
+  },
+  {
+    "name": "mucositis",
+    "group": "Disease",
+    "resource": "mucositis"
+  },
+  {
+    "name": "multi-centric castleman disease",
+    "group": "Disease",
+    "resource": "multi-centric castleman disease"
+  },
+  {
+    "name": "multicentric castleman disease",
+    "group": "Disease",
+    "resource": "multicentric castleman disease"
+  },
+  {
+    "name": "multifocal atrial tachycardia",
+    "group": "Disease",
+    "resource": "multifocal atrial tachycardia"
+  },
+  {
+    "name": "multifocal motor neuropathy",
+    "group": "Disease",
+    "resource": "multifocal motor neuropathy"
+  },
+  {
+    "name": "multiple chemical sensitivity",
+    "group": "Disease",
+    "resource": "multiple chemical sensitivity"
+  },
+  {
+    "name": "multiple endocrine neoplasia type 1",
+    "group": "Disease",
+    "resource": "multiple endocrine neoplasia type 1"
+  },
+  {
+    "name": "multiple endocrine neoplasia type 2a",
+    "group": "Disease",
+    "resource": "multiple endocrine neoplasia type 2a"
+  },
+  {
+    "name": "multiple myeloma",
+    "group": "Disease",
+    "resource": "multiple myeloma"
+  },
+  {
+    "name": "multiple sclerosis",
+    "group": "Disease",
+    "resource": "multiple sclerosis"
+  },
+  {
+    "name": "multiple system atrophy",
+    "group": "Disease",
+    "resource": "multiple system atrophy"
+  },
+  {
+    "name": "mumps",
+    "group": "Disease",
+    "resource": "mumps"
+  },
+  {
+    "name": "munchausen syndrome",
+    "group": "Disease",
+    "resource": "munchausen syndrome"
+  },
+  {
+    "name": "murine typhus",
+    "group": "Disease",
+    "resource": "murine typhus"
+  },
+  {
+    "name": "muscular dystrophy",
+    "group": "Disease",
+    "resource": "muscular dystrophy"
+  },
+  {
+    "name": "mushroom poisoning",
+    "group": "Disease",
+    "resource": "mushroom poisoning"
+  },
+  {
+    "name": "myasthenia gravis",
+    "group": "Disease",
+    "resource": "myasthenia gravis"
+  },
+  {
+    "name": "mycetoma",
+    "group": "Disease",
+    "resource": "mycetoma"
+  },
+  {
+    "name": "mycoplasma infection",
+    "group": "Disease",
+    "resource": "mycoplasma infection"
+  },
+  {
+    "name": "mycoplasma pneumonia",
+    "group": "Disease",
+    "resource": "mycoplasma pneumonia"
+  },
+  {
+    "name": "mycosis fungoides",
+    "group": "Disease",
+    "resource": "mycosis fungoides"
+  },
+  {
+    "name": "myelodysplastic syndrome",
+    "group": "Disease",
+    "resource": "myelodysplastic syndrome"
+  },
+  {
+    "name": "myeloperoxidase deficiency syndrome",
+    "group": "Disease",
+    "resource": "myeloperoxidase deficiency syndrome"
+  },
+  {
+    "name": "myocardial infarction",
+    "group": "Disease",
+    "resource": "myocardial infarction"
+  },
+  {
+    "name": "myocarditis",
+    "group": "Disease",
+    "resource": "myocarditis"
+  },
+  {
+    "name": "myoclonus",
+    "group": "Disease",
+    "resource": "myoclonus"
+  },
+  {
+    "name": "myofascial pain syndrome",
+    "group": "Disease",
+    "resource": "myofascial pain syndrome"
+  },
+  {
+    "name": "myofascial pelvic pain syndrome",
+    "group": "Disease",
+    "resource": "myofascial pelvic pain syndrome"
+  },
+  {
+    "name": "myopericarditis",
+    "group": "Disease",
+    "resource": "myopericarditis"
+  },
+  {
+    "name": "myositis",
+    "group": "Disease",
+    "resource": "myositis"
+  },
+  {
+    "name": "myotonic dystrophy",
+    "group": "Disease",
+    "resource": "myotonic dystrophy"
+  },
+  {
+    "name": "myxedema coma",
+    "group": "Disease",
+    "resource": "myxedema coma"
+  },
+  {
+    "name": "myxoma",
+    "group": "Disease",
+    "resource": "myxoma"
+  },
+  {
+    "name": "ménière disease",
+    "group": "Disease",
+    "resource": "meniere disease"
+  },
+  {
+    "name": "nail disorder",
+    "group": "Disease",
+    "resource": "nail disorder"
+  },
+  {
+    "name": "narcissistic personality disorder",
+    "group": "Disease",
+    "resource": "narcissistic personality disorder"
+  },
+  {
+    "name": "narcolepsy",
+    "group": "Disease",
+    "resource": "narcolepsy"
+  },
+  {
+    "name": "nasal polyp",
+    "group": "Disease",
+    "resource": "nasal polyp"
+  },
+  {
+    "name": "nasopharyngeal carcinoma",
+    "group": "Disease",
+    "resource": "nasopharyngeal carcinoma"
+  },
+  {
+    "name": "natural killer cell deficiency syndrome",
+    "group": "Disease",
+    "resource": "natural killer cell deficiency syndrome"
+  },
+  {
+    "name": "necrotizing fasciitis",
+    "group": "Disease",
+    "resource": "necrotizing fasciitis"
+  },
+  {
+    "name": "necrotizing soft tissue infection",
+    "group": "Disease",
+    "resource": "necrotizing soft tissue infection"
+  },
+  {
+    "name": "necrotizing ulcerative gingivitis",
+    "group": "Disease",
+    "resource": "necrotizing ulcerative gingivitis"
+  },
+  {
+    "name": "neonatal jaundice",
+    "group": "Disease",
+    "resource": "neonatal jaundice"
+  },
+  {
+    "name": "neonatal seizure",
+    "group": "Disease",
+    "resource": "neonatal seizure"
+  },
+  {
+    "name": "neonatal sepsis",
+    "group": "Disease",
+    "resource": "neonatal sepsis"
+  },
+  {
+    "name": "neoplasm metastasis",
+    "group": "Disease",
+    "resource": "neoplasm metastasis"
+  },
+  {
+    "name": "neoplasm of myocardium",
+    "group": "Disease",
+    "resource": "neoplasm of myocardium"
+  },
+  {
+    "name": "nephritic syndrome",
+    "group": "Disease",
+    "resource": "nephritic syndrome"
+  },
+  {
+    "name": "nephrogenic systemic fibrosis",
+    "group": "Disease",
+    "resource": "nephrogenic systemic fibrosis"
+  },
+  {
+    "name": "nephrotic syndrome",
+    "group": "Disease",
+    "resource": "nephrotic syndrome"
+  },
+  {
+    "name": "neural tube defect",
+    "group": "Disease",
+    "resource": "neural tube defect"
+  },
+  {
+    "name": "neuroblastoma",
+    "group": "Disease",
+    "resource": "neuroblastoma"
+  },
+  {
+    "name": "neurofibromatosis",
+    "group": "Disease",
+    "resource": "neurofibromatosis"
+  },
+  {
+    "name": "neurogenic arthropathy",
+    "group": "Disease",
+    "resource": "neurogenic arthropathy"
+  },
+  {
+    "name": "neuroleptic malignant syndrome",
+    "group": "Disease",
+    "resource": "neuroleptic malignant syndrome"
+  },
+  {
+    "name": "neuromuscular transmission disorder",
+    "group": "Disease",
+    "resource": "neuromuscular transmission disorder"
+  },
+  {
+    "name": "neuropathy",
+    "group": "Disease",
+    "resource": "neuropathy"
+  },
+  {
+    "name": "neutropenia",
+    "group": "Disease",
+    "resource": "neutropenia"
+  },
+  {
+    "name": "newborn respiratory distress syndrome",
+    "group": "Disease",
+    "resource": "newborn respiratory distress syndrome"
+  },
+  {
+    "name": "nocardiosis",
+    "group": "Disease",
+    "resource": "nocardiosis"
+  },
+  {
+    "name": "nocturnal leg cramps",
+    "group": "Disease",
+    "resource": "nocturnal leg cramps"
+  },
+  {
+    "name": "non-allergic rhinitis",
+    "group": "Disease",
+    "resource": "non-allergic rhinitis"
+  },
+  {
+    "name": "non-functional pancreatic neuroendocrine tumor",
+    "group": "Disease",
+    "resource": "non-functional pancreatic neuroendocrine tumor"
+  },
+  {
+    "name": "non-hodgkin lymphoma",
+    "group": "Disease",
+    "resource": "non-hodgkin lymphoma"
+  },
+  {
+    "name": "non-small cell lung cancer",
+    "group": "Disease",
+    "resource": "non-small cell lung cancer"
+  },
+  {
+    "name": "non-st elevation myocardial infarction",
+    "group": "Disease",
+    "resource": "non-st elevation myocardial infarction"
+  },
+  {
+    "name": "nonalcoholic fatty liver disease",
+    "group": "Disease",
+    "resource": "nonalcoholic fatty liver disease"
+  },
+  {
+    "name": "nonbacterial thrombotic endocarditis",
+    "group": "Disease",
+    "resource": "nonbacterial thrombotic endocarditis"
+  },
+  {
+    "name": "nonmelanoma skin cancer",
+    "group": "Disease",
+    "resource": "nonmelanoma skin cancer"
+  },
+  {
+    "name": "nonspecific interstitial pneumonia",
+    "group": "Disease",
+    "resource": "nonspecific interstitial pneumonia"
+  },
+  {
+    "name": "nonspecific ulcerative proctitis",
+    "group": "Disease",
+    "resource": "nonspecific ulcerative proctitis"
+  },
+  {
+    "name": "nonspecific urethritis",
+    "group": "Disease",
+    "resource": "nonspecific urethritis"
+  },
+  {
+    "name": "nontyphoidal salmonella infection",
+    "group": "Disease",
+    "resource": "nontyphoidal salmonella infection"
+  },
+  {
+    "name": "nonulcer dyspepsia",
+    "group": "Disease",
+    "resource": "nonulcer dyspepsia"
+  },
+  {
+    "name": "normal pressure hydrocephalus",
+    "group": "Disease",
+    "resource": "normal pressure hydrocephalus"
+  },
+  {
+    "name": "o'nyong-nyong fever",
+    "group": "Disease",
+    "resource": "onyong-nyong fever"
+  },
+  {
+    "name": "obesity",
+    "group": "Disease",
+    "resource": "obesity"
+  },
+  {
+    "name": "obesity hypoventilation syndrome",
+    "group": "Disease",
+    "resource": "obesity hypoventilation syndrome"
+  },
+  {
+    "name": "obsessive compulsive disorder",
+    "group": "Disease",
+    "resource": "obsessive compulsive disorder"
+  },
+  {
+    "name": "obstructive sleep apnea",
+    "group": "Disease",
+    "resource": "obstructive sleep apnea"
+  },
+  {
+    "name": "obstructive uropathy",
+    "group": "Disease",
+    "resource": "obstructive uropathy"
+  },
+  {
+    "name": "occult hemorrhage",
+    "group": "Disease",
+    "resource": "occult hemorrhage"
+  },
+  {
+    "name": "occupational lung disease",
+    "group": "Disease",
+    "resource": "occupational lung disease"
+  },
+  {
+    "name": "occupational pulmonary disease",
+    "group": "Disease",
+    "resource": "occupational pulmonary disease"
+  },
+  {
+    "name": "oculovestibuloauditory syndrome",
+    "group": "Disease",
+    "resource": "oculovestibuloauditory syndrome"
+  },
+  {
+    "name": "oligohydramnios",
+    "group": "Disease",
+    "resource": "oligohydramnios"
+  },
+  {
+    "name": "onchocerciasis",
+    "group": "Disease",
+    "resource": "onchocerciasis"
+  },
+  {
+    "name": "onychocryptosis",
+    "group": "Disease",
+    "resource": "onychocryptosis"
+  },
+  {
+    "name": "onychomycosis",
+    "group": "Disease",
+    "resource": "onychomycosis"
+  },
+  {
+    "name": "open angle glaucoma",
+    "group": "Disease",
+    "resource": "open angle glaucoma"
+  },
+  {
+    "name": "opioid dependence",
+    "group": "Disease",
+    "resource": "opioid dependence"
+  },
+  {
+    "name": "opioid use",
+    "group": "Disease",
+    "resource": "opioid use"
+  },
+  {
+    "name": "opisthorchiasis",
+    "group": "Disease",
+    "resource": "opisthorchiasis"
+  },
+  {
+    "name": "opportunistic infection",
+    "group": "Disease",
+    "resource": "opportunistic infection"
+  },
+  {
+    "name": "oppositional defiant disorder",
+    "group": "Disease",
+    "resource": "oppositional defiant disorder"
+  },
+  {
+    "name": "optic atrophy",
+    "group": "Disease",
+    "resource": "optic atrophy"
+  },
+  {
+    "name": "optic neuritis",
+    "group": "Disease",
+    "resource": "optic neuritis"
+  },
+  {
+    "name": "oral cancer",
+    "group": "Disease",
+    "resource": "oral cancer"
+  },
+  {
+    "name": "oral leukoplakia",
+    "group": "Disease",
+    "resource": "oral leukoplakia"
+  },
+  {
+    "name": "orchitis",
+    "group": "Disease",
+    "resource": "orchitis"
+  },
+  {
+    "name": "orgasmic disorder",
+    "group": "Disease",
+    "resource": "orgasmic disorder"
+  },
+  {
+    "name": "orodynia",
+    "group": "Disease",
+    "resource": "orodynia"
+  },
+  {
+    "name": "oropharyngeal dysphagia",
+    "group": "Disease",
+    "resource": "oropharyngeal dysphagia"
+  },
+  {
+    "name": "orthostatic tachycardia syndrome",
+    "group": "Disease",
+    "resource": "orthostatic tachycardia syndrome"
+  },
+  {
+    "name": "osgood-schlatter disease",
+    "group": "Disease",
+    "resource": "osgood-schlatter disease"
+  },
+  {
+    "name": "osseous metastasis",
+    "group": "Disease",
+    "resource": "osseous metastasis"
+  },
+  {
+    "name": "osteoarthritis",
+    "group": "Disease",
+    "resource": "osteoarthritis"
+  },
+  {
+    "name": "osteochondritis dissecans",
+    "group": "Disease",
+    "resource": "osteochondritis dissecans"
+  },
+  {
+    "name": "osteogenesis imperfecta",
+    "group": "Disease",
+    "resource": "osteogenesis imperfecta"
+  },
+  {
+    "name": "osteomalacia",
+    "group": "Disease",
+    "resource": "osteomalacia"
+  },
+  {
+    "name": "osteomyelitis",
+    "group": "Disease",
+    "resource": "osteomyelitis"
+  },
+  {
+    "name": "osteopetrosis",
+    "group": "Disease",
+    "resource": "osteopetrosis"
+  },
+  {
+    "name": "osteoporosis",
+    "group": "Disease",
+    "resource": "osteoporosis"
+  },
+  {
+    "name": "osteosarcoma",
+    "group": "Disease",
+    "resource": "osteosarcoma"
+  },
+  {
+    "name": "osteosclerosis",
+    "group": "Disease",
+    "resource": "osteosclerosis"
+  },
+  {
+    "name": "otitis externa",
+    "group": "Disease",
+    "resource": "otitis externa"
+  },
+  {
+    "name": "otitis media",
+    "group": "Disease",
+    "resource": "otitis media"
+  },
+  {
+    "name": "otosclerosis",
+    "group": "Disease",
+    "resource": "otosclerosis"
+  },
+  {
+    "name": "ovarian cancer",
+    "group": "Disease",
+    "resource": "ovarian cancer"
+  },
+  {
+    "name": "ovarian cyst",
+    "group": "Disease",
+    "resource": "ovarian cyst"
+  },
+  {
+    "name": "ovarian hyperstimulation syndrome",
+    "group": "Disease",
+    "resource": "ovarian hyperstimulation syndrome"
+  },
+  {
+    "name": "oxygen toxicity",
+    "group": "Disease",
+    "resource": "oxygen toxicity"
+  },
+  {
+    "name": "paget disease of bone",
+    "group": "Disease",
+    "resource": "paget disease of bone"
+  },
+  {
+    "name": "pancreatic cancer",
+    "group": "Disease",
+    "resource": "pancreatic cancer"
+  },
+  {
+    "name": "pancreatic exocrine cancer",
+    "group": "Disease",
+    "resource": "pancreatic exocrine cancer"
+  },
+  {
+    "name": "pancreatitis",
+    "group": "Disease",
+    "resource": "pancreatitis"
+  },
+  {
+    "name": "pancytopenia",
+    "group": "Disease",
+    "resource": "pancytopenia"
+  },
+  {
+    "name": "panic disorder",
+    "group": "Disease",
+    "resource": "panic disorder"
+  },
+  {
+    "name": "panniculitis",
+    "group": "Disease",
+    "resource": "panniculitis"
+  },
+  {
+    "name": "paracoccidioidomycosis",
+    "group": "Disease",
+    "resource": "paracoccidioidomycosis"
+  },
+  {
+    "name": "paraganglioma",
+    "group": "Disease",
+    "resource": "paraganglioma"
+  },
+  {
+    "name": "parainfluenza virus infection",
+    "group": "Disease",
+    "resource": "parainfluenza virus infection"
+  },
+  {
+    "name": "paraneoplastic polyneuropathy",
+    "group": "Disease",
+    "resource": "paraneoplastic polyneuropathy"
+  },
+  {
+    "name": "paraneoplastic syndrome",
+    "group": "Disease",
+    "resource": "paraneoplastic syndrome"
+  },
+  {
+    "name": "paranoid personality disorder",
+    "group": "Disease",
+    "resource": "paranoid personality disorder"
+  },
+  {
+    "name": "paraphimosis",
+    "group": "Disease",
+    "resource": "paraphimosis"
+  },
+  {
+    "name": "paraquat poisoning",
+    "group": "Disease",
+    "resource": "paraquat poisoning"
+  },
+  {
+    "name": "parasitic disease",
+    "group": "Disease",
+    "resource": "parasitic disease"
+  },
+  {
+    "name": "parasomnia",
+    "group": "Disease",
+    "resource": "parasomnia"
+  },
+  {
+    "name": "parkinson disease",
+    "group": "Disease",
+    "resource": "parkinson disease"
+  },
+  {
+    "name": "paronychia",
+    "group": "Disease",
+    "resource": "paronychia"
+  },
+  {
+    "name": "paroxysmal cold hemoglobinuria",
+    "group": "Disease",
+    "resource": "paroxysmal cold hemoglobinuria"
+  },
+  {
+    "name": "paroxysmal nocturnal hemoglobinuria",
+    "group": "Disease",
+    "resource": "paroxysmal nocturnal hemoglobinuria"
+  },
+  {
+    "name": "parvovirus",
+    "group": "Disease",
+    "resource": "parvovirus"
+  },
+  {
+    "name": "parvovirus infection",
+    "group": "Disease",
+    "resource": "parvovirus infection"
+  },
+  {
+    "name": "patellofemoral pain syndrome",
+    "group": "Disease",
+    "resource": "patellofemoral pain syndrome"
+  },
+  {
+    "name": "patent ductus arteriosus",
+    "group": "Disease",
+    "resource": "patent ductus arteriosus"
+  },
+  {
+    "name": "patent foramen ovale",
+    "group": "Disease",
+    "resource": "patent foramen ovale"
+  },
+  {
+    "name": "pauci-immune vasculitis",
+    "group": "Disease",
+    "resource": "pauci-immune vasculitis"
+  },
+  {
+    "name": "pectus excavatum",
+    "group": "Disease",
+    "resource": "pectus excavatum"
+  },
+  {
+    "name": "pediatric disorder",
+    "group": "Disease",
+    "resource": "pediatric disorder"
+  },
+  {
+    "name": "pediatric failure to thrive",
+    "group": "Disease",
+    "resource": "pediatric failure to thrive"
+  },
+  {
+    "name": "pediculosis",
+    "group": "Disease",
+    "resource": "pediculosis"
+  },
+  {
+    "name": "pediculosis capitis",
+    "group": "Disease",
+    "resource": "pediculosis capitis"
+  },
+  {
+    "name": "pediculosis pubis",
+    "group": "Disease",
+    "resource": "pediculosis pubis"
+  },
+  {
+    "name": "peliosis hepatis",
+    "group": "Disease",
+    "resource": "peliosis hepatis"
+  },
+  {
+    "name": "pelvic abscess",
+    "group": "Disease",
+    "resource": "pelvic abscess"
+  },
+  {
+    "name": "pelvic inflammatory disease",
+    "group": "Disease",
+    "resource": "pelvic inflammatory disease"
+  },
+  {
+    "name": "pelvic organ prolapse",
+    "group": "Disease",
+    "resource": "pelvic organ prolapse"
+  },
+  {
+    "name": "pemphigus",
+    "group": "Disease",
+    "resource": "pemphigus"
+  },
+  {
+    "name": "pemphigus vulgaris",
+    "group": "Disease",
+    "resource": "pemphigus vulgaris"
+  },
+  {
+    "name": "penile cancer",
+    "group": "Disease",
+    "resource": "penile cancer"
+  },
+  {
+    "name": "peptic stricture",
+    "group": "Disease",
+    "resource": "peptic stricture"
+  },
+  {
+    "name": "peptic ulcer disease",
+    "group": "Disease",
+    "resource": "peptic ulcer disease"
+  },
+  {
+    "name": "perianal abscess",
+    "group": "Disease",
+    "resource": "perianal abscess"
+  },
+  {
+    "name": "pericardial disorder",
+    "group": "Disease",
+    "resource": "pericardial disorder"
+  },
+  {
+    "name": "pericardial tumor",
+    "group": "Disease",
+    "resource": "pericardial tumor"
+  },
+  {
+    "name": "pericarditis",
+    "group": "Disease",
+    "resource": "pericarditis"
+  },
+  {
+    "name": "perimeningeal infection",
+    "group": "Disease",
+    "resource": "perimeningeal infection"
+  },
+  {
+    "name": "perioperative anaphylaxis",
+    "group": "Disease",
+    "resource": "perioperative anaphylaxis"
+  },
+  {
+    "name": "periorificial lentiginosis syndrome",
+    "group": "Disease",
+    "resource": "periorificial lentiginosis syndrome"
+  },
+  {
+    "name": "peripheral arterial disease",
+    "group": "Disease",
+    "resource": "peripheral arterial disease"
+  },
+  {
+    "name": "perirectal abscess",
+    "group": "Disease",
+    "resource": "perirectal abscess"
+  },
+  {
+    "name": "peritoneal carcinomatosis",
+    "group": "Disease",
+    "resource": "peritoneal carcinomatosis"
+  },
+  {
+    "name": "peritonitis",
+    "group": "Disease",
+    "resource": "peritonitis"
+  },
+  {
+    "name": "peritonsillar abscess",
+    "group": "Disease",
+    "resource": "peritonsillar abscess"
+  },
+  {
+    "name": "pernicious anemia",
+    "group": "Disease",
+    "resource": "pernicious anemia"
+  },
+  {
+    "name": "pernio",
+    "group": "Disease",
+    "resource": "pernio"
+  },
+  {
+    "name": "peroneal muscular atrophy",
+    "group": "Disease",
+    "resource": "peroneal muscular atrophy"
+  },
+  {
+    "name": "persistent pulmonary hypertension in newborn",
+    "group": "Disease",
+    "resource": "persistent pulmonary hypertension in newborn"
+  },
+  {
+    "name": "personality disorder",
+    "group": "Disease",
+    "resource": "personality disorder"
+  },
+  {
+    "name": "pertussis",
+    "group": "Disease",
+    "resource": "pertussis"
+  },
+  {
+    "name": "pervasive development disorder",
+    "group": "Disease",
+    "resource": "pervasive development disorder"
+  },
+  {
+    "name": "peyronie disease",
+    "group": "Disease",
+    "resource": "peyronie disease"
+  },
+  {
+    "name": "phaeohyphomycosis",
+    "group": "Disease",
+    "resource": "phaeohyphomycosis"
+  },
+  {
+    "name": "pharyngitis",
+    "group": "Disease",
+    "resource": "pharyngitis"
+  },
+  {
+    "name": "pheochromocytoma",
+    "group": "Disease",
+    "resource": "pheochromocytoma"
+  },
+  {
+    "name": "phimosis",
+    "group": "Disease",
+    "resource": "phimosis"
+  },
+  {
+    "name": "phobic anxiety disorder",
+    "group": "Disease",
+    "resource": "phobic anxiety disorder"
+  },
+  {
+    "name": "photosensitivity disorder",
+    "group": "Disease",
+    "resource": "photosensitivity disorder"
+  },
+  {
+    "name": "physical child abuse",
+    "group": "Disease",
+    "resource": "physical child abuse"
+  },
+  {
+    "name": "pilonidal disease",
+    "group": "Disease",
+    "resource": "pilonidal disease"
+  },
+  {
+    "name": "pinworm infection",
+    "group": "Disease",
+    "resource": "pinworm infection"
+  },
+  {
+    "name": "piriformis syndrome",
+    "group": "Disease",
+    "resource": "piriformis syndrome"
+  },
+  {
+    "name": "pituitary adenoma",
+    "group": "Disease",
+    "resource": "pituitary adenoma"
+  },
+  {
+    "name": "pituitary tumor",
+    "group": "Disease",
+    "resource": "pituitary tumor"
+  },
+  {
+    "name": "pityriasis alba",
+    "group": "Disease",
+    "resource": "pityriasis alba"
+  },
+  {
+    "name": "pityriasis rosea",
+    "group": "Disease",
+    "resource": "pityriasis rosea"
+  },
+  {
+    "name": "pityriasis rubra pilaris",
+    "group": "Disease",
+    "resource": "pityriasis rubra pilaris"
+  },
+  {
+    "name": "placenta previa",
+    "group": "Disease",
+    "resource": "placenta previa"
+  },
+  {
+    "name": "plague",
+    "group": "Disease",
+    "resource": "plague"
+  },
+  {
+    "name": "plantar fasciitis",
+    "group": "Disease",
+    "resource": "plantar fasciitis"
+  },
+  {
+    "name": "pleural effusion",
+    "group": "Disease",
+    "resource": "pleural effusion"
+  },
+  {
+    "name": "pleural empyema",
+    "group": "Disease",
+    "resource": "pleural empyema"
+  },
+  {
+    "name": "pleurisy",
+    "group": "Disease",
+    "resource": "pleurisy"
+  },
+  {
+    "name": "pneumococcal infection",
+    "group": "Disease",
+    "resource": "pneumococcal infection"
+  },
+  {
+    "name": "pneumocystis jirovecii pneumonia",
+    "group": "Disease",
+    "resource": "pneumocystis jirovecii pneumonia"
+  },
+  {
+    "name": "pneumonia",
+    "group": "Disease",
+    "resource": "pneumonia"
+  },
+  {
+    "name": "pneumothorax",
+    "group": "Disease",
+    "resource": "pneumothorax"
+  },
+  {
+    "name": "poison ivy dermatitis",
+    "group": "Disease",
+    "resource": "poison ivy dermatitis"
+  },
+  {
+    "name": "poliomyelitis",
+    "group": "Disease",
+    "resource": "poliomyelitis"
+  },
+  {
+    "name": "polyarteritis nodosa",
+    "group": "Disease",
+    "resource": "polyarteritis nodosa"
+  },
+  {
+    "name": "polycystic kidney disease",
+    "group": "Disease",
+    "resource": "polycystic kidney disease"
+  },
+  {
+    "name": "polycystic ovary syndrome",
+    "group": "Disease",
+    "resource": "polycystic ovary syndrome"
+  },
+  {
+    "name": "polycythemia vera",
+    "group": "Disease",
+    "resource": "polycythemia vera"
+  },
+  {
+    "name": "polyglandular autoimmune syndrome type 1",
+    "group": "Disease",
+    "resource": "polyglandular autoimmune syndrome type 1"
+  },
+  {
+    "name": "polyglandular autoimmune syndrome type 2",
+    "group": "Disease",
+    "resource": "polyglandular autoimmune syndrome type 2"
+  },
+  {
+    "name": "polyhydramnios",
+    "group": "Disease",
+    "resource": "polyhydramnios"
+  },
+  {
+    "name": "polymyalgia rheumatica",
+    "group": "Disease",
+    "resource": "polymyalgia rheumatica"
+  },
+  {
+    "name": "pontiac fever",
+    "group": "Disease",
+    "resource": "pontiac fever"
+  },
+  {
+    "name": "popliteal entrapment syndrome",
+    "group": "Disease",
+    "resource": "popliteal entrapment syndrome"
+  },
+  {
+    "name": "porokeratosis",
+    "group": "Disease",
+    "resource": "porokeratosis"
+  },
+  {
+    "name": "porphyria",
+    "group": "Disease",
+    "resource": "porphyria"
+  },
+  {
+    "name": "portal hypertension",
+    "group": "Disease",
+    "resource": "portal hypertension"
+  },
+  {
+    "name": "portal vein thrombosis",
+    "group": "Disease",
+    "resource": "portal vein thrombosis"
+  },
+  {
+    "name": "portopulmonary hypertension",
+    "group": "Disease",
+    "resource": "portopulmonary hypertension"
+  },
+  {
+    "name": "post-inflammatory hypopigmentation",
+    "group": "Disease",
+    "resource": "post-inflammatory hypopigmentation"
+  },
+  {
+    "name": "post-phlebitic syndrome",
+    "group": "Disease",
+    "resource": "post-phlebitic syndrome"
+  },
+  {
+    "name": "post-traumatic stress disorder",
+    "group": "Disease",
+    "resource": "post-traumatic stress disorder"
+  },
+  {
+    "name": "postconcussive syndrome",
+    "group": "Disease",
+    "resource": "postconcussive syndrome"
+  },
+  {
+    "name": "postherpetic neuralgia",
+    "group": "Disease",
+    "resource": "postherpetic neuralgia"
+  },
+  {
+    "name": "postinflammatory hyperpigmentation",
+    "group": "Disease",
+    "resource": "postinflammatory hyperpigmentation"
+  },
+  {
+    "name": "postoperative jaundice",
+    "group": "Disease",
+    "resource": "postoperative jaundice"
+  },
+  {
+    "name": "postoperative jaundice",
+    "group": "Disease",
+    "resource": "postoperative jaundice"
+  },
+  {
+    "name": "postpartum depression",
+    "group": "Disease",
+    "resource": "postpartum depression"
+  },
+  {
+    "name": "postpartum hemorrhage",
+    "group": "Disease",
+    "resource": "postpartum hemorrhage"
+  },
+  {
+    "name": "postpoliomyelitis syndrome",
+    "group": "Disease",
+    "resource": "postpoliomyelitis syndrome"
+  },
+  {
+    "name": "postural orthostatic tachycardia syndrome",
+    "group": "Disease",
+    "resource": "postural orthostatic tachycardia syndrome"
+  },
+  {
+    "name": "potassium disorder",
+    "group": "Disease",
+    "resource": "potassium disorder"
+  },
+  {
+    "name": "poxvirus infection",
+    "group": "Disease",
+    "resource": "poxvirus infection"
+  },
+  {
+    "name": "pre-eclampsia",
+    "group": "Disease",
+    "resource": "pre-eclampsia"
+  },
+  {
+    "name": "precancerous lesion",
+    "group": "Disease",
+    "resource": "precancerous lesion"
+  },
+  {
+    "name": "precocious puberty",
+    "group": "Disease",
+    "resource": "precocious puberty"
+  },
+  {
+    "name": "pregnancy disorder",
+    "group": "Disease",
+    "resource": "pregnancy disorder"
+  },
+  {
+    "name": "pregnancy-induced hypertension",
+    "group": "Disease",
+    "resource": "pregnancy-induced hypertension"
+  },
+  {
+    "name": "premature labor",
+    "group": "Disease",
+    "resource": "premature labor"
+  },
+  {
+    "name": "premature rupture of membranes",
+    "group": "Disease",
+    "resource": "premature rupture of membranes"
+  },
+  {
+    "name": "premature ventricular complexes",
+    "group": "Disease",
+    "resource": "premature ventricular complexes"
+  },
+  {
+    "name": "prematurity of fetus",
+    "group": "Disease",
+    "resource": "prematurity of fetus"
+  },
+  {
+    "name": "premenstrual dysphoric disorder",
+    "group": "Disease",
+    "resource": "premenstrual dysphoric disorder"
+  },
+  {
+    "name": "premenstrual syndrome",
+    "group": "Disease",
+    "resource": "premenstrual syndrome"
+  },
+  {
+    "name": "prepubescent vulvovaginitis",
+    "group": "Disease",
+    "resource": "prepubescent vulvovaginitis"
+  },
+  {
+    "name": "presbycusis",
+    "group": "Disease",
+    "resource": "presbycusis"
+  },
+  {
+    "name": "pressure injury",
+    "group": "Disease",
+    "resource": "pressure injury"
+  },
+  {
+    "name": "priapism",
+    "group": "Disease",
+    "resource": "priapism"
+  },
+  {
+    "name": "primary alveolar hypoventilation",
+    "group": "Disease",
+    "resource": "primary alveolar hypoventilation"
+  },
+  {
+    "name": "primary angle-closure glaucoma",
+    "group": "Disease",
+    "resource": "primary angle-closure glaucoma"
+  },
+  {
+    "name": "primary bacterial peritonitis",
+    "group": "Disease",
+    "resource": "primary bacterial peritonitis"
+  },
+  {
+    "name": "primary biliary cholangitis",
+    "group": "Disease",
+    "resource": "primary biliary cholangitis"
+  },
+  {
+    "name": "primary biliary cirrhosis",
+    "group": "Disease",
+    "resource": "primary biliary cirrhosis"
+  },
+  {
+    "name": "primary central nervous system lymphoma",
+    "group": "Disease",
+    "resource": "primary central nervous system lymphoma"
+  },
+  {
+    "name": "primary hypercoagulable state",
+    "group": "Disease",
+    "resource": "primary hypercoagulable state"
+  },
+  {
+    "name": "primary hyperparathyroidism",
+    "group": "Disease",
+    "resource": "primary hyperparathyroidism"
+  },
+  {
+    "name": "primary hypertrophic osteoarthropathy",
+    "group": "Disease",
+    "resource": "primary hypertrophic osteoarthropathy"
+  },
+  {
+    "name": "primary lung cancer",
+    "group": "Disease",
+    "resource": "primary lung cancer"
+  },
+  {
+    "name": "primary myelofibrosis",
+    "group": "Disease",
+    "resource": "primary myelofibrosis"
+  },
+  {
+    "name": "primary neoplasm",
+    "group": "Disease",
+    "resource": "primary neoplasm"
+  },
+  {
+    "name": "primary open angle glaucoma",
+    "group": "Disease",
+    "resource": "primary open angle glaucoma"
+  },
+  {
+    "name": "primary renal glomerular disease",
+    "group": "Disease",
+    "resource": "primary renal glomerular disease"
+  },
+  {
+    "name": "primary sclerosing cholangitis",
+    "group": "Disease",
+    "resource": "primary sclerosing cholangitis"
+  },
+  {
+    "name": "prion disease",
+    "group": "Disease",
+    "resource": "prion disease"
+  },
+  {
+    "name": "progressive diaphyseal dysplasia",
+    "group": "Disease",
+    "resource": "progressive diaphyseal dysplasia"
+  },
+  {
+    "name": "progressive multifocal leukoencephalopathy",
+    "group": "Disease",
+    "resource": "progressive multifocal leukoencephalopathy"
+  },
+  {
+    "name": "progressive supranuclear palsy",
+    "group": "Disease",
+    "resource": "progressive supranuclear palsy"
+  },
+  {
+    "name": "prolactinoma",
+    "group": "Disease",
+    "resource": "prolactinoma"
+  },
+  {
+    "name": "pronator syndrome",
+    "group": "Disease",
+    "resource": "pronator syndrome"
+  },
+  {
+    "name": "prostate cancer",
+    "group": "Disease",
+    "resource": "prostate cancer"
+  },
+  {
+    "name": "prostatitis",
+    "group": "Disease",
+    "resource": "prostatitis"
+  },
+  {
+    "name": "prosthetic joint infection",
+    "group": "Disease",
+    "resource": "prosthetic joint infection"
+  },
+  {
+    "name": "protein c deficiency",
+    "group": "Disease",
+    "resource": "protein c deficiency"
+  },
+  {
+    "name": "protein s deficiency",
+    "group": "Disease",
+    "resource": "protein s deficiency"
+  },
+  {
+    "name": "protein-energy malnutrition",
+    "group": "Disease",
+    "resource": "protein-energy malnutrition"
+  },
+  {
+    "name": "pseudo-obstruction of gastrointestinal tract",
+    "group": "Disease",
+    "resource": "pseudo-obstruction of gastrointestinal tract"
+  },
+  {
+    "name": "pseudogout",
+    "group": "Disease",
+    "resource": "pseudogout"
+  },
+  {
+    "name": "pseudomembranous colitis",
+    "group": "Disease",
+    "resource": "pseudomembranous colitis"
+  },
+  {
+    "name": "pseudomyxoma peritonei",
+    "group": "Disease",
+    "resource": "pseudomyxoma peritonei"
+  },
+  {
+    "name": "pseudotumor cerebri",
+    "group": "Disease",
+    "resource": "pseudotumor cerebri"
+  },
+  {
+    "name": "pseudoxanthoma elasticum",
+    "group": "Disease",
+    "resource": "pseudoxanthoma elasticum"
+  },
+  {
+    "name": "psittacosis",
+    "group": "Disease",
+    "resource": "psittacosis"
+  },
+  {
+    "name": "psoriasis",
+    "group": "Disease",
+    "resource": "psoriasis"
+  },
+  {
+    "name": "psoriatic arthritis",
+    "group": "Disease",
+    "resource": "psoriatic arthritis"
+  },
+  {
+    "name": "psychotic disorder",
+    "group": "Disease",
+    "resource": "psychotic disorder"
+  },
+  {
+    "name": "pterygium",
+    "group": "Disease",
+    "resource": "pterygium"
+  },
+  {
+    "name": "puerperal endometritis",
+    "group": "Disease",
+    "resource": "puerperal endometritis"
+  },
+  {
+    "name": "pulmonary abscess",
+    "group": "Disease",
+    "resource": "pulmonary abscess"
+  },
+  {
+    "name": "pulmonary alveolar proteinosis",
+    "group": "Disease",
+    "resource": "pulmonary alveolar proteinosis"
+  },
+  {
+    "name": "pulmonary aspiration",
+    "group": "Disease",
+    "resource": "pulmonary aspiration"
+  },
+  {
+    "name": "pulmonary disease",
+    "group": "Disease",
+    "resource": "pulmonary disease"
+  },
+  {
+    "name": "pulmonary edema",
+    "group": "Disease",
+    "resource": "pulmonary edema"
+  },
+  {
+    "name": "pulmonary embolism",
+    "group": "Disease",
+    "resource": "pulmonary embolism"
+  },
+  {
+    "name": "pulmonary hypertension",
+    "group": "Disease",
+    "resource": "pulmonary hypertension"
+  },
+  {
+    "name": "pulmonary hypertensive arterial disease",
+    "group": "Disease",
+    "resource": "pulmonary hypertensive arterial disease"
+  },
+  {
+    "name": "pulmonary hypoplasia",
+    "group": "Disease",
+    "resource": "pulmonary hypoplasia"
+  },
+  {
+    "name": "pulmonary langerhans cell histiocytosis",
+    "group": "Disease",
+    "resource": "pulmonary langerhans cell histiocytosis"
+  },
+  {
+    "name": "pulmonary tuberculosis",
+    "group": "Disease",
+    "resource": "pulmonary tuberculosis"
+  },
+  {
+    "name": "pulmonary valve stenosis",
+    "group": "Disease",
+    "resource": "pulmonary valve stenosis"
+  },
+  {
+    "name": "pure red cell aplasia",
+    "group": "Disease",
+    "resource": "pure red cell aplasia"
+  },
+  {
+    "name": "pyelonephritis",
+    "group": "Disease",
+    "resource": "pyelonephritis"
+  },
+  {
+    "name": "pyknodysostosis",
+    "group": "Disease",
+    "resource": "pyknodysostosis"
+  },
+  {
+    "name": "pyoderma gangrenosum",
+    "group": "Disease",
+    "resource": "pyoderma gangrenosum"
+  },
+  {
+    "name": "pyogenic granuloma",
+    "group": "Disease",
+    "resource": "pyogenic granuloma"
+  },
+  {
+    "name": "pyogenic hepatic abscess",
+    "group": "Disease",
+    "resource": "pyogenic hepatic abscess"
+  },
+  {
+    "name": "pyruvate kinase deficiency",
+    "group": "Disease",
+    "resource": "pyruvate kinase deficiency"
+  },
+  {
+    "name": "q fever",
+    "group": "Disease",
+    "resource": "q fever"
+  },
+  {
+    "name": "rabies",
+    "group": "Disease",
+    "resource": "rabies"
+  },
+  {
+    "name": "radiculopathy",
+    "group": "Disease",
+    "resource": "radiculopathy"
+  },
+  {
+    "name": "rapidly progressive glomerulonephritis",
+    "group": "Disease",
+    "resource": "rapidly progressive glomerulonephritis"
+  },
+  {
+    "name": "rat bite fever",
+    "group": "Disease",
+    "resource": "rat bite fever"
+  },
+  {
+    "name": "raynaud phenomenon",
+    "group": "Disease",
+    "resource": "raynaud phenomenon"
+  },
+  {
+    "name": "rectal prolapse",
+    "group": "Disease",
+    "resource": "rectal prolapse"
+  },
+  {
+    "name": "rectocele",
+    "group": "Disease",
+    "resource": "rectocele"
+  },
+  {
+    "name": "red blood cell disorder",
+    "group": "Disease",
+    "resource": "red blood cell disorder"
+  },
+  {
+    "name": "reiter syndrome",
+    "group": "Disease",
+    "resource": "reiter syndrome"
+  },
+  {
+    "name": "relapsing fever",
+    "group": "Disease",
+    "resource": "relapsing fever"
+  },
+  {
+    "name": "relapsing polychondritis",
+    "group": "Disease",
+    "resource": "relapsing polychondritis"
+  },
+  {
+    "name": "renal abscess",
+    "group": "Disease",
+    "resource": "renal abscess"
+  },
+  {
+    "name": "renal artery occlusion",
+    "group": "Disease",
+    "resource": "renal artery occlusion"
+  },
+  {
+    "name": "renal artery stenosis",
+    "group": "Disease",
+    "resource": "renal artery stenosis"
+  },
+  {
+    "name": "renal artery thromboembolism",
+    "group": "Disease",
+    "resource": "renal artery thromboembolism"
+  },
+  {
+    "name": "renal calculus",
+    "group": "Disease",
+    "resource": "renal calculus"
+  },
+  {
+    "name": "renal cell carcinoma",
+    "group": "Disease",
+    "resource": "renal cell carcinoma"
+  },
+  {
+    "name": "renal disease",
+    "group": "Disease",
+    "resource": "renal disease"
+  },
+  {
+    "name": "renal glycosuria",
+    "group": "Disease",
+    "resource": "renal glycosuria"
+  },
+  {
+    "name": "renal insufficiency",
+    "group": "Disease",
+    "resource": "renal insufficiency"
+  },
+  {
+    "name": "renal tubular acidosis",
+    "group": "Disease",
+    "resource": "renal tubular acidosis"
+  },
+  {
+    "name": "renal vein thrombosis",
+    "group": "Disease",
+    "resource": "renal vein thrombosis"
+  },
+  {
+    "name": "renovascular hypertension",
+    "group": "Disease",
+    "resource": "renovascular hypertension"
+  },
+  {
+    "name": "respiratory acid-base disorder",
+    "group": "Disease",
+    "resource": "respiratory acid-base disorder"
+  },
+  {
+    "name": "respiratory acidosis",
+    "group": "Disease",
+    "resource": "respiratory acidosis"
+  },
+  {
+    "name": "respiratory alkalosis",
+    "group": "Disease",
+    "resource": "respiratory alkalosis"
+  },
+  {
+    "name": "respiratory bronchiolitis associated interstitial lung disease",
+    "group": "Disease",
+    "resource": "respiratory bronchiolitis associated interstitial lung disease"
+  },
+  {
+    "name": "respiratory injury",
+    "group": "Disease",
+    "resource": "respiratory injury"
+  },
+  {
+    "name": "respiratory syncytial virus infection",
+    "group": "Disease",
+    "resource": "respiratory syncytial virus infection"
+  },
+  {
+    "name": "restless legs syndrome",
+    "group": "Disease",
+    "resource": "restless legs syndrome"
+  },
+  {
+    "name": "restrictive cardiomyopathy",
+    "group": "Disease",
+    "resource": "restrictive cardiomyopathy"
+  },
+  {
+    "name": "retinal detachment",
+    "group": "Disease",
+    "resource": "retinal detachment"
+  },
+  {
+    "name": "retinal hemorrhage",
+    "group": "Disease",
+    "resource": "retinal hemorrhage"
+  },
+  {
+    "name": "retinal vein occlusion",
+    "group": "Disease",
+    "resource": "retinal vein occlusion"
+  },
+  {
+    "name": "retinitis pigmentosa",
+    "group": "Disease",
+    "resource": "retinitis pigmentosa"
+  },
+  {
+    "name": "retinoblastoma",
+    "group": "Disease",
+    "resource": "retinoblastoma"
+  },
+  {
+    "name": "retinopathy of prematurity",
+    "group": "Disease",
+    "resource": "retinopathy of prematurity"
+  },
+  {
+    "name": "retroperitoneal fibrosis",
+    "group": "Disease",
+    "resource": "retroperitoneal fibrosis"
+  },
+  {
+    "name": "retropharyngeal abscess",
+    "group": "Disease",
+    "resource": "retropharyngeal abscess"
+  },
+  {
+    "name": "reye syndrome",
+    "group": "Disease",
+    "resource": "reye syndrome"
+  },
+  {
+    "name": "rh incompatibility",
+    "group": "Disease",
+    "resource": "rh incompatibility"
+  },
+  {
+    "name": "rhabdomyolysis",
+    "group": "Disease",
+    "resource": "rhabdomyolysis"
+  },
+  {
+    "name": "rheumatic fever",
+    "group": "Disease",
+    "resource": "rheumatic fever"
+  },
+  {
+    "name": "rheumatism",
+    "group": "Disease",
+    "resource": "rheumatism"
+  },
+  {
+    "name": "rheumatoid arthritis",
+    "group": "Disease",
+    "resource": "rheumatoid arthritis"
+  },
+  {
+    "name": "rhinitis",
+    "group": "Disease",
+    "resource": "rhinitis"
+  },
+  {
+    "name": "rhinosinusitis",
+    "group": "Disease",
+    "resource": "rhinosinusitis"
+  },
+  {
+    "name": "rickets",
+    "group": "Disease",
+    "resource": "rickets"
+  },
+  {
+    "name": "rickettsiosis",
+    "group": "Disease",
+    "resource": "rickettsiosis"
+  },
+  {
+    "name": "rift valley fever",
+    "group": "Disease",
+    "resource": "rift valley fever"
+  },
+  {
+    "name": "rocky mountain spotted fever",
+    "group": "Disease",
+    "resource": "rocky mountain spotted fever"
+  },
+  {
+    "name": "rosacea",
+    "group": "Disease",
+    "resource": "rosacea"
+  },
+  {
+    "name": "rotator cuff injury",
+    "group": "Disease",
+    "resource": "rotator cuff injury"
+  },
+  {
+    "name": "rotavirus infection",
+    "group": "Disease",
+    "resource": "rotavirus infection"
+  },
+  {
+    "name": "rubella",
+    "group": "Disease",
+    "resource": "rubella"
+  },
+  {
+    "name": "rubeola",
+    "group": "Disease",
+    "resource": "rubeola"
+  },
+  {
+    "name": "saint louis encephalitis",
+    "group": "Disease",
+    "resource": "saint louis encephalitis"
+  },
+  {
+    "name": "salicylate overdose",
+    "group": "Disease",
+    "resource": "salicylate overdose"
+  },
+  {
+    "name": "salivary gland calculus",
+    "group": "Disease",
+    "resource": "salivary gland calculus"
+  },
+  {
+    "name": "salivary gland neoplasm",
+    "group": "Disease",
+    "resource": "salivary gland neoplasm"
+  },
+  {
+    "name": "salmonellosis",
+    "group": "Disease",
+    "resource": "salmonellosis"
+  },
+  {
+    "name": "sarcoidosis",
+    "group": "Disease",
+    "resource": "sarcoidosis"
+  },
+  {
+    "name": "sarcoma",
+    "group": "Disease",
+    "resource": "sarcoma"
+  },
+  {
+    "name": "scabies",
+    "group": "Disease",
+    "resource": "scabies"
+  },
+  {
+    "name": "scarlet fever",
+    "group": "Disease",
+    "resource": "scarlet fever"
+  },
+  {
+    "name": "schistosomiasis",
+    "group": "Disease",
+    "resource": "schistosomiasis"
+  },
+  {
+    "name": "schizophrenia",
+    "group": "Disease",
+    "resource": "schizophrenia"
+  },
+  {
+    "name": "scleritis",
+    "group": "Disease",
+    "resource": "scleritis"
+  },
+  {
+    "name": "scleritis and episcleritis",
+    "group": "Disease",
+    "resource": "scleritis and episcleritis"
+  },
+  {
+    "name": "scleroderma",
+    "group": "Disease",
+    "resource": "scleroderma"
+  },
+  {
+    "name": "scoliosis",
+    "group": "Disease",
+    "resource": "scoliosis"
+  },
+  {
+    "name": "seasonal affective disorder",
+    "group": "Disease",
+    "resource": "seasonal affective disorder"
+  },
+  {
+    "name": "seborrheic dermatitis",
+    "group": "Disease",
+    "resource": "seborrheic dermatitis"
+  },
+  {
+    "name": "second degree atrioventricular block",
+    "group": "Disease",
+    "resource": "second degree atrioventricular block"
+  },
+  {
+    "name": "secondary infection",
+    "group": "Disease",
+    "resource": "secondary infection"
+  },
+  {
+    "name": "secondary malignant neoplasm of bone",
+    "group": "Disease",
+    "resource": "secondary malignant neoplasm of bone"
+  },
+  {
+    "name": "secondary malignant neoplasm of brain",
+    "group": "Disease",
+    "resource": "secondary malignant neoplasm of brain"
+  },
+  {
+    "name": "secondary peritonitis",
+    "group": "Disease",
+    "resource": "secondary peritonitis"
+  },
+  {
+    "name": "segmental glomerulosclerosis",
+    "group": "Disease",
+    "resource": "segmental glomerulosclerosis"
+  },
+  {
+    "name": "senile lentigo",
+    "group": "Disease",
+    "resource": "senile lentigo"
+  },
+  {
+    "name": "sensorineural hearing loss",
+    "group": "Disease",
+    "resource": "sensorineural hearing loss"
+  },
+  {
+    "name": "sepsis",
+    "group": "Disease",
+    "resource": "sepsis"
+  },
+  {
+    "name": "sequela",
+    "group": "Disease",
+    "resource": "sequela"
+  },
+  {
+    "name": "serotonin syndrome",
+    "group": "Disease",
+    "resource": "serotonin syndrome"
+  },
+  {
+    "name": "serrated polyp",
+    "group": "Disease",
+    "resource": "serrated polyp"
+  },
+  {
+    "name": "serum sickness",
+    "group": "Disease",
+    "resource": "serum sickness"
+  },
+  {
+    "name": "severe acute respiratory syndrome",
+    "group": "Disease",
+    "resource": "severe acute respiratory syndrome"
+  },
+  {
+    "name": "severe sepsis",
+    "group": "Disease",
+    "resource": "severe sepsis"
+  },
+  {
+    "name": "sexual assault",
+    "group": "Disease",
+    "resource": "sexual assault"
+  },
+  {
+    "name": "shaken baby syndrome",
+    "group": "Disease",
+    "resource": "shaken baby syndrome"
+  },
+  {
+    "name": "sheehan syndrome",
+    "group": "Disease",
+    "resource": "sheehan syndrome"
+  },
+  {
+    "name": "shigellosis",
+    "group": "Disease",
+    "resource": "shigellosis"
+  },
+  {
+    "name": "shock",
+    "group": "Disease",
+    "resource": "shock"
+  },
+  {
+    "name": "short bowel syndrome",
+    "group": "Disease",
+    "resource": "short bowel syndrome"
+  },
+  {
+    "name": "short qt syndrome",
+    "group": "Disease",
+    "resource": "short qt syndrome"
+  },
+  {
+    "name": "shoulder injury",
+    "group": "Disease",
+    "resource": "shoulder injury"
+  },
+  {
+    "name": "sialadenitis",
+    "group": "Disease",
+    "resource": "sialadenitis"
+  },
+  {
+    "name": "sick sinus syndrome",
+    "group": "Disease",
+    "resource": "sick sinus syndrome"
+  },
+  {
+    "name": "sickle cell anemia",
+    "group": "Disease",
+    "resource": "sickle cell anemia"
+  },
+  {
+    "name": "sideroblastic anemia",
+    "group": "Disease",
+    "resource": "sideroblastic anemia"
+  },
+  {
+    "name": "silicosis",
+    "group": "Disease",
+    "resource": "silicosis"
+  },
+  {
+    "name": "simple phobia",
+    "group": "Disease",
+    "resource": "simple phobia"
+  },
+  {
+    "name": "sinus bradycardia",
+    "group": "Disease",
+    "resource": "sinus bradycardia"
+  },
+  {
+    "name": "sinus node dysfunction",
+    "group": "Disease",
+    "resource": "sinus node dysfunction"
+  },
+  {
+    "name": "sinus thrombosis",
+    "group": "Disease",
+    "resource": "sinus thrombosis"
+  },
+  {
+    "name": "sinusitis",
+    "group": "Disease",
+    "resource": "sinusitis"
+  },
+  {
+    "name": "sjögren syndrome",
+    "group": "Disease",
+    "resource": "sjogren syndrome"
+  },
+  {
+    "name": "skin structure and soft tissue infections",
+    "group": "Disease",
+    "resource": "skin structure and soft tissue infections"
+  },
+  {
+    "name": "sleep apnea",
+    "group": "Disease",
+    "resource": "sleep apnea"
+  },
+  {
+    "name": "sleep disorder",
+    "group": "Disease",
+    "resource": "sleep disorder"
+  },
+  {
+    "name": "sleep starts",
+    "group": "Disease",
+    "resource": "sleep starts"
+  },
+  {
+    "name": "slipped upper femoral epiphysis",
+    "group": "Disease",
+    "resource": "slipped upper femoral epiphysis"
+  },
+  {
+    "name": "small bowel bacterial overgrowth",
+    "group": "Disease",
+    "resource": "small bowel bacterial overgrowth"
+  },
+  {
+    "name": "small bowel obstruction",
+    "group": "Disease",
+    "resource": "small bowel obstruction"
+  },
+  {
+    "name": "smallpox",
+    "group": "Disease",
+    "resource": "smallpox"
+  },
+  {
+    "name": "smoke inhalation injury",
+    "group": "Disease",
+    "resource": "smoke inhalation injury"
+  },
+  {
+    "name": "snake bite",
+    "group": "Disease",
+    "resource": "snake bite"
+  },
+  {
+    "name": "social anxiety disorder",
+    "group": "Disease",
+    "resource": "social anxiety disorder"
+  },
+  {
+    "name": "soft tissue rheumatism",
+    "group": "Disease",
+    "resource": "soft tissue rheumatism"
+  },
+  {
+    "name": "solar erythema",
+    "group": "Disease",
+    "resource": "solar erythema"
+  },
+  {
+    "name": "somatization disorder",
+    "group": "Disease",
+    "resource": "somatization disorder"
+  },
+  {
+    "name": "somatoform disorder",
+    "group": "Disease",
+    "resource": "somatoform disorder"
+  },
+  {
+    "name": "somatostatinoma",
+    "group": "Disease",
+    "resource": "somatostatinoma"
+  },
+  {
+    "name": "somatotropin deficiency",
+    "group": "Disease",
+    "resource": "somatotropin deficiency"
+  },
+  {
+    "name": "specific granule deficiency",
+    "group": "Disease",
+    "resource": "specific granule deficiency"
+  },
+  {
+    "name": "spina bifida",
+    "group": "Disease",
+    "resource": "spina bifida"
+  },
+  {
+    "name": "spinal cord compression",
+    "group": "Disease",
+    "resource": "spinal cord compression"
+  },
+  {
+    "name": "spinal cord disease",
+    "group": "Disease",
+    "resource": "spinal cord disease"
+  },
+  {
+    "name": "spinal cord infarction",
+    "group": "Disease",
+    "resource": "spinal cord infarction"
+  },
+  {
+    "name": "spinal cord injury",
+    "group": "Disease",
+    "resource": "spinal cord injury"
+  },
+  {
+    "name": "spinal epidural abscess",
+    "group": "Disease",
+    "resource": "spinal epidural abscess"
+  },
+  {
+    "name": "spinal muscular atrophy",
+    "group": "Disease",
+    "resource": "spinal muscular atrophy"
+  },
+  {
+    "name": "spinal neoplasm",
+    "group": "Disease",
+    "resource": "spinal neoplasm"
+  },
+  {
+    "name": "spinal neoplasms",
+    "group": "Disease",
+    "resource": "spinal neoplasms"
+  },
+  {
+    "name": "spinal stenosis",
+    "group": "Disease",
+    "resource": "spinal stenosis"
+  },
+  {
+    "name": "spine disorder",
+    "group": "Disease",
+    "resource": "spine disorder"
+  },
+  {
+    "name": "spinobulbar muscular atrophy",
+    "group": "Disease",
+    "resource": "spinobulbar muscular atrophy"
+  },
+  {
+    "name": "spinocerebellar ataxia",
+    "group": "Disease",
+    "resource": "spinocerebellar ataxia"
+  },
+  {
+    "name": "spondyloarthropathy",
+    "group": "Disease",
+    "resource": "spondyloarthropathy"
+  },
+  {
+    "name": "spondylolisthesis",
+    "group": "Disease",
+    "resource": "spondylolisthesis"
+  },
+  {
+    "name": "spontaneous abortion",
+    "group": "Disease",
+    "resource": "spontaneous abortion"
+  },
+  {
+    "name": "spontaneous bacterial peritonitis",
+    "group": "Disease",
+    "resource": "spontaneous bacterial peritonitis"
+  },
+  {
+    "name": "spontaneous pneumothorax",
+    "group": "Disease",
+    "resource": "spontaneous pneumothorax"
+  },
+  {
+    "name": "sporotrichosis",
+    "group": "Disease",
+    "resource": "sporotrichosis"
+  },
+  {
+    "name": "squamous cell carcinoma",
+    "group": "Disease",
+    "resource": "squamous cell carcinoma"
+  },
+  {
+    "name": "squamous cell carcinoma of head and neck",
+    "group": "Disease",
+    "resource": "squamous cell carcinoma of head and neck"
+  },
+  {
+    "name": "squamous cell carcinoma of skin",
+    "group": "Disease",
+    "resource": "squamous cell carcinoma of skin"
+  },
+  {
+    "name": "st. louis encephalitis",
+    "group": "Disease",
+    "resource": "st. louis encephalitis"
+  },
+  {
+    "name": "stable angina",
+    "group": "Disease",
+    "resource": "stable angina"
+  },
+  {
+    "name": "stable ischemic heart disease",
+    "group": "Disease",
+    "resource": "stable ischemic heart disease"
+  },
+  {
+    "name": "staphylococcal infection",
+    "group": "Disease",
+    "resource": "staphylococcal infection"
+  },
+  {
+    "name": "stasis dermatitis",
+    "group": "Disease",
+    "resource": "stasis dermatitis"
+  },
+  {
+    "name": "status epilepticus",
+    "group": "Disease",
+    "resource": "status epilepticus"
+  },
+  {
+    "name": "stevens-johnson syndrome",
+    "group": "Disease",
+    "resource": "stevens-johnson syndrome"
+  },
+  {
+    "name": "stomatitis",
+    "group": "Disease",
+    "resource": "stomatitis"
+  },
+  {
+    "name": "strabismus",
+    "group": "Disease",
+    "resource": "strabismus"
+  },
+  {
+    "name": "streptococcal infection",
+    "group": "Disease",
+    "resource": "streptococcal infection"
+  },
+  {
+    "name": "strongyloidiasis",
+    "group": "Disease",
+    "resource": "strongyloidiasis"
+  },
+  {
+    "name": "sturge-weber syndrome",
+    "group": "Disease",
+    "resource": "sturge-weber syndrome"
+  },
+  {
+    "name": "stuttering",
+    "group": "Disease",
+    "resource": "stuttering"
+  },
+  {
+    "name": "subacute myeloid leukemia",
+    "group": "Disease",
+    "resource": "subacute myeloid leukemia"
+  },
+  {
+    "name": "subacute sclerosing panencephalitis",
+    "group": "Disease",
+    "resource": "subacute sclerosing panencephalitis"
+  },
+  {
+    "name": "subacute spongiform encephalopathy",
+    "group": "Disease",
+    "resource": "subacute spongiform encephalopathy"
+  },
+  {
+    "name": "subarachnoid hemorrhage",
+    "group": "Disease",
+    "resource": "subarachnoid hemorrhage"
+  },
+  {
+    "name": "subclavian steal syndrome",
+    "group": "Disease",
+    "resource": "subclavian steal syndrome"
+  },
+  {
+    "name": "subdural empyema",
+    "group": "Disease",
+    "resource": "subdural empyema"
+  },
+  {
+    "name": "subdural hematoma",
+    "group": "Disease",
+    "resource": "subdural hematoma"
+  },
+  {
+    "name": "sudden cardiac arrest",
+    "group": "Disease",
+    "resource": "sudden cardiac arrest"
+  },
+  {
+    "name": "sudden cardiac death",
+    "group": "Disease",
+    "resource": "sudden cardiac death"
+  },
+  {
+    "name": "sudden infant death syndrome",
+    "group": "Disease",
+    "resource": "sudden infant death syndrome"
+  },
+  {
+    "name": "suicide",
+    "group": "Disease",
+    "resource": "suicide"
+  },
+  {
+    "name": "suicide attempt",
+    "group": "Disease",
+    "resource": "suicide attempt"
+  },
+  {
+    "name": "superficial thrombophlebitis",
+    "group": "Disease",
+    "resource": "superficial thrombophlebitis"
+  },
+  {
+    "name": "superior vena cava obstruction",
+    "group": "Disease",
+    "resource": "superior vena cava obstruction"
+  },
+  {
+    "name": "supraventricular tachycardia",
+    "group": "Disease",
+    "resource": "supraventricular tachycardia"
+  },
+  {
+    "name": "sweet syndrome",
+    "group": "Disease",
+    "resource": "sweet syndrome"
+  },
+  {
+    "name": "syndrome",
+    "group": "Disease",
+    "resource": "syndrome"
+  },
+  {
+    "name": "syndrome of inappropriate adh secretion",
+    "group": "Disease",
+    "resource": "syndrome of inappropriate adh secretion"
+  },
+  {
+    "name": "synovial cyst of popliteal space",
+    "group": "Disease",
+    "resource": "synovial cyst of popliteal space"
+  },
+  {
+    "name": "syphilis",
+    "group": "Disease",
+    "resource": "syphilis"
+  },
+  {
+    "name": "syringomyelia",
+    "group": "Disease",
+    "resource": "syringomyelia"
+  },
+  {
+    "name": "systemic disease",
+    "group": "Disease",
+    "resource": "systemic disease"
+  },
+  {
+    "name": "systemic juvenile idiopathic arthritis",
+    "group": "Disease",
+    "resource": "systemic juvenile idiopathic arthritis"
+  },
+  {
+    "name": "systemic lupus erythematosus",
+    "group": "Disease",
+    "resource": "systemic lupus erythematosus"
+  },
+  {
+    "name": "systemic mastocytosis",
+    "group": "Disease",
+    "resource": "systemic mastocytosis"
+  },
+  {
+    "name": "systemic sclerosis",
+    "group": "Disease",
+    "resource": "systemic sclerosis"
+  },
+  {
+    "name": "systemic vasculitis",
+    "group": "Disease",
+    "resource": "systemic vasculitis"
+  },
+  {
+    "name": "tabes dorsalis",
+    "group": "Disease",
+    "resource": "tabes dorsalis"
+  },
+  {
+    "name": "tachycardia",
+    "group": "Disease",
+    "resource": "tachycardia"
+  },
+  {
+    "name": "tachycardia-induced cardiomyopathy",
+    "group": "Disease",
+    "resource": "tachycardia-induced cardiomyopathy"
+  },
+  {
+    "name": "takayasu arteritis",
+    "group": "Disease",
+    "resource": "takayasu arteritis"
+  },
+  {
+    "name": "takotsubo cardiomyopathy",
+    "group": "Disease",
+    "resource": "takotsubo cardiomyopathy"
+  },
+  {
+    "name": "takotsubo cardiomyopathy",
+    "group": "Disease",
+    "resource": "takotsubo cardiomyopathy"
+  },
+  {
+    "name": "tardive dyskinesia",
+    "group": "Disease",
+    "resource": "tardive dyskinesia"
+  },
+  {
+    "name": "tarsal tunnel syndrome",
+    "group": "Disease",
+    "resource": "tarsal tunnel syndrome"
+  },
+  {
+    "name": "temporal arteritis",
+    "group": "Disease",
+    "resource": "temporal arteritis"
+  },
+  {
+    "name": "temporomandibular joint disorder",
+    "group": "Disease",
+    "resource": "temporomandibular joint disorder"
+  },
+  {
+    "name": "temporomandibular joint dysfunction",
+    "group": "Disease",
+    "resource": "temporomandibular joint dysfunction"
+  },
+  {
+    "name": "tendinitis",
+    "group": "Disease",
+    "resource": "tendinitis"
+  },
+  {
+    "name": "tendinopathy",
+    "group": "Disease",
+    "resource": "tendinopathy"
+  },
+  {
+    "name": "tension headache",
+    "group": "Disease",
+    "resource": "tension headache"
+  },
+  {
+    "name": "testicular cancer",
+    "group": "Disease",
+    "resource": "testicular cancer"
+  },
+  {
+    "name": "testicular torsion",
+    "group": "Disease",
+    "resource": "testicular torsion"
+  },
+  {
+    "name": "tetanus",
+    "group": "Disease",
+    "resource": "tetanus"
+  },
+  {
+    "name": "tetralogy of fallot",
+    "group": "Disease",
+    "resource": "tetralogy of fallot"
+  },
+  {
+    "name": "thalassemia",
+    "group": "Disease",
+    "resource": "thalassemia"
+  },
+  {
+    "name": "thermal injury",
+    "group": "Disease",
+    "resource": "thermal injury"
+  },
+  {
+    "name": "thoracic outlet syndrome",
+    "group": "Disease",
+    "resource": "thoracic outlet syndrome"
+  },
+  {
+    "name": "thromboangiitis obliterans",
+    "group": "Disease",
+    "resource": "thromboangiitis obliterans"
+  },
+  {
+    "name": "thrombocytopenia",
+    "group": "Disease",
+    "resource": "thrombocytopenia"
+  },
+  {
+    "name": "thrombocytosis",
+    "group": "Disease",
+    "resource": "thrombocytosis"
+  },
+  {
+    "name": "thrombophilia",
+    "group": "Disease",
+    "resource": "thrombophilia"
+  },
+  {
+    "name": "thrombosis",
+    "group": "Disease",
+    "resource": "thrombosis"
+  },
+  {
+    "name": "thrombosis of mesenteric vein",
+    "group": "Disease",
+    "resource": "thrombosis of mesenteric vein"
+  },
+  {
+    "name": "thrombotic thrombocytopenic purpura",
+    "group": "Disease",
+    "resource": "thrombotic thrombocytopenic purpura"
+  },
+  {
+    "name": "thymic carcinoma",
+    "group": "Disease",
+    "resource": "thymic carcinoma"
+  },
+  {
+    "name": "thyroid cancer",
+    "group": "Disease",
+    "resource": "thyroid cancer"
+  },
+  {
+    "name": "thyroid carcinoma",
+    "group": "Disease",
+    "resource": "thyroid carcinoma"
+  },
+  {
+    "name": "thyroid nodule",
+    "group": "Disease",
+    "resource": "thyroid nodule"
+  },
+  {
+    "name": "thyroid storm",
+    "group": "Disease",
+    "resource": "thyroid storm"
+  },
+  {
+    "name": "thyroiditis",
+    "group": "Disease",
+    "resource": "thyroiditis"
+  },
+  {
+    "name": "thyrotoxicosis",
+    "group": "Disease",
+    "resource": "thyrotoxicosis"
+  },
+  {
+    "name": "tick-borne encephalitis",
+    "group": "Disease",
+    "resource": "tick-borne encephalitis"
+  },
+  {
+    "name": "tinea capitis",
+    "group": "Disease",
+    "resource": "tinea capitis"
+  },
+  {
+    "name": "tinea corporis",
+    "group": "Disease",
+    "resource": "tinea corporis"
+  },
+  {
+    "name": "tinea cruris",
+    "group": "Disease",
+    "resource": "tinea cruris"
+  },
+  {
+    "name": "tinea infection",
+    "group": "Disease",
+    "resource": "tinea infection"
+  },
+  {
+    "name": "tinea pedis",
+    "group": "Disease",
+    "resource": "tinea pedis"
+  },
+  {
+    "name": "tinea versicolor",
+    "group": "Disease",
+    "resource": "tinea versicolor"
+  },
+  {
+    "name": "toddler's diarrhea",
+    "group": "Disease",
+    "resource": "toddler diarrhea"
+  },
+  {
+    "name": "tonsillar cancer",
+    "group": "Disease",
+    "resource": "tonsillar cancer"
+  },
+  {
+    "name": "tonsillitis",
+    "group": "Disease",
+    "resource": "tonsillitis"
+  },
+  {
+    "name": "torsade de pointes",
+    "group": "Disease",
+    "resource": "torsade de pointes"
+  },
+  {
+    "name": "torsade de pointes",
+    "group": "Disease",
+    "resource": "torsade de pointes"
+  },
+  {
+    "name": "tourette syndrome",
+    "group": "Disease",
+    "resource": "tourette syndrome"
+  },
+  {
+    "name": "toxic epidermal necrolysis",
+    "group": "Disease",
+    "resource": "toxic epidermal necrolysis"
+  },
+  {
+    "name": "toxic megacolon",
+    "group": "Disease",
+    "resource": "toxic megacolon"
+  },
+  {
+    "name": "toxic polyneuropathy",
+    "group": "Disease",
+    "resource": "toxic polyneuropathy"
+  },
+  {
+    "name": "toxic shock syndrome",
+    "group": "Disease",
+    "resource": "toxic shock syndrome"
+  },
+  {
+    "name": "toxocariasis",
+    "group": "Disease",
+    "resource": "toxocariasis"
+  },
+  {
+    "name": "toxoplasmosis",
+    "group": "Disease",
+    "resource": "toxoplasmosis"
+  },
+  {
+    "name": "tracheitis",
+    "group": "Disease",
+    "resource": "tracheitis"
+  },
+  {
+    "name": "trachoma",
+    "group": "Disease",
+    "resource": "trachoma"
+  },
+  {
+    "name": "transfusion-associated circulatory overload",
+    "group": "Disease",
+    "resource": "transfusion-associated circulatory overload"
+  },
+  {
+    "name": "transfusion-related acute lung injury",
+    "group": "Disease",
+    "resource": "transfusion-related acute lung injury"
+  },
+  {
+    "name": "transient global amnesia",
+    "group": "Disease",
+    "resource": "transient global amnesia"
+  },
+  {
+    "name": "transient ischemic attack",
+    "group": "Disease",
+    "resource": "transient ischemic attack"
+  },
+  {
+    "name": "transitional cell bladder cancer",
+    "group": "Disease",
+    "resource": "transitional cell bladder cancer"
+  },
+  {
+    "name": "transitory tachypnea of newborn",
+    "group": "Disease",
+    "resource": "transitory tachypnea of newborn"
+  },
+  {
+    "name": "transverse myelitis",
+    "group": "Disease",
+    "resource": "transverse myelitis"
+  },
+  {
+    "name": "traumatic brain injury",
+    "group": "Disease",
+    "resource": "traumatic brain injury"
+  },
+  {
+    "name": "traveler's diarrhea",
+    "group": "Disease",
+    "resource": "traveler diarrhea"
+  },
+  {
+    "name": "trichinosis",
+    "group": "Disease",
+    "resource": "trichinosis"
+  },
+  {
+    "name": "trichomonal vulvovaginitis",
+    "group": "Disease",
+    "resource": "trichomonal vulvovaginitis"
+  },
+  {
+    "name": "trichomoniasis",
+    "group": "Disease",
+    "resource": "trichomoniasis"
+  },
+  {
+    "name": "trichuriasis",
+    "group": "Disease",
+    "resource": "trichuriasis"
+  },
+  {
+    "name": "tricuspid valve insufficiency",
+    "group": "Disease",
+    "resource": "tricuspid valve insufficiency"
+  },
+  {
+    "name": "tricuspid valve stenosis",
+    "group": "Disease",
+    "resource": "tricuspid valve stenosis"
+  },
+  {
+    "name": "tricyclic antidepressant overdose",
+    "group": "Disease",
+    "resource": "tricyclic antidepressant overdose"
+  },
+  {
+    "name": "trigeminal autonomic cephalalgia",
+    "group": "Disease",
+    "resource": "trigeminal autonomic cephalalgia"
+  },
+  {
+    "name": "trigeminal neuralgia",
+    "group": "Disease",
+    "resource": "trigeminal neuralgia"
+  },
+  {
+    "name": "trigger finger disorder",
+    "group": "Disease",
+    "resource": "trigger finger disorder"
+  },
+  {
+    "name": "trochanteric bursitis",
+    "group": "Disease",
+    "resource": "trochanteric bursitis"
+  },
+  {
+    "name": "tropical pulmonary eosinophilia",
+    "group": "Disease",
+    "resource": "tropical pulmonary eosinophilia"
+  },
+  {
+    "name": "tropical sprue",
+    "group": "Disease",
+    "resource": "tropical sprue"
+  },
+  {
+    "name": "tuberculosis",
+    "group": "Disease",
+    "resource": "tuberculosis"
+  },
+  {
+    "name": "tuberous sclerosis",
+    "group": "Disease",
+    "resource": "tuberous sclerosis"
+  },
+  {
+    "name": "tubulo-interstitial disease",
+    "group": "Disease",
+    "resource": "tubulo-interstitial disease"
+  },
+  {
+    "name": "tubulointerstitial nephritis",
+    "group": "Disease",
+    "resource": "tubulointerstitial nephritis"
+  },
+  {
+    "name": "tularemia",
+    "group": "Disease",
+    "resource": "tularemia"
+  },
+  {
+    "name": "tumor lysis syndrome",
+    "group": "Disease",
+    "resource": "tumor lysis syndrome"
+  },
+  {
+    "name": "turner syndrome",
+    "group": "Disease",
+    "resource": "turner syndrome"
+  },
+  {
+    "name": "typhoid fever",
+    "group": "Disease",
+    "resource": "typhoid fever"
+  },
+  {
+    "name": "typhus",
+    "group": "Disease",
+    "resource": "typhus"
+  },
+  {
+    "name": "typhus",
+    "group": "Disease",
+    "resource": "typhus"
+  },
+  {
+    "name": "ulcerative colitis",
+    "group": "Disease",
+    "resource": "ulcerative colitis"
+  },
+  {
+    "name": "ulnar nerve compression syndrome",
+    "group": "Disease",
+    "resource": "ulnar nerve compression syndrome"
+  },
+  {
+    "name": "ulnar nerve entrapment syndrome",
+    "group": "Disease",
+    "resource": "ulnar nerve entrapment syndrome"
+  },
+  {
+    "name": "unstable angina",
+    "group": "Disease",
+    "resource": "unstable angina"
+  },
+  {
+    "name": "upper gastrointestinal hemorrhage",
+    "group": "Disease",
+    "resource": "upper gastrointestinal hemorrhage"
+  },
+  {
+    "name": "uremia",
+    "group": "Disease",
+    "resource": "uremia"
+  },
+  {
+    "name": "uremic acidosis",
+    "group": "Disease",
+    "resource": "uremic acidosis"
+  },
+  {
+    "name": "urethral stricture",
+    "group": "Disease",
+    "resource": "urethral stricture"
+  },
+  {
+    "name": "urethritis",
+    "group": "Disease",
+    "resource": "urethritis"
+  },
+  {
+    "name": "urethrocele",
+    "group": "Disease",
+    "resource": "urethrocele"
+  },
+  {
+    "name": "urinary incontinence",
+    "group": "Disease",
+    "resource": "urinary incontinence"
+  },
+  {
+    "name": "urinary tract infection",
+    "group": "Disease",
+    "resource": "urinary tract infection"
+  },
+  {
+    "name": "urolithiasis",
+    "group": "Disease",
+    "resource": "urolithiasis"
+  },
+  {
+    "name": "urticaria",
+    "group": "Disease",
+    "resource": "urticaria"
+  },
+  {
+    "name": "uterine cancer",
+    "group": "Disease",
+    "resource": "uterine cancer"
+  },
+  {
+    "name": "uterine fibroleiomyoma",
+    "group": "Disease",
+    "resource": "uterine fibroleiomyoma"
+  },
+  {
+    "name": "uveitis",
+    "group": "Disease",
+    "resource": "uveitis"
+  },
+  {
+    "name": "vaginal cancer",
+    "group": "Disease",
+    "resource": "vaginal cancer"
+  },
+  {
+    "name": "vaginal fistula",
+    "group": "Disease",
+    "resource": "vaginal fistula"
+  },
+  {
+    "name": "vaginospasm",
+    "group": "Disease",
+    "resource": "vaginospasm"
+  },
+  {
+    "name": "varicella",
+    "group": "Disease",
+    "resource": "varicella"
+  },
+  {
+    "name": "varicocele",
+    "group": "Disease",
+    "resource": "varicocele"
+  },
+  {
+    "name": "varicose ulcer",
+    "group": "Disease",
+    "resource": "varicose ulcer"
+  },
+  {
+    "name": "varicose vein",
+    "group": "Disease",
+    "resource": "varicose vein"
+  },
+  {
+    "name": "vascular dementia",
+    "group": "Disease",
+    "resource": "vascular dementia"
+  },
+  {
+    "name": "vascular disorder",
+    "group": "Disease",
+    "resource": "vascular disorder"
+  },
+  {
+    "name": "vascular malformations, brain",
+    "group": "Disease",
+    "resource": "vascular malformations brain"
+  },
+  {
+    "name": "vascular myelopathy",
+    "group": "Disease",
+    "resource": "vascular myelopathy"
+  },
+  {
+    "name": "vasculitic neuropathy",
+    "group": "Disease",
+    "resource": "vasculitic neuropathy"
+  },
+  {
+    "name": "vasculitis",
+    "group": "Disease",
+    "resource": "vasculitis"
+  },
+  {
+    "name": "velocardiofacial syndrome",
+    "group": "Disease",
+    "resource": "velocardiofacial syndrome"
+  },
+  {
+    "name": "venezuelan equine encephalomyelitis",
+    "group": "Disease",
+    "resource": "venezuelan equine encephalomyelitis"
+  },
+  {
+    "name": "venous air embolism",
+    "group": "Disease",
+    "resource": "venous air embolism"
+  },
+  {
+    "name": "venous thrombosis",
+    "group": "Disease",
+    "resource": "venous thrombosis"
+  },
+  {
+    "name": "ventilator acquired pneumonia",
+    "group": "Disease",
+    "resource": "ventilator acquired pneumonia"
+  },
+  {
+    "name": "ventricular arrhythmia",
+    "group": "Disease",
+    "resource": "ventricular arrhythmia"
+  },
+  {
+    "name": "ventricular fibrillation",
+    "group": "Disease",
+    "resource": "ventricular fibrillation"
+  },
+  {
+    "name": "ventricular septal defect",
+    "group": "Disease",
+    "resource": "ventricular septal defect"
+  },
+  {
+    "name": "ventricular tachycardia",
+    "group": "Disease",
+    "resource": "ventricular tachycardia"
+  },
+  {
+    "name": "verruga peruana",
+    "group": "Disease",
+    "resource": "verruga peruana"
+  },
+  {
+    "name": "vertebral compression fracture",
+    "group": "Disease",
+    "resource": "vertebral compression fracture"
+  },
+  {
+    "name": "vesicoureteral reflux",
+    "group": "Disease",
+    "resource": "vesicoureteral reflux"
+  },
+  {
+    "name": "vestibular neuronitis",
+    "group": "Disease",
+    "resource": "vestibular neuronitis"
+  },
+  {
+    "name": "vipoma",
+    "group": "Disease",
+    "resource": "vipoma"
+  },
+  {
+    "name": "viral gastroenteritis",
+    "group": "Disease",
+    "resource": "viral gastroenteritis"
+  },
+  {
+    "name": "viral infection",
+    "group": "Disease",
+    "resource": "viral infection"
+  },
+  {
+    "name": "viral meningitis",
+    "group": "Disease",
+    "resource": "viral meningitis"
+  },
+  {
+    "name": "viral myocarditis",
+    "group": "Disease",
+    "resource": "viral myocarditis"
+  },
+  {
+    "name": "viral pneumonia",
+    "group": "Disease",
+    "resource": "viral pneumonia"
+  },
+  {
+    "name": "viral skin disease",
+    "group": "Disease",
+    "resource": "viral skin disease"
+  },
+  {
+    "name": "visceral leishmaniasis",
+    "group": "Disease",
+    "resource": "visceral leishmaniasis"
+  },
+  {
+    "name": "vitamin d deficiency",
+    "group": "Disease",
+    "resource": "vitamin d deficiency"
+  },
+  {
+    "name": "vitamin deficiency",
+    "group": "Disease",
+    "resource": "vitamin deficiency"
+  },
+  {
+    "name": "vitamin e deficiency",
+    "group": "Disease",
+    "resource": "vitamin e deficiency"
+  },
+  {
+    "name": "vitiligo",
+    "group": "Disease",
+    "resource": "vitiligo"
+  },
+  {
+    "name": "von hippel-lindau disease",
+    "group": "Disease",
+    "resource": "von hippel-lindau disease"
+  },
+  {
+    "name": "von willebrand disease",
+    "group": "Disease",
+    "resource": "von willebrand disease"
+  },
+  {
+    "name": "vulvar cancer",
+    "group": "Disease",
+    "resource": "vulvar cancer"
+  },
+  {
+    "name": "waldenstrom macroglobulinemia",
+    "group": "Disease",
+    "resource": "waldenstrom macroglobulinemia"
+  },
+  {
+    "name": "wart",
+    "group": "Disease",
+    "resource": "wart"
+  },
+  {
+    "name": "wernicke encephalopathy",
+    "group": "Disease",
+    "resource": "wernicke encephalopathy"
+  },
+  {
+    "name": "wernicke-korsakoff syndrome",
+    "group": "Disease",
+    "resource": "wernicke-korsakoff syndrome"
+  },
+  {
+    "name": "west nile fever encephalitis",
+    "group": "Disease",
+    "resource": "west nile fever encephalitis"
+  },
+  {
+    "name": "west nile virus disease",
+    "group": "Disease",
+    "resource": "west nile virus disease"
+  },
+  {
+    "name": "western equine encephalomyelitis",
+    "group": "Disease",
+    "resource": "western equine encephalomyelitis"
+  },
+  {
+    "name": "whiplash",
+    "group": "Disease",
+    "resource": "whiplash"
+  },
+  {
+    "name": "whipple disease",
+    "group": "Disease",
+    "resource": "whipple disease"
+  },
+  {
+    "name": "williams syndrome",
+    "group": "Disease",
+    "resource": "williams syndrome"
+  },
+  {
+    "name": "wilms tumor",
+    "group": "Disease",
+    "resource": "wilms tumor"
+  },
+  {
+    "name": "wilson disease",
+    "group": "Disease",
+    "resource": "wilson disease"
+  },
+  {
+    "name": "wiskott-aldrich syndrome",
+    "group": "Disease",
+    "resource": "wiskott-aldrich syndrome"
+  },
+  {
+    "name": "wolff-parkinson-white syndrome",
+    "group": "Disease",
+    "resource": "wolff-parkinson-white syndrome"
+  },
+  {
+    "name": "wrist injury",
+    "group": "Disease",
+    "resource": "wrist injury"
+  },
+  {
+    "name": "yellow fever",
+    "group": "Disease",
+    "resource": "yellow fever"
+  },
+  {
+    "name": "yersinia enterocolitica infection",
+    "group": "Disease",
+    "resource": "yersinia enterocolitica infection"
+  },
+  {
+    "name": "yersinia infection",
+    "group": "Disease",
+    "resource": "yersinia infection"
+  },
+  {
+    "name": "zenker diverticulum",
+    "group": "Disease",
+    "resource": "zenker diverticulum"
+  },
+  {
+    "name": "zika virus disease",
+    "group": "Disease",
+    "resource": "zika virus disease"
+  },
+  {
+    "name": "zollinger-ellison syndrome",
+    "group": "Disease",
+    "resource": "zollinger-ellison syndrome"
+  },
+  {
+    "name": "zoonosis",
+    "group": "Disease",
+    "resource": "zoonosis"
+  }
+]

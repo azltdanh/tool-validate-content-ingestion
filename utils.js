@@ -4,6 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const xml2js = require('xml2js');
 const request = require('request');
+const normalize = require('normalize-text');
 
 const outputPath = 'output';
 const JSESSIONID = 'B808847B17EA7A3E03AF24C2DD544C91';
@@ -32,7 +33,19 @@ const parseImsManifestResources = (xmlStr) => {
   });
 }
 
-const normalize = (array) => {
+const normalizeStr = (str) => {
+  const text = normalize.normalizeDiacritics(str)
+    .toLowerCase()
+    .replace(',', '')
+    .replace('\'s', '')
+    .replace('\'', '')
+    .replace('/', ' ')
+    .replace('_', ' ')
+    ;
+  return normalize.normalizeWhitespaces(text);
+}
+
+const normalizeArr = (array) => {
   return array.map(item => { return item.toLowerCase().trim() });
 };
 
@@ -224,15 +237,15 @@ const generateQuestionTopicMappingXML = (objQuestionTopics, bankInfo) => {
 };
 
 const generateTopicPageMappingXML = (arrTopics, prefix) => {
-  const tpmList = (arrTopics || []).map(topicName => {
+  const tpmList = (arrTopics || []).map(item => {
     return {
-      "resource": `/meded/api/topic/${topicName}`,
+      "resource": `/meded/api/topic/${item.resource}`,
       "description": '',
       "topics": [
         {
           "topic": {
-            "group": "Disease",
-            "name": topicName
+            "group": item.group,
+            "name": item.name
           }
         }
       ]
@@ -262,7 +275,8 @@ exports.utils = {
   getAbsolutePath,
   getImsManifestXML,
   parseImsManifestResources,
-  normalize,
+  normalizeStr,
+  normalizeArr,
   capitalize,
   isFileExistsWithCaseSync,
   saveCSV,
